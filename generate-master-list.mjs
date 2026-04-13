@@ -9,6 +9,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 
 const PIPELINE_PATH = 'data/pipeline.md';
+const SCRAPED_PATH = 'data/scraped-jobs.json';
 const OUT_MARKDOWN = 'batch/master-ranked-jobs.md';
 
 function escapeHtml(text) {
@@ -130,6 +131,28 @@ function parsePendingJobs(pipelineText) {
   }
 
   return rows;
+}
+
+function parseScrapedJobs() {
+  if (!existsSync(SCRAPED_PATH)) {
+    return [];
+  }
+
+  try {
+    const raw = JSON.parse(readFileSync(SCRAPED_PATH, 'utf-8'));
+    if (!Array.isArray(raw)) return [];
+
+    return raw
+      .map((row) => ({
+        url: String(row.url || '').trim(),
+        company: String(row.company || '').trim(),
+        title: String(row.title || '').trim(),
+      }))
+      .filter((row) => /^https?:\/\//i.test(row.url) && row.company && row.title);
+  } catch (err) {
+    console.warn(`Warning: could not parse ${SCRAPED_PATH}: ${err.message}`);
+    return [];
+  }
 }
 
 function normalizeSourceFields(job) {
@@ -459,7 +482,9 @@ function main() {
   }
 
   const pipelineText = readFileSync(PIPELINE_PATH, 'utf-8');
-  const parsed = parsePendingJobs(pipelineText).map(normalizeSourceFields);
+  const pipelineJobs = parsePendingJobs(pipelineText);
+  const scrapedJobs = parseScrapedJobs();
+  const parsed = [...pipelineJobs, ...scrapedJobs].map(normalizeSourceFields);
   const uniqueByUrl = dedupeByUrl(parsed);
   const semantic = dedupeSemantically(uniqueByUrl);
   const unique = semantic.rows;
@@ -968,6 +993,8 @@ function main() {
   console.log(`✅ HTML Dashboard generated: ${OUT_HTML}`);
   console.log(`Semantic duplicates removed: ${semantic.removed.length}`);
   console.log(`URL duplicates removed: ${parsed.length - uniqueByUrl.length}`);
+  console.log(`Pipeline rows parsed: ${pipelineJobs.length}`);
+  console.log(`Scraped rows parsed: ${scrapedJobs.length}`);
   console.log(`Total eligible jobs: ${eligible.length}`);
   console.log(`Primary tier: ${scored.filter((j) => j.bucket === 'primary').length}`);
   console.log(`Secondary tier: ${scored.filter((j) => j.bucket === 'secondary').length}`);

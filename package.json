@@ -1,0 +1,11 @@
+{
+  "name": "career-ops",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape-hk-jobs.mjs",
+    "rank": "node generate-master-list.mjs",
+    "refresh": "npm run scrape && npm run rank"
+  }
+}
