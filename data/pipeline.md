@@ -1,0 +1,4179 @@
+# Pipeline Inbox
+
+## Pendientes
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03 | ElevenLabs | Full-Stack Growth Engineer 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f | ElevenLabs | Full-Stack Engineer (Back-End Leaning)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde | ElevenLabs | Full-Stack Engineer (Front-End Leaning)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192 | ElevenLabs | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/deepgram/0796cc37-96a7-4158-8a00-155962da275a | Deepgram | Backend Software Engineer - Active Learning Team
+- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b | Deepgram | Backend Engineer- Inference Services
+- [ ] https://jobs.ashbyhq.com/deepgram/fb61505f-d3b3-4c43-90a7-6d02f3fd112d | Deepgram | Senior Software Engineer,  Mobile - Saga Team
+- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent)
+- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4710429101 | PolyAI | AI Software Engineer (Must be based in Serbia)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4658649101 | PolyAI | Senior Full Stack Engineer  (Must be based in UK)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4798772101 | PolyAI | Senior Software Engineer 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7276257 | Intercom | Senior Full Stack Engineer - Team Web
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5082494 | Intercom | Senior Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/b16462e4-ce32-4ce9-b788-0a8f0f096361 | Sierra | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3 | Sierra | Software Engineer, Platform
+- [ ] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd | Sierra | Software Engineer, Agent Architecture
+- [ ] https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e | Sierra | Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra | Software Engineer, Intelligence
+- [ ] https://jobs.ashbyhq.com/sierra/55e76105-7f8d-42e8-b1d1-120b7b83922e | Sierra | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96 | Sierra | Software Engineer, Agent (New Grad)
+- [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform
+- [ ] https://jobs.ashbyhq.com/sierra/3914e14a-2339-4d49-97e8-3a0de793cfb1 | Sierra | Software Engineer, Site Reliability (SRE)
+- [ ] https://jobs.ashbyhq.com/sierra/1bd9c1e7-a2aa-428d-9a31-1a4eed26391f | Sierra | Software Engineer, Voice
+- [ ] https://jobs.ashbyhq.com/sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20 | Sierra | Software Engineer, Agent Studio
+- [ ] https://jobs.ashbyhq.com/sierra/000dad19-ab52-4790-9c32-ef72dfd2828b | Sierra | Software Engineer, Demo Platform
+- [ ] https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f | Sierra | Software Engineer, Insights
+- [ ] https://jobs.ashbyhq.com/sierra/a0b9444b-2354-4db3-8fe8-87892e2e282e | Sierra | Software Engineer, Mobile
+- [ ] https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1 | Sierra | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4 | Sierra | Software Engineer, Identity & Enterprise Platform
+- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb | Lindy | Full Stack Software Engineer (Early Career)
+- [ ] https://jobs.ashbyhq.com/decagon/90c40e13-345e-4855-944e-c8f6b462a78e | Decagon | Senior Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/7a22482c-e2d4-45b6-b364-89b63189a4ae | Decagon | Senior Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/decagon/75f544ae-7838-4ffa-9e6b-33d7e2b6ea2b | Decagon | Senior Software Engineer, Agent Orchestration
+- [ ] https://jobs.ashbyhq.com/decagon/f7cee7ec-4b60-479d-9ae4-f7d8183f4ef3 | Decagon | Senior Software Engineer, Voice Agent
+- [ ] https://jobs.ashbyhq.com/decagon/03f56b39-866b-41b7-a805-9cf2e16373b9 | Decagon | Senior Software Engineer, Enterprise Product
+- [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | Decagon | Senior Software Engineer, Developer Platform
+- [ ] https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074 | Decagon | Senior Software Engineer, ML Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4598386005 | Glean | Lead Software Engineer, Product Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4581643005 | Glean | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4675862005 | Glean | Software Engineer, Billing & Revenue Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4638008005 | Glean | Software Engineer, Context Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005 | Glean | Software Engineer, Developer Productivity 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006733005 | Glean | Software Engineer, Frontend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4636739005 | Glean | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4436194005 | Glean | Software Engineer, Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4592324005 | Glean | Software Engineer, University Grad
+- [ ] https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066 | Cohere | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML - UK Public Sector
+- [ ] https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f | Cohere | Software Engineer, Collect
+- [ ] https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068 | Cohere | Software Engineer, Search Applications
+- [ ] https://jobs.ashbyhq.com/cohere/a5bbd015-65a9-48a1-aab1-b266bdbc9905 | Cohere | Senior Software Engineer, Security Agents
+- [ ] https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c | Cohere | Full-Stack Software Engineer, Inference
+- [ ] https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db | Cohere | Senior Software Engineer, Agent Infrastructure
+- [ ] https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d | LangChain | Python OSS Engineer 
+- [ ] https://jobs.ashbyhq.com/langchain/05efa205-8560-43fd-bfcc-3f7697561cfb | LangChain | JavaScript Engineer (Open Source Team) 
+- [ ] https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263 | LangChain | Senior Frontend Engineer, AI Observability & Evals Platform 
+- [ ] https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f | LangChain | Senior Backend Software Engineer, Observability & Evals Platform (LangSmith)
+- [ ] https://jobs.ashbyhq.com/langchain/6f32998b-111c-447b-b593-2b64c7de245d | LangChain | Senior Backend Engineer, Enterprise Readiness & Identity
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f | LangChain | Senior Backend Engineer, LangSmith Deployments
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4838230101 | Speechmatics | ML Platform Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4750378101 | Speechmatics | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101 | Speechmatics | Software Engineer - FutureVoices
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Senior Software Engineer, Trust & Safety
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5430088004 | Vercel | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5179639004 | Vercel | Software Engineer, CDN
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5473266004 | Vercel | Software Engineer, CDN Security
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5551619004 | Vercel | Software Engineer, Compute
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633880004 | Vercel | Software Engineer, Deployment Infrastructure
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004 | Vercel | Software Engineer, Domains
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8495850002 | Airtable | Software Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (2-8 YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400374002 | Airtable | Software Engineer, Observability
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397137002 | Airtable | Software Engineer, Product Frontend (2-8 YOE)
+- [ ] https://jobs.ashbyhq.com/attio/adcf5cd2-d86b-421d-9080-b6d9b30d08e7 | Attio | Senior Product Engineer [Frontend] 
+- [ ] https://jobs.ashbyhq.com/attio/0c324962-7ae8-4f1b-9eb4-2047babc4bd8 | Attio | Senior Product Engineer [Backend] 
+- [ ] https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad | Attio | Senior Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4142227008 | RunPod | Senior Software Engineer (Cloud) 
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack) 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/5064248008 | Hume AI | Senior Platform Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Quality Software Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098565008 | Anthropic | Senior Full Stack Engineer, Education
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108521008 | Anthropic | Senior Security Software Engineer, eBPF & Security Sensors
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5151066008 | Anthropic | Senior Software Engineer, Databases
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4641822008 | Anthropic | Senior Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Senior+ Software Engineer, Research Tools
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4915842008 | Anthropic | Senior Software Engineer, Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | Anthropic | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146261008 | Anthropic | Software Engineer, Billing Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982198008 | Anthropic | Software Engineer, Business Technology 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5168829008 | Anthropic | Software Engineer, Cloud Inference Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108982008 | Anthropic | Software Engineer, Compute Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980420008 | Anthropic | Software Engineer, Desktop
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic | Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111745008 | Anthropic | Software Engineer, Inference Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157844008 | Anthropic | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic | Software Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5083039008 | Anthropic | Software Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | Anthropic | Software Engineer, Sandboxing (Systems)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | Anthropic | Software Engineer, UI Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5152348008 | Anthropic | Sr. Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product 
+- [ ] https://jobs.ashbyhq.com/DeepL/4fe3ffe8-da25-4b84-addc-8dd06aba9e2e | DeepL | Senior Software Engineer | API
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7725939 | Contentful | Backend Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7553930 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544103 | Contentful | Platform Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7776562 | Contentful | Senior Backend Engineer - AI Platform (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7682062 | Contentful | Senior Platform Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7760962 | Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d)
+- [ ] https://getyourguide.careers/jobs/7734874?gh_jid=7734874 | GetYourGuide | Associate Software Engineer
+- [ ] https://getyourguide.careers/jobs/7526177?gh_jid=7526177 | GetYourGuide | Senior Software Engineer (Backend focused)
+- [ ] https://getyourguide.careers/jobs/7518806?gh_jid=7518806 | GetYourGuide | Senior Software Engineer (Backend focused) - Supply 
+- [ ] https://getyourguide.careers/jobs/7641281?gh_jid=7641281 | GetYourGuide | Senior Software Engineer, Revenue Platform (Backend Focused) 
+- [ ] https://getyourguide.careers/jobs/7581804?gh_jid=7581804 | GetYourGuide | Senior Software Engineer, Search Platform
+- [ ] https://getyourguide.careers/jobs/7607497?gh_jid=7607497 | GetYourGuide | Senior Software Engineer, User Profiles (Backend Focused) 
+- [ ] https://n26.com/en-eu/careers/positions/7656921?gh_jid=7656921 | N26 | Backend Engineer - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/7686804?gh_jid=7686804 | N26 | Lead Backend Engineer - Assistance 
+- [ ] https://n26.com/en-eu/careers/positions/7656918?gh_jid=7656918 | N26 | Senior Backend Engineer - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/7529780?gh_jid=7529780 | N26 | Senior Backend Engineer - Engagement 
+- [ ] https://n26.com/en-eu/careers/positions/7597686?gh_jid=7597686 | N26 | Senior Full-Stack Security Automation Engineer
+- [ ] https://traderepublic.com/en-de/about?jobId=6539149003&gh_jid=6539149003 | Trade Republic | Backend Engineer (Berlin)
+- [ ] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003 | Trade Republic | Backend Engineer (London)
+- [ ] https://traderepublic.com/en-de/about?jobId=6539038003&gh_jid=6539038003 | Trade Republic | Backend Engineer (Paris)
+- [ ] https://traderepublic.com/en-de/about?jobId=7685052003&gh_jid=7685052003 | Trade Republic | Senior Kafka Platform Engineer
+- [ ] https://traderepublic.com/en-de/about?jobId=7541899003&gh_jid=7541899003 | Trade Republic | Senior Platform Engineer – Developer Experience
+- [ ] https://traderepublic.com/en-de/about?jobId=6673504003&gh_jid=6673504003 | Trade Republic | (Senior) Platform Engineer (Go)
+- [ ] https://traderepublic.com/en-de/about?jobId=7685049003&gh_jid=7685049003 | Trade Republic | Senior PostgreSQL Platform Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822 | HelloFresh | Backend Engineer, Consumer
+- [ ] https://careers.hellofresh.com/global/en/job/7653839?gh_jid=7653839 | HelloFresh | Backend Engineer, Growth Alliance(m/f/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627 | HelloFresh | [HelloConnect] Product Data Analyst (SQL/Python)
+- [ ] https://careers.hellofresh.com/global/en/job/7364459?gh_jid=7364459 | HelloFresh | Senior Backend Engineer, Active Journey
+- [ ] https://careers.hellofresh.com/global/en/job/7618894?gh_jid=7618894 | HelloFresh | Senior Backend Engineer, Active Journey Alliance 
+- [ ] https://careers.hellofresh.com/global/en/job/7601774?gh_jid=7601774 | HelloFresh | Senior Backend Engineer, Cart 
+- [ ] https://careers.hellofresh.com/global/en/job/7641270?gh_jid=7641270 | HelloFresh | Senior Backend Engineer, Data
+- [ ] https://careers.hellofresh.com/global/en/job/7757845?gh_jid=7757845 | HelloFresh | Senior Backend Engineer, Deliveries and Orders
+- [ ] https://careers.hellofresh.com/global/en/job/7758211?gh_jid=7758211 | HelloFresh | Senior Backend Engineer, Deliveries & Orders (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7774546?gh_jid=7774546 | HelloFresh | Senior Backend Engineer, Finance Tech
+- [ ] https://careers.hellofresh.com/global/en/job/7668433?gh_jid=7668433 | HelloFresh | Senior Backend Engineer, Growth Alliance
+- [ ] https://careers.hellofresh.com/global/en/job/7618797?gh_jid=7618797 | HelloFresh | Senior Backend Engineer, Growth Alliance (f/m/x) 
+- [ ] https://careers.hellofresh.com/global/en/job/7404963?gh_jid=7404963 | HelloFresh | Senior Backend Engineer, Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7757846?gh_jid=7757846 | HelloFresh | Senior Backend Engineer - Plans Squad (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7686905?gh_jid=7686905 | HelloFresh | Senior Frontend Developer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7749527?gh_jid=7749527 | HelloFresh | Senior Frontend Engineer, Growth Alliance (f/m/x) 
+- [ ] https://careers.hellofresh.com/global/en/job/7757836?gh_jid=7757836 | HelloFresh | Senior React Native Engineer, Consumer Alliance
+- [ ] https://careers.hellofresh.com/global/en/job/7657409?gh_jid=7657409 | HelloFresh | Senior React Native Engineer, Growth Alliance
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7678804003?gh_jid=7678804003 | Celonis | Senior Software Engineer - Orchestration and Automation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7681601003?gh_jid=7681601003 | Celonis | Software Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7559335003?gh_jid=7559335003 | Celonis | Software Engineer - Java
+- [ ] https://jobs.ashbyhq.com/cradlebio/ae6e6352-28e5-4b2f-b1d9-da7da078f011 | Cradle | Backend Software Engineer, Python
+- [ ] https://jobs.ashbyhq.com/photoroom/1be71f55-fa9a-41db-9457-1323f4053795 | Photoroom | Senior Software Engineer (Rust) 
+- [ ] https://jobs.ashbyhq.com/photoroom/24a9293f-a090-4e35-8e79-4b51fbdf99c9 | Photoroom | Senior Python Engineer (FastAPI / Python)
+- [ ] https://helsing.ai/jobs/4737931101?gh_jid=4737931101 | Helsing | Software Engineer
+- [ ] https://helsing.ai/jobs/4741565101?gh_jid=4741565101 | Helsing | Software Engineer - Airborne Mission Systems
+- [ ] https://helsing.ai/jobs/4741571101?gh_jid=4741571101 | Helsing | Software Engineer - Autonomous Air Systems
+- [ ] https://helsing.ai/jobs/4741219101?gh_jid=4741219101 | Helsing | Software Engineer - Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4125061101?gh_jid=4125061101 | Helsing | Software Engineer - Backend
+- [ ] https://helsing.ai/jobs/4755014101?gh_jid=4755014101 | Helsing | Software Engineer - Embedded NixOS
+- [ ] https://helsing.ai/jobs/4126378101?gh_jid=4126378101 | Helsing | Software Engineer - Frontend
+- [ ] https://helsing.ai/jobs/4741224101?gh_jid=4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4741242101?gh_jid=4741242101 | Helsing | Software Engineer - Ground to Air HMI
+- [ ] https://helsing.ai/jobs/4729613101?gh_jid=4729613101 | Helsing | Software Engineer - Infrastructure
+- [ ] https://sumup.com/careers/positions/8497866002?gh_jid=8497866002 | SumUp | Backend engineer (Go)-  Payments Experience
+- [ ] https://sumup.com/careers/positions/8427119002?gh_jid=8427119002 | SumUp | Backend Engineer - Sales & Orders
+- [ ] https://sumup.com/careers/positions/8388972002?gh_jid=8388972002 | SumUp | Backend Engineer - Transfers 
+- [ ] https://sumup.com/careers/positions/8461784002?gh_jid=8461784002 | SumUp | Junior Backend Engineer (Golang) -  Payments Tribe
+- [ ] https://sumup.com/careers/positions/8468006002?gh_jid=8468006002 | SumUp | Senior AI Backend Engineer
+- [ ] https://sumup.com/careers/positions/8347094002?gh_jid=8347094002 | SumUp | (Senior) Backend Engineer 
+- [ ] https://sumup.com/careers/positions/8068262002?gh_jid=8068262002 | SumUp | Senior Backend Engineer
+- [ ] https://sumup.com/careers/positions/8418287002?gh_jid=8418287002 | SumUp | Senior Backend Engineer - Accounts 
+- [ ] https://sumup.com/careers/positions/8321240002?gh_jid=8321240002 | SumUp | Senior Backend Engineer - Fiscalization
+- [ ] https://sumup.com/careers/positions/8207403002?gh_jid=8207403002 | SumUp | (Senior) Backend Engineer - Global Bank
+- [ ] https://sumup.com/careers/positions/6651430002?gh_jid=6651430002 | SumUp | Senior Backend Engineer- Global Bank
+- [ ] https://sumup.com/careers/positions/8420739002?gh_jid=8420739002 | SumUp | Senior Backend Engineer (Global Bank Tribe)
+- [ ] https://sumup.com/careers/positions/8429621002?gh_jid=8429621002 | SumUp | Senior Backend Engineer - Golang
+- [ ] https://sumup.com/careers/positions/8454657002?gh_jid=8454657002 | SumUp | Senior Backend Engineer (Golang) - Bank 
+- [ ] https://sumup.com/careers/positions/8207386002?gh_jid=8207386002 | SumUp | (Senior) Backend Engineer (Golang) - Global Bank 
+- [ ] https://sumup.com/careers/positions/8494767002?gh_jid=8494767002 | SumUp | Senior Backend Engineer Go - Payments Reporting
+- [ ] https://sumup.com/careers/positions/8383464002?gh_jid=8383464002 | SumUp | Senior Backend Engineer - Transfers 
+- [ ] https://sumup.com/careers/positions/8429335002?gh_jid=8429335002 | SumUp | Senior Embedded QA Engineer
+- [ ] https://sumup.com/careers/positions/7556831002?gh_jid=7556831002 | SumUp | (Senior/Mid) Software Engineer, Golang - Payments Platform
+- [ ] https://sumup.com/careers/positions/8468000002?gh_jid=8468000002 | SumUp | Senior Software Engineer
+- [ ] https://sumup.com/careers/positions/8220352002?gh_jid=8220352002 | SumUp | Senior Software Engineer - Stablecoin
+- [ ] https://sumup.com/careers/positions/8345245002?gh_jid=8345245002 | SumUp | Software Engineer (Golang) - Online Payments
+- [ ] https://sumup.com/careers/positions/8468005002?gh_jid=8468005002 | SumUp | Software Engineer II
+- [ ] https://sumup.com/careers/positions/8343751002?gh_jid=8343751002 | SumUp | Software Engineer Java - Payouts
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7393559 | Scandit | Software Engineering Summer Job 2026
+- [ ] https://jobs.ashbyhq.com/synthesia/74f2a81d-0240-49f0-91bf-2f6d0850fc17 | Synthesia | Software Engineer, Back End - Video Generation (Tech Lead Level)
+- [ ] https://jobs.ashbyhq.com/synthesia/22a00ec6-ac40-4b87-97bc-a0f7bf724be7 | Synthesia | Software Engineer, Front End Leaning (Tech Lead level)
+- [ ] https://jobs.ashbyhq.com/synthesia/bf515974-3bab-46cb-85fd-5bacafcc1a91 | Synthesia | Software Engineer, Back End Leaning (Tech Lead Level)
+- [ ] https://jobs.ashbyhq.com/synthesia/b1f960fd-f07a-4788-8e5c-8a7c62c77fb2 | Synthesia | Software Engineer, Machine Learning
+- [ ] https://jobs.ashbyhq.com/synthesia/e1fedec8-ea12-4e7f-95e1-475b95dbd517 | Synthesia | Software Engineer, Front End Leaning (Accessibility)
+- [ ] https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b | Synthesia | Senior ML Platform Engineer
+- [ ] https://jobs.ashbyhq.com/causaly/b197dd4a-dded-4f35-ab09-3bf757b64d2a | Causaly | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/59ee3a48-389a-48db-9c0d-ddaf34b78586 | Faculty | Lead Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/8fdd616b-5d50-4c2b-aeff-0d4e90073ce8 | Faculty | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/91c88cf4-cf93-43da-8d02-01a4fc8d9da5 | Faculty | Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/67645c5e-abe8-434f-8013-f13e82259e81 | Faculty | Full Stack Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/b3c14108-5b60-492c-834f-0c1a03b399ba | Faculty | Senior Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/b534530a-e4ce-46a9-9978-13db0b4bca77 | Faculty | Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/ffb24889-b115-4f6e-8d69-cc385b95dac7 | Faculty | Platform Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/bc4c8367-bf20-4ddc-88f2-6252af73929b | Faculty | Senior Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/6af81a14-8524-4697-b82e-f76efc8b264d | Faculty | Software Engineer 
+- [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/e54d33ea-5f02-48b6-b75e-76ae704af693 | Lovable | Backend Product Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience
+- [ ] https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662 | Lovable | Software Engineer - Infrastructure
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789344101 | PhysicsX | Forward Deployed Applications - Senior Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4644847101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4815591101 | PhysicsX | Frontend Software Engineer - Simulation Workbench
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4719036101 | PhysicsX | Lead Forward Deployed Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4750017101 | PhysicsX | Senior Forward Deployed Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4824923101 | PhysicsX | Senior Frontend Software Engineer - Core Services
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789290101 | PhysicsX | Senior Software Engineer - AI Workbench 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101 | PhysicsX | Senior Software Engineer - Core Services 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804144101 | PhysicsX | Senior Software Engineer - Platform Operations
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804155101 | PhysicsX | Senior Software Engineer - Platform Runtime
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804130101 | PhysicsX | Senior Software Engineer - SRE Core Infrastructure
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4788997101 | PhysicsX | Software Engineer - AI Workbench 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4778556101 | PhysicsX | Software Engineer - Simulation Workbench
+- [ ] https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer
+- [ ] https://jobs.ashbyhq.com/legora/9a04bbd8-0583-48de-9606-431c01079b8b | Legora | Senior Full-Stack Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/f1ed20ac-add0-47f0-a6c5-2d6cf5149117 | Legora | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/legora/98e93c0a-b4c9-4083-8037-9c83a22e5bec | Legora | React Native Engineer
+- [ ] https://jobs.ashbyhq.com/legora/e1b04e64-3eff-4583-b083-dcebc754f80a | Legora | Senior Backend Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/243d0039-8e67-4203-9896-0cce8ced2e3a | Legora | Software Engineer (AI Focus)
+- [ ] https://jobs.ashbyhq.com/legora/bdf3cb67-6c60-4142-90f6-47a22657412d | Legora | Software Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/337179dc-c11e-4407-ae32-2f8bd91eba78 | Legora | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194 | Perplexity | Search Senior Backend/Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/f400c8b0-22aa-4952-b24c-4cacda96787e | Perplexity | Backend Software Engineer - Mobile 
+- [ ] https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184 | Perplexity | Backend Software Engineer - Search, Crawler Team 
+- [ ] https://jobs.ashbyhq.com/perplexity/8673866c-f624-4b58-b171-752cf003630e | Perplexity | Software Engineer - AI Platform
+- [ ] https://jobs.ashbyhq.com/perplexity/36afb111-5c9c-4aec-9066-a2beb6f25f4b | Perplexity | Frontend Engineer - Design Systems
+- [ ] https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03 | Perplexity | Software Engineer - Security
+- [ ] https://jobs.ashbyhq.com/perplexity/8e98cd9a-ef90-4e9b-9f4d-3d93f6e3a8fc | Perplexity | Full Stack Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261 | Perplexity | AI Software Engineer - Agents
+- [ ] https://jobs.ashbyhq.com/perplexity/9917ce6e-bd59-4d79-a8d2-ca47827bf9e2 | Perplexity | Full Stack Software Engineer - Growth
+- [ ] https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc | Perplexity | Software Engineer - Data Flywheel
+- [ ] https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8 | Perplexity | Backend Software Engineer 
+- [ ] https://jobs.ashbyhq.com/perplexity/f5bacc41-66d6-46cc-8a29-5dc6bf055bad | Perplexity | Full Stack Software Engineer 
+- [ ] https://jobs.ashbyhq.com/perplexity/911a7fa6-a2e2-4800-89d3-5f105a01556e | Perplexity | Full Stack Software Engineer - Finance
+- [ ] https://jobs.ashbyhq.com/perplexity/e7f59bee-4960-4b86-a0f5-b312cafd10bc | Perplexity | Software Engineer - Agentic Commerce 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584160004 | Isomorphic Labs | Cloud Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5539669004 | Isomorphic Labs | Senior Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837899004 | Isomorphic Labs | Senior Software Engineer, ML Platform (Stability & Infrastructure)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5561630004 | Isomorphic Labs | Software Engineer (Compute Infra), London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5749782004 | Isomorphic Labs | Software Engineer, Full Stack
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI)
+- [ ] https://jobs.ashbyhq.com/claylabs/045ce27d-8693-4402-86f6-2f09932cc777 | Clay Labs | Software Engineer, Full Stack
+- [ ] https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6 | Clay Labs | Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/claylabs/18a42bd0-5bff-4c8e-a403-fb79aad2c57b | Clay Labs | Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/claylabs/3940ea40-4c11-40f5-b710-d770c88d0f1b | Clay Labs | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/claylabs/b17bd432-72e4-4f03-b8db-2fd677c2cfe8 | Clay Labs | Senior Web Developer (Growth & Conversion Optimization)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101 | Amplemarket | Frontend Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101 | Amplemarket | Fullstack Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101 | Amplemarket | Senior Backend Software Engineer
+- [ ] https://jobs.ashbyhq.com/workos/f2674bd8-3062-4cf8-98fb-72cb81dc5d39 | WorkOS | Software Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/workos/07a7d732-ac5d-4aab-b4bf-ee89951660c2 | WorkOS | Software Engineer - Productivity
+- [ ] https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b | WorkOS | Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/supabase/2ed5e80d-438b-47a5-9efe-12d168b8de81 | Supabase | Software Engineer - Support Tooling (APAC/AMER)
+- [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer: Data
+- [ ] https://jobs.ashbyhq.com/supabase/8a49c4b3-a48b-4d6a-9c3c-36943fcd0dfb | Supabase | Software Engineer - Supavisor
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4620430004 | Hightouch |  Full Stack Product Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5426891004 | Hightouch | Software Engineer, Control Plane
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782625004 | Hightouch | Software Engineer, Customer Studio Backend
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782632004 | Hightouch | Software Engineer, Distributed Systems
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5698845004 | Hightouch | Software Engineer, Journeys
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5731011004 | Hightouch | Software Engineer, Streaming Systems
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4036240009 | PlanetScale | Software Engineer - Infrastructure
+- [ ] https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9 | Spotify | Backend Engineer  - Data Infrastructure
+- [ ] https://jobs.lever.co/spotify/1689082c-9265-431f-9e55-ef7666e41283 | Spotify | Backend Engineer - Advertising
+- [ ] https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525 | Spotify | Backend Engineer - Data Platform
+- [ ] https://jobs.lever.co/spotify/f542541d-3427-41fd-b7da-bf272bd8b755 | Spotify | Backend Engineer - Personalization
+- [ ] https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64 | Spotify | Backend Engineer - Platform
+- [ ] https://jobs.lever.co/spotify/31bf7d45-9448-413c-8f61-b69a8f636f82 | Spotify | Backend Engineer - Platform Developer Experience
+- [ ] https://jobs.lever.co/spotify/58860a10-4a0d-4a21-a495-1f3605b300c1 | Spotify | Backend Engineer - User Platform
+- [ ] https://jobs.lever.co/spotify/59973efb-2bd2-4315-87cb-633bdf48aae5 | Spotify | Backend Engineer I - User Fraud
+- [ ] https://jobs.lever.co/spotify/52fe2b49-3c85-4479-b1db-2c5ab74cbcfc | Spotify | Backend Engineer, Music
+- [ ] https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a | Spotify | Backend Engineer, Podcast
+- [ ] https://jobs.lever.co/spotify/b1f7eac7-40bd-47a9-8564-d2d4e4bf1062 | Spotify | Backend Engineer, Security
+- [ ] https://jobs.lever.co/spotify/361e8a26-1386-477f-bfd0-c819ba863be3 | Spotify | C++ Engineer - Platform Engineering
+- [ ] https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91 | Spotify | Frontend Engineer II - SRC - Music
+- [ ] https://jobs.lever.co/spotify/74c04c1a-afe8-4616-be68-ae452daed595 | Spotify | Full Stack Engineer
+- [ ] https://jobs.lever.co/spotify/4037c259-f999-4877-9171-afcdaaaff44d | Spotify | Senior Backend Engineer
+- [ ] https://jobs.lever.co/spotify/6b0128ab-edeb-494b-b747-25cb35af4b6a | Spotify | Senior Backend Engineer - Audiobooks
+- [ ] https://jobs.lever.co/spotify/cf2ab23e-8bb8-455c-9a49-a43cca51fb97 | Spotify | Senior Backend Engineer - CI Experience
+- [ ] https://jobs.lever.co/spotify/88b0a5ea-65d8-4c0c-8d1f-c30989ea5c16 | Spotify | Senior Backend Engineer - Commerce Platform
+- [ ] https://jobs.lever.co/spotify/4ce74372-9d9f-4fa1-86a3-9c96158a03c5 | Spotify | Senior Backend Engineer - Experimentation Platform
+- [ ] https://jobs.lever.co/spotify/2cd04b53-ecfc-4de1-8e12-eab125720520 | Spotify | Senior Backend Engineer - Subscriptions
+- [ ] https://jobs.lever.co/spotify/c7213c8c-e5e7-4b7b-a425-6ba90fc55efa | Spotify | Senior C++ Engineer - Platform Engineering
+- [ ] https://jobs.lever.co/spotify/827bfa7b-cc50-46d7-bdac-f642a14fe92b | Spotify | Senior Software Engineer - TV Playback (C++)
+- [ ] https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048 | Palantir | Backend Software Engineer
+- [ ] https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2 | Palantir | Backend Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c | Palantir | Backend Software Engineer - Defense
+- [ ] https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7 | Palantir | Backend Software Engineer - Infrastructure
+- [ ] https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c | Palantir | Backend Software Engineer - Infrastructure, Foundations
+- [ ] https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582 | Palantir | Embedded People Engineer
+- [ ] https://jobs.lever.co/palantir/06c7bd36-e24b-4f3a-8b45-1e846ae44095 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems
+- [ ] https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30 | Palantir | Forward Deployed Software Engineer - AUS Government
+- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2
+- [ ] https://jobs.lever.co/palantir/215bfcd6-c929-45ae-a11b-3fa59ed78025 | Palantir | Forward Deployed Software Engineer - France Government
+- [ ] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel
+- [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed
+- [ ] https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430 | Palantir | Forward Deployed Software Engineer - Japan Government
+- [ ] https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed
+- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge
+- [ ] https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government
+- [ ] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed
+- [ ] https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government
+- [ ] https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7 | Palantir | Full Stack Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc | Palantir | Platform Engineer - Identity and Access Management (IAM)
+- [ ] https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a | Palantir | Senior Backend Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652 | Palantir | Senior Backend Software Engineer - Infrastructure
+- [ ] https://jobs.lever.co/palantir/4e7d0732-f477-4c7a-aac9-abd62f8c9987 | Palantir | Senior Front End Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/88f8f593-af1f-4d27-9042-454c24a64d3f | Palantir | Senior Software Engineer - Autonomous Systems
+- [ ] https://jobs.lever.co/palantir/8a95dba1-b814-4243-be14-eba1df340ceb | Palantir | Senior Software Engineer - Observability
+- [ ] https://jobs.lever.co/palantir/39c57909-ae76-4c86-9290-9fb50c689c4f | Palantir | Senior Software Engineer, Network Infrastructure
+- [ ] https://jobs.lever.co/palantir/26176860-7b27-412a-9959-d8b8705acf53 | Palantir | Senior Software Engineer, Substrate
+- [ ] https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c | Palantir | Software Engineer - Apollo Platform
+- [ ] https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4 | Palantir | Software Engineer - Apollo Systems
+- [ ] https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc | Palantir | Software Engineer - Core Interfaces
+- [ ] https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410 | Palantir | Software Engineer - Defense Applications
+- [ ] https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15 | Palantir | Software Engineer - Developer Productivity
+- [ ] https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720 | Palantir | Software Engineer - Edge
+- [ ] https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497 | Palantir | Software Engineer - Environment Platform
+- [ ] https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540 | Palantir | Software Engineer - Frontend Developer Productivity
+- [ ] https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 | Palantir | Software Engineer, New Grad
+- [ ] https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4 | Palantir | Software Engineer, New Grad - Infrastructure
+- [ ] https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6 | Palantir | Software Engineer, New Grad - Production Infrastructure
+- [ ] https://jobs.lever.co/pigment/bf7cacad-0f52-4db4-88d4-ad7b22bd852e | Pigment | Senior Backend Software Engineer
+- [ ] https://jobs.lever.co/pigment/068f30f5-4343-4a85-ba52-a35ca2e2581f | Pigment | Senior Backend Software Engineer (UK)
+- [ ] https://jobs.lever.co/pigment/cb04a184-0756-461c-b4b3-58f779a82b09 | Pigment | Senior Frontend Engineer (UK)
+- [ ] https://jobs.lever.co/pigment/24e3e6d8-56a3-4917-acbe-ec85d0c8cf13 | Pigment | Senior Frontend Software Engineer
+- [ ] https://jobs.lever.co/pigment/d4f42533-dabb-49c5-9846-24abbb3f61d8 | Pigment | Senior Fullstack Software Engineer
+
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5431123004 | Vercel | Software Engineer, Backend
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4750405101 | Speechmatics | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834548101 | Speechmatics | Software Engineer - FutureVoices
+- [ ] https://jobs.ashbyhq.com/decagon/dc7c3b51-5be0-4890-a481-5bb200df48eb | Decagon | Senior Software Engineer, Enterprise Product
+- [ ] https://jobs.ashbyhq.com/decagon/762ee436-6acc-4700-9927-0e73d6dc4123 | Decagon | Senior Software Engineer, Agent Orchestration
+- [ ] https://jobs.ashbyhq.com/decagon/a4796fbc-b45c-4e1b-b1d2-1a17c0b4fa7a | Decagon | Senior Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/decagon/cd95c25c-fdb7-4816-8a31-6d75e86adbe0 | Decagon | Senior Software Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 | Glean | Software Engineer, Backend
+- [ ] https://jobs.ashbyhq.com/attio/a92d345f-da66-426a-93df-983939c6972b | Attio | Senior Product Engineer [Frontend] 
+- [ ] https://jobs.ashbyhq.com/attio/433cfa12-a43d-435e-9f69-8fb8688d1b10 | Attio | Senior Product Engineer [Backend] 
+- [ ] https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9 | Attio | Senior Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7686060 | Contentful | Backend Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557586 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7753183 | Contentful | Senior Backend Engineer - AI Platform (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7757968 | Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d)
+- [ ] https://n26.com/en-eu/careers/positions/7577884?gh_jid=7577884 | N26 | Senior Full-Stack Security Automation Engineer
+- [ ] https://getyourguide.careers/jobs/7738914?gh_jid=7738914 | GetYourGuide | Associate Software Engineer
+- [ ] https://sumup.com/careers/positions/7480776002?gh_jid=7480776002 | SumUp | Senior Backend Engineer
+- [ ] https://sumup.com/careers/positions/8418083002?gh_jid=8418083002 | SumUp | Senior Backend Engineer - Accounts 
+- [ ] https://sumup.com/careers/positions/8222274002?gh_jid=8222274002 | SumUp | Senior Backend Engineer - Fiscalization
+- [ ] https://sumup.com/careers/positions/7475989002?gh_jid=7475989002 | SumUp | Senior Backend Engineer (Global Bank Tribe)
+- [ ] https://sumup.com/careers/positions/8396347002?gh_jid=8396347002 | SumUp | Senior Backend Engineer - Golang
+- [ ] https://careers.hellofresh.com/global/en/job/7633956?gh_jid=7633956 | HelloFresh | Backend Engineer, Consumer
+- [ ] https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252 | Sierra | Software Engineer, Agent (New Grad)
+- [ ] https://jobs.ashbyhq.com/causaly/e8a169c8-687c-4562-be87-6ee7c87cdbfb | Causaly | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/bcf086b9-f8b5-491b-b9b9-73d8cd6e23e8 | Faculty | Lead Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/d27529f9-f917-4924-adb2-304cb097bfb2 | Faculty | Full Stack Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/20821b8b-1d11-4550-9d71-2a30ed56024e | Faculty | Senior Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/f1eddd06-ca92-4ad7-ad70-4ed15e41e366 | Faculty | Software Engineer
+- [ ] https://jobs.ashbyhq.com/legora/056d9fc6-431c-40b6-b6ff-3a147b23b5c8 | Legora | Senior Full-Stack Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/b0dcbd44-38c5-46fc-aa9a-610fe881fc1c | Legora | Senior Backend Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/ff97882a-40f2-47e7-818c-3191e7cd0b4f | Legora | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/legora/3fcdc6ba-e35f-470e-823e-7c4563c933a2 | Legora | Senior Software Engineer
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/df0d75c1-97ef-4e50-85e6-0ffd8f5b7d7c | Mistral AI | Research Platform Engineer - Paris/London
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer,  Frontend
+- [ ] https://jobs.lever.co/mistral/77b8339f-da37-4f38-b554-1d154f72ca8f | Mistral AI | Software Engineer, Backend (London)
+- [ ] https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823 | Mistral AI | Software Engineer, Backend (Paris)
+- [ ] https://jobs.lever.co/mistral/4db39406-fcec-4f12-abc1-42ecaa50d84f | Mistral AI | Software Engineer, Cloud Deployments
+- [ ] https://jobs.lever.co/mistral/31364497-4081-454a-b50c-12d15daf6876 | Mistral AI | Software Engineer, Deployment Infrastructure
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx
+- [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Software Engineer, DevOps, Research Platform
+- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents
+- [ ] https://jobs.lever.co/mistral/70d5293a-9183-40d9-874a-cc08a14d5de6 | Mistral AI | Software Engineer, Knowledge and Search
+- [ ] https://jobs.lever.co/mistral/03918386-cb56-4e4d-afa8-1f8b7676a4a6 | Mistral AI | Software Engineer, QA
+- [ ] https://jobs.lever.co/spotify/ed3ee1fc-5a6d-4557-a62c-c5ba18ee849d | Spotify | Backend Engineer - Platform Developer Experience
+- [ ] https://jobs.lever.co/spotify/ee5064af-0116-4ef2-994a-cb8fed580290 | Spotify | Backend Engineer, Music
+- [ ] https://jobs.lever.co/spotify/e4e76b28-3347-4749-91f9-0bcd61144de3 | Spotify | Senior Backend Engineer - CI Experience
+- [ ] https://jobs.lever.co/spotify/3b493d83-5f06-4483-af6f-f2c471fe06d8 | Spotify | Senior Backend Engineer - Subscriptions
+
+
+
+
+## Procesadas
+
+- [ ] https://hk.jobsdb.com/job/80556337 | Chevalier Group - Enterprise Automation Technology | Software Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91451057 | a passion | Analyst Programmer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91339262 | SmartHire by SEEK | Embedded Software Engineer (Welcome Fresh Graduates) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91459082 | Software Engineer (Graduate Hiring) Job in Hong Kong SAR | 404 Page Not Found
+- [ ] https://hk.jobsdb.com/job/91450773 | a passion | Analyst Programmer/Systems Analyst Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90902249 | ViuTV | Software Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91462506 | Pathsight Limited | Analyst Programmer / Senior Analyst Programmer up to 45k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91452106 | Water Oasis Co Ltd | Analyst Programmer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91462507 | passion | Programmer / Senior Programmer up to 30k (FG welcome) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91446588 | ATAL Engineering Ltd | Assistant Software Engineer (Ref: SDA/ASE) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91451031 | EDPS Systems Limited | Software Engineer (Full-Stack Developer) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91437585 | Hip Shing Hong (Holdings) Company Limited | System Analyst (AI Solutions) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91424458 | Teamwise Limited | Application Software Engineer/Senior Application Software Engineer Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/89732944 | Season Components Co Ltd | Software Engineer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91449036 | Kinetix Systems Ltd | System Analyst Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91396587 | Promise (Hong Kong) Co., Limited | System Analyst (1 yr contract, renewable) [Multiple Openings] Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91446722 | CL Technical Services Ltd. | Java Programmer / Software Developer ($33K - $48K) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91463174 | iCON Business Systems Ltd | Junior Developer - Cloud & AI Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91461261 | one thought in mind - | Application Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91422884 | Infocast Limited | Senior Programmer / Programmer (Back-End) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91463901 | Innocorn Technology Limited | Software Engineer (Summer Internship) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91446211 | in-depth experience in high-frequency trading and market making environments | Senior System Engineer - Prop Trading Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91415228 | quality coding and teamwork | Senior Programmer Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91441025 | power data-driven growth | Lead System Analyst Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91463407 | one thought in mind - | Quality Assurance Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91425840 | a massive scale within an international team environment | AI Full-Stack Developer (GenAI & React/Python) - J12732 Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91438959 | Nicoll Curtin Technology (HK) Limited | Systems Engineer - Financial Services Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/88528882 | GS Tech Company Limited | Senior Programmer / Programmer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91436934 | Geek Plus International Company Limited | System Consultant, APAC Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91116064 | Gen Square Limited | Junior Developer (React.js) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91392613 | Ikas International (Asia) Limited | Full Stack Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91451259 | Venus Solution Limited | Analyst Programmer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91286764 | scale across manufacturing | AI Platform Infra Architect (Welcome TTPS / IANG / QMAS candidates) Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91422151 | Oliver James Associates Limited | Full stack developer (web & mobile) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91427699 | career growth and comprehensive benefits in our collaborative team | Project Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91422349 | Shiji Information Technology (Hong Kong) Limited | Programmers / Analyst Programmer (Java) - Fresh Graduate Welcome Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91439489 | the aim of creating stunning websites | Web Designer (APAC) Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91446510 | Michael Page International (HK) Ltd | Web Developer - AI & Innovation Platform 33-60k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91422910 | Infocast Limited | Senior Programmer / Programmer (Full Stack, Java, ReactJS) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91423105 | strong reliability | Golang Engineer (35k-45k) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91419042 | tech | Forward Deployed Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91365157 | passion | Programmer / Senior Programmer up to 30k (FG welcome) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91453200 | Hong Kong Communications Company Limited | System Specialist Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91449797 | CITIC Telecom International Holdings Limited | Application Developer / Senior Application Developer (AI Agent Development) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91432941 | Universe Action Limited | Senior /Junior Java Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91450960 | MyTV Super Limited | Software Architect (AI-driven Development) Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91393330 | Furong Uptech Solution Co., Ltd | Application Developer(s) – (Frontend / Backend / Full-stack) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90889332 | OneAsia Network Limited | Delivery Engineer (IT) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91396483 | Promise (Hong Kong) Co., Limited | Senior System Engineer- DevOps [Multiple Openings] Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91462508 | Pathsight Limited | System Analyst / Senior System Analyst up to 65k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91452870 | P & A Consultant Limited | Frontend Developer X2 Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91451314 | Beyond Eternity Space Limited | Frontend Web Developer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91411239 | you’re interested in programming | 有學習熱誠的 Experienced / Junior PHP Programmer web developer (Full-time) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91399238 | PERSOL | Analyst Programmer (Government Sector, Web Programming/ A.I.) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91418341 | Streamlit & web app experience | Python Developer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91412087 | Manpower Services (Hong Kong) Limited | Senior Developer (Full Stack) (up to 85K) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91448848 | Arch Partnership Limited | Mobile Application Developer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91447615 | Tenth Revolution Group | Senior Mobile Developer (React Native) - Perm Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91447752 | HKBN JOS Limited (HKBNJOS) | System Analyst (Web Development) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91423871 | GraphQL integration | Project Associate / Project Assistant Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91389485 | React and java springboot | Junior System Analyst- React, Java Springboot (around HK32000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90778335 | ESD Services Limited (ESDlife) | Java Analyst Programmer/ Senior Developer (Digital Solutions) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91391315 | Nicoll Curtin Technology (HK) Limited | Rust Developer / Senior - Hong Kong Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91450664 | Recruit Logic Limited | Mobile Android/iOS Developer, fintech/finance (Leading iBank, Up to 80K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91415761 | iFAST Financial (HK) Limited | Digital Project Designer Trainee (Summer Internship) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91448164 | HKBN JOS Limited (HKBNJOS) | Application Developer (Cloud Application) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91425208 | PERSOL Hong Kong Limited | System Analyst Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91414476 | Watsons Water | Senior Developer/ Developer (eCommerce/ D365) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91413151 | Lingnan University | Analyst Programmer (at the rank of Senior Officer) (Post Ref.: 26/22) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91390033 | a team of young and energetic teammates | Senior Analyst Programmer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91421614 | Beyond Eternity Space Limited | System Analyst (Java / Golang) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91408886 | TEKsystems | Senior JAVA Developer - Large scale financial Service company Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91458412 | IT Solutions Ltd. | Cloud & Microservices: System Analyst / Analyst Programmer - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91385160 | PERSOL | Junior Java Developer (Java, Cloud) (FG are also Welcome) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91409699 | Capgemini Hong Kong Limited | Mainframe Storage Systems Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91387388 | business users | Senior Java Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91445517 | Citibank (Hong Kong) Limited | APAC Cash Equities Execution Platform - Product Developer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91410227 | Capgemini Hong Kong Limited | MVS Systems Programmers Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91389670 | java a must | Junior Java Developer- multi industry(around HK18000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91446455 | expanding financial investment | Business Analyst/ Junior/Trainee Analyst (NOT IT/Data) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91388920 | Popular e-Learning (H.K.) Limited | Junior AI Application Developer (Contract) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91413562 | The International Medical Company Limited | Junior Graphic Designer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91414160 | Optimum Solutions (Hong Kong) Limited | Electronic Trading- Application Support (1-3yrs experience) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91421901 | KOS International Limited | Junior Business System Specialist (Welcome Fresh Grad) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91437875 | Deloitte Touche Tohmatsu | Analyst/ Consultant/ Senior Consultant - Java Development - IES Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91437386 | Robert Walters (HK) Ltd | Low Code/Power Automate Developer - Up to 55K Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91462263 | Pathsight Limited | Account Servicing Executive (Fintech Software), Basic Salary up to 25K Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91198356 | candidate’s background | Senior Programmer (Data Warehouse) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91399529 | PERSOL | Analyst Programmer (Government Sector, Data/ A.I.) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91399673 | Happy Life Education Foundation Limited | Secondary School Computer Science Teacher Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91449500 | A&A Limited | Graduate Trainee – Digital Solutions (AI/ EdTech) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91425547 | drive their businesses | Senior C# Developer, Financial Systems & Reporting (Greenfield) - J12135 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91365158 | Pathsight Limited | Analyst Programmer / Senior Analyst Programmer up to 45k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91143972 | UDomain Web Hosting Co Ltd | AI Product Specialist (Fresh Graduates Welcome!) Job in Kwun Tong, Kwun Tong District
+- [ ] https://jobs.ctgoodjobs.hk/job/10062950/%e5%b0%87%e8%bb%8d%e6%be%b3popcorn%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa20k-sales-associate%e5%94%ae%e8%b2%a8%e5%93%a1-calvin-klein-underwear | Calvin Klein Underwear | (將軍澳PopCorn, 平均月薪$20K) Sales Associate 售貨員 - Calvin Klein Underwear - PVH Asia Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10060187/%e5%ae%a2%e6%88%b6%e6%9c%8d%e5%8b%99%e4%b8%bb%e4%bb%bb-customer-service-officer | Zhongke Health International (HK) Company Limited / | 客戶服務主任 Customer Service Officer - Zhongke Health International (HK) Company Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063905/account-manager-sales-manager | Shiji Information Technology (Hong Kong) Limited / | Account Manager / Sales Manager - Shiji Information Technology (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066348/senior-system-engineer-devops | 信報財經新聞有限公司 / | Senior System Engineer (DevOps) - 信報財經新聞有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10065539/concierge-officer | Goodwell Property Management Limited / | Concierge Officer - Goodwell Property Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065538/property-assistant | Goodwell Property Management Limited / | Property Assistant - Goodwell Property Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065537/property-officer-assistant-property-officer | Goodwell Property Management Limited / | Property Officer/ Assistant Property Officer - Goodwell Property Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065536/senior-property-officer | Goodwell Property Management Limited / | Senior Property Officer - Goodwell Property Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065541/assistant-recreation-officer-recreation-assistant | Goodwell Property Management Limited / | Assistant Recreation Officer / Recreation Assistant - Goodwell Property Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065624/site-nurse | China State Construction Engineering (Hong Kong) Limited / | Site Nurse - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065625/%e4%ba%8c%e7%b4%9a%e4%bf%9d%e5%81%a5%e5%93%a1%e7%ad%b2%e7%ae%95%e7%81%a3%e8%81%b7%e4%bd%8d%e7%b7%a8%e8%99%9f%ef%bc%9a-hwiiwwcrchct | 東華三院 Tung Wah Group of Hospitals / | 二級保健員 (筲箕灣) 職位編號： HWII/WWCRCH/CT - 東華三院 Tung Wah Group of Hospitals
+- [ ] https://jobs.ctgoodjobs.hk/job/10065622/technical-coordinator-architectural | China State Construction Engineering (Hong Kong) Limited / | Technical Coordinator (Architectural) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065621/assistant-contractor-labour-officer | China State Construction Engineering (Hong Kong) Limited / | (Assistant) Contractor Labour Officer - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065620/assistant-sales-manager-bim-construction-digitalisation-solutions-j18806 | BIM & Construction Digitalisation Solutions (J18806) | (Assistant) Sales Manager - BIM & Construction Digitalisation Solutions (J18806) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065619/drone-operator | China State Construction Engineering (Hong Kong) Limited / | Drone Operator - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065618/assistant-safety-officer-2026-intake | China State Construction Engineering (Hong Kong) Limited / | Assistant Safety Officer (2026 intake) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065617/contract-technical-assistant-%ef%bc%88building-services%ef%bc%89 | China State Construction Engineering (Hong Kong) Limited / | Contract Technical Assistant （Building Services） - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065616/general-foreman-deputy-general-foreman | China State Construction Engineering (Hong Kong) Limited / | General Foreman / Deputy General Foreman - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065615/software-sales-manager-digital-twin-smart-fm-lot-platform-j118613 | China State Construction Engineering (Hong Kong) Limited / | Software Sales Manager (Digital Twin, Smart FM & loT Platform) (J118613) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065614/ev-charger-energy-solutions-sales-manager-j18615 | China State Construction Engineering (Hong Kong) Limited / | EV Charger & Energy Solutions Sales Manager (J18615) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065613/em-sales-manager-electrical-mechanical-materials-mimep-j18614 | China State Construction Engineering (Hong Kong) Limited / | E&M Sales Manager (Electrical & Mechanical Materials, MiMEP) (J18614) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065612/assistant-sales-manager-%e2%80%93-contech-construction-technology-j18674 | China State Construction Engineering (Hong Kong) Limited / | (Assistant) Sales Manager – ConTech (Construction Technology) (J18674) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065611/engineer-%e7%b0%a1%e7%b4%84%e5%85%ac%e5%b1%8b | China State Construction Engineering (Hong Kong) Limited / | Engineer (簡約公屋) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065610/business-analysis-and-product-manager | China State Construction Engineering (Hong Kong) Limited / | Business Analysis and Product Manager - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065609/assistant-project-manager-%e2%80%93-smart-construction-site | China State Construction Engineering (Hong Kong) Limited / | (Assistant) Project Manager – Smart Construction Site - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065608/assistant-building-services-inspector-works-supervisor-bs | China State Construction Engineering (Hong Kong) Limited / | (Assistant) Building Services Inspector / Works supervisor (BS) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065607/building-services-engineer-assistant-building-services-engineer | China State Construction Engineering (Hong Kong) Limited / | Building Services Engineer / Assistant Building Services Engineer - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065606/engineer-assistant-engineer | China State Construction Engineering (Hong Kong) Limited / | Engineer / Assistant Engineer - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065605/commercial-manager-contracts-manager | China State Construction Engineering (Hong Kong) Limited / | Commercial Manager / Contracts Manager - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065604/assistant-foreman | China State Construction Engineering (Hong Kong) Limited / | Assistant Foreman - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065603/assistant-clerk-of-works-cecow | China State Construction Engineering (Hong Kong) Limited / | (Assistant) Clerk of Works (CE/COW) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065602/assistant-human-resources-officer | China State Construction Engineering (Hong Kong) Limited / | Assistant Human Resources Officer - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065601/contract-quality-control-supervisor | China State Construction Engineering (Hong Kong) Limited / | Contract Quality Control Supervisor - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065600/assistantsenior-building-services-inspector-cebsi | China State Construction Engineering (Hong Kong) Limited / | (Assistant/Senior) Building Services Inspector (CE/BSI) - China State Construction Engineering (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10062951/%e5%95%9f%e5%be%b7sogo%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa20k-sales-associate%e5%94%ae%e8%b2%a8%e5%93%a1-calvin-klein-jeans | Calvin Klein Jeans | (啟德Sogo, 平均月薪$20K) Sales Associate 售貨員 - Calvin Klein Jeans - PVH Asia Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10059870/%e5%a4%aa%e5%8f%a4%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa22k-senior-sales-associate%e8%b3%87%e6%b7%b1%e5%94%ae%e8%b2%a8%e5%93%a1-tommy-hilfiger | Tommy Hilfiger | (太古, 平均月薪$22K), Senior Sales Associate 資深售貨員 - Tommy Hilfiger - Tommy Hilfiger
+- [ ] https://jobs.ctgoodjobs.hk/job/10046471/%e9%87%91%e9%90%98%e5%a4%aa%e5%8f%a4%e5%bb%a3%e5%a0%b4%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa20k-sales-associate%e5%94%ae%e8%b2%a8%e5%93%a1-calvin-klein-underwear | Calvin Klein Underwear | (金鐘太古廣場, 平均月薪$20K) Sales Associate 售貨員 - Calvin Klein Underwear - PVH Asia Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10046894/%e6%97%ba%e8%a7%92-moko%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa%e5%8f%af%e9%81%9420k%e6%88%96%e4%bb%a5%e4%b8%8a-sales-associate%e5%94%ae%e8%b2%a8%e5%93%a1-tommy-hilfiger | Tommy Hilfiger | (旺角 Moko 平均月薪可達$20K或以上), Sales Associate 售貨員 - Tommy Hilfiger - Tommy Hilfiger
+- [ ] https://jobs.ctgoodjobs.hk/job/10045933/%e6%b2%99%e7%94%b0%e5%b9%b3%e5%9d%87%e6%9c%88%e8%96%aa20k-sales-associate%e5%94%ae%e8%b2%a8%e5%93%a1-calvin-klein-jeans | Calvin Klein Jeans | (沙田, 平均月薪$20K) Sales Associate 售貨員 - Calvin Klein Jeans - PVH Asia Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10059045/adidas-%e5%b0%88%e9%96%80%e5%ba%97-full-time-sales-associate%e5%85%a8%e8%81%b7%e5%ba%97%e5%8b%99%e5%93%a1%e5%b7%a5%e4%bd%9c%e5%9c%b0%e9%bb%9e%ef%bc%9a%e5%b0%87%e8%bb%8d%e6%be%b3 | 太古資源有限公司 / | Adidas專門店 Full Time Sales Associate 全職店務員 *工作地點：將軍澳* - 太古資源有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10060265/%e7%9f%ad%e6%9c%9f%e5%94%ae%e8%b2%a8%e5%93%a1-part-time-sales%e9%8a%85%e9%91%bc%e7%81%a3%e5%95%9f%e5%be%b7sogo%e6%84%9f%e8%ac%9d%e7%a5%ad%e6%99%82%e8%96%aa70 | 銅鑼灣/ 啟德SOGO感謝祭 (時薪$70) | 短期售貨員 Part-Time Sales - 銅鑼灣/ 啟德SOGO感謝祭 (時薪$70) - Agnes b. HK Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10052837/retail-shop-sales-associates-%e5%85%a8%e8%81%b7%e5%85%bc%e8%81%b7%e5%94%ae%e8%b2%a8%e5%93%a1%e5%b0%88%e6%a5%ad%e5%85%a7%e8%a1%a3%e9%a1%a7%e5%95%8f | 莎娜美 SATAMI / | Retail Shop Sales Associates 全職/兼職售貨員/專業內衣顧問 - 莎娜美 SATAMI
+- [ ] https://jobs.ctgoodjobs.hk/job/10066378/%e5%85%bc%e8%81%b7%e5%94%ae%e8%b2%a8%e5%93%a1-part-time-sales | Bape Hong Kong Limited / | 兼職售貨員 Part Time Sales - Bape Hong Kong Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10053365/part-time-sales-%e5%85%bc%e8%81%b7%e5%94%ae%e8%b2%a8%e5%93%a1-sogo%e9%8a%85%e9%91%bc%e7%81%a3-causeway-bay | SOGO 銅鑼灣 Causeway Bay | Part Time Sales 兼職售貨員 - SOGO 銅鑼灣 Causeway Bay - Yamato Shoes Company Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10057565/%e5%85%a8%e8%81%b7%e5%94%ae%e8%b2%a8%e5%93%a1-full-time-sales%e6%b8%af%e4%b9%9d%e6%96%b0%e7%95%8c | Skechers Hong Kong Limited / | 全職售貨員 Full Time Sales (港九新界) - Skechers Hong Kong Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063118/sales-executive-sales-manager | Horizon Construction Overseas (Hong Kong) Limited / | Sales Executive / Sales Manager - Horizon Construction Overseas (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063265/%e5%93%81%e7%89%8c%e7%87%9f%e6%a5%ad%e4%bb%a3%e8%a1%a8%e8%b3%87%e6%b7%b1%e5%93%81%e7%89%8c%e7%87%9f%e6%a5%ad%e4%bb%a3%e8%a1%a8%e5%93%81%e7%89%8c%e7%87%9f%e6%a5%ad%e4%b8%bb%e7%ae%a1-senior-sales-associate-sales-associate | Lalique Asia Limited / | 品牌營業代表/資深品牌營業代表/品牌營業主管 Senior Sales Associate / Sales Associate - Lalique Asia Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10060874/wealth-management-manager-management-trainee-financial-planning-%e7%95%a2%e6%a5%ad%e7%94%9f%e5%84%aa%e5%85%88%e7%84%a1%e7%9b%b8%e9%97%9c%e7%b6%93%e9%a9%97%e8%a6%81%e6%b1%82 | AIA International Limited / | Wealth Management Manager /Management Trainee, Financial Planning (畢業生優先 /無相關經驗要求) - AIA International Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10064243/%e9%9b%bb%e8%a9%b1%e9%8a%b7%e5%94%ae%e4%b8%bb%e4%bb%bb%e6%af%8b%e9%a0%88cold-call-3%e5%80%8b%e6%9c%88%e5%8c%85%e4%bd%a3 | HKT Services Limited / | 電話銷售主任 (毋須Cold Call, 3個月包佣) - HKT Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063119/sales-engineer-sales-manager-metal-scaffolding | Horizon Construction Overseas (Hong Kong) Limited / | Sales Engineer / Sales Manager (metal scaffolding) - Horizon Construction Overseas (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10054383/sales-manager-sales-executive | YONYOU (HONGKONG) COMPANY LIMITED / | Sales Manager / Sales Executive - YONYOU (HONGKONG) COMPANY LIMITED
+- [ ] https://jobs.ctgoodjobs.hk/job/10062632/sales-executive-%e9%8a%b7%e5%94%ae%e4%bb%a3%e8%a1%a8 | PrimeCredit Limited / | Sales Executive (銷售代表) - PrimeCredit Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065256/sales-executive | Regent Hong Kong / | Sales Executive - Regent Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10054347/sales-executive-sales-manager | San J Jewellery Limited / | Sales Executive/ Sales Manager - San J Jewellery Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10057269/sales-executive | Forida Limited / | Sales Executive - Forida Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10055067/sales-officers-sales-executives | Logan Group Company Limited / | Sales Officers / Sales Executives - Logan Group Company Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10056347/sales-executive-b2b-team | AS Watson Industries / | Sales Executive (B2B Team) - AS Watson Industries
+- [ ] https://jobs.ctgoodjobs.hk/job/10065158/senior-project-manager-senior-technical-support-engineer-mj002134 | GRG Banking Equipment (HK) Co., Ltd. / | Senior Project Manager/ Senior Technical Support Engineer (MJ002134) - GRG Banking Equipment (HK) Co., Ltd.
+- [ ] https://jobs.ctgoodjobs.hk/job/10066071/%e9%ab%98%e7%b4%9a%e6%b4%bb%e5%8b%95%e5%b9%b9%e4%ba%8b-ss1-spw-sw-jc | Christian Family Service Centre基督教家庭服務中心 / | 高級活動幹事 SS1-SPW-SW-JC - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10060864/night-manager | Hyatt Regency Hong Kong, Sha Tin / | Night Manager - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10062856/it-architecture | Chong Hing Bank / | IT Architecture - Chong Hing Bank
+- [ ] https://jobs.ctgoodjobs.hk/job/10054359/maintenance-service-manager | Hong Kong Logistics Technology & Systems Limited / | Maintenance Service Manager - Hong Kong Logistics Technology & Systems Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063279/field-support-engineer-day-shift | Roctec Technology Limited / | Field Support Engineer (Day Shift) - Roctec Technology Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066216/senior-system-engineer-pos-30-40k | Swing Consulting Limited / | Senior System Engineer (POS, 30-40K) - Swing Consulting Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10056651/technical-applications-engineer-solutions-services | GE Vernova / | Technical Applications Engineer (Solutions & Services) - GE Vernova
+- [ ] https://jobs.ctgoodjobs.hk/job/10053086/technical-service-engineer-hk-dhl | HK DHL | Technical Service Engineer - HK DHL - BEUMER Group
+- [ ] https://jobs.ctgoodjobs.hk/job/10062020/senior-railway-system-engineer | SYSTRA Canada / | Senior Railway System Engineer - SYSTRA Canada
+- [ ] https://jobs.ctgoodjobs.hk/job/10060884/assistant-manager-senior-engineer-engineer-service-field | Otis Elevator Co (HK) Limited / | Assistant Manager/ Senior Engineer/ Engineer, Service Field - Otis Elevator Co (HK) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065193/housekeeping-supervisor-floor-supervisor | Le Meridien Hong Kong, Cyberport / | Housekeeping Supervisor / Floor Supervisor - Le Meridien Hong Kong, Cyberport
+- [ ] https://jobs.ctgoodjobs.hk/job/10063906/pms-implementation-engineer | Shiji Information Technology (Hong Kong) Limited / | PMS Implementation Engineer - Shiji Information Technology (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066065/%e5%ae%b6%e5%b1%85%e7%85%a7%e9%a1%a7%e5%93%a1%e5%85%a8%e8%81%b7%e5%85%bc%e8%81%b7-ss2-hcw-idsp | Christian Family Service Centre基督教家庭服務中心 / | 家居照顧員(全職/兼職) SS2-HCW-IDSP - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10065674/arbor-chef-de-partie-demi-chef-de-partie-michelin-2-star-restaurant-i-5-day | Arbor / | ARBOR Chef de Partie / Demi Chef de Partie (Michelin 2-Star Restaurant) I 5-day - Arbor
+- [ ] https://jobs.ctgoodjobs.hk/job/10054662/hygiene-officer | Le Meridien Hong Kong, Cyberport / | Hygiene Officer - Le Meridien Hong Kong, Cyberport
+- [ ] https://jobs.ctgoodjobs.hk/job/10044543/housekeeping-supervisor-floor-supervisor | Le Meridien Hong Kong, Cyberport / | Housekeeping Supervisor / Floor Supervisor - Le Meridien Hong Kong, Cyberport
+- [ ] https://jobs.ctgoodjobs.hk/job/10052404/housekeeping-supervisor | St. Teresa's Hospital / | Housekeeping Supervisor - St. Teresa's Hospital
+- [ ] https://jobs.ctgoodjobs.hk/job/10054008/room-attendant-%e6%88%bf%e5%8b%99%e5%93%a1%e7%a9%ba%e7%bc%ba%e7%b7%a8%e8%99%9f-50254 | Hyatt Centric Victoria Harbour Hong Kong / | Room Attendant 房務員 [空缺編號: 50254] - Hyatt Centric Victoria Harbour Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10055262/housekeeping-coordinator-5-day-work | The Mira Hong Kong / | Housekeeping Coordinator (5-day work) - The Mira Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10065285/floor-supervisor | Regent Hong Kong / | Floor Supervisor - Regent Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10062784/housekeeping-supervisor-5-days | Hilton Garden Inn Hong Kong Mongkok / | Housekeeping Supervisor (5 Days) - Hilton Garden Inn Hong Kong Mongkok
+- [ ] https://jobs.ctgoodjobs.hk/job/10054535/floor-supervisor | Dorsett Kai Tak, Hong Kong / | Floor Supervisor - Dorsett Kai Tak, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10059028/housekeeping-supervisor-%e6%88%bf%e5%8b%99%e9%83%a8%e7%9d%a3%e5%b0%8e-25k | Hyatt Centric Victoria Harbour Hong Kong / | Housekeeping Supervisor 房務部督導 ($25K) - Hyatt Centric Victoria Harbour Hong Kong
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Staff_Software_Engineer_Rust_Cross-Platform.id23954766 | OKX | Staff Software Engineer, Rust (Cross-Platform)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer_Mobile_-_iOS.id23954764 | Software Engineer Mobile | Software Engineer Mobile - iOS
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer_Mobile_-_Android.id23954763 | Software Engineer Mobile | Software Engineer Mobile - Android
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer_-_HPC_Research_Platform_-_Elite_Global_Hedge_Fund_-_Python__Golang__Distributed_Systems_-_Hong_Kong.id23721954 | Python / Golang / Distributed Systems | ***Software Engineer - HPC Research Platform - Elite Global Hedge Fund - Python / Golang / Distributed Systems - Hong Kong***
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer.id24108767 | TEKsystems Hong Kong | Software Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Low_Latency_Exchange_Connectivity_Software_Engineer_Vice_President.id24070010 | Citi | Senior Low Latency Exchange Connectivity Software Engineer (Vice President)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer.id24064274 | Jane Street | Software Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer_%E2%80%93_Quantitative_Trading_Systems_APAC_Relocation_Available.id24001276 | Tribus | Software Engineer – Quantitative Trading Systems (APAC Relocation Available)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Relocate_to_APAC__Software_Engineers_Quant_Researchers__Technologists.id24001129 | Tribus | Relocate to APAC / Software Engineers, Quant Researchers & Technologists
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Software_Engineer_Developer_Full_Stack_-_Toptier_MNC.id23879836 | Senior Software Engineer Developer (Full Stack) | Sorry, we are currently offline
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Software_Engineer_-_High_Frequency_Trading_C.id24020041 | Senior Software Engineer | Senior Software Engineer - High Frequency Trading (C++)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Software_Engineer.id23725157 | Jane Street | Software Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Low_Latency_Electronic_Trading_Software_Engineer_Vice_President.id24008330 | Citi | Senior Low Latency Electronic Trading Software Engineer (Vice President)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Vice_President_Algorithmic_Trading_C_Software_Engineer_-_IST.id23991253 | Vice President, Algorithmic Trading C++ Software Engineer | Vice President, Algorithmic Trading C++ Software Engineer - IST
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-INVESTMENT_MANAGER_%E2%80%93_VENTURE_CAPITAL__PRIVATE_EQUITY_Based_in_Hong_Kong_or_China.id23607511 | Recruitment Intelligence Consultants Limited | INVESTMENT MANAGER – VENTURE CAPITAL / PRIVATE EQUITY (Based in Hong Kong or China)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Assistant_Relationship_Manager_Financial_Intermediaries.id24108736 | Bank of Singapore | Assistant Relationship Manager (Financial Intermediaries)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Global_TMT_Analyst__Star_PM_at_Global_LS_Equity_Hedge_Fund.id24111702 | Selby Jennings | Global TMT Analyst / Star PM at Global L/S Equity Hedge Fund
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Assistant_Manager_to_Assistant_Vice_President_RM_Overseas_Sovereign_Business.id24110939 | Industrial and Commercial Bank of China (Asia) Limited | Assistant Manager to Assistant Vice President (RM), Overseas Sovereign Business
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Frontend_Dev.id24104462 | BAH Partners | Frontend Dev
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Web_DeveloperFront_End.id24094391 | Michael Page | Web Developer(Front End)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Frontend_Developer_React_JS_Stencil_JS_GraphQL-_50-65k.id23985266 | Michael Page | Frontend Developer (React JS, Stencil JS, GraphQL)- 50-65k
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-Boston-Software_Engineer_Frontend-Focused_Full_Stack.id24113220 | eFinancialCareers | Software Engineer (Frontend-Focused Full Stack)
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Frontend_Software_Engineer.id24076844 | eFinancialCareers | Frontend Software Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-India-New_Delhi-Jr_FrontEnd_Engineer.id24112243 | eFinancialCareers | Jr. FrontEnd Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-New_York-Software_Engineer_II_Frontend_Purchasing_Integrations.id24110363 | eFinancialCareers | Software Engineer II, Frontend (Purchasing Integrations)
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-San_Francisco-Senior_Software_Engineer_Frontend.id24110032 | eFinancialCareers | Senior Software Engineer, Frontend
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-New_York-Senior_Software_Engineer_Frontend.id24110019 | eFinancialCareers | Senior Software Engineer, Frontend
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-Seattle-Senior_Software_Engineer_Frontend.id24109538 | eFinancialCareers | Senior Software Engineer, Frontend
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-Belfast_City-Senior_AI_Frontend_Engineer_Developer_Productivity_VP.id24069258 | eFinancialCareers | Senior AI Frontend Engineer (Developer Productivity), VP
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Munich-Tech_Lead_Frontend_Entwicklung_mwd.id24114190 | eFinancialCareers | Tech Lead Frontend Entwicklung (m/w/d)
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-D%C3%BCsseldorf-Senior-_Frontend-Developer_Angular_mwd.id24091005 | eFinancialCareers | (Senior-) Frontend-Developer Angular (m/w/d)
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-D%C3%BCsseldorf-Senior_Frontend_Entwickler_in_Angular_mit_Java_Erfahrung_mwd.id24114225 | eFinancialCareers | (Senior) Frontend Entwickler in Angular mit Java Erfahrung (m/w/d)
+- [ ] https://www.efinancialcareers.hk/jobs-Singapore-Singapore-Frontend_Developer_Python__JavaScript.id24104459 | eFinancialCareers | Frontend Developer (Python + JavaScript)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Backend_Engineer_-_Python__NodeJS_-_Fully_Remote.id23790585 | Python & Node.JS | Backend Engineer - Python & Node.JS - Fully Remote
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Manager_Backend_Technology_Delivery.id23555477 | FWD Group Management Holdings Limited | Senior Manager, Backend Technology Delivery
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Munich-Senior_Backend__DevOps_Engineer_mfd.id24114200 | eFinancialCareers | Senior Backend & DevOps Engineer (m/f/d)
+- [ ] https://www.efinancialcareers.hk/jobs-India-Chennai-Senior_Software_Engineer_-_Backend.id24115967 | Senior Software Engineer | Senior Software Engineer - Backend
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Backend_Engineer_-_Hold_team.id24113141 | Backend Engineer | Backend Engineer - Hold team
+- [ ] https://www.efinancialcareers.hk/jobs-United_Arab_Emirates-Abu_Dhabi-Backend_Engineer_-_Python.id23991406 | Backend Engineer | Backend Engineer - Python
+- [ ] https://www.efinancialcareers.hk/jobs-Ireland-Dublin-Backend_Engineer_Core_Technology.id24112587 | eFinancialCareers | Backend Engineer, Core Technology
+- [ ] https://www.efinancialcareers.hk/jobs-India-New_Delhi-Sr_Backend_Engineer.id24112268 | eFinancialCareers | Sr. Backend Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-New_York-Software_Engineer_II_Backend_Payments.id24109035 | eFinancialCareers | Software Engineer II (Backend), Payments
+- [ ] https://www.efinancialcareers.hk/jobs-India-Bangalore-Lead_Backend_Engineer_-_Vice_President_-Software_Engineering.id24108392 | Lead Backend Engineer | Lead Backend Engineer - Vice President -Software Engineering
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Senior_Backend_Engineer_-_Greenfield_Fintech_Buildout.id24108553 | Senior Backend Engineer | Senior Backend Engineer - Greenfield Fintech Buildout
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-New_York-Software_Engineer_I_Backend_Purchasing_Power_Experience.id24110160 | eFinancialCareers | Software Engineer I, Backend (Purchasing Power Experience)
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-Belfast_City-Data_Security_Backend_Engineer_-_Java_UI_Development.id24111548 | Data Security Backend Engineer | Data Security Backend Engineer - Java/ UI Development
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Munich-Lead_Backend_Engineer_mfd.id24097075 | eFinancialCareers | Lead Backend Engineer (m/f/d)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Full_Stack_Developer.id24000676 | IO Tech Solutions | Senior Full Stack Developer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Full_Stack_AI_Developer_-_Global_AI_FinTech_Firm_-_Hong_Kong.id23444697 | Global AI FinTech Firm | Full Stack AI Developer - Global AI FinTech Firm - Hong Kong
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-HK_Full_Stack_Developer_12_months_contract.id23973607 | Hays | [HK] Full Stack Developer (12 months contract)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Full_Stack_Developer_-_Private_Banking.id23640747 | Full Stack Developer | Full Stack Developer - Private Banking
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Manager_Full_Stack_Developer.id24064379 | FWD Group Management Holdings Limited | Senior Manager, Full Stack Developer
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full_Stack_Developer-_Innovative_Algo_Trading.id23991027 | eFinancialCareers | Full Stack Developer- Innovative Algo Trading
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full-Stack_Product_Engineer-_Innovative_AI_Start-Up.id23991048 | eFinancialCareers | Full-Stack Product Engineer- Innovative AI Start-Up
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full-Stack_Product_Engineer-_Innovative_AI_Start-Up.id23991049 | eFinancialCareers | Full-Stack Product Engineer- Innovative AI Start-Up
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full_Stack_Developer-_Tech-Driven_Algorithmic_Fund.id24078064 | eFinancialCareers | Full Stack Developer- Tech-Driven Algorithmic Fund
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full_Stack_Software_Engineer-_World-Leading_Multi-Strategy_Hedge_Fund.id24078038 | eFinancialCareers | Full Stack Software Engineer- World-Leading Multi-Strategy Hedge Fund
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-Charlottesville-Senior_Full_Stack_NET_Engineer.id24000664 | eFinancialCareers | Senior Full Stack .NET Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-Reston-Full_Stack_Engineer_React_Node_AWS_-_Remote.id24113514 | Full Stack Engineer (React, Node, AWS) | Full Stack Engineer (React, Node, AWS) - Remote
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-McLean-Senior_Lead_Software_Engineer_Full_Stack_Cyber.id24113812 | eFinancialCareers | Senior Lead Software Engineer, Full Stack (Cyber)
+- [ ] https://hk.linkedin.com/jobs/view/frontend-web-developer-open-to-fresh-graduates-at-ex-io-4296421451 | EX.IO | EX.IO hiring Frontend Web Developer (Open to Fresh Graduates) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-full-stack-at-wizpresso-%E6%BF%83%E8%AA%AA-3813426261 | https://wizpresso | Wizpresso 濃說 hiring Software Engineer, Full-Stack in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-developer-i-full-stack-backend-at-wati-4336363751 | Wati | Wati hiring Software Developer I (Full Stack / Backend) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-avista-group-4311089405 | AVISTA GROUP | AVISTA GROUP hiring Software Engineer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88-kotlin-hk-at-kody-4389472961 | (HK) in Hong Kong, Hong Kong SAR / | Kody hiring 后端工程师 (Kotlin) - (HK) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-internship-at-uhey-limited-4360022738 | uHey Limited | uHey Limited hiring Software Engineer (INTERNSHIP) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4398116443 | Bending Spoons | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-welcome-fresh-graduate-at-innocorn-ai-4321911415 | Innocorn AI | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/software-developer-i-ii-frontend-at-wati-4365245956 | Wati | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/trainee-web-software-developer-at-societe-generale-4386742755 | Societe Generale | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-%E2%80%93-iot-smart-city-solution-ref-cesg-se-at-atal-engineering-group-atal-4040349915 | ATAL Engineering Group (ATAL) | Software Engineer – IoT / Smart City Solution (REF: CESG/SE)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-ii-backend-at-wati-4342660637 | Wati | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/web-developer-at-canonical-4284577959 | Canonical | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/web-application-developer-asp-net-php-python-at-apptask-3852466661 | AppTask | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/sr-backend-software-engineer-at-firework-4388396754 | Firework | Sr. Backend Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-unity-at-not-another-headhunting-company-4389260872 | Not Another Headhunting Company | Software Engineer (Unity)
+- [ ] https://hk.linkedin.com/jobs/view/graduate-software-engineer-class-of-2026-at-lalamove-4380763807 | Lalamove | Graduate Software Engineer - Class of 2026
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-web-developer-at-fcc-analytics-4308291999 | FCC ANALYTICS | Full Stack Web Developer
+- [ ] https://hk.linkedin.com/jobs/view/developer-at-pulsar-4309941725 | Pulsar | Developer
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-engineer-frontend-focus-saas-at-wati-4341740125 | Frontend Focus (SaaS) in Hong Kong, Hong Kong SAR / | Wati hiring Full-Stack Engineer - Frontend Focus (SaaS) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-developer-at-fcc-analytics-4308500263 | FCC ANALYTICS | Software Developer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-unity-frontend-at-not-another-headhunting-company-4373834773 | Not Another Headhunting Company | Software Engineer (Unity Frontend)
+- [ ] https://hk.linkedin.com/jobs/view/software-developer-development-lab-at-polymer-capital-4304004784 | Polymer Capital | Software Developer, Development Lab
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-hong-kong-cyberport-at-lirvana-labs-4294697358 | Lirvana Labs | Software Engineer (Hong Kong, Cyberport)
+- [ ] https://hk.linkedin.com/jobs/view/junior-engineer-at-first-circle-4370972305 | First Circle | Junior Engineer
+- [ ] https://hk.linkedin.com/jobs/view/junior-software-engineer-at-verified-metrics-4327809259 | Verified Metrics | Junior Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/technology-software-engineer-graduate-hiring-at-accenture-4398139863 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-backend-at-lalamove-4392578354 | Lalamove | Software Engineer, Backend
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-c%23-at-pls-4345677043 | PLS | Software Engineer (C#)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-international-business-consulting-4388195814 | International Business Consulting | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/staff-frontend-software-engineer-at-firework-4388391807 | Firework | Staff Frontend Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/web-developer-web-3-at-futu-holdings-limited-4364193217 | Futu Holdings Limited | Web Developer (Web 3)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-low-level-c%2B%2B-at-hudson-river-trading-4334598048 | Hudson River Trading | Software Engineer - Low Level (C++)
+- [ ] https://hk.linkedin.com/jobs/view/business-engineer-at-meta-4380839022 | Meta | Business Engineer
+- [ ] https://hk.linkedin.com/jobs/view/sr-frontend-software-engineer-at-firework-4388502604 | Firework | Sr. Frontend Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-not-another-headhunting-company-4373849193 | Not Another Headhunting Company | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/backend-software-engineer-ai-%2B-audio-china-at-wati-4336463600 | Wati | Backend Software Engineer (AI + Audio) - China
+- [ ] https://hk.linkedin.com/jobs/view/software-developer-c%2B%2B-crypto-trading-at-hyphen-connect-4266890216 | Hyphen Connect | Software Developer (C++/ Crypto Trading)
+- [ ] https://hk.linkedin.com/jobs/view/agentic-engineer-backend-software-shenzhen-at-wati-4333014332 | Wati | Agentic Engineer - Backend Software - Shenzhen
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-full-stack-at-neo-derm-4393093012 | Neo Derm | Analyst Programmer (Full Stack)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-software-engineer-at-manulife-4320384496 | Manulife | Full-stack Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-ii-mobile-at-wati-4341788214 | Wati | Software Engineer II - Mobile
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-innocorn-ai-4318680605 | Innocorn AI | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-php-javascript-at-hypebeast-4395944077 | HYPEBEAST | Software Engineer - PHP, JavaScript
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-innocorn-ai-4318676809 | Innocorn AI | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/graduate-ai-software-engineer-at-bending-spoons-4398119408 | Bending Spoons | Graduate AI software engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-marlin-selection-recruitment-4400561605 | Marlin Selection Recruitment | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-csop-asset-management-4385633513 | CSOP Asset Management | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/web-developer-php-node-js-nginx-over-%2440k-at-cl-technical-services-limited-4388542072 | CL Technical Services Limited | Web Developer (PHP/Node.JS/Nginx, over $40K)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-ii-data-at-wati-4339119074 | Wati | Software Engineer II - Data
+- [ ] https://hk.linkedin.com/jobs/view/frontend-engineer-contractor-reactjs-typescript-nextjs-at-betterpaymentnetwork-4395972957 | BetterPaymentNetwork | Frontend Engineer (Contractor) - ReactJS / Typescript / NextJS
+- [ ] https://hk.linkedin.com/jobs/view/developer-at-cantor-fitzgerald-4395961615 | Cantor Fitzgerald | Developer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-machine-learning-at-not-another-headhunting-company-4373844682 | Not Another Headhunting Company | Software Engineer (Machine Learning)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-unity-multiplayer-at-not-another-headhunting-company-4373830917 | Not Another Headhunting Company | Not Another Headhunting Company hiring Software Engineer (Unity Multiplayer) in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/fresh-grad-hire-sre-engineer-system-operation-and-maintenance-focus-at-futu-holdings-limited-4384454708 | SRE Engineer (System Operation and Maintenance Focus) in Hong Kong, Hong Kong SAR / | Futu Holdings Limited hiring Fresh Grad Hire - SRE Engineer (System Operation and Maintenance Focus) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/hong-kong-web-frontend-developer-trading-technology-tier-one-quant-hedge-fund-at-bah-partners-4395957568 | HK | BAH Partners hiring Hong Kong / Web Frontend Developer / Trading Technology / Tier One Quant Hedge Fund in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-at-lirvana-labs-4146104820 | Lirvana Labs | Lirvana Labs hiring Senior Software Engineer in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/backend-java-engineer-ai-experience-at-binance-4380404065 | Binance | Binance hiring Backend Java Engineer (AI experience) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/trainee-front-office-developer-at-societe-generale-4392590289 | Societe Generale | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/backend-c%2B%2B-rust-developer-at-ex-io-4296419624 | EX.IO | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-developer-at-dohe-4378762711 | DOHE | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/front-end-lead-shenzhen-at-wati-4346475123 | HK | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/looking-for-fresh-graduates-and-interns%21-at-ex-io-4331123980 | HK | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/vp-engineering-at-kody-4364399233 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-developer-internet-brokerage-at-usmart-securities-limited-4385950651 | uSmart Securities Limited | Senior Frontend Developer (Internet Brokerage)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-developer-at-aster-4333240170 | Aster | Senior Frontend Developer
+- [ ] https://hk.linkedin.com/jobs/view/intern-full-stack-software-development-aviation-03-to-06-months-part-time-at-jet-centrum-4398781942 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/frontend-developer-react-global-trading-firm-hong-kong-at-nls-executive-search-4391694761 | NLS Executive Search | Frontend Developer (React) - Global Trading Firm - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/orderbook-exchange-frontend-expert-at-techchain-talent-4392146392 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/unity-game-engineer-frontend-at-not-another-headhunting-company-4368392464 | Not Another Headhunting Company | Unity Game Engineer, Frontend
+- [ ] https://hk.linkedin.com/jobs/view/system-developer-at-%E6%A8%82%E6%80%9D-pan-lloyds-4390999689 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/agentic-engineer-ii-enterprise-at-wati-4391578664 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-architect-at-binance-4317968751 | Binance | Senior Frontend Architect
+- [ ] https://hk.linkedin.com/jobs/view/senior-web-developer-at-haymarket-media-group-4389347938 | Haymarket Media Group | Senior Web Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-front-end-engineer-vip-at-binance-4368207687 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/product-manager-growth-hong-kong-at-syfe-4381305191 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/frontend-engineer-web3-wallet-at-binance-4299333986 | Binance | Frontend Engineer - Web3 Wallet
+- [ ] https://hk.linkedin.com/jobs/view/software-consultant-frontend-at-amaris-consulting-4335940331 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/product-owner-at-the-hong-kong-jockey-club-4346720443 | The Hong Kong Jockey Club | The Hong Kong Jockey Club hiring Product Owner in Sha Tin District, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/systems-analyst-at-aviation-security-company-limited-4385957184 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/aiot-engineering-intern-at-aiqua-corporation-limited-4360894944 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-engineer-web-apis-at-the-flex-4367318079 | The Flex | Full-Stack Engineer (Web & APIs)
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-javascript-typescript-remote-at-bjak-4376592715 | BJAK | Senior Software Engineer, JavaScript/TypeScript (Remote)
+- [ ] https://hk.linkedin.com/jobs/view/sr-angular-developer-at-hr-dev-technosys-pvt-ltd-4399882011 | HR Dev Technosys Pvt. Ltd. | Sr. Angular Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-engineer-kyc-tech-at-binance-4380688394 | Binance | Senior Frontend Engineer - KYC Tech
+- [ ] https://hk.linkedin.com/jobs/view/backend-kotlin-developer-senior-at-kody-4398370590 | Kody | Backend Kotlin Developer (Senior)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-engineer-earn-at-binance-4330712959 | Binance | Senior Frontend Engineer - Earn
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-com-at-binance-4392900487 | Binance | Binance Accelerator Program - Frontend Engineer (.COM)
+- [ ] https://hk.linkedin.com/jobs/view/global-banking-markets-eq-gset-platform-frontend-developer-analyst-hong-kong-at-goldman-sachs-4360469565 | Goldman Sachs | Global Banking & Markets, Eq GSET Platform, Frontend Developer, Analyst, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/trade-support-global-markets-asia-at-bbva-4384449036 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/back-end-developer-at-polybuzz-4365964661 | PolyBuzz | Back End Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-at-palo-it-4312659656 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-developer-experience-at-nex-4351948611 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-full-stack-experience-at-new-media-group-hk-4378748230 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/frontend-engineer-compliance-tech-at-binance-4327712918 | Binance | Frontend Engineer - Compliance Tech
+- [ ] https://hk.linkedin.com/jobs/view/defi-specialist-at-monad-foundation-4386334010 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-at-palo-it-4384963890 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/web-gui-developer-%E2%80%93-real-time-data-global-quant-fund-j12667-at-pinpoint-asia-4397216988 | Pinpoint Asia | Web GUI Developer – Real-Time Data (Global Quant Fund) - J12667
+- [ ] https://hk.linkedin.com/jobs/view/backend-python-developer-open-to-fresh-graduates-at-ex-io-4296422154 | EX.IO | Backend Python Developer (Open to Fresh Graduates)
+- [ ] https://hk.linkedin.com/jobs/view/backend-java-developer-open-to-fresh-graduates-at-ex-io-4296411870 | EX.IO | Backend Java Developer (Open to Fresh Graduates)
+- [ ] https://hk.linkedin.com/jobs/view/backend-developer-integrations-at-yuno-4390656201 | Yuno | Backend Developer - Integrations
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-at-closertech-4391666904 | CloserTech | Backend Engineer
+- [ ] https://hk.linkedin.com/jobs/view/backend-developer-at-sharing-economy-international-inc-4344972420 | Sharing Economy International Inc. | Backend Developer
+- [ ] https://hk.linkedin.com/jobs/view/junior-java-developer-hong-kong-at-greyspark-partners-4279770279 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-developer-at-dresio-4274024031 | DRESIO | Full Stack Developer
+- [ ] https://hk.linkedin.com/jobs/view/mobile-app-developer-open-to-fresh-graduates-at-ex-io-4296421453 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-intern-at-jumppoint-4093189097 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-developer-2022-internship-at-sapientia-technologies-limited-4307524709 | Sapientia Technologies Limited | Full-stack Developer, 2022 Internship
+- [ ] https://hk.linkedin.com/jobs/view/junior-trader-hong-kong-at-g-20-group-4400235969 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-at-standard-chartered-4324579464 | Standard Chartered | Backend Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-intern-at-wati-4399219003 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/junior-delta-one-trader-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4375232058 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/fresh-grad-hire-backend-developer-digital-bank-at-futu-holdings-limited-4397993141 | Futu Holdings Limited | Fresh Grad Hire - Backend Developer (Digital Bank)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-business-intelligence-at-united-asia-finance-ltd-4230648371 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/fresh-grad-hire-backend-developer-financial-securities-system-r-d-focus-at-futu-holdings-limited-4397995153 | Futu Holdings Limited | Fresh Grad Hire - Backend Developer (Financial Securities System R&D Focus)
+- [ ] https://hk.linkedin.com/jobs/view/fresh-grad-hire-algorithm-engineer-financial-securities-algorithm-r-d-focus-at-futu-holdings-limited-4384457604 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/junior-data-analyst-contractor-at-bbva-4380246265 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/staff-backend-software-engineer-at-firework-4388504276 | Firework | Staff Backend Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/ai-ml-engineer-at-dohe-4378762729 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/machine-learning-engineer-at-wizpresso-%E6%BF%83%E8%AA%AA-3918798246 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/financial-services-python-developer-hkd-1m-at-primepeak-group-4390917461 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/intern-%E2%80%93software-developer-at-firealert-limited-4377914811 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/python-developer-at-aquis-search-4394492162 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-dex-python-node-js-at-hyphen-connect-4382422230 | Hyphen Connect | Backend Engineer (DEX/ Python/Node.js)
+- [ ] https://hk.linkedin.com/jobs/view/ai-engineer-llm-at-fcc-analytics-4308299303 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/manager-application-engineering-at-bupa-uk-4386829185 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-engineer-at-orna-robotics-4353430237 | ORNA Robotics | Full Stack Engineer
+- [ ] https://hk.linkedin.com/jobs/view/head-of-development-at-anglo-eastern-4384004780 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/lead-full-stack-engineer-node-js-react-vue-ai-solutions-at-covergo-insurtech-4343045282 | CoverGo / Insurtech | Lead Full Stack Engineer (Node.js, React/Vue & AI Solutions)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-developer-junior-mid-at-sofi-hong-kong-4381565833 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-engineer-leading-investment-bank-at-pfcc-group-4376948168 | PFCC Group | Full Stack Engineer - Leading Investment Bank
+- [ ] https://hk.linkedin.com/jobs/view/java-developer-leading-investment-bank-at-pfcc-group-4390425036 | PFCC Group | Java Developer - Leading Investment Bank
+- [ ] https://hk.linkedin.com/jobs/view/fullstack-developer-hedgefund-at-selby-jennings-4398958998 | Selby Jennings | Fullstack Developer - Hedgefund
+- [ ] https://hk.linkedin.com/jobs/view/product-manager-at-first-circle-4398370596 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-full-stack-developer-at-manpowergroup-hong-kong-4395938627 | ManpowerGroup Hong Kong | Senior Full Stack Developer
+- [ ] https://hk.linkedin.com/jobs/view/web3-full-stack-developer-at-hyphen-connect-4266886548 | Hyphen Connect | Web3 Full Stack Developer
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-software-engineer-python-react-at-hypebeast-4395940983 | HYPEBEAST | Full Stack Software Engineer - Python, React
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-ai-at-redotpay-4383897755 | HK | RedotPay hiring Software Engineer(AI) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88-full-stack-engineer-at-climind-4359105142 | Climind | 全栈工程师 Full-Stack Engineer
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-code-agent-engineer-senior-intermediate-junior-at-tcl-corporate-research-hk-co-ltd-4360809372 | TCL Corporate Research(HK) Co., Ltd | Full-Stack Code Agent Engineer (Senior / Intermediate / Junior)
+- [ ] https://hk.linkedin.com/jobs/view/business-development-specialist-at-wonder-4384973774 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-stakefish-4358520975 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/ai-full-stack-developer-genai-react-python-j12732-at-pinpoint-asia-4397261051 | Pinpoint Asia | AI Full-Stack Developer (GenAI & React/Python) - J12732
+- [ ] https://hk.linkedin.com/jobs/view/strategic-finance-analyst-campus-recruiting-program-at-lenovo-4367879823 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-ai-developer-global-ai-fintech-firm-hong-kong-at-nls-executive-search-4376953467 | NLS Executive Search | Full Stack AI Developer - Global AI FinTech Firm - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/quantitative-research-developer-intern-at-schonfeld-4289778092 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/product-sales-specialist-google-cloud-at-google-4368720152 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/web-developer-ai-innovation-platform-33-60k-at-michael-page-4398717228 | Michael Page | Web Developer - AI & Innovation Platform 33-60k
+- [ ] https://hk.linkedin.com/jobs/view/principal-senior-full-stack-engineer-backend-infrastructure-ai-at-prenetics-4363482961 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-technical-lead-at-tata-consultancy-services-4388606316 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/associate-developer-at-standard-chartered-4367074747 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-consultant-senior-consultant-full-stack-digital-hong-kong-315416-at-deloitte-4362015621 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/product-manager-communications-platform-at-lalamove-4329418182 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-hong-kong-immediately-start-at-fdm-group-4329814312 | FDM Group | Junior Software Engineer – Hong Kong (Immediately Start)
+- [ ] https://hk.linkedin.com/jobs/view/senior-consultant-full-stack-developer-technology-enablement-at-kpmg-china-4077651689 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-full-stack-java-front-end-engineer-at-hyphen-connect-4382423164 | Hyphen Connect | Senior Full-Stack Java & Front-End Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-epic-technology-services-hong-kong-at-point72-4389251720 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/ai-product-manager-intern-at-video-rebirth-4398101720 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/founding-engineer-at-the-flex-4367307134 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-lead-full-stack-developer-reporting-solution-avp-at-bnp-paribas-4384811839 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/lead-full-stack-engineer-at-the-flex-4367302226 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/f2pool-devops-engineer-at-stakefish-4358491482 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/head-of-business-solution-asia-at-hsbc-4392383864 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-fullstack-engineer-node-js-typescript-at-binance-4390919310 | Binance | Senior Fullstack Engineer (Node.Js/Typescript)
+- [ ] https://hk.linkedin.com/jobs/view/head-of-growth-marketing-china-hong-kong-greater-bay-area-at-own-academy-4397662750 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-at-first-circle-4391596243 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/chief-of-staff-group-finance-at-lenovo-4344209159 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-at-fleet-management-limited-4395936478 | HK | Software Engineering (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/senior-project-executive-assistant-project-manager-it-at-new-media-group-hk-4219304505 | HK | Software Engineering (HK, English)
+- [ ] https://hk.jobsdb.com/job/91393372 | Furong Uptech Solution Co., Ltd | UI/UX Designer / Senior UI/UX Designer - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91334524 | gym room | Multimedia designer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91451550 | a dynamic team | ( Senior ) UI/UX Designer / 25K - 39K / IT Vendor / FinTech / E-com Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91396436 | Centre for Perceptual and Interactive Intelligence (CPII) Limited | UI/ UX Designer (AI Team) (Ref: CPII2026-007) Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91413492 | Xplus Global Limited | Senior UI/UX Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91374384 | CYC MOTOR LTD | UI/UX Designer Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91016001 | Kalos Blocks Company Limited | Senior Product Designer / Asst. Product Design Manager (Product Development) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91374598 | Acton Consulting Limited | ( Senior ) UI / UX Designer - 13 months Salary Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91010719 | Karrie International Holdings Limited | Senior Product Designer / Asst. Product Design Manager (Product Development) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91420727 | TEKsystems | Senior UXUI / Service Designer - Retail MNC/Regional Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91439120 | ASUS - leading tech innovator with dynamic work culture and generous benefits | Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91419338 | GL Technologies (Hong Kong) Limited | Multimedia Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91436074 | Manpower Services (Hong Kong) Limited | Digital Experience Associate / MarTech Consultant ($35k UP) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91341442 | Don Nelson Recruitment Limited | Senior UX Designer Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91098680 | the potential | Creative Designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91420991 | ADECCO | Multimedia Designer (24K up, Shek Mun, Contract Renewable) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91443077 | G. E. W. International Corporation Limited | Product Designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91457652 | DMA Group Limited | Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91383302 | Centaline Mortgage Broker Limited | Multimedia Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91400266 | PwC | Associate - Multimedia Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91387820 | hands-on UX/UI experience in mobile apps | Senior Business Analyst (UX/ UI, 25-40K) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91393422 | Furong Uptech Solution Co., Ltd | Graphic Designer / Senior Graphic Designer (Multimedia / Brand) - Fintech Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91386842 | LP Beauty Limited | Senior Designer Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91389801 | JEB International Limited | Multimedia Designer / Senior Graphic Designer Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91419991 | KGI Hong Kong Limited | Lead Product Manager, Client Digital Experience (Wealth Management) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91425983 | Ginger Advertising Limited | Graphic Designer / Senior Graphic Designer Job in Jordan, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91439416 | Nanyang Commercial Bank, Limited | e-Banking App Product Manager ( Secondment contract) [Ref no: EBD-APM-AL] Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91436660 | working experience in Toys/Characters design especially | Product Designer (5-day work) Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91436819 | creative thinking | Graphic Designer (5-day work) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91408616 | TrolMaster Agro Instruments Co., Limited | Multimedia Marketing Executive Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91422462 | elevate our brand! Seeking talented Graphic Designer with 3+ yrs experience | Graphic Designer & Visual Content Creator Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91452885 | business expansion | Art Director Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91018259 | Find Asia Limited | Marketing Officer (Design & Digital) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91449715 | Chow Sang Sang Holdings International Limited | Product Designer Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91463906 | Innocorn Technology Limited | Multimedia Designer/Developer (Summer Internship) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91401961 | AUXO International Limited | Toy Product Designer (Art & Craft) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91451371 | ADECCO | 3D & Product Designer/ Senior 3D & Product Designer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91414810 | Henderson Land Development Company Limited | SENIOR DEPUTY CREATIVE MANAGER (ART-BASED) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91388361 | Curious Events Production Limited | Event & Exhibition Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91450841 | a young | Senior Designer (Event & Exhibitor Service) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91398433 | Winco Design Limited | Senior / Junior Creative Designer Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91063928 | Silver Printing Company Limited | Graphic Designer (Brand clothing hang tags and packaging) Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91434931 | Apps and Mobile Platform Development | Technical Project Lead, Mobile Platform - Payment Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91461799 | Phonics One Limited | Native English Teacher Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91463610 | In Consulting Group Limited | English Tutor （Native Cantonese Speaker) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91414162 | Bright English Education Centre (Kai Tak) | Full-Time English & Phonics Teacher (Kai Tak) Job in Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91414024 | Bright English Education Centre (South Horizons) | Part-Time English & Phonics Teacher (South Horizons) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91438903 | Chatteris Educational Foundation | Chatteris English Teaching Intern Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91413923 | Bright English Education Centre (Tsuen Wan) | Full-Time English & Phonics Teacher (Tsuen Wan) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91414092 | Bright English Education Centre (Lai Chi Kok Pacifica Mall) | Full Time English & Phonics Teacher Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91413994 | Bright English Education Centre (South Horizons) | Full-Time English & Phonics Teacher (South Horizons) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91415100 | Fung Wing Education Co., Limited | [全職/兼職] 英文專科補習導師 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91462775 | i-Sophy Education Centre | 全職英文老師 Full-time English Teacher Job in Sai Wan Ho, Eastern District
+- [ ] https://hk.jobsdb.com/job/91450041 | Flora Academy Education Centre | Full-Time A-Level / IGCSE / IB Tutors Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91462648 | Brainiac Education Limited | Maths Tutor (Primary / Jr Secondary) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91413785 | Gaintree Education House Limited | 兼職功課輔導老師 Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91453180 | Joyful Mind (Hong Kong) Limited | Fluent English Teacher (Full Time & Part Time) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91405903 | Star Education Services Limited | Part Time/Full Time English tutor英文導師 (高人工 + 彈性) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91408035 | parents | 全職英文教室導師 Centre Tutor (Eng) - 大角咀/油塘/屯門/荃灣/康城 Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91438504 | ADECCO | English Curriculum Trainer / Senior Curriculum Trainer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91412450 | Monkey Tree English Learning Center | Full Time English Teacher (Ref.P26013) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91360124 | Viabtc Technology Limited | Family Teacher 家庭教师 Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91415944 | Fung Wing Education Co., Limited | [全職/兼職] 數學專科補習導師 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91307242 | Eng Leaders Learning Centre | Part-time Phonics & Oral Teacher Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91436518 | EduSmart Company Limited | 全職中文/英文科導師Full Time Chinese / English Tutor – 東涌映灣薈 Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/91415841 | Fung Wing Education Co., Limited | [全職/兼職] 中文專科補習導師 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91396290 | parents | 全職中文/英文教室導師 Centre Tutor (Chi/Eng) - 屯門/康城 Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91449314 | ABC Pathways School | English Teachers (Full time and Part time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91402316 | our existing and new branch in Tin Shui Wai | Full Time NET English Teacher Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91414362 | Mathconcept Education Limited | STEM (全職)中心主管/ 助理中心主管 Job in West Kowloon Cultural District, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91459264 | Enrich English | The Native English Teacher Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91448007 | Wai Ying (Dreamland) Company Limited | 小學小組功課班導師 / 專科導師 (全職) (天水圍 ) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91409714 | EduSmart Company Limited | 全職/兼職中、英、數導師 Full Time /Part Time Chinese/ English / Math Tutor –天后 Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91419252 | ADECCO | Native English Teacher (Up to 27k!! Prefer Immediately Available) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91450071 | Bloom Academy Limited | HKDSE English Language Teacher Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91391980 | Mathconcept Education Limited | [各區] 數學導師 Math Tutor/Partner Trainee Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91410754 | Language Tree International Education Limited | English Teacher (Full time & Part time) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91420926 | Synergy Education Provider Co Ltd | Full-time Native-speaking English Teacher (2026-2027 Academic Year) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91409037 | Mastery Education Centre (Tsui Lai) | 全職/兼職 補習老師 / 教室導師 / Tutor / Teacher Job in Sheung Shui, North District
+- [ ] https://hk.jobsdb.com/job/91386801 | Hong Kong Baptist University | Assistant Lecturer (English Section), Language Centre Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91402781 | 智優教育有限公司 | Primary & Jr Secondary Chi/Math Tutors 小學至初中、數、補習導師 Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91441215 | EOK Academy Limited | Full-time Biology Teacher Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91462083 | Bright International Education (Tai Po) Limited | 中文專科導師(大埔/坑口/元朗) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91434415 | Hong Kong Sheng Kung Hui Welfare Council Limited | 宿舍導師 Hostel Instructor(康復服務)(東涌區) (Ref: GGR/HI/20250718-27) Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/91462838 | i-Sophy Education Centre | 全職幼兒老師 Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91455229 | SunriseEducation Ltd | English Tutor Graduate Trainee (Full Time) Job in North District
+- [ ] https://hk.jobsdb.com/job/91401623 | Aspire Education | 中學 / 小學數學導師（全職） Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91400048 | Smart Talent International Education Centre Limited | Assessment Teacher 評估老師 Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91434883 | School of Continuing Education, HKBU | Part-time Instructors for Higher Diploma Programmes (Full-time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91407860 | EduSmart Company Limited | 全職中文教室導師 Centre Tutor (Chi) - 黃埔/康城/屯門/上水 Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91438731 | The Independent Schools Foundation Academy Ltd | 小學教學助理 Primary Teaching Assistant (Ref: PRI/TA/20240617_isf) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91451429 | Hong Kong Sheng Kung Hui Welfare Council Limited | 宿舍導師 Hostel Instructor (屯門業旺邨展能中心及宿舍) (Ref: KGR/HI/20260220-4) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91398457 | The English Schools Foundation (ESF) | Expressions of Interest Educational Assistant - ESF Quarry Bay School Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91436805 | The Chinese University of Hong Kong | Teaching Assistant Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91436700 | The Chinese University of Hong Kong | Part-time Teaching Assistant(s) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91449388 | ABC Pathways School | JRV 教育中心 中文科老師 (全職) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91420969 | Undergraduate Level | Full time/Part-time Teaching Assistant/Demonstrator (several posts) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91459163 | Dunn's Education Limited | 全職/兼職教育中心幼兒老師Tutor (工作地點: 石門) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91440001 | Elee Consulting Limited | URGENT ~ Administrative Assistant (Education) x 2 Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91451834 | Extra Roles | Graduate Teaching Assistant Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91455631 | ROTARY CLUB OF HONG KONG ISLAND WEST HONG CHI MORNINGHOPE SCHOOL 香港西區扶輪社匡智晨輝學校 | 教師助理 Teacher Assistant (入職日期商議) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91413059 | Fwone Science & Technology Hong Kong Co., Limited | IT support Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91461650 | The Wharf Group | IT Support Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91447710 | CITIC Futures International Company Limited | IT Support Manager Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91436391 | Kellett School | First Line IT Support Officer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91398839 | Wai Yuen Tong Medicine Co Ltd | IT Support Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91447606 | Town Health Corporate Advisory and Investments Limited | IT Support / IT Assistant Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91446457 | proactive | Network and PC Support Engineer (5 Days Work / Double Pay) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91253210 | Hong Kong Air Cargo Terminals Ltd | Senior IT Coordinator (Customer Support) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91389681 | emerging network technologies | Technology Analyst 科技分析主任 Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91440016 | CITIC Telecom International CPC Limited | IT System Support - IT Infrastructure Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91427551 | PeopleLink Services Limited | Deskside Support Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91400490 | Lenovo PCCW Solutions | IT Helpdesk Officer Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91440415 | ADECCO | IT Support Specialist - PERM ($$$, Double pay, Group Medical etc.) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91419034 | competitive pay | Deskside Support Engineer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91461663 | The Wharf Group | IT System Administrator Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91394287 | service | Systems Support Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91394355 | APC Asia Pacific Cargo (H.K.) Limited | IT Support Officer / IT Administrator Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91457593 | Premier Technology Global Limited | Senior Helpdesk Engineer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/87787204 | First Shanghai Investments Ltd | System Support Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91388180 | Tech Data Distribution (Hong Kong) Limited | Technical Support Officer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91289803 | Ingrid Millet Limited | IT Support Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91425833 | KOS International Limited | IT Engineer - Renovation Project (6 months contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91424037 | PERSOL | IT Support Specialist (Government Sector, Anti-Virus Technology) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91341582 | The Wharf Group | IT Support Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91398947 | Happy Life Education Foundation Limited | IT Specialist / IT Support Specialist (with School Affairs Support) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91348281 | Global Payments Asia-Pacific Ltd | Senior System Administrator Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/89355290 | iAdvantage Limited | Data Center Operator, Service Desk (7 x 24 Shift Duty) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91408627 | HETERMEDIA SERVICES LIMITED | IT Support Specialist Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91421671 | I.T Group | Assistant IT Officer Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91448876 | NEC Hong Kong Limited | Assistant System Support Engineer / System Support Engineer Job in North District
+- [ ] https://hk.jobsdb.com/job/91440719 | Top Executive Talent Engineering | Technical (Server & Network) Support (2 yrs rel exp/ 20K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91395018 | a significant presence | IT Officer (Up to 35k/monthly + competitive bonus) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90927183 | Luk Fook Holdings Company Limited | Assistant System Administration Officer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91461664 | The Wharf Group | IT Network Administrator Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91256506 | comprehensive benefits | Test Technician Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91449085 | Hays Hong Kong Limited | System Engineer (1 year contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91421832 | Chubb Hong Kong Limited | Assistant Services Engineer (Electronic Security System) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91441900 | Lantern Seafood Restaurant (Jordan) | 電腦技術支援員 Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91402523 | PeopleLink Services Limited | System Support Operator Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91437911 | good career exposure | Consultant (System Engineer) - IES Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91457601 | Premier Technology Global Limited | Senior Systems Engineer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91449596 | Bank of China (Hong Kong) Limited | Computer Operator Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91425826 | ADECCO | 34K / Tier 3 Support / BA / Project Engineer in Infra Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-at-fano-fano-labs-4368221090 | Fano (Fano Labs) | Fano (Fano Labs) hiring UI/UX Designer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-part-time-at-united-stables-4395985707 | United Stables | United Stables hiring UI/UX Designer (Part-time) in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/junior-ui-ux-designer-at-automatic-engineering-4368717099 | Extra Roles | Automatic Engineering hiring Junior UI/UX Designer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-at-redotpay-4386321037 | RedotPay | RedotPay hiring UI/UX Designer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-at-nex-4389482611 | Nex | Nex hiring UI / UX Designer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-crypto-at-stealth-4393261654 | Stealth | Stealth hiring UI/UX Designer (Crypto) in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-product-designer-at-lrqa-4366317418 | LRQA | LRQA hiring UI/UX Product Designer in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-product-designer-at-bowtie-life-insurance-company-4365996124 | Bowtie Life Insurance Company | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/sr-project-manager-ui-ux-institutional-trading-dashboards-web3-at-hyphen-connect-4382463835 | Hyphen Connect | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/english-teacher-part-time-hourly-esf-explore-at-english-schools-foundation-4334507050 | English Schools Foundation | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/english-tutors-part-time-english-teachers-at-eureka-language-services-4064435806 | Eureka Language Services | English Tutors / Part-time English Teachers
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-english-all-esf-secondary-schools-at-english-schools-foundation-4334447338 | English Schools Foundation | Expression of Interest Teacher of English - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/regular-part-time-kindergarten-native-or-near-native-englishteacher-at-headstart-group-ltd-4367411346 | Headstart Group Ltd | Regular Part-time Kindergarten Native (or near-native) EnglishTeacher
+- [ ] https://hk.linkedin.com/jobs/view/english-teacher-english-excel-hong-kong-at-tefl-com-4399884133 | Extra Roles | UI/UX, Tutor, Support (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/part-time-local-english-teacher-at-headstart-group-ltd-4309354306 | Headstart Group Ltd | Part-time Local English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-full-time-and-part-time-4-openings-at-eureka-language-services-4064441305 | Eureka Language Services | Native English Teacher (Kindergarten) [full time and part-time - 4 openings]
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teacher-at-fun-to-learn-english-learning-centre-3629742714 | Fun to Learn English Learning Centre | English Language Teacher
+- [ ] https://hk.linkedin.com/jobs/view/math-english-science-tutor-at-telos-education-4294361071 | Telos Education | Math/English/Science Tutor
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-2-openings-at-eureka-language-services-4064442006 | Eureka Language Services | Native English Teacher (Kindergarten) [2 openings]
+- [ ] https://hk.linkedin.com/jobs/view/part-time-specialist-english-writing-teacher-hong-kong-at-write-edge-4360572454 | Write Edge | Part-Time Specialist English & Writing Teacher (Hong Kong)
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teacher-at-dataannotation-4304440390 | DataAnnotation | English Language Teacher
+- [ ] https://hk.linkedin.com/jobs/view/english-language-tutor-at-dataannotation-4304445187 | DataAnnotation | English Language Tutor
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4253263092 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064440378 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4065389998 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/playgroup-teacher-english-part-time-hourly-esf-explore-at-english-schools-foundation-4334417758 | English Schools Foundation | Playgroup Teacher, English (Part-time Hourly) - ESF Explore
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064442004 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/ibdp-tutoring-at-crimson-education-4303659917 | Crimson Education | IBDP Tutoring
+- [ ] https://hk.linkedin.com/jobs/view/chatteris-english-tutor-at-chatteris-educational-foundation-hong-kong-4393802416 | Chatteris Educational Foundation (Hong Kong) | Chatteris English Tutor
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064436644 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/science-tutor-at-telos-education-4294358164 | Telos Education | Science Tutor
+- [ ] https://hk.linkedin.com/jobs/view/full-time-part-time-teacher-of-english-and-history-especially-the-one-who-can-conduct-in-person-lessons-in-hk-at-cana-academy-limited-4385946831 | Cana Academy Limited | Full-time & Part-time teacher of English and History (especially the one who can conduct in-person lessons in HK)
+- [ ] https://hk.linkedin.com/jobs/view/tutor-igcse-ib-a-level-ap-at-teach-abroad-experior-asia-4389800485 | Teach Abroad - Experior Asia | Tutor (IGCSE / IB / A-Level / AP)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064442013 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064434997 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/part-time-native-or-near-native-english-teacher-at-headstart-group-ltd-4310830921 | Headstart Group Ltd | Part-time Native (or near-native) English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4066110027 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/remote-esl-teacher-at-cosmo-4298927435 | Cosmo | Remote ESL Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-esl-teacher-net-teacher-full-time-at-dr-i-kids-education-centre-4376402277 | Dr I-Kids Education Centre | Native English Teacher/ ESL Teacher / NET Teacher (Full-time)
+- [ ] https://hk.linkedin.com/jobs/view/tutor-us-college-admissions-at-teach-abroad-experior-asia-4389801412 | Teach Abroad - Experior Asia | Tutor (US College Admissions)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064436661 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064440387 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064440389 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-speaking-teacher-net-at-eureka-language-services-4065395285 | Eureka Language Services | Native English-Speaking Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4066110023 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/branch-native-english-teacher-esl-teacher-net-teacher-full-time-or-part-time-at-dr-i-kids-education-centre-4389824142 | Dr I-Kids Education Centre | (Branch) Native English Teacher/ ESL Teacher / NET Teacher (Full-time or Part-time)
+- [ ] https://hk.linkedin.com/jobs/view/teacher-of-english-english-literature-at-ntk-academic-group-4398979039 | NTK Academic Group | Teacher of English/English Literature
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064436651 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-primary-school-at-eureka-language-services-4091175364 | Eureka Language Services | Native English Teacher (Primary School)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4066105721 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064441310 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/supply-english-teacher-at-guidepost-montessori-4390352833 | Guidepost Montessori | Supply English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064439459 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/qualified-kindergarten-nursery-teacher-qkt-cantonese-native-teacher-mandarin-native-teacher-english-native-teacher-full-time-part-time-at-swedtel-4370034605 | Swedtel | Qualified Kindergarten / Nursery Teacher (QKT) -Cantonese Native Teacher -Mandarin Native Teacher -English Native Teacher (Full Time / Part Time)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-net-at-eureka-language-services-4248618869 | Eureka Language Services | Native English Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064441309 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064441311 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-kindergarten-at-eureka-language-services-4064442012 | Eureka Language Services | Native English Teacher (Kindergarten)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-net-at-eureka-language-services-4248168807 | Eureka Language Services | Native English Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-net-at-eureka-language-services-4253263093 | Eureka Language Services | Native English Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-speaking-teacher-net-2-openings-at-eureka-language-services-4064439470 | Eureka Language Services | Native English-Speaking Teacher (NET) [2 openings]
+- [ ] https://hk.linkedin.com/jobs/view/ms-english-teacher-at-international-education-services-limited-4348452838 | International Education Services Limited | MS English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-at-eureka-language-services-4065396226 | Eureka Language Services | Native English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/ib-humanities-tutor-at-telos-education-4294353770 | Telos Education | IB Humanities Tutor
+- [ ] https://hk.linkedin.com/jobs/view/%E5%88%86%E6%A0%A1-%E5%85%A8%E8%81%B7%E5%B0%8E%E5%B8%AB-full-time-tutor-at-dr-i-kids-education-centre-4389809562 | Dr I-Kids Education Centre | (分校) 全職導師 Full-time tutor
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-at-eureka-language-services-4300169997 | Eureka Language Services | Native English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-net-at-eureka-language-services-4064437597 | Eureka Language Services | Native English Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-at-eureka-language-services-4247718257 | Eureka Language Services | Native English Teacher
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-net-at-eureka-language-services-4064437609 | Eureka Language Services | Native English Teacher (NET)
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-kindergarten-mainscale-teacher-all-esf-kindergarten-schools-at-english-schools-foundation-4334447350 | English Schools Foundation | Expression of Interest Kindergarten Mainscale Teacher - All ESF Kindergarten Schools
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-kindergarten-teacher-of-individual-needs-all-esf-kindergarten-schools-at-english-schools-foundation-4334517076 | English Schools Foundation | Expression of Interest Kindergarten Teacher of Individual Needs - All ESF Kindergarten Schools
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-starters-instructor-at-eureka-language-services-4066109257 | Eureka Language Services | Cambridge Starters Instructor
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-english-starters-instructor-at-eureka-language-services-4064440383 | Eureka Language Services | Cambridge English Starters Instructor
+- [ ] https://hk.linkedin.com/jobs/view/full-time-positions-in-various-kindergartens-2026-2027-at-english-for-asia-4393021582 | English for Asia | Full-time Positions in Various Kindergartens (2026-2027)
+- [ ] https://hk.linkedin.com/jobs/view/spoken-english-course-instructor-at-eureka-language-services-4064441301 | Eureka Language Services | Spoken English Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/pre-nursery-teacher-at-teach-abroad-experior-asia-4389596609 | Teach Abroad - Experior Asia | Pre-Nursery Teacher
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-kindergarten-teacher-of-chinese-all-esf-kindergarten-schools-at-english-schools-foundation-4334547041 | English Schools Foundation | Expression of Interest Kindergarten Teacher of Chinese - All ESF Kindergarten Schools
+- [ ] https://hk.linkedin.com/jobs/view/teach-in-hong-kong%21-english-prep-for-students-going-to-the-uk-not-eal-at-targetjobs-uk-4236579935 | Extra Roles | UI/UX, Tutor, Support (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-primary-school-mainscale-teacher-all-esf-primary-schools-at-english-schools-foundation-4338467347 | English Schools Foundation | Expression of Interest Primary School Mainscale Teacher - All ESF Primary Schools
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-primary-school-performing-arts-teacher-all-esf-primary-schools-at-english-schools-foundation-4334606274 | English Schools Foundation | Expression of Interest Primary School Performing Arts Teacher - All ESF Primary Schools
+- [ ] https://hk.linkedin.com/jobs/view/montessori-teacher-at-guidepost-montessori-4369052819 | Guidepost Montessori | Montessori Teacher
+- [ ] https://hk.linkedin.com/jobs/view/kindergarten-teacher-at-teach-abroad-experior-asia-4389596607 | Teach Abroad - Experior Asia | Kindergarten Teacher
+- [ ] https://hk.linkedin.com/jobs/view/teach-hong-kong-monkey-tree-at-tefl-uk-4198821967 | TEFL UK | Teach Hong Kong - Monkey Tree
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-primary-school-learning-support-teacher-all-esf-primary-schools-at-english-schools-foundation-4334427446 | English Schools Foundation | Expression of Interest Primary School Learning Support Teacher - All ESF Primary Schools
+- [ ] https://hk.linkedin.com/jobs/view/secondary-teacher-summer-camps-part-time-hourly-esf-explore-at-english-schools-foundation-4393504565 | English Schools Foundation | Secondary Teacher, Summer Camps (Part-time Hourly) - ESF Explore
+- [ ] https://hk.linkedin.com/jobs/view/learning-diversity-educational-assistant-esf-quarry-bay-school-kindergarten-at-english-schools-foundation-4390830432 | Extra Roles | UI/UX, Tutor, Support (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/early-years-teacher-summer-camps-part-time-hourly-esf-explore-at-english-schools-foundation-4393502628 | English Schools Foundation | Early Years Teacher, Summer Camps (Part-time Hourly) - ESF Explore
+- [ ] https://hk.linkedin.com/jobs/view/primary-teacher-summer-camps-part-time-hourly-esf-explore-at-english-schools-foundation-4393294975 | English Schools Foundation | Primary Teacher, Summer Camps (Part-time Hourly) - ESF Explore
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-modern-languages-all-esf-secondary-schools-at-english-schools-foundation-4334606269 | English Schools Foundation | Expression of Interest Teacher of Modern Languages - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/esl-kindergarten-teacher-hk-education-provider-co-ltd-at-guardian-jobs-4391614443 | Guardian Jobs | ESL Kindergarten Teacher, HK EDUCATION PROVIDER CO LTD
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-social-sciences-all-esf-secondary-schools-at-english-schools-foundation-4334427430 | English Schools Foundation | Expression of Interest Teacher of Social Sciences - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-mathematics-all-esf-secondary-schools-at-english-schools-foundation-4334417770 | English Schools Foundation | Expression of Interest Teacher of Mathematics - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-primary-school-teacher-of-chinese-all-esf-primary-schools-at-english-schools-foundation-4334507068 | English Schools Foundation | Expression of Interest Primary School Teacher of Chinese - All ESF Primary Schools
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4064439455 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/elementary-homeroom-teacher-at-international-education-services-limited-4348316770 | International Education Services Limited | Elementary Homeroom Teacher
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4065392617 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4234787433 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4064437603 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/part-time-afternoon-net-role-at-a-kindergarten-in-tiu-keng-leng-2025-2026-at-english-for-asia-4392460135 | English for Asia | Part-Time Afternoon NET Role at a Kindergarten in Tiu Keng Leng (2025-2026)
+- [ ] https://hk.linkedin.com/jobs/view/learning-technologies-educational-assistant-at-discovery-bay-international-school-4391207012 | Discovery Bay International School | Learning Technologies Educational Assistant
+- [ ] https://hk.linkedin.com/jobs/view/teaching-assistant-at-eureka-language-services-4157738735 | Eureka Language Services | Teaching Assistant
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4093880019 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/teacher-assistant-primary-section-%E2%80%93-starting-from-august-2026-at-singapore-international-school-hong-kong-4391640185 | Singapore International School (Hong Kong) | Teacher Assistant (Primary Section) – Starting from August 2026
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-science-all-esf-secondary-schools-at-english-schools-foundation-4334487142 | English Schools Foundation | Expression of Interest Teacher of Science - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/eal-teacher-at-international-education-services-limited-4348422793 | International Education Services Limited | EAL Teacher
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4064436643 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-english-course-instructor-at-eureka-language-services-4064441313 | Eureka Language Services | Cambridge English Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/eal-%E5%8D%8F%E8%B0%83%E5%91%98-at-international-education-services-limited-4374837735 | International Education Services Limited | EAL 协调员
+- [ ] https://hk.linkedin.com/jobs/view/assistant-guide-at-guidepost-montessori-4361607251 | Guidepost Montessori | Assistant Guide
+- [ ] https://hk.linkedin.com/jobs/view/assistant-guide-at-guidepost-montessori-4386378813 | Guidepost Montessori | Assistant Guide
+- [ ] https://hk.linkedin.com/jobs/view/teacher-assistant-hourly-paid-at-british-council-4354022489 | Extra Roles | UI/UX, Tutor, Support (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/english-course-instructor-at-eureka-language-services-4064437601 | Eureka Language Services | English Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/english-language-teaching-assistant-elta-at-eureka-language-services-4065392614 | Eureka Language Services | English Language Teaching Assistant (ELTA)
+- [ ] https://hk.linkedin.com/jobs/view/esl-instructor-at-dataannotation-4304431541 | DataAnnotation | ESL Instructor
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-course-instructor-net-4-openings-at-eureka-language-services-4064437607 | Eureka Language Services | Cambridge Course Instructor (NET) [4 openings]
+- [ ] https://hk.linkedin.com/jobs/view/high-school-teacher-at-dsc-international-school-4328181183 | DSC International School | High School Teacher
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-course-instructor-at-eureka-language-services-4064437595 | Eureka Language Services | Cambridge Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/it-end-user-support-technicians-at-oikotechno-japan-co-ltd-4397259989 | Oikotechno Japan Co., Ltd | IT End User Support Technicians
+- [ ] https://hk.linkedin.com/jobs/view/it-end-user-support-technicians-at-oikotechno-japan-co-ltd-4397262598 | Oikotechno Japan Co., Ltd | IT End User Support Technicians
+- [ ] https://hk.linkedin.com/jobs/view/desktop-support-technician-l1-hk-at-excis-compliance-4394669165 | Excis Compliance | Desktop Support Technician L1 HK
+- [ ] https://hk.linkedin.com/jobs/view/it-end-user-support-technicians-at-oikotechno-japan-co-ltd-4397264573 | Oikotechno Japan Co., Ltd | IT End User Support Technicians
+- [ ] https://hk.linkedin.com/jobs/view/it-support-helpdesk-support-at-pkf-hong-kong-4358311614 | PKF Hong Kong | IT Support / Helpdesk Support
+- [ ] https://hk.linkedin.com/jobs/view/it-end-user-support-technicians-at-oikotechno-japan-co-ltd-4397270514 | Oikotechno Japan Co., Ltd | IT End User Support Technicians
+- [ ] https://hk.linkedin.com/jobs/view/desktop-support-technician-l2-hk-at-excis-compliance-4394661415 | Excis Compliance | Desktop Support Technician L2 HK
+- [ ] https://hk.linkedin.com/jobs/view/it-support-engineer-l-mnc-at-hays-4393509683 | Hays | IT Support Engineer l MNC
+- [ ] https://hk.linkedin.com/jobs/view/admin-and-it-support-at-lojel-4400303656 | LOJEL | Admin and IT Support
+- [ ] https://hk.linkedin.com/jobs/view/desktop-support-technician-l3-hk-at-excis-compliance-4394665229 | Excis Compliance | Desktop Support Technician L3 HK
+- [ ] https://hk.linkedin.com/jobs/view/it-support-officer-hk-at-%E4%BD%B3%E6%9C%9F%E6%8A%95%E8%B5%84-jq-investments-4386805598 | 佳期投资 (JQ Investments) | IT Support Officer (HK)
+- [ ] https://hk.linkedin.com/jobs/view/it-technician-at-gleneagles-hospital-hong-kong-4392899922 | Gleneagles Hospital Hong Kong | IT Technician
+- [ ] https://hk.linkedin.com/jobs/view/desktop-support-engineer-at-selby-jennings-4371244126 | Selby Jennings | Desktop Support Engineer
+- [ ] https://hk.linkedin.com/jobs/view/it-technical-support-helpdesk-support-senior-junior-at-%E5%8D%9A%E8%B3%A2%E9%9B%86%E5%9C%98-cti-group-4397692363 | 博賢集團 CTI Group | IT Technical Support / Helpdesk Support (Senior/ Junior)
+- [ ] https://hk.linkedin.com/jobs/view/it-service-desk-analyst-employee-technology-support-hong-kong-at-bloomberg-4396465557 | Bloomberg | IT Service Desk Analyst - Employee Technology Support, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/manager-assistant-manager-it-infrastructure-end-user-support-at-shangri-la-group-4212183461 | Shangri-La Group | Manager/Assistant Manager, IT Infrastructure - End User Support
+- [ ] https://hk.linkedin.com/jobs/view/it-support-engineer-global-on-premise-it-at-amazon-web-services-aws-4385340956 | Amazon Web Services (AWS) | IT Support Engineer, Global On-Premise IT
+- [ ] https://hk.linkedin.com/jobs/view/support-specialist-at-shangri-la-group-4209601339 | Shangri-La Group | Support Specialist
+- [ ] https://hk.linkedin.com/jobs/view/manager-it-infrastructure-at-shangri-la-group-4220627718 | Shangri-La Group | Manager, IT Infrastructure
+- [ ] https://hk.linkedin.com/jobs/view/system-support-at-aigens-4384806479 | Aigens | System Support
+- [ ] https://hk.linkedin.com/jobs/view/it-support-specialist-iii-at-astreya-4398478193 | Astreya | IT Support Specialist III
+- [ ] https://hk.linkedin.com/jobs/view/it-desktop-support-at-sj-group-4364042056 | SJ Group | IT Desktop Support
+- [ ] https://hk.linkedin.com/jobs/view/it-support-specialist-at-company-confidential-4388655079 | Company Confidential | IT Support Specialist
+- [ ] https://hk.linkedin.com/jobs/view/desktop-support-engineer-l2-at-sky-systems-inc-skysys-4394975222 | Sky Systems, Inc. (SkySys) | Desktop Support Engineer L2
+- [ ] https://hk.linkedin.com/jobs/view/senior-onsite-it-support-engineer-at-epergne-solutions-4343444169 | Epergne Solutions | Epergne Solutions hiring Senior Onsite IT Support Engineer in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/it-%E6%94%AF%E6%8C%81%E4%B8%93%E5%91%98-at-%E5%B7%B4%E6%96%BD%E5%B8%9D%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4367170023 | 巴施帝信息科技(上海)有限公司 | IT 支持专员
+- [ ] https://hk.linkedin.com/jobs/view/it-engineer-at-tradebeyond-4390735527 | TradeBeyond | IT Engineer
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-hong-kong-tsuen-wan-on-site-at-reboot-monkey-4382624268 | Reboot Monkey | Data Center Technician - Hong Kong - Tsuen Wan - On-site
+- [ ] https://hk.linkedin.com/jobs/view/service-desk-specialist-at-astreya-4395971813 | Astreya | Service Desk Specialist
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-hk-tai-po-on-site-at-reboot-monkey-4382610841 | Reboot Monkey | Data Center Technician - HK - Tai Po - On-site
+- [ ] https://hk.linkedin.com/jobs/view/deskside-support-engineer-12-months-contract-at-cognizant-4397621507 | Cognizant | Deskside Support Engineer (12 months Contract)
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-hk-tai-po-on-site-at-reboot-monkey-4382624285 | Reboot Monkey | Data Center Technician - HK - Tai Po - On-site
+- [ ] https://hk.linkedin.com/jobs/view/assistant-information-technology-manager-at-shangri-la-group-4392905372 | Shangri-La Group | Assistant Information Technology Manager
+- [ ] https://hk.linkedin.com/jobs/view/assistant-manager-it-at-airport-authority-hong-kong-4395236809 | Airport Authority Hong Kong | Assistant Manager, IT
+- [ ] https://hk.linkedin.com/jobs/view/it-technician-developer-at-kin-wing-engineering-company-limited-4385937969 | Kin Wing Engineering Company Limited | IT Technician (Developer)
+- [ ] https://hk.linkedin.com/jobs/view/i-t-support-ref-no-10itsu26030061-at-yau-lee-holdings-limited-4390740959 | Yau Lee Holdings Limited | I.T. Support (Ref. no. 10ITSU26030061)
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-hong-kong-tsuen-wan-on-site-at-reboot-monkey-4382615670 | Reboot Monkey | Data Center Technician - Hong Kong - Tsuen Wan - On-site
+- [ ] https://hk.linkedin.com/jobs/view/it-technical-officer-it-assistant-at-advanced-biomedical-instrumentation-centre-4392190885 | Advanced Biomedical Instrumentation Centre | IT Technical Officer / IT Assistant
+- [ ] https://hk.linkedin.com/jobs/view/it-officer-it-technician-at-hkumed-%E2%80%93-the-university-of-hong-kong-4388339551 | HKUMed – The University of Hong Kong | HKUMed – The University of Hong Kong hiring IT Officer / IT Technician in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/assistant-system-administration-officer-at-lukfook-group-4385327408 | Lukfook Group | Assistant System Administration Officer
+- [ ] https://hk.linkedin.com/jobs/view/associate-director-desktop-technician-at-cohen-steers-4366974354 | Cohen & Steers | Associate Director, Desktop Technician
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-fanling-on-site-at-reboot-monkey-4382622258 | Reboot Monkey | Data Center Technician - Fanling - On-site
+- [ ] https://hk.linkedin.com/jobs/view/manager-it-at-airport-authority-hong-kong-4400364945 | Airport Authority Hong Kong | Manager, IT
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-fanling-on-site-at-reboot-monkey-4382626238 | Reboot Monkey | Data Center Technician - Fanling - On-site
+- [ ] https://hk.linkedin.com/jobs/view/it-infrastructure-specialist-1-year-contract-at-maybank-investment-banking-group-4353250226 | Maybank Investment Banking Group | IT Infrastructure Specialist (1 Year Contract)
+- [ ] https://hk.linkedin.com/jobs/view/it-systems-analyst-at-kennedys-4372725205 | Kennedys | IT Systems Analyst
+- [ ] https://hk.linkedin.com/jobs/view/it-coordinator-at-kimpton-tsim-sha-tsui-hong-kong-4385938968 | Kimpton Tsim Sha Tsui Hong Kong | IT Coordinator
+- [ ] https://hk.linkedin.com/jobs/view/senior-it-support-in-house-40k-up-at-hays-4392590088 | Hays | Senior IT Support (In-house), 40K Up
+- [ ] https://hk.linkedin.com/jobs/view/it-engineer-at-osl-4384201977 | OSL | IT Engineer
+- [ ] https://hk.linkedin.com/jobs/view/group-general-manager-it-at-rectrix-group-limited-4385303864 | Rectrix Group Limited | Group General Manager ( IT )
+- [ ] https://hk.linkedin.com/jobs/view/manager-it-at-airport-authority-hong-kong-4400375603 | Airport Authority Hong Kong | Manager, IT
+- [ ] https://hk.linkedin.com/jobs/view/junior-network-engineer-at-bit-official-4330165212 | BIT Official | Junior Network Engineer
+- [ ] https://hk.linkedin.com/jobs/view/application-support-engineer-at-we%2B-asia-4390431758 | We+ Asia | Application Support Engineer
+- [ ] https://hk.linkedin.com/jobs/view/it-support-analyst-financial-sector-at-pathos-consultancy-4389389677 | Extra Roles | UI/UX, Tutor, Support (HK, English)
+- [ ] https://hk.linkedin.com/jobs/view/information-technology-manager-at-ccb-international-holdings-limited-4398895589 | CCB International (Holdings) Limited | Information Technology Manager
+- [ ] https://hk.linkedin.com/jobs/view/executive-assistant-at-tatler-asia-4385646787 | Tatler Asia | Executive Assistant
+- [ ] https://hk.linkedin.com/jobs/view/senior-it-coordinator-customer-support-at-hactl-hong-kong-air-cargo-terminals-limited-4393017356 | Hactl - Hong Kong Air Cargo Terminals Limited | Senior IT Coordinator (Customer Support)
+- [ ] https://hk.linkedin.com/jobs/view/application-analyst-at-bupa-hong-kong-4392193480 | Bupa Hong Kong | Application Analyst
+- [ ] https://hk.linkedin.com/jobs/view/it-support-engineer-financial-firm-at-hays-4389481352 | Hays | IT Support Engineer (Financial firm)
+- [ ] https://hk.linkedin.com/jobs/view/executive-manager-it-service-operations-transformation-at-the-hong-kong-jockey-club-4365452220 | The Hong Kong Jockey Club | Executive Manager, IT Service Operations Transformation
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-summer-internship-at-innocorn-ai-4399101199 | Innocorn AI | Software Engineer (Summer Internship)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-hsbc-4386846439 | HSBC | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/front-end-developer-futures-at-binance-4371116518 | Binance | Front-end Developer(Futures)
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-fullstack-backend-at-moovup-%E5%A5%BD%E5%B7%A5%E9%80%9F%E9%81%9E-4388673513 | Moovup 好工速遞 | Senior Software Engineer (Fullstack / Backend)
+- [ ] https://hk.linkedin.com/jobs/view/backend-developer-server-web-3-at-futu-holdings-limited-4363976647 | Futu Holdings Limited | Backend Developer, Server (Web 3)
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-developer-at-oxford-university-press-4401028423 | Oxford University Press | Full-Stack Developer
+- [ ] https://hk.linkedin.com/jobs/view/java-backend-engineer-web3-data-at-binance-4320829985 | Binance | Java Backend Engineer - Web3 Data
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-ai-rolling-contract-at-connectedsolutions-4390122138 | ConnectedSolutions | Backend Engineer, AI (Rolling Contract)
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-payment-card-at-redotpay-4338313014 | RedotPay | Backend Engineer(Payment&Card)
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-backend-engineer-dex-at-hyphen-connect-4376995398 | Hyphen Connect | Senior Java Backend Engineer (DEX)
+- [ ] https://hk.linkedin.com/jobs/view/backend-cloud-engineer-web3-greenfield-project-at-reap-4386837113 | Reap | Backend / Cloud Engineer (Web3 Greenfield Project)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-engineer-web-platform-at-binance-4394780593 | Binance | Senior Frontend Engineer, Web Platform
+- [ ] https://hk.linkedin.com/jobs/view/senior-web-developer-web-3-at-futu-holdings-limited-4364125133 | Futu Holdings Limited | Senior Web Developer (Web 3)
+- [ ] https://hk.linkedin.com/jobs/view/senior-web-developer-at-coinmarketcap-4245572023 | CoinMarketCap | Senior Web Developer
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-for-current-university-students-at-binance-4299342316 | Binance | Binance Accelerator Program - Frontend Engineer (for current university students )
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-developer-trading-system-web-3-at-futu-holdings-limited-4364441560 | Futu Holdings Limited | Senior Backend Developer, Trading System (Web 3)
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-engineer-cloud-at-binance-4330623533 | Binance | Senior Frontend Engineer - Cloud
+- [ ] https://hk.linkedin.com/jobs/view/frontend-engineer-lead-kyc-tech-at-binance-4376044716 | KYC Tech in Hong Kong, Hong Kong SAR / | Binance hiring Frontend Engineer Lead - KYC Tech in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-frontend-engineer-stablecoin-at-binance-4365960098 | Stablecoin in Hong Kong, Hong Kong SAR / | Binance hiring Senior Frontend Engineer - Stablecoin in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-developer-risk-web-3-at-futu-holdings-limited-4363957565 | Futu Holdings Limited | Futu Holdings Limited hiring Senior Backend Developer, Risk (Web 3) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-web-developer-at-time-auction-4397062021 | We NeedDevelop and maintain institutional and project-related websitesImplement…See this and similar jobs on | Time Auction hiring Volunteer: Web Developer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/2026-ai-graduate-talent-trainee-at-bitdeer-nasdaq-btdr-4341331638 | Bitdeer (NASDAQ: BTDR) | Bitdeer (NASDAQ: BTDR) hiring 2026 AI Graduate Talent Trainee in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-developer-web-3-at-futu-holdings-limited-4397990164 | Futu Holdings Limited | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/senior-mobile-developer-react-native-at-hyphen-connect-4372384459 | Hyphen Connect | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/cantonese-speaker-only-senior-php-developer-2604-at-flytaxi-4393093596 | Flytaxi | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/senior-ai-solution-lead-hong-kong-business-at-hsbc-4334970126 | HSBC | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/quant-developer-rust-liquidity-platform-delta-one-at-okx-4387957659 | OKX | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/software-architect-liquidity-platform-at-okx-4389894702 | OKX | OKX hiring Software Architect, Liquidity Platform in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/client-side-audio-video-development-engineer-android-ios-web-at-binance-4367557958 | Binance | Client-Side Audio/Video Development Engineer (Android / iOS / Web)
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-developer-at-tron-dao-4380068501 | TRON DAO | Senior Backend Developer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-python-at-qube-research-technologies-4365423988 | Qube Research & Technologies | Software Engineer - Python
+- [ ] https://hk.linkedin.com/jobs/view/java-engineers-%E2%80%93-algo-trading-hong-kong-london-new-york-at-iotech-solutions-4401026125 | ioTech Solutions | Java Engineers – Algo Trading (Hong Kong, London, New York)
+- [ ] https://hk.linkedin.com/jobs/view/fx-liquidity-engineer-java-payfi-stablecoin-at-betterpaymentnetwork-4388265926 | BetterPaymentNetwork | FX Liquidity Engineer (Java) - PayFi / Stablecoin
+- [ ] https://hk.linkedin.com/jobs/view/backend-cloud-engineer-web3-greenfield-project-at-reap-4367431360 | Reap | Backend / Cloud Engineer (Web3 Greenfield Project)
+- [ ] https://hk.linkedin.com/jobs/view/java-developer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4268099350 | 国泰君安国际 Guotai Junan International | Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/java-software-engineer-at-synechron-4384444194 | Synechron | Java Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-ai-llm-at-binance-4299333974 | Binance | Backend Engineer - AI/LLM
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-teksystems-4390962097 | TEKsystems | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-web3-and-backend-developer-stablecoins-at-binance-4367230837 | Binance | Senior Web3 and Backend Developer - Stablecoins
+- [ ] https://hk.linkedin.com/jobs/view/quantitative-developer-java-at-binance-4385930907 | Binance | Quantitative Developer - Java
+- [ ] https://hk.linkedin.com/jobs/view/junior-product-designer-ui-ux-at-lalamove-4299148561 | Lalamove | Junior Product Designer (UI/UX)
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-ui-ux-at-lalamove-4299156114 | Lalamove | Product Designer (UI/UX)
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-%E2%80%93-hong-kong-at-lomography-4389709916 | Lomography | Product Designer – Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-at-binance-4344380893 | Binance | Product Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-at-binance-4394772763 | Binance | Product Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-at-token2049-4383321433 | TOKEN2049 | Product Designer
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-product-designer-ux-ui-designer-at-hung-hing-printing-group-ltd-4387317585 | Hung Hing Printing Group Ltd | Graphic Designer/Product Designer/UX & UI Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-shanghai-based-at-wessco-international-4383454245 | WESSCO International | Product Designer (Shanghai-based)
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-web3-shenzhen-based-at-hyphen-connect-4388686719 | Hyphen Connect | Product Designer (Web3) - Shenzhen based
+- [ ] https://hk.linkedin.com/jobs/view/senior-product-designer-at-ambition-4394600422 | Ambition | Senior Product Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-shenzhen-based-at-wessco-international-4383451323 | WESSCO International | Product Designer (Shenzhen-based)
+- [ ] https://hk.linkedin.com/jobs/view/design-intern-at-prophet-4380555214 | Prophet | Design Intern
+- [ ] https://hk.linkedin.com/jobs/view/founding-product-designer-decentralized-identity-at-hyphen-connect-4382465635 | Hyphen Connect | Founding Product Designer - Decentralized Identity
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-full-time-part-time-freelance-at-brand-off-4385948672 | Brand Off | Graphic Designer (Full Time/ Part Time/Freelance)
+- [ ] https://hk.linkedin.com/jobs/view/brand-designer-at-za-4330125374 | ZA | Brand Designer
+- [ ] https://hk.linkedin.com/jobs/view/senior-brand-designer-special-projects-at-crypto-com-4398458526 | Crypto.com | Senior Brand Designer, Special Projects
+- [ ] https://hk.linkedin.com/jobs/view/visual-designer-at-futu-holdings-limited-4391953697 | Futu Holdings Limited | Visual Designer
+- [ ] https://hk.linkedin.com/jobs/view/accenture-song-digital-product-designer-at-accenture-4328170437 | Accenture | Accenture Song - Digital Product Designer
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-proof-at-imprint-now-4390612051 | Imprint Now | Graphic Designer- Proof
+- [ ] https://hk.linkedin.com/jobs/view/studio-artist-creative-services-at-the-hong-kong-jockey-club-4339333152 | The Hong Kong Jockey Club | Studio Artist, Creative Services
+- [ ] https://hk.linkedin.com/jobs/view/global-product-solution-design-leader-%EF%BC%88ui-ux%EF%BC%89-at-coins-ph-4334710215 | Coins.ph | Global Product Solution Design Leader （UI/UX）
+- [ ] https://hk.linkedin.com/jobs/view/digital-marketing-designer-at-tradebeyond-4400607131 | TradeBeyond | Digital Marketing Designer
+- [ ] https://hk.linkedin.com/jobs/view/visual-designer-%E9%A6%99%E6%B8%AF%E9%AB%98%E6%89%8D-%E4%BC%98%E6%89%8D%E4%B8%93%E9%A1%B9%E8%AE%A1%E5%88%92-at-zeal-group-4387222966 | Zeal Group | Visual Designer (香港高才/优才专项计划)
+- [ ] https://hk.linkedin.com/jobs/view/accenture-song-digital-product-design-manager-uxui-at-accenture-4390148276 | Accenture | Accenture Song - Digital Product Design Manager (UXUI)
+- [ ] https://hk.linkedin.com/jobs/view/packaging-designer-at-confidential-4391948587 | Confidential | Packaging Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-developer-seasonal-at-tesco-sourcing-4386494890 | Tesco Sourcing | Product Developer (Seasonal)
+- [ ] https://hk.linkedin.com/jobs/view/%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88%E5%B8%AB%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89-at-pop-mart-4384999087 | POP MART | 平面設計師（香港）
+- [ ] https://hk.linkedin.com/jobs/view/senior-designer-at-renpho-4393400638 | RENPHO | Senior Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-localization-bangkok-based-relocation-provided-at-agoda-4363622661 | Agoda | Product Designer - Localization (Bangkok - Based, Relocation Provided)
+- [ ] https://hk.linkedin.com/jobs/view/freelance-designer-brand-visual-graphic-%E8%87%AA%E7%94%B1%E8%AE%BE%E8%AE%A1%E5%B8%88-%E5%93%81%E7%89%8C%E3%80%81%E8%A7%86%E8%A7%89%E3%80%81%E5%B9%B3%E9%9D%A2-at-kirin-4381930984 | Kirin | Freelance Designer - Brand, Visual, Graphic / 自由设计师 - 品牌、视觉、平面
+- [ ] https://hk.linkedin.com/jobs/view/product-designer-lead-ui-ux-at-binance-4376482626 | Binance | Product Designer Lead - UI/UX
+- [ ] https://hk.linkedin.com/jobs/view/digital-marketing-designer-at-tradebeyond-4394729756 | TradeBeyond | Digital Marketing Designer
+- [ ] https://hk.linkedin.com/jobs/view/product-design-lead-international-wealth-and-premier-banking-at-hsbc-4387202927 | HSBC | Product Design Lead - International Wealth and Premier Banking
+- [ ] https://hk.linkedin.com/jobs/view/senior-ux-ui-product-designer-up-to-70k-at-clarrow-4368562186 | Clarrow | Senior UX/UI Product Designer (Up to 70K)
+- [ ] https://hk.linkedin.com/jobs/view/senior-product-designer-international-wealth-and-premier-banking-at-hsbc-4386746465 | HSBC | Senior Product Designer - International Wealth and Premier Banking
+- [ ] https://hk.linkedin.com/jobs/view/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%B8%88-at-futu-holdings-limited-4392826978 | Futu Holdings Limited | 视觉设计师
+- [ ] https://hk.linkedin.com/jobs/view/design-intern-at-nex-4353089351 | Nex | Design Intern
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-at-the-black-professionals-society-4399398856 | The Black Professionals Society | Graphic Designer
+- [ ] https://hk.linkedin.com/jobs/view/junior-user-experience-designer-at-kef-kent-engineering-foundry-4378496508 | KEF / Kent Engineering & Foundry | Junior User Experience Designer
+- [ ] https://hk.linkedin.com/jobs/view/senior-product-designer-international-wealth-and-premier-banking-at-hsbc-4389771103 | HSBC | Senior Product Designer - International Wealth and Premier Banking
+- [ ] https://hk.linkedin.com/jobs/view/brand-designer-content-creator-digital-and-vmd-ai-beauty-health-fmcg-at-markato-4394248754 | Markato | Brand Designer & Content Creator (Digital and VMD, AI, Beauty, Health, FMCG)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-21-apr-at-time-auction-4395996567 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (21 Apr)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-27-apr-at-time-auction-4392887800 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (27 Apr)
+- [ ] https://hk.linkedin.com/jobs/view/designer-mox-at-standard-chartered-4324559603 | Standard Chartered | Designer - Mox
+- [ ] https://hk.linkedin.com/jobs/view/web-designer-thai-speaker-preferred-at-odoo-4376051833 | Odoo | Web Designer - Thai speaker preferred
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-freelance-at-occasions-asia-pacific-%E5%A4%A9%E6%A9%9F%E4%BA%9E%E5%A4%AA%E9%9B%86%E5%9C%98-4392191752 | Occasions Asia Pacific 天機亞太集團 | Graphic Designer (Freelance)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-16-apr-at-time-auction-4395946953 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (16 Apr)
+- [ ] https://hk.linkedin.com/jobs/view/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%B8%88-at-zeuspace-group-4392528337 | Zeuspace Group | 视觉设计师
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-20-apr-at-time-auction-4395995586 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (20 Apr)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-24-apr-at-time-auction-4396305543 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (24 Apr)
+- [ ] https://hk.linkedin.com/jobs/view/ict-support-analyst-at-brunswick-group-4389573112 | Brunswick Group | ICT Support Analyst
+- [ ] https://hk.linkedin.com/jobs/view/incident-technician-at-ampstek-4389857587 | Ampstek | Ampstek hiring Incident Technician in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/onsite-it-support-technician-at-nsc-global-4380982231 | NSC Global | Onsite IT Support Technician
+- [ ] https://hk.linkedin.com/jobs/view/l2-it-onsite-support-consultant-at-amaris-consulting-4386784233 | Amaris Consulting | L2 IT Onsite Support Consultant
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-manager-at-hkt-4399100826 | HKT | Technical Support Manager
+- [ ] https://hk.linkedin.com/jobs/view/officer-it-services-at-hk-express-4382859707 | HK Express | Officer, IT Services
+- [ ] https://hk.linkedin.com/jobs/view/end-user-support-engineer-at-millennium-4370689561 | Millennium | End User Support Engineer
+- [ ] https://hk.linkedin.com/jobs/view/support-analyst-portfolio-managment-systems-at-factset-4379330962 | FactSet | Support Analyst, Portfolio Managment Systems
+- [ ] https://hk.linkedin.com/jobs/view/homescan-panel-coordinator-at-nielseniq-4362593084 | NielsenIQ | Homescan Panel Coordinator
+- [ ] https://hk.linkedin.com/jobs/view/chief-technology-officer-information-technology-ceo-s-office-central-services-at-securities-and-futures-commission-sfc-4395268671 | Securities and Futures Commission (SFC) | Chief Technology Officer - Information Technology, CEO's Office & Central Services
+- [ ] https://hk.linkedin.com/jobs/view/assistant-facilities-manager-event-helpdesk-management-in-university-at-cbre-asia-pacific-4268791602 | CBRE Asia Pacific | Assistant Facilities Manager (Event & Helpdesk Management in University)
+- [ ] https://hk.linkedin.com/jobs/view/gvpm-technology-asia-service-lead-infrastructure-%E2%80%93-vice-president-at-morgan-stanley-4329736923 | Morgan Stanley | GVPM Technology Asia Service Lead (Infrastructure)– Vice President
+- [ ] https://hk.linkedin.com/jobs/view/customer-services-officer-at-asiaworld-expo-management-limited-4385958160 | AsiaWorld-Expo Management Limited | Customer Services Officer
+- [ ] https://hk.linkedin.com/jobs/view/senior-manager-data-centre-operation-at-cyberport-hong-kong-4399865170 | Cyberport Hong Kong | Senior Manager - Data Centre Operation
+- [ ] https://hk.linkedin.com/jobs/view/assistant-relationship-manager-at-bank-of-singapore-asia%E2%80%99s-global-private-bank-4381718586 | Bank of Singapore | Bank of Singapore, Asia’s Global Private Bank hiring Assistant Relationship Manager in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/assistant-relationship-manager-at-bank-of-singapore-asia%E2%80%99s-global-private-bank-4356609107 | Bank of Singapore, Asia’s Global Private Bank | Assistant Relationship Manager
+- [ ] https://hk.linkedin.com/jobs/view/senior-customer-services-officer-at-asiaworld-expo-management-limited-4390755822 | AsiaWorld-Expo Management Limited | Senior Customer Services Officer
+- [ ] https://hk.linkedin.com/jobs/view/facilities-officer-at-jll-4378317315 | JLL | Facilities Officer
+- [ ] https://hk.linkedin.com/jobs/view/client-solutions-associate-sp-a-hong-kong-june-2026-at-factset-4383101660 | FactSet | Client Solutions Associate - SP&A (Hong Kong - June 2026)
+- [ ] https://hk.linkedin.com/jobs/view/account-manager-b2b-tech-saas-at-omnichat-4395976277 | Omnichat | Account Manager (B2B Tech SaaS)
+- [ ] https://hk.linkedin.com/jobs/view/manager-end-user-services-engineer-at-ocbc-4371113112 | OCBC | Manager, End User Services Engineer
+- [ ] https://hk.linkedin.com/jobs/view/store-manager-at-sandbox-vr-4363897401 | Sandbox VR | Store Manager
+- [ ] https://hk.linkedin.com/jobs/view/service-delivery-manager-at-hkt-4395934473 | HKT | Service Delivery Manager
+- [ ] https://hk.linkedin.com/jobs/view/assistant-relationship-manager-financial-intermediaries-at-bank-of-singapore-asia%E2%80%99s-global-private-bank-4382752804 | Bank of Singapore, Asia’s Global Private Bank | Assistant Relationship Manager (Financial Intermediaries)
+- [ ] https://hk.linkedin.com/jobs/view/senior-product-manager-client-connectivity-connected-banking-at-hsbc-4386380176 | HSBC | Senior Product Manager, Client Connectivity-Connected Banking
+- [ ] https://hk.linkedin.com/jobs/view/secondary-school-teacher-german-second-language-english-or-french-german-international-stream-at-german-swiss-international-school-%E5%BE%B7%E7%91%9E%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1-4381022104 | German Swiss International School / 德瑞國際學校 | SECONDARY SCHOOL TEACHER - GERMAN & SECOND LANGUAGE (ENGLISH or FRENCH) (GERMAN INTERNATIONAL STREAM)
+- [ ] https://hk.linkedin.com/jobs/view/assistant-guide-at-guidepost-montessori-4388343547 | Guidepost Montessori | Assistant Guide
+- [ ] https://hk.linkedin.com/jobs/view/home-teacher-head-of-home-education-hk-international-american-curriculum-at-confidential-jobs-4387263916 | Confidential Jobs | Home Teacher / Head of Home Education (HK International / American Curriculum)
+
+
+
+
+
+- [ ] https://hk.linkedin.com/jobs/view/fullstack-engineer-nodejs-50k-p-m-logistic-at-argyll-scott-4401039568 | Argyll Scott | Argyll Scott hiring Fullstack Engineer- NodeJS- 50k P/M- Logistic in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-full-stack-developer-gamefi-defi-at-hyphen-connect-4328700402 | Hyphen Connect | Hyphen Connect hiring Senior Full Stack Developer (GameFi/DeFi) in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/fs-tax-front-end-full-stack-developer-customer-tax-operations-reporting-senior-consultant-hk-at-ey-4375333443 | Front-end/Full-Stack Developer (Customer Tax Operations &amp; Reporting) | EY hiring FS Tax - Front-end/Full-Stack Developer (Customer Tax Operations &amp; Reporting) - Senior Consultant - HK in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-software-engineer-web-full-stack-at-bitmex-4370940509 | BitMEX | BitMEX hiring Senior Software Engineer, Web (Full Stack) in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/full-stack-developer-analyst-risk-quant-analytics-at-polymer-capital-4323582627 | Polymer Capital | Polymer Capital hiring Full Stack Developer (Analyst, Risk &amp; Quant Analytics) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/senior-system-analyst-full-stack-developer-2-year-contract-esf-centre-at-english-schools-foundation-4393253830 | ESF Centre in Hong Kong SAR / | English Schools Foundation hiring Senior System Analyst/Full Stack Developer (2 Year Contract) - ESF Centre in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/python-developer-at-tribus-4393959262 | Tribus | Tribus hiring Python Developer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/python-developer-at-iotech-solutions-4398996774 | ioTech Solutions | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/python-developer-data-sql-hedge-fund-at-bah-partners-4391686656 | BAH Partners | Sign Up
+- [ ] https://hk.linkedin.com/jobs/view/python-developer-global-trading-firm-hong-kong-at-nls-executive-search-4323676776 | NLS Executive Search | Python Developer - Global Trading Firm - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/front-office-python-developer-at-eclipse-trading-4389042452 | Eclipse Trading | Front Office Python Developer
+- [ ] https://hk.linkedin.com/jobs/view/python-engineer-at-canonical-4395235855 | Canonical | Python Engineer
+- [ ] https://hk.linkedin.com/jobs/view/quantitative-developer-python-c%2B%2B-at-bah-partners-4371730484 | BAH Partners | Quantitative Developer - Python / C++
+- [ ] https://hk.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-ai-ml-analytics-at-canonical-4148910568 | Canonical | Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+- [ ] https://hk.linkedin.com/jobs/view/quantitative-developer-at-aurum-search-limited-4386684905 | Aurum Search Limited | Quantitative Developer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-python-linux-packaging-at-canonical-4284901073 | Canonical | Software Engineer (Python/Linux/Packaging)
+- [ ] https://hk.linkedin.com/jobs/view/ai-automation-engineer-at-fynder-talent-4385723132 | Fynder Talent | AI Automation Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-front-office-trading-%40-global-trading-firms-hk-sg-at-bah-partners-4390466684 | BAH Partners | Software Engineer (C++/Python) - Front-office Trading @ Global Trading Firms (HK/SG)
+- [ ] https://hk.linkedin.com/jobs/view/python-software-engineer-ubuntu-hardware-certification-team-at-canonical-4199884788 | Canonical | Python Software Engineer - Ubuntu Hardware Certification Team
+- [ ] https://hk.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4284588048 | Canonical | Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+- [ ] https://hk.linkedin.com/jobs/view/senior-lead-python-engineer-at-z%C3%BChlke-group-4362602450 | Zühlke Group | Senior / Lead Python Engineer
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-digital-at-aecom-4379840331 | AECOM | Analyst Programmer, Digital
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-engineer-python-at-btse-4393516119 | BTSE | Senior Backend Engineer (Python)
+- [ ] https://hk.linkedin.com/jobs/view/python-software-engineer-ubuntu-hardware-certification-team-at-canonical-4365645385 | Canonical | Python Software Engineer - Ubuntu Hardware Certification Team
+- [ ] https://hk.linkedin.com/jobs/view/apac-cash-equities-post-trade-sme-python-engineer-6-month-contract-at-btig-4383463660 | BTIG | APAC Cash Equities Post-Trade SME / Python Engineer 6-month Contract
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-low-latency-at-we%2B-asia-4392502262 | We+ Asia | Senior Java Developer (Low-Latency)
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-global-investment-bank-hong-kong-at-nls-executive-search-4393081720 | NLS Executive Search | Senior Java Developer - Global Investment Bank - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-at-migso-pcubed-4384025509 | MIGSO-PCUBED | Senior Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-trading-platform-at-crypto-com-4398879934 | Crypto.com | Senior Java Developer (Trading Platform)
+- [ ] https://hk.linkedin.com/jobs/view/lead-java-developer-at-pr-glolinks-4398102402 | PR GLOLINKS | Lead Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-vp-equities-at-randstad-hong-kong-4392594364 | Randstad Hong Kong | Senior Java Developer (VP) - Equities
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-securities-trading-at-usmart-securities-limited-4385939967 | uSmart Securities Limited | (Senior) Java Developer (Securities Trading)
+- [ ] https://hk.linkedin.com/jobs/view/java-developer-associate-p2-institutional-securities-technology-at-morgan-stanley-4366443579 | Morgan Stanley | Java Developer, Associate P2, Institutional Securities Technology
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-software-engineer-open-for-relocation-at-luxoft-4400369892 | Luxoft | Senior Java Software Engineer (Open for relocation)
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-open-for-relocation-at-luxoft-4400351574 | Luxoft | Senior Java Developer (Open for relocation)
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-%E2%80%93-low-latency-electronic-trading-at-nicoll-curtin-4395032419 | Nicoll Curtin | Senior Java Developer – Low Latency / Electronic Trading
+- [ ] https://hk.linkedin.com/jobs/view/front-office-java-developer-global-ibank-at-williamselect-4388689633 | WilliamSELECT | Front Office Java Developer- Global iBank
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-engineer-java-at-binance-4299357035 | Binance | Senior Backend Engineer - Java
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-exchange-service-at-binance-4299344235 | Binance | Senior Java Developer - Exchange Service
+- [ ] https://hk.linkedin.com/jobs/view/java-prefer-finance-industry-background-at-metaverse-cloud-solution-pte-ltd-4330880263 | Metaverse Cloud Solution Pte Ltd. | Java (Prefer Finance Industry Background)
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-programm-java-engineer-at-binance-4302431742 | Binance | Binance Accelerator Programm - Java Engineer
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-backend%EF%BC%88java%EF%BC%89-at-binance-4320403873 | Binance | Binance Accelerator Program - Backend（Java）
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-advanced-java-expertise-at-luxoft-4392384721 | Luxoft | Senior Java Developer [advanced Java expertise]
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-programm-software-engineer-java-at-binance-4299350170 | Binance | Binance Accelerator Programm - Software Engineer Java
+- [ ] https://hk.linkedin.com/jobs/view/lead-java-developer-vice-president-p4-pwm-tech-asia-australia-at-morgan-stanley-4326559609 | Morgan Stanley | Lead Java Developer, Vice President P4, PWM Tech Asia & Australia
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-at-luxoft-4382917833 | Luxoft | Senior Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-trading-platforms-experience-at-luxoft-4390691985 | Luxoft | Senior Java Developer [trading platforms experience]
+- [ ] https://hk.linkedin.com/jobs/view/backend-engineer-java-kyc-tech-at-binance-4326185422 | Binance | Backend Engineer (Java) - KYC Tech
+- [ ] https://hk.linkedin.com/jobs/view/java-engineer-exchange-service-at-binance-4299344229 | Binance | Java Engineer - Exchange Service
+- [ ] https://hk.linkedin.com/jobs/view/vp-equity-senior-java-developer-at-barclays-4363989849 | Barclays | VP - Equity Senior Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/funding-senior-java-developer-at-barclays-4375263278 | Barclays | Funding Senior Java Developer
+- [ ] https://hk.linkedin.com/jobs/view/java-development-engineer-intern-p2p-at-bybit-4396388417 | Bybit | Java Development Engineer Intern (P2P)
+- [ ] https://hk.linkedin.com/jobs/view/senior-java-developer-kafka-kubernetes-docker-sql-kdb-excel-vba-at-luxoft-4399850959 | Luxoft | Senior Java Developer [Kafka, Kubernetes, Docker, SQL, KDB, Excel/VBA]
+- [ ] https://hk.linkedin.com/jobs/view/lending-java-developer-hong-kong-at-galaxy-4366311266 | Galaxy | Lending Java Developer - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/senior-analyst-programmer-at-po-leung-kuk-4385958180 | Po Leung Kuk | Senior Analyst Programmer
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-at-water-oasis-group-limited-4377675756 | Water Oasis Group Limited | Analyst Programmer
+- [ ] https://hk.linkedin.com/jobs/view/system-analyst-senior-analyst-programmer-net-at-growthops-asia-4387220245 | GrowthOps Asia | System Analyst/Senior Analyst Programmer (.Net)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-java-at-innovic-technology-corporation-limited-4387917962 | Innovic Technology Corporation Limited | Analyst Programmer (JAVA)
+- [ ] https://hk.linkedin.com/jobs/view/business-analyst-analyst-programmer-hr-system-at-great-eagle-holdings-limited-4395014489 | Great Eagle Holdings Limited | Business Analyst / Analyst Programmer (HR System)
+- [ ] https://hk.linkedin.com/jobs/view/system-analyst-analyst-programmer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4072740464 | 国泰君安国际 Guotai Junan International | System Analyst / Analyst Programmer
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-digital-at-aecom-4380089460 | AECOM | Analyst Programmer, Digital
+- [ ] https://hk.linkedin.com/jobs/view/analyst-programmer-finebi-%24%24%24-bonus-medical-etc-at-adecco-4397674215 | Adecco | Analyst Programmer - FineBI ($$$, Bonus, Medical etc.)
+- [ ] https://hk.linkedin.com/jobs/view/senior-analyst-programmer-flutter-javascript-at-robert-walters-4399500871 | Robert Walters | Senior Analyst Programmer - Flutter & JavaScript
+- [ ] https://hk.linkedin.com/jobs/view/senior-programmer-1-year-contract-at-zung-fu-company-limited-4377749686 | Zung Fu Company Limited | Senior Programmer (1-year contract)
+- [ ] https://hk.linkedin.com/jobs/view/ai-system-architect-system-analyst-financial-technonlogy-at-industrial-and-commercial-bank-of-china-4388520285 | Industrial and Commercial Bank of China | AI System Architect / System Analyst, Financial Technonlogy
+- [ ] https://hk.linkedin.com/jobs/view/insurance-technical-lead-application-manager-system-analyst-analyst-developer-at-one-arrow-consulting-group-4391868492 | One Arrow Consulting Group | Insurance Technical Lead / Application Manager / System Analyst / Analyst Developer
+- [ ] https://hk.linkedin.com/jobs/view/system-analyst-analyst-programmer-opa-26000kw-at-hong-kong-metropolitan-university-4394390747 | Hong Kong Metropolitan University | System Analyst / Analyst Programmer (OPA) - (26000KW)
+- [ ] https://hk.linkedin.com/jobs/view/senior-analyst-programmer-financial-information-system-at-hong-kong-baptist-university-4399392473 | Hong Kong Baptist University | Senior Analyst Programmer (Financial Information System)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-consultant-senior-consultant-java-development-ies-hong-kong-315147-at-deloitte-4387122549 | Deloitte | Analyst/ Consultant/ Senior Consultant - Java Development - IES - Hong Kong(315147)
+- [ ] https://hk.linkedin.com/jobs/view/system-analyst-senior-analyst-programmer-net-banking-at-connectedgroup-4398103207 | ConnectedGroup | System Analyst / Senior Analyst Programmer - .NET (Banking)
+- [ ] https://hk.linkedin.com/jobs/view/senior-analyst-programmer-division-of-transdisciplinary-undergraduate-programmes-at-hong-kong-baptist-university-4399395653 | Hong Kong Baptist University | Senior Analyst Programmer, Division of Transdisciplinary Undergraduate Programmes
+- [ ] https://hk.linkedin.com/jobs/view/it-project-manager-application-focus-retail-e-commerce-industry-hkd-50k-13-at-adecco-4385688074 | Adecco | IT Project Manager (Application Focus) - Retail/E-Commerce Industry (HKD 50K * 13)
+- [ ] https://hk.linkedin.com/jobs/view/senior-business-development-executive-cold-calling-focused-jezz-at-new-media-group-hk-4368607137 | New Media Group HK | (Senior) Business Development Executive (Cold-calling Focused) (JEZZ)
+- [ ] https://hk.linkedin.com/jobs/view/event-marketing-manager-finance-media-focused-economic-digest-at-new-media-group-hk-4368822360 | New Media Group HK | Event Marketing Manager (Finance & Media Focused) (Economic Digest)
+- [ ] https://hk.linkedin.com/jobs/view/graduate-stem-developer-summer-2026-at-data-intellect-4353496264 | Data Intellect | Graduate STEM Developer (Summer 2026)
+- [ ] https://hk.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4388427644 | Bending Spoons | Graduate data scientist
+- [ ] https://hk.linkedin.com/jobs/view/fresh-grad-hire-system-testing-engineer-financial-securities-system-focus-at-futu-holdings-limited-4384465242 | Futu Holdings Limited | Fresh Grad Hire - System Testing Engineer (Financial Securities System Focus)
+- [ ] https://hk.linkedin.com/jobs/view/tester-at-tata-consultancy-services-4380690856 | Tata Consultancy Services | Tester
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-evm-at-hyphen-connect-4382410913 | Hyphen Connect | Software Engineer (EVM)
+- [ ] https://hk.linkedin.com/jobs/view/junior-data-scientist-ai-engineer-at-thinkcol-limited-4398737594 | ThinkCol Limited | Junior Data Scientist/AI Engineer
+- [ ] https://hk.linkedin.com/jobs/view/project-intern%E2%80%94-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-at-cicc-4382272947 | CICC | Project Intern— 软件开发实习生
+- [ ] https://hk.linkedin.com/jobs/view/graduate-digital-engineer-2026-at-arup-4373802076 | Arup | Graduate Digital Engineer (2026)
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-fano-fano-labs-4354415164 | Fano (Fano Labs) | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/swire-resources-ai-summer-intern-at-swire-resources-limited-4376764763 | Swire Resources Limited | Swire Resources AI Summer Intern
+- [ ] https://hk.linkedin.com/jobs/view/junior-deveops-engineer-at-actusraypartners-limited-4399386708 | ActusRayPartners Limited | Junior DeveOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-winson-group-macau-%E6%B0%B8%E7%87%8A%E9%9B%86%E5%9C%98-4399125028 | Winson Group Macau 永燊集團 | Software Engineer
+- [ ] https://hk.linkedin.com/jobs/view/junior-wholesale-manager-business-developer-%E2%80%93-apac-at-lomography-4389726352 | Lomography | Junior Wholesale Manager/Business Developer – APAC
+- [ ] https://hk.linkedin.com/jobs/view/sales-manager-data-center-services-at-first-point-group-4397057189 | First Point Group | First Point Group hiring Sales Manager (Data Center Services) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/junior-qa-engineer-banking-at-keyrus-4387341167 | Keyrus | Junior QA Engineer (Banking)
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-asian-timezones-at-hermeneutic-investments-4371817966 | hermeneutic Investments | Senior QA Engineer - Asian Timezones
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-payment-tech-at-binance-4372372589 | Binance | QA Engineer - Payment Tech
+- [ ] https://hk.linkedin.com/jobs/view/senior-business-qa-engineer-at-binance-4299339833 | Binance | Senior Business QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/quality-assurance-engineer-at-bnb-chain-4393083532 | BNB Chain | Quality Assurance Engineer
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-global-crypto-exchange-remote-at-nls-executive-search-4325952531 | NLS Executive Search | QA Engineer - Global Crypto Exchange - Remote
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-at-currenxie-4374216955 | Currenxie | QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-ai-llm-at-binance-4299344225 | Binance | Senior QA Engineer - AI/LLM
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-user-app-at-lalamove-4400211495 | Lalamove | Senior QA Engineer, User app
+- [ ] https://hk.linkedin.com/jobs/view/senior-quality-assurance-engineer-quality-assurance-engineer-at-china-harbour-engineering-co-ltd-4366524093 | China Harbour Engineering Co. Ltd | Senior Quality Assurance Engineer / Quality Assurance Engineer
+- [ ] https://hk.linkedin.com/jobs/view/testing-engineer-wallet-digital-assets-at-futu-holdings-limited-4363976652 | Futu Holdings Limited | Testing Engineer (Wallet & Digital Assets)
+- [ ] https://hk.linkedin.com/jobs/view/automation-test-engineer-at-bit-official-4360861505 | BIT Official | Automation Test Engineer
+- [ ] https://hk.linkedin.com/jobs/view/testing-engineer-trading-system-at-futu-holdings-limited-4364125134 | Futu Holdings Limited | Testing Engineer (Trading System)
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-at-binance-4376999378 | Binance | QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-smart-contract-testing-at-hyphen-connect-4382409882 | Hyphen Connect | QA Engineer (Smart Contract Testing)
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-earn-at-binance-4299339835 | Binance | Senior QA Engineer - Earn
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-at-nex-4389044274 | Nex | QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-cloud-java-coding-at-binance-4299340660 | Binance | Senior QA Engineer - Cloud (Java Coding)
+- [ ] https://hk.linkedin.com/jobs/view/qa-automation-engineer-ai-gen-ai-j12731-at-pinpoint-asia-4398697826 | Pinpoint Asia | QA Automation Engineer - AI / Gen-AI - J12731
+- [ ] https://hk.linkedin.com/jobs/view/automation-qa-engineer-at-coinmarketcap-4245567256 | CoinMarketCap | Automation QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-%EF%BC%88binance-square%EF%BC%89-at-binance-4371556679 | Binance | QA Engineer （Binance Square）
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-%E2%80%93-qa-automation-engineer-at-binance-4332565658 | Binance | Binance Accelerator Program – QA Automation Engineer
+- [ ] https://hk.linkedin.com/jobs/view/qa-engineer-ai-platform-governance-30-58k-at-michael-page-4398713289 | Michael Page | QA Engineer - AI Platform & Governance 30-58K
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-smart-contract-testing-dex-at-hyphen-connect-4376999310 | Hyphen Connect | Senior QA Engineer (Smart Contract Testing/DEX)
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-trading-tech-at-binance-4299339832 | Binance | Senior QA Engineer (Trading Tech)
+- [ ] https://hk.linkedin.com/jobs/view/smart-contract-qa-engineer-oracle-at-coinmarketcap-4345465463 | CoinMarketCap | Smart Contract QA Engineer (Oracle)
+- [ ] https://hk.linkedin.com/jobs/view/assistant-engineer-engineer-electrical-electronic-%E2%80%93-safety-emc-testing-at-intertek-greater-china-4329039986 | Intertek Greater China | Assistant Engineer / Engineer (Electrical / Electronic) – Safety / EMC Testing
+- [ ] https://hk.linkedin.com/jobs/view/quality-engineer-at-gogox-4391808123 | GoGoX | Quality Engineer
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-quality-assurance-engineer-at-binance-4389551589 | Binance | Binance Accelerator Program - Quality Assurance Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-performance-qa-engineer-at-binance-4325877067 | Binance | Senior Performance QA Engineer
+- [ ] https://hk.linkedin.com/jobs/view/lab-test-engineer-electrochemistry-at-sparkmate-4381453416 | Sparkmate | Lab Test Engineer (Electrochemistry)
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-quality-assurance-engineer-risk-at-binance-4330174726 | Binance | Binance Accelerator Program - Quality Assurance Engineer, Risk
+- [ ] https://hk.linkedin.com/jobs/view/senior-qa-engineer-web3-wallet-at-binance-4387343098 | Binance | Senior QA Engineer - Web3 Wallet
+- [ ] https://hk.linkedin.com/jobs/view/lab-engineer-trainee-engineer-perform-physical-mechanical-testing-at-bureau-veritas-4390994879 | Bureau Veritas | Lab Engineer Trainee/ Engineer - Perform physical / mechanical testing
+- [ ] https://hk.linkedin.com/jobs/view/lab-engineer-trainee-engineer-perform-physical-mechanical-testing-at-bureau-veritas-north-america-4391540988 | Bureau Veritas North America | Lab Engineer Trainee/ Engineer - Perform physical / mechanical testing
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-sopra-steria-4375654703 | Sopra Steria | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-i-shenzhen-at-wati-4336463611 | Wati | Devops Engineer I - Shenzhen
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-toppan-security-4393855358 | TOPPAN Security | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-vistra-4399399519 | VISTRA | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-the-lane-crawford-joyce-group-4399107917 | The Lane Crawford Joyce Group | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/aws-devops-engineer-at-tribus-4398943125 | Tribus | AWS DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-palo-it-4381588290 | PALO IT | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-intern-graduate-program-at-sapientia-technologies-limited-4307507967 | Sapientia Technologies Limited | DevOps Engineer, Intern/Graduate Program
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-fano-fano-labs-4391545784 | Fano (Fano Labs) | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-nityo-infotech-4399132020 | Nityo Infotech | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-nityo-infotech-4396394725 | Nityo Infotech | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-midnight-foundation-at-input-output-group-4393527306 | Input Output Group | DevOps Engineer - Midnight Foundation
+- [ ] https://hk.linkedin.com/jobs/view/senior-site-reliability-devops-engineer-asian-timezones-at-hermeneutic-investments-4390329008 | hermeneutic Investments | Senior Site Reliability/DevOps Engineer- Asian Timezones
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-clp-4370616416 | CLP | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-palo-it-4312667109 | PALO IT | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-devops-engineer-devops-engineer-at-ex-io-4296417637 | EX.IO | Senior DevOps Engineer / DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-at-eclipse-trading-4301525304 | Eclipse Trading | DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-site-reliability-engineer-apac-at-tyk-4383715106 | Tyk | Senior Site Reliability Engineer - APAC
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-global-financial-institution-hong-kong-at-nls-executive-search-4372360443 | NLS Executive Search | DevOps Engineer - Global Financial Institution - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-at-block-mb-4400583084 | Block MB | Site Reliability Engineer
+- [ ] https://hk.linkedin.com/jobs/view/hk-sg-tw-senior-sre-devops-infrastructure-engineer-at-talentplus-consultants-4390440040 | TalentPlus Consultants | [HK/SG/TW] Senior SRE / DevOps/ Infrastructure Engineer
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-trading-elite-fintech-%24700-000-%241-200-000-hkd-%2B-bonus-at-hunter-bond-4399384329 | Hunter Bond | Site Reliability Engineer - Trading - Elite FinTech - $700,000-$1,200,000 HKD + Bonus
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-at-selby-jennings-4395271668 | Selby Jennings | Site Reliability Engineer
+- [ ] https://hk.linkedin.com/jobs/view/infra-engineer-aws-linux-at-ashford-benjamin-4387916525 | Ashford Benjamin | Infra Engineer (AWS, Linux)
+- [ ] https://hk.linkedin.com/jobs/view/senior-devops-engineer-at-toppan-security-4393852345 | TOPPAN Security | Senior DevOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-security-clawbot-at-binance-4303165814 | Binance | DevOps Engineer (Security, ClawBot)
+- [ ] https://hk.linkedin.com/jobs/view/cloud-engineer-at-united-asia-finance-ltd-4381062547 | United Asia Finance Ltd. | Cloud Engineer
+- [ ] https://hk.linkedin.com/jobs/view/cloud-engineer-at-oocl-4379157896 | OOCL | Cloud Engineer
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-global-buy-side-institution-hong-kong-at-nls-executive-search-4391686819 | NLS Executive Search | Site Reliability Engineer - Global Buy Side Institution - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/senior-cloud-engineer-at-ambition-4393258750 | Ambition | Senior Cloud Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-site-reliability-engineer-low-latency-trading-equities-%7E-2m%2B-hkd-at-mondrian-alpha-4385014095 | Mondrian Alpha | Senior Site Reliability Engineer - Low Latency Trading - Equities ~ 2M+ HKD
+- [ ] https://hk.linkedin.com/jobs/view/sre-engineer-web-3-at-futu-holdings-limited-4363289571 | Futu Holdings Limited | SRE Engineer (Web 3)
+- [ ] https://hk.linkedin.com/jobs/view/cloud-service-engineer%C2%A0-at-softwareone-4388660468 | SoftwareOne | Cloud Service Engineer
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-blockchain-node-focus-at-amber-group-4395948521 | Amber Group | Site Reliability Engineer (blockchain node focus)
+- [ ] https://hk.linkedin.com/jobs/view/engineer-%E2%80%93-infrastructure-and-cloud-at-kai-tak-sports-park-4387959999 | Kai Tak Sports Park | Engineer – Infrastructure and Cloud
+- [ ] https://hk.linkedin.com/jobs/view/devops%E5%B7%A5%E7%A8%8B%E5%B8%88-at-bitbase-exchange-4387964406 | Bitbase Exchange | DevOps工程师
+- [ ] https://hk.linkedin.com/jobs/view/senior-devops-engineer-defi-at-hyphen-connect-4382412794 | Hyphen Connect | Senior DevOps Engineer (DeFi)
+- [ ] https://hk.linkedin.com/jobs/view/ai-devops-engineer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4352791379 | 国泰君安国际 Guotai Junan International | AI & Devops Engineer
+- [ ] https://hk.linkedin.com/jobs/view/cloud-engineer-at-%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%E5%9B%BD%E9%99%85-guotai-junan-international-4352331030 | 国泰君安国际 Guotai Junan International | Cloud Engineer
+- [ ] https://hk.linkedin.com/jobs/view/devops-engineer-blockchain-at-binance-4388666676 | Binance | DevOps Engineer, Blockchain
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-hong-kong-at-susquehanna-international-group-4368981122 | Susquehanna International Group | Site Reliability Engineer - Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/cloud-field-engineer-at-canonical-4400342496 | Canonical | Cloud Field Engineer
+- [ ] https://hk.linkedin.com/jobs/view/aws-infra-engineer-perm-prop-trading-40-55hkd-p-m-at-argyll-scott-4395274297 | Argyll Scott | AWS Infra Engineer/PERM/Prop Trading/40-55HKD P/M
+- [ ] https://hk.linkedin.com/jobs/view/associate-cloud-services-engineer-at-hong-kong-exchanges-and-clearing-limited-hkex-4038985362 | Hong Kong Exchanges and Clearing Limited (HKEX) | Associate, Cloud Services Engineer
+- [ ] https://hk.linkedin.com/jobs/view/site-reliability-engineer-infrastructure-applications-director-p3-ets-at-morgan-stanley-4383935093 | Morgan Stanley | Site Reliability Engineer (Infrastructure Applications) - Director P3 - ETS
+- [ ] https://hk.linkedin.com/jobs/view/solutions-engineer-at-formx-ai-4398105651 | FormX.ai | Solutions Engineer
+- [ ] https://hk.linkedin.com/jobs/view/aws-infra-storage-engineer-perm-prop-trading-40-55hkd-p-m-at-argyll-scott-4399806831 | Argyll Scott | AWS Infra Storage Engineer/PERM/Prop Trading/40-55HKD P/M
+- [ ] https://hk.linkedin.com/jobs/view/aws-network-operations-engineer-at-tribus-4387202109 | Tribus | AWS Network Operations Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-devops-engineer-blockchain-at-binance-4380697047 | Binance | Senior DevOps Engineer (Blockchain)
+- [ ] https://hk.linkedin.com/jobs/view/senior-cloud-security-engineer-mnc-retail-at-hays-4395282192 | Hays | Senior Cloud Security Engineer - MNC Retail
+- [ ] https://hk.linkedin.com/jobs/view/binance-accelerator-program-software-engineer-devops-data-at-binance-4390925267 | Binance | Binance Accelerator Program - Software Engineer (DevOps & Data)
+- [ ] https://hk.linkedin.com/jobs/view/strategic-customer-engineer-fsi-google-cloud-at-google-4397604974 | Google | Strategic Customer Engineer, FSI, Google Cloud
+- [ ] https://hk.linkedin.com/jobs/view/platform-engineer-officer-cloud-platform-services-it-at-hong-kong-exchanges-and-clearing-limited-hkex-4376594315 | Hong Kong Exchanges and Clearing Limited (HKEX) | Platform Engineer - Officer - Cloud Platform Services - IT
+- [ ] https://hk.linkedin.com/jobs/view/cloud-architect-at-tribus-4398939645 | Tribus | Cloud Architect
+- [ ] https://hk.linkedin.com/jobs/view/hk-secops-engineer-at-sopra-steria-4386084880 | Sopra Steria | HK SecOps Engineer
+- [ ] https://hk.linkedin.com/jobs/view/cloud-solution-architect-1m-1-2m-basic-%2B-bonus-at-persol-apac-4379176359 | PERSOL APAC | Cloud Solution Architect ( 1M - 1.2M basic + bonus)
+- [ ] https://hk.linkedin.com/jobs/view/system-engineer-at-bond-west-consultants-4399102901 | Bond West Consultants | System Engineer
+- [ ] https://hk.linkedin.com/jobs/view/azure-cloud-security-engineer-at-robert-walters-4401015441 | Robert Walters | Azure Cloud Security Engineer
+- [ ] https://hk.linkedin.com/jobs/view/senior-cloud-security-engineer-i-global-retailer-at-peoplebank-asia-4396393129 | Peoplebank Asia | (Senior) Cloud Security Engineer I Global Retailer
+- [ ] https://hk.linkedin.com/jobs/view/aws-cloud-infrastructure-and-compute-architect-at-qube-research-technologies-4389543220 | Qube Research & Technologies | AWS Cloud Infrastructure and Compute Architect
+- [ ] https://hk.linkedin.com/jobs/view/solution-engineer-copilot-at-microsoft-4345410438 | Microsoft | Solution Engineer - Copilot
+- [ ] https://hk.linkedin.com/jobs/view/graduate-rail-systems-engineer-at-arup-4385318783 | Arup | Graduate Rail Systems Engineer
+- [ ] https://hk.linkedin.com/jobs/view/product-solution-architect-tencent-cloud-native-suite-at-tencent-4193261480 | Tencent | Product Solution Architect (Tencent Cloud-native Suite)
+- [ ] https://hk.linkedin.com/jobs/view/windows-system-engineer-at-bah-partners-4391691510 | BAH Partners | Windows System Engineer
+- [ ] https://hk.linkedin.com/jobs/view/cloud-solutions-architect-automotive-enterprise-partnership-solution-at-bytedance-4384955425 | ByteDance | Cloud Solutions Architect (Automotive) - Enterprise Partnership & Solution
+- [ ] https://hk.linkedin.com/jobs/view/ui-ux-designer-at-black-linked-%F0%9F%87%A7%F0%9F%87%B7-%F0%9F%87%BA%F0%9F%87%B8-4399502149 | Black Linked 🇧🇷 🇺🇸 | UI/UX Designer
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-at-%E2%80%98medipr-hong-kong-singapore-australia-4247145924 | [‘mediPr] / Hong Kong / Singapore / Australia | Graphic Designer
+- [ ] https://hk.linkedin.com/jobs/view/senior-graphic-designer-at-superai-4377588178 | SuperAI | Senior Graphic Designer
+- [ ] https://hk.linkedin.com/jobs/view/specialist-artwork-at-t%C3%BCv-s%C3%BCd-4311457073 | TÜV SÜD | Specialist, Artwork
+- [ ] https://hk.linkedin.com/jobs/view/senior-graphic-designer-digital-marketing-packaging-%E2%80%93-us-fashion-group-ladies-apparel-brand-lai-chi-kok-at-jpc-corporation-4397604721 | JPC Corporation | SENIOR GRAPHIC DESIGNER (digital, marketing & packaging) – US fashion group - ladies apparel brand (Lai Chi Kok)
+- [ ] https://hk.linkedin.com/jobs/view/senior-designer-womenswear-calvin-klein-asia-pacific-at-calvin-klein-4390670236 | Calvin Klein | Senior Designer, Womenswear, Calvin Klein Asia Pacific
+- [ ] https://hk.linkedin.com/jobs/view/%E8%A8%AD%E8%A8%88%E5%8F%8A%E5%9F%B9%E8%A8%93%E5%B9%B9%E4%BA%8B-%E8%81%B7%E4%BD%8D%E7%B7%A8%E8%99%9F-266-at-baptist-oi-kwan-social-service-4385951565 | Baptist Oi Kwan Social Service | 設計及培訓幹事(職位編號:266)
+- [ ] https://hk.linkedin.com/jobs/view/graphic-designer-%E2%80%93-ladies-fashion-brand-marketing-for-us-market-lai-chi-kok-at-jpc-corporation-4393035210 | JPC Corporation | GRAPHIC DESIGNER – ladies fashion brand marketing for US market (Lai Chi Kok)
+- [ ] https://hk.linkedin.com/jobs/view/fashion-graphic-designer-%E2%80%93-us-ladies-fashion-group-lai-chi-kok-at-jpc-corporation-4397295898 | JPC Corporation | FASHION GRAPHIC DESIGNER – US ladies fashion group (Lai Chi Kok)
+- [ ] https://hk.linkedin.com/jobs/view/senior-fashion-designer-sweater-at-mgf-4389518306 | MGF | Senior Fashion Designer (Sweater)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-graphic-designer-at-time-auction-4396307523 | Time Auction | Volunteer: Graphic Designer
+- [ ] https://hk.linkedin.com/jobs/view/senior-fashion-designer-fashion-designer-menswear-at-swire-resources-limited-4393011575 | Swire Resources Limited | Senior Fashion Designer/ Fashion Designer (Menswear)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-graphic-designer-at-time-auction-4396300528 | Time Auction | Volunteer: Graphic Designer
+- [ ] https://hk.linkedin.com/jobs/view/multimodal-design-producer-at-preface-4393201361 | Preface | Multimodal Design Producer
+- [ ] https://hk.linkedin.com/jobs/view/senior-creative-product-designer-luxury-hospitality-product-design-fluent-english-required-hk-based-at-sands-china-4384237420 | Sands China | Senior Creative/Product Designer (Luxury/Hospitality Product Design, Fluent English Required, HK Based)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-graphic-designer-30th-anniversary-at-time-auction-4397050598 | Time Auction | Volunteer: Graphic Designer - 30th Anniversary
+- [ ] https://hk.linkedin.com/jobs/view/3d-designer-event-designer-scenographer-hong-kong-at-occasions-asia-pacific-%E5%A4%A9%E6%A9%9F%E4%BA%9E%E5%A4%AA%E9%9B%86%E5%9C%98-4385661900 | Occasions Asia Pacific 天機亞太集團 | 3D Designer/ Event Designer/Scenographer (Hong Kong)
+- [ ] https://hk.linkedin.com/jobs/view/fashion-designer-senior-fashion-designer-%E2%80%93-from-hong-kong-to-new-york-create-ladies-fashion-for-the-us-market-at-jpc-corporation-4384904486 | JPC Corporation | FASHION DESIGNER / SENIOR FASHION DESIGNER – from Hong Kong to New York : Create Ladies Fashion for the US Market
+- [ ] https://hk.linkedin.com/jobs/view/senior-designer-knitwear-ladieswear-at-connectedgroup-4397226688 | ConnectedGroup | Senior Designer - Knitwear (Ladieswear)
+- [ ] https://hk.linkedin.com/jobs/view/senior-designer-hong-kong-palace-museum-at-west-kowloon-cultural-district-authority-4368011684 | West Kowloon Cultural District Authority | Senior Designer, Hong Kong Palace Museum
+- [ ] https://hk.linkedin.com/jobs/view/fashion-designer-senior-fashion-designer-2-vacancies-%E2%80%93-woven-ladies-wear-us-market-lai-chi-kok-at-jpc-corporation-4384903551 | JPC Corporation | FASHION DESIGNER / SENIOR FASHION DESIGNER (2 vacancies) – Woven Ladies Wear (US Market) - Lai Chi Kok
+- [ ] https://hk.linkedin.com/jobs/view/senior-designer-special-design-exhibition-services-contract-at-hong-kong-trade-development-council-4363473378 | Hong Kong Trade Development Council | Senior Designer, Special Design (Exhibition Services, Contract)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-pitch-deck-designer-at-time-auction-4395952935 | Time Auction | Volunteer: Pitch Deck Designer
+- [ ] https://hk.linkedin.com/jobs/view/senior-3d-designer-special-design-%EF%BC%88booth-structural-design-at-hong-kong-trade-development-council-4041939314 | Hong Kong Trade Development Council | Senior 3D Designer, Special Design （Booth & Structural Design)
+- [ ] https://hk.linkedin.com/jobs/view/volunteer-art-tutor-product-design-mentor-designer-14-may-at-time-auction-4397265943 | Time Auction | Volunteer: Art Tutor / Product Design Mentor / Designer (14 May)
+- [ ] https://hk.linkedin.com/jobs/view/data-center-technician-tai-po-on-site-at-reboot-monkey-4382623410 | Reboot Monkey | Data Center Technician - Tai Po - On-site
+- [ ] https://hk.linkedin.com/jobs/view/guest-services-supervisor-front-desk-the-langham-hong-kong-at-langham-hospitality-group-4385856395 | Langham Hospitality Group | Guest Services Supervisor (Front Desk)- The Langham, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/senior-guest-services-ambassador-front-desk-the-langham-hong-kong-at-langham-hospitality-group-4346511084 | Langham Hospitality Group | (Senior) Guest Services Ambassador (Front Desk)- The Langham, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/service-stylist-guest-relations-the-langham-hong-kong-at-langham-hospitality-group-4346520949 | Langham Hospitality Group | Service Stylist (Guest Relations)- The Langham, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/enterprise-service-desk-analyst-at-interactive-brokers-4390603401 | Interactive Brokers | Enterprise Service Desk Analyst
+- [ ] https://hk.linkedin.com/jobs/view/senior-front-desk-agent-at-courtyard-by-marriott-hong-kong-4389811490 | Courtyard by Marriott Hong Kong | Senior / Front Desk Agent
+- [ ] https://hk.linkedin.com/jobs/view/receptionist-at-charles-russell-speechlys-4389491822 | Charles Russell Speechlys | Receptionist
+- [ ] https://hk.linkedin.com/jobs/view/guest-service-supervisor-officer-at-auberge-discovery-bay-hong-kong-4393003834 | Auberge Discovery Bay Hong Kong | Guest Service Supervisor / Officer
+- [ ] https://hk.linkedin.com/jobs/view/assistant-front-desk-supervisor-at-renaissance-harbour-view-hotel-hong-kong-4385954333 | Renaissance Harbour View Hotel Hong Kong | (Assistant) Front Desk Supervisor
+- [ ] https://hk.linkedin.com/jobs/view/duty-manager-at-shangri-la-group-4386821295 | Shangri-La Group | Duty Manager
+- [ ] https://hk.linkedin.com/jobs/view/guest-relations-officer-at-new-world-millennium-hong-kong-hotel-4387378005 | New World Millennium Hong Kong Hotel | Guest Relations Officer
+- [ ] https://hk.linkedin.com/jobs/view/receptionist-with-pirata-group-at-pirata-group-4393453707 | Pirata Group | Receptionist with Pirata Group
+- [ ] https://hk.linkedin.com/jobs/view/private-bank-client-service-executive-associate-avp-at-deutsche-bank-4148954152 | Deutsche Bank | Private Bank - Client Service Executive - Associate/AVP
+- [ ] https://hk.linkedin.com/jobs/view/assistant-front-office-manager-at-shangri-la-group-4390871582 | Shangri-La Group | Assistant Front Office Manager
+- [ ] https://hk.linkedin.com/jobs/view/front-desk-officer-at-hilton-4393274777 | Hilton | Front Desk Officer
+- [ ] https://hk.linkedin.com/jobs/view/junior-receptionist-at-raffles-family-office-4392818334 | Raffles Family Office | Junior Receptionist
+- [ ] https://hk.linkedin.com/jobs/view/it-supporter-til-servicedesk-at-hk-it-medie-industri-hovedstaden-4390167264 | HK it, medie & industri Hovedstaden | IT-supporter til Servicedesk
+- [ ] https://hk.linkedin.com/jobs/view/visitor-services-officer-m%2B-museum-at-west-kowloon-cultural-district-authority-4361988152 | West Kowloon Cultural District Authority | Visitor Services Officer, M+ Museum
+- [ ] https://hk.linkedin.com/jobs/view/senior-team-lead-contract-at-ntt-com-asia-4398883477 | NTT Com Asia | Senior Team Lead (Contract)
+- [ ] https://hk.linkedin.com/jobs/view/senior-guest-service-agent-5-day-week-at-ymca-of-hong-kong-4148247664 | YMCA of Hong Kong | Senior Guest Service Agent (5 day-week)
+- [ ] https://hk.linkedin.com/jobs/view/trainee-global-markets-sales-at-natixis-corporate-investment-banking-4379626890 | Natixis Corporate & Investment Banking | Trainee Global Markets Sales
+- [ ] https://hk.linkedin.com/jobs/view/part-time-sales-advisor-k11-musea-at-cos-4400374363 | COS | Part Time Sales Advisor (K11 Musea)
+- [ ] https://hk.linkedin.com/jobs/view/guest-relations-manager-at-the-ritz-carlton-hotel-company-l-l-c-4387874047 | The Ritz-Carlton Hotel Company, L.L.C. | Guest Relations Manager
+- [ ] https://hk.linkedin.com/jobs/view/senior-manager-head-of-business-intelligence-at-wati-4359740469 | Wati | Senior Manager / Head of Business Intelligence
+- [ ] https://hk.linkedin.com/jobs/view/guest-services-manager-at-sino-hotels-4385953470 | Sino Hotels | Guest Services Manager
+- [ ] https://hk.linkedin.com/jobs/view/office-ambassador-at-compass-group-hong-kong-limited-4395297069 | Compass Group Hong Kong Limited | Office Ambassador
+- [ ] https://hk.linkedin.com/jobs/view/welab-bank-associate-it-service-at-welab-bank-4397245061 | WeLab Bank | WeLab Bank - Associate, IT Service
+- [ ] https://hk.linkedin.com/jobs/view/part-time-sales-advisor-harbour-city-at-cos-4390865117 | COS | Part Time Sales Advisor (Harbour City)
+- [ ] https://hk.linkedin.com/jobs/view/full-time-sales-advisor-queen-s-road-central-at-cos-4399849222 | COS | Full Time Sales Advisor (Queen's Road Central)
+- [ ] https://hk.linkedin.com/jobs/view/audiovisual-av-operations-technician-hong-kong-at-bloomberg-4352360182 | Bloomberg | Audiovisual (AV) Operations Technician, Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/assistant-director-of-event-booking-center-at-sheraton-hotels-resorts-4291680885 | Sheraton Hotels & Resorts | Assistant Director of Event Booking Center
+- [ ] https://hk.linkedin.com/jobs/view/guest-services-manager-at-dorsett-kai-tak-hong-kong-4393000880 | Dorsett Kai Tak Hong Kong | Guest Services Manager
+- [ ] https://hk.linkedin.com/jobs/view/part-time-sales-advisor-queen-s-road-central-at-cos-4401032588 | COS | Part Time Sales Advisor (Queen's Road Central)
+- [ ] https://hk.linkedin.com/jobs/view/analyst-consultant-soc-cic-cyber-hong-kong-315446-at-deloitte-4362781284 | Deloitte | Analyst/ Consultant - SOC/CIC - Cyber - Hong Kong(315446)
+- [ ] https://hk.linkedin.com/jobs/view/duty-manager-%E5%80%BC%E7%8F%AD%E7%BB%8F%E7%90%86-at-ihg-hotels-resorts-4196937641 | IHG Hotels & Resorts | Duty Manager 值班经理
+- [ ] https://hk.linkedin.com/jobs/view/development-support-engineer-at-hid-4375932457 | HID | Development Support Engineer
+- [ ] https://hk.linkedin.com/jobs/view/business-development-analyst-apac-vn2703-at-marex-4394634845 | Marex | Business Development Analyst, APAC (VN2703)
+- [ ] https://hk.linkedin.com/jobs/view/senior-systems-engineer-at-eci-4231513284 | ECI | Senior Systems Engineer
+- [ ] https://hk.linkedin.com/jobs/view/investor-services-associate-office-administrator-%E2%80%93-hong-kong-at-graham-capital-management-l-p-4362451946 | Graham Capital Management, L.P. | Investor Services Associate & Office Administrator – Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/assistant-facilities-manager-at-jll-4386354000 | JLL | Assistant Facilities Manager
+- [ ] https://hk.linkedin.com/jobs/view/overnight-member-services-host-front-desk-agent-at-carlyle-co-4392522803 | Carlyle & Co. | Overnight Member Services Host (Front Desk Agent)
+- [ ] https://hk.linkedin.com/jobs/view/office-administrator-cantonese-speaker-at-odoo-4390111431 | Odoo | Office Administrator (Cantonese Speaker)
+- [ ] https://hk.linkedin.com/jobs/view/full-time-sales-advisor-new-town-plaza-sha-tin-at-cos-4390854487 | COS | Full Time Sales Advisor (New Town Plaza, Sha Tin)
+- [ ] https://hk.linkedin.com/jobs/view/hr-help-desk-executive-mandarin-speaker-at-savior-artigos-texteis-lda-4397264637 | Savior Artigos Texteis Lda | HR Help Desk Executive (Mandarin Speaker)
+- [ ] https://hk.linkedin.com/jobs/view/assistant-vice-president-corporate-actions-at-citi-4360456192 | Citi | Assistant Vice President, Corporate Actions
+- [ ] https://hk.linkedin.com/jobs/view/senior-sales-manager-sales-manager-at-marriott-international-4366069306 | Marriott International | Senior Sales Manager / Sales Manager
+- [ ] https://hk.linkedin.com/jobs/view/outsourced-trading-operations-vice-president-at-jefferies-4388305906 | Jefferies | Outsourced Trading Operations - Vice President
+- [ ] https://hk.linkedin.com/jobs/view/chief-concierge-at-the-ritz-carlton-hotel-company-l-l-c-4344804758 | The Ritz-Carlton Hotel Company, L.L.C. | Chief Concierge
+- [ ] https://hk.linkedin.com/jobs/view/part-time-sales-advisor-city-plaza-tai-koo-shing-at-cos-4381435890 | COS | Part Time Sales Advisor (City Plaza, Tai Koo Shing)
+- [ ] https://hk.linkedin.com/jobs/view/trainee-trader-assistant-on-the-synthetic-trading-desk-at-societe-generale-4384851424 | Societe Generale | TRAINEE: Trader Assistant on the Synthetic Trading desk
+- [ ] https://hk.linkedin.com/jobs/view/director-retrocession-at-aon-4387923898 | Aon | Director, Retrocession
+- [ ] https://hk.linkedin.com/jobs/view/senior-staff-engineer-liquidity-platform-strategy-service-at-okx-4387967288 | OKX | Senior/Staff Engineer, Liquidity Platform, Strategy Service
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-specialist-at-easyview-4398217818 | EasyView | EasyView hiring Customer Success Specialist in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-analyst-at-ion-4354690156 | ION | Technical Support Analyst
+- [ ] https://hk.linkedin.com/jobs/view/technical-services-engineer-aero-engine-technical-support-at-hong-kong-aero-engine-services-limited-haesl-4385948653 | Hong Kong Aero Engine Services Limited (HAESL) | Technical Services Engineer (Aero Engine Technical support)
+- [ ] https://hk.linkedin.com/jobs/view/technical-application-support-specialist-at-polymer-capital-4388972540 | Polymer Capital | Technical Application Support Specialist
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-officer-at-tech-data-apac%E2%80%8B-4388080469 | Tech Data APAC | Technical Support Officer
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-engineer-at-options-technology-4267782442 | Options Technology | Technical Support Engineer
+- [ ] https://hk.linkedin.com/jobs/view/customer-support-associate-hong-kong-at-qlub-4397267439 | qlub | Customer Support Associate (Hong Kong)
+- [ ] https://hk.linkedin.com/jobs/view/junior-application-support-at-newtone-consulting-4396394835 | Newtone consulting | Junior Application Support
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-engineer-%E2%80%93-tech-solutions-at-career-international-%E7%A7%91%E9%94%90%E5%9B%BD%E9%99%85-4395944936 | Career International 科锐国际 | Technical Support Engineer – Tech Solutions
+- [ ] https://hk.linkedin.com/jobs/view/executive-office-administration-at-rosewood-hotel-group-4384595196 | Rosewood Hotel Group | Executive Office, Administration
+- [ ] https://hk.linkedin.com/jobs/view/application-support-electronic-trading-at-keyrus-4393413289 | Keyrus | Application Support - Electronic Trading
+- [ ] https://hk.linkedin.com/jobs/view/crm-email-lead-assistant-manager-at-lululemon-4387916596 | lululemon | CRM & Email Lead (Assistant Manager)
+- [ ] https://hk.linkedin.com/jobs/view/project-coordinator-technical-support-coordinator-engineering-field-at-t%C3%BCv-rheinland-group-4342611009 | TÜV Rheinland Group | Project Coordinator / Technical Support Coordinator (Engineering Field)
+- [ ] https://hk.linkedin.com/jobs/view/senior-technical-support-windows-l2-at-interactive-brokers-4385856060 | Interactive Brokers | Senior Technical Support- Windows (L2)
+- [ ] https://hk.linkedin.com/jobs/view/data-analyst-expert-relocate-to-abu-dhabi-at-bybit-4376029870 | Bybit | Data Analyst Expert - Relocate to Abu Dhabi
+- [ ] https://hk.linkedin.com/jobs/view/operations-support-manager-project-at-bangkok-bank-4390928592 | Bangkok Bank | Operations Support Manager (Project)
+- [ ] https://hk.linkedin.com/jobs/view/technical-support-specialist-mt4-mt5-hong-kong-at-doo-group-4385200489 | Doo Group | Technical Support Specialist(MT4/MT5)-Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/assistant-it-manager-at-centre-for-oncology-and-immunology-4385438044 | Centre for Oncology and Immunology | Assistant IT Manager
+- [ ] https://hk.linkedin.com/jobs/view/%E4%BA%A4%E6%98%93%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81technical-support-specialist-at-doo-group-4384993550 | Doo Group | 交易技术支持Technical Support Specialist
+- [ ] https://hk.linkedin.com/jobs/view/onsite-support-engineer-9-months-at-cognizant-4397683703 | Cognizant | Onsite Support Engineer (9 months)
+- [ ] https://hk.linkedin.com/jobs/view/it-client-support-engineer-hong-kong-at-bare-cove-technology-4367802599 | Bare Cove Technology | IT Client Support Engineer (Hong Kong)
+- [ ] https://hk.linkedin.com/jobs/view/manager-assistant-manager-%E2%80%93-technical-operation-at-ar%C3%A7elik-hitachi-home-appliances-4387678906 | Arçelik Hitachi Home Appliances | Manager / Assistant Manager – Technical Operation
+- [ ] https://hk.linkedin.com/jobs/view/it-consultant-gov-contract-up-to-%2430k-at-vistra-4376964212 | VISTRA | IT Consultant (Gov. contract, up to $30k)
+- [ ] https://hk.linkedin.com/jobs/view/associate-product-manager-business-analyst-at-lane-crawford-4393087508 | Lane Crawford | Associate Product Manager/Business Analyst
+- [ ] https://hk.linkedin.com/jobs/view/application-support-engineer-%E2%80%93-electronic-trading-at-we%2B-asia-4397216492 | We+ Asia | Application Support Engineer – Electronic Trading
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-manager-at-ant-international-4386822148 | Ant International | Customer Success Manager
+- [ ] https://hk.linkedin.com/jobs/view/digital-client-services-team-leader-at-prada-group-4389038499 | Prada Group | Digital Client Services Team Leader
+- [ ] https://hk.linkedin.com/jobs/view/customer-services-officer-part-time-at-bank-of-china-hong-kong-4205555016 | Bank of China (Hong Kong) | Customer Services Officer (Part-time)
+- [ ] https://hk.linkedin.com/jobs/view/hk-specialist-full-time-and-part-time-at-apple-4388958480 | Apple | Apple hiring HK-Specialist: Full-Time and Part-Time in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-at-bank-of-china-hong-kong-4205553340 | branches Deliver quality…See this and similar jobs on | Bank of China (Hong Kong) hiring Customer Service Officer in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/corporate-customer-service-executive-part-time-at-foodpanda-4376725209 | foodpanda | foodpanda hiring Corporate Customer Service Executive (Part-Time) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-5-days-no-shift-at-toppan-information-solution-hong-kong-limited-4398113808 | TOPPAN Information Solution (Hong Kong) Limited | TOPPAN Information Solution (Hong Kong) Limited hiring Customer Service Officer (5 days no shift) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/officer-customer-relations-12-months-at-manulife-4390136594 | Manulife | Manulife hiring Officer, Customer Relations (12 Months) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-at-manulife-4376052560 | Manulife | Manulife hiring Customer Service Officer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-at-manulife-4368225064 | Manulife | Manulife hiring Customer Service Officer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-partner-senior-advisor-hk-at-sap-4388678137 | SAP | Customer Success Partner Senior Advisor - HK
+- [ ] https://hk.linkedin.com/jobs/view/officer-customer-experience-and-portfolio-management-at-hsbc-4369608854 | HSBC | Officer, Customer Experience and Portfolio Management
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-representative-chat-at-standard-chartered-4383555110 | Standard Chartered | Customer Service Representative, Chat
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-executive-at-jebsen-group-3792849232 | Jebsen Group | Customer Service Executive
+- [ ] https://hk.linkedin.com/jobs/view/deputy-executive-manager-customer-experience-central-office-at-the-hong-kong-jockey-club-4382952932 | The Hong Kong Jockey Club | Deputy Executive Manager, Customer Experience Central Office
+- [ ] https://hk.linkedin.com/jobs/view/customer-support-specialist-at-wonder-4391689667 | Wonder | Customer Support Specialist
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-manager-at-ae-athena-iut-de-b%C3%A9ziers-4399074299 | AE ATHENA - IUT DE BÉZIERS | Customer Service Manager
+- [ ] https://hk.linkedin.com/jobs/view/telemarketing-customer-service-representative-at-asia-beauty-concepts-limited-4385950654 | Asia Beauty Concepts Limited | Telemarketing & Customer Service Representative
+- [ ] https://hk.linkedin.com/jobs/view/customer-experience-manager-at-osl-4382881294 | OSL | Customer Experience Manager
+- [ ] https://hk.linkedin.com/jobs/view/assistant-customer-care-manager-digital-contact-feedback-management-team-at-the-hong-kong-jockey-club-4342662329 | The Hong Kong Jockey Club | Assistant Customer Care Manager (Digital Contact & Feedback Management Team)
+- [ ] https://hk.linkedin.com/jobs/view/customer-support-advisor-at-hellios-information-4395801295 | Hellios Information | Customer Support Advisor
+- [ ] https://hk.linkedin.com/jobs/view/retail-administrator-12-month-fixed-term-contract-at-chanel-4361908421 | CHANEL | Retail Administrator (12-month Fixed Term Contract)
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-specialist-at-beame-4394316693 | Beame | Customer Success Specialist
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-manager-at-cornerstone-ondemand-4342594512 | Cornerstone OnDemand | Customer Success Manager
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-manager-logistics-tech-at-portcast-4380751425 | Portcast | Customer Success Manager (Logistics Tech)
+- [ ] https://hk.linkedin.com/jobs/view/assistant-manager-customer-services-at-hactl-hong-kong-air-cargo-terminals-limited-4385937952 | Hong Kong Air Cargo Terminals Limited hiring Assistant Manager | Hactl - Hong Kong Air Cargo Terminals Limited hiring Assistant Manager - Customer Services in Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/sales-customer-service-representative-at-loftyhire-4370541389 | LoftyHire | Sales & Customer Service Representative
+- [ ] https://hk.linkedin.com/jobs/view/administration-officer-%2425-26k-austin-at-cl-technical-services-limited-4390284675 | CL Technical Services Limited | Administration Officer ($25-26K, Austin)
+- [ ] https://hk.linkedin.com/jobs/view/customer-services-officer-at-bolttech-4392276579 | bolttech | Customer Services Officer
+- [ ] https://hk.linkedin.com/jobs/view/new-retail-trainee-%E6%96%B0%E9%9B%B6%E5%94%AE%E7%AE%A1%E5%9F%B9%E7%94%9F-at-xiaomi-technology-4392199027 | Xiaomi Technology | New Retail Trainee (新零售管培生)
+- [ ] https://hk.linkedin.com/jobs/view/freelance-crew-flight-attendant-multiple-locations-at-tag-macau-fbo-4321807271 | TAG Macau FBO | FREELANCE CREW - FLIGHT ATTENDANT - MULTIPLE LOCATIONS
+- [ ] https://hk.linkedin.com/jobs/view/customer-success-manager-at-transunion-4390496819 | TransUnion | Customer Success Manager
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-the-kai-tak-mall-at-kai-tak-sports-park-4196260024 | Kai Tak Sports Park | Customer Service Officer (The Kai Tak Mall)
+- [ ] https://hk.linkedin.com/jobs/view/musketeer-kowloon-area-at-red-bull-4389729595 | Red Bull | Musketeer (Kowloon Area)
+- [ ] https://hk.linkedin.com/jobs/view/training-assistant-part-time-at-the-hong-kong-institute-of-bankers-4346100824 | The Hong Kong Institute of Bankers | Training Assistant (Part-time)
+- [ ] https://hk.linkedin.com/jobs/view/customer-services-representative-admission-at-hong-kong-baptist-hospital-4385945868 | Hong Kong Baptist Hospital | Customer Services Representative (Admission)
+- [ ] https://hk.linkedin.com/jobs/view/%E8%A1%8C%E6%94%BF%E5%8A%A9%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4%E7%B6%9C%E5%90%88%E6%9C%8D%E5%8B%99%E4%B8%AD%E5%BF%83-%E6%B7%B1%E4%BA%95-at-the-boys-and-girls-clubs-association-of-hong-kong-bgca-4385937943 | The Boys' and Girls' Clubs Association of Hong Kong(BGCA) | 行政助理 - 青少年綜合服務中心 (深井)
+- [ ] https://hk.linkedin.com/jobs/view/senior-customer-service-representative-customer-call-centre-at-manulife-4274052191 | Manulife | Senior Customer Service Representative, Customer Call Centre
+- [ ] https://hk.linkedin.com/jobs/view/regional-customer-service-advisor-at-bupa-uk-4302536425 | Bupa UK | Regional Customer Service Advisor
+- [ ] https://hk.linkedin.com/jobs/view/customer-care-advisor-at-cathay-pacific-4346776939 | Cathay Pacific | Customer Care Advisor
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-assistant-security-operation-support-at-jardine-engineering-corporation-4364234688 | Jardine Engineering Corporation | Customer Service Assistant (Security Operation Support)
+- [ ] https://hk.linkedin.com/jobs/view/retail-ambassador-full-time-%E5%85%A8%E8%81%B7%E9%9B%B6%E5%94%AE%E5%8A%A9%E7%90%86-at-love-bonito-4338323856 | Love, Bonito | Retail Ambassador (Full-Time) 全職零售助理
+- [ ] https://hk.linkedin.com/jobs/view/senior-customer-service-representative-customer-contact-centre-at-manulife-4377214132 | Manulife | Senior Customer Service Representative, Customer Contact Centre
+- [ ] https://hk.linkedin.com/jobs/view/e-commerce-executive-at-sportshouse-limited-4385954353 | Sportshouse Limited | E-commerce Executive
+- [ ] https://hk.linkedin.com/jobs/view/customer-services-ambassador-shopping-mall-salary-21k%2B-at-synergis-management-services-limited-4387125154 | Synergis Management Services Limited | Customer Services Ambassador(Shopping Mall) (Salary 21K+)
+- [ ] https://hk.linkedin.com/jobs/view/sales-back-office-specialist-order-processing-at-kaspersky-4381587906 | Kaspersky | Sales Back Office Specialist (Order Processing)
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-at-bolttech-4391691587 | bolttech | Customer Service Officer
+- [ ] https://hk.linkedin.com/jobs/view/client-care-assistant-manager-supervisor-luxury-watches-at-power-asia-recruitment-4387222400 | Power Asia Recruitment | Client Care Assistant Manager / Supervisor ( Luxury Watches)
+- [ ] https://hk.linkedin.com/jobs/view/assistant-manager-mainland-customer-experience-development-at-the-hong-kong-jockey-club-4384180023 | The Hong Kong Jockey Club | Assistant Manager, Mainland Customer Experience Development
+- [ ] https://hk.linkedin.com/jobs/view/customer-service-officer-at-bowtie-life-insurance-company-4388957440 | Bowtie Life Insurance Company | Customer Service Officer
+- [ ] https://hk.linkedin.com/jobs/view/operations-executive-at-herm%C3%A8s-4377644589 | Hermès | Operations Executive
+- [ ] https://hk.linkedin.com/jobs/view/executive-assistant-hotel-operations-at-the-ritz-carlton-hong-kong-4396398325 | The Ritz-Carlton, Hong Kong | Executive Assistant - Hotel Operations
+- [ ] https://hk.linkedin.com/jobs/view/customer-due-diligence-specialist-at-computershare-hong-kong-4351654476 | Computershare Hong Kong | Customer Due Diligence Specialist
+- [ ] https://hk.linkedin.com/jobs/view/assistant-administration-officer-at-wharf-china-estates-limited-4393495662 | Wharf China Estates Limited | Assistant Administration Officer
+- [ ] https://hk.linkedin.com/jobs/view/online-tutors-at-couch-potato-education-limited-4298708754 | Couch Potato Education Limited | Online Tutors
+- [ ] https://hk.linkedin.com/jobs/view/mathematics-tutor-at-telos-education-4294358185 | Telos Education | Mathematics Tutor
+- [ ] https://hk.linkedin.com/jobs/view/academic-tutor-at-dataannotation-4304438258 | DataAnnotation | Academic Tutor
+- [ ] https://hk.linkedin.com/jobs/view/hs-math-teacher-at-international-education-services-limited-4348393201 | International Education Services Limited | HS Math Teacher
+- [ ] https://hk.linkedin.com/jobs/view/full-time-teacher-part-time-of-physics-and-mathematics-especially-the-one-who-can-conduct-in-person-lessons-in-hk-at-cana-academy-limited-4385959222 | Cana Academy Limited | Full time teacher & Part time of Physics and Mathematics (especially the one who can conduct in-person lessons in HK)
+- [ ] https://hk.linkedin.com/jobs/view/secondary-teacher-%E2%80%93-mathematics-starting-from-august-2026-at-singapore-international-school-hong-kong-4390286599 | Singapore International School (Hong Kong) | Secondary Teacher – Mathematics (starting from August 2026)
+- [ ] https://hk.linkedin.com/jobs/view/%E5%85%BC%E8%81%B7%E5%88%B0%E6%A0%A1%E5%B0%8E%E5%B8%AB%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89on-campus-tutors-at-couch-potato-education-limited-4298172825 | Couch Potato Education Limited | 兼職到校導師（香港）On Campus Tutors
+- [ ] https://hk.linkedin.com/jobs/view/ib-maths-tutor-at-telos-education-4300878330 | Telos Education | IB Maths Tutor
+- [ ] https://hk.linkedin.com/jobs/view/language-instructor-at-dataannotation-4304445164 | DataAnnotation | Language Instructor
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-design-technology-all-esf-secondary-schools-at-english-schools-foundation-4334625316 | English Schools Foundation | Expression of Interest Teacher of Design & Technology - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/primary-3-speaking-course-instructor-net-at-eureka-language-services-4070073243 | Eureka Language Services | Primary 3 Speaking Course Instructor (NET)
+- [ ] https://hk.linkedin.com/jobs/view/expression-of-interest-teacher-of-information-technology-all-esf-secondary-schools-at-english-schools-foundation-4334556902 | English Schools Foundation | Expression of Interest Teacher of Information Technology - All ESF Secondary Schools
+- [ ] https://hk.linkedin.com/jobs/view/primary-school-teacher-coordinator-german-international-stream-teaching-16-lessons-per-week-at-german-swiss-international-school-%E5%BE%B7%E7%91%9E%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1-4381025035 | German Swiss International School / 德瑞國際學校 | PRIMARY SCHOOL TEACHER & COORDINATOR - GERMAN INTERNATIONAL STREAM (Teaching 16 lessons per week)
+- [ ] https://hk.linkedin.com/jobs/view/teacher-of-mathematics-starting-aug-2026-%E2%80%93-south-island-school-at-english-schools-foundation-4395029152 | English Schools Foundation | Teacher of Mathematics (Starting Aug 2026) – South Island School
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-course-instructor-net-at-eureka-language-services-4064438492 | Eureka Language Services | Cambridge Course Instructor (NET)
+- [ ] https://hk.linkedin.com/jobs/view/%E6%95%B0%E5%AD%A6%E6%95%99%E5%B8%88%E5%85%BC%E7%8F%AD%E4%B8%BB%E4%BB%BB-at-international-education-services-limited-4348498090 | International Education Services Limited | 数学教师兼班主任
+- [ ] https://hk.linkedin.com/jobs/view/freelance-tech-instructors-for-students-hong-kong-at-preface-3974587876 | Preface | Freelance Tech Instructors for Students / Hong Kong
+- [ ] https://hk.linkedin.com/jobs/view/hong-kong-tefl-internship-at-tefl-uk-4198830007 | TEFL UK | Hong Kong TEFL Internship
+- [ ] https://hk.linkedin.com/jobs/view/interview-preparation-course-instructor-at-eureka-language-services-4065391683 | Eureka Language Services | Interview Preparation Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/dse-english-course-instructor-at-eureka-language-services-4064435804 | Eureka Language Services | DSE English Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/online-cambridge-flyers-and-exam-instructor-at-eureka-language-services-4248172164 | Eureka Language Services | Online Cambridge Flyers and Exam Instructor
+- [ ] https://hk.linkedin.com/jobs/view/s1-2-english-course-instructor-at-eureka-language-services-4065390909 | Eureka Language Services | S1-2 English Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/secondary-school-inclusion-co-teacher-mathematics-focus-from-aug-2026-at-hong-kong-academy-4385944892 | Hong Kong Academy | Secondary School Inclusion Co-teacher (Mathematics focus) (from Aug 2026)
+- [ ] https://hk.linkedin.com/jobs/view/mathematics-teacher-at-nord-anglia-education-4379638391 | Nord Anglia Education | Mathematics Teacher
+- [ ] https://hk.linkedin.com/jobs/view/cambridge-course-instructor-at-eureka-language-services-4253259679 | Eureka Language Services | Cambridge Course Instructor
+- [ ] https://hk.linkedin.com/jobs/view/english-fun-day-instructor-at-eureka-language-services-4064439466 | Eureka Language Services | English Fun day Instructor
+- [ ] https://hk.linkedin.com/jobs/view/bilingual-tutor-at-dataannotation-4309694802 | DataAnnotation | Bilingual Tutor
+- [ ] https://hk.linkedin.com/jobs/view/hong-kong-freelance-ai-tech-instructor-for-adult-learners-cantonese-fluency-required-at-preface-3974592521 | Preface | Hong Kong / Freelance AI Tech Instructor for Adult Learners [Cantonese Fluency Required]
+- [ ] https://hk.linkedin.com/jobs/view/ms-%E6%95%B0%E5%AD%A6-at-international-education-services-limited-4374832712 | International Education Services Limited | MS 数学
+- [ ] https://hk.linkedin.com/jobs/view/interview-mentor-u-s-boarding-and-day-school-admissions-at-crimson-education-4390161619 | Crimson Education | Interview Mentor, U.S. Boarding and Day School Admissions
+- [ ] https://hk.linkedin.com/jobs/view/family-teacher-at-viabtc-technology-limited-4395917637 | Viabtc Technology Limited | Family Teacher
+- [ ] https://hk.linkedin.com/jobs/view/%E5%AD%A6%E7%94%9F%E8%BE%85%E5%AF%BC%E5%91%98-at-international-education-services-limited-4348953703 | International Education Services Limited | 学生辅导员
+- [ ] https://hk.linkedin.com/jobs/view/chinese-tutor-at-dataannotation-4304434380 | DataAnnotation | Chinese Tutor
+- [ ] https://hk.jobsdb.com/job/91482013 | ASMPT Technology Hong Kong Limited | Software Engineer (C / C++ Preferred) (Fresh Graduate / IANG Holder Is Welcome) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91477188 | Roborn Technology Limited | Senior / Software Engineer / Software Engineer (AI and Video Analytics) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91312450 | Openrice Limited | Software Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91482445 | Arch Partnership Limited | Programmer – JAVA Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90945154 | SmartHire by SEEK | Senior Software Engineer/ Software Engineer (Welcome Fresh graduates) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91474800 | Aecom Asia Company Limited | Analyst Programmer, Digital (Maintenance & Development) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91478713 | Wafer Systems (Asia) Limited | Analyst Programmer (AP) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91237771 | Admazes Limited | AI-Empowered Full-Stack Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91231148 | SGS HK | Analyst Programmer Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91480168 | the forefront of innovation | AI Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91478553 | Capgemini Hong Kong Limited | Java Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91289217 | Neo Derm (HK) Ltd | Analyst Programmer - Full Stack Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91071229 | at least 4 years software development experience (min | (Senior) Backend Engineer - Golang Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91475983 | Oxford University Press (China) Ltd | Full-Stack Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91477266 | Data World Solutions Limited | Analyst Programmer / Senior Programmer (for HRMS) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91135604 | transform operations and deliver real‑world value | AI Senior Analyst Programmer / System Analyst Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91480697 | Taylor Coulter | Analyst Programmer (Maximo) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91257178 | Master Concept (Hong Kong) Limited | Senior Analyst Programmer - NodeJS, React, Vue, Java Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91123258 | Aecom Asia Company Limited | Analyst Programmer, Digital Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91258099 | Mastermind Asia Limited | Senior Java Developer - Fintech Company / Welcome TTPS高才/QMAS優才/IANG Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91478243 | TEKsystems | AI Engineer – Financial Services Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91464564 | SmartHire by SEEK | Project Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91473343 | Eclipse Options (HK) Limited | Linux Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91481401 | Robert Walters (HK) Ltd | Senior Analyst Programmer - Flutter & JavaScript Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91472767 | TCL Corporate Research (Hong Kong) Co., Limited | AI Multi-modal & World Model Scientist Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91478186 | Accenture Company Limited | Technology - Mobile Software Engineer (IOS/Android/React Native) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91479773 | the daily operations at the Finance Office | System Analyst, Information Technology Services Office (968) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91474287 | a strong understanding of modern web application tools and best | Web Developer / Senior Web Developer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91472187 | Newrecs Consultancy Limited | Developer, Senior Analyst Programmer, SA, Senior System Analyst FSI Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91468557 | Kanhan Technologies Ltd | Analyst Programmer / Programmer - Frontend Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91481675 | a passion | Automation Engineer (Global In-house) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91475379 | Central Business Information Limited | Application Developer Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91475062 | Hong Kong Productivity Council | Technical Officer, Emerging Applications Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91471335 | Speedy Group Corp. Limited | [Urgent] Java Analyst Programmer / System Analyst - Multiple Openings Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91469451 | Venturenix Limited | Java Web Developer (Cloud Systems) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471241 | Hong Kong Baptist University | Senior Analyst Programmer, Division of Transdisciplinary Undergraduate Programme Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91476611 | a focus on high-performance orchestration and seamless tool-integration | Software Engineer (ACT) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91479431 | Newrecs Consultancy Limited | (Many Cloud related Openings) Cloud Engineer/Manager/DevOps/Governance/Architect Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91469519 | Hong Kong Baptist University | Senior Analyst Programmer (Financial Information System) Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91466823 | supports strategic growth | Lead Python Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91470596 | Venturenix Limited | QA Engineer I Artificial Intelligence Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91265208 | Citibank (Hong Kong) Limited | Senior Low Latency Exchange Connectivity Software Engineer (Vice President) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91471530 | Seamatch Asia Limited | System Analyst/ Analyst Programmer / Business Analyst (Fresh welcome) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91474016 | Taylor Coulter | Cloud Engineer (Alibaba / Huawei Cloud) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91173287 | ATAL Technologies Limited | Software Engineer (REF: CES) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/89602996 | Python and LLMs | AI Engineer Lead / AI Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90494207 | bigboXX.com Limited | SENIOR SOFTWARE ENGINEER Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91464398 | TEKsystems | Systems Analyst/AP – Core Banking (Mainframe) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91472963 | Simatelex Manufactory Co Ltd | Developer (AI Project) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91033858 | Laboratory for AI-Powered Financial Technologies Limited | Software Engineer, 18 AL Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91312740 | HUANDONG H.K. LIMITED | Backend Development Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91186629 | support business-critical workflows | Software Engineer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90988242 | Aitia (HK) CPA Limited | Senior Software Developer Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91469292 | Hong Kong Baptist University | Senior Systems Analyst (Student Information Systems) Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91235245 | VTECH Corporate Services Ltd | Software Engineer (VTT355/J04) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91044287 | EXIO (HK) LIMITED | Senior Backend Software Engineer (Python) - Junior also welcome Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91024514 | TEKsystems | Senior Software Engineer Job in Lantau Island, Islands District
+- [ ] https://hk.jobsdb.com/job/91070522 | n-hop technologies limited | Senior / Software Engineer (Rust) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91451474 | electrical and mechanical insights | System Analyst (REF: ATEC) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91124761 | Boom Securities (H.K.) Limited | Senior Full-stack developer / Java Software Engineer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90178871 | CSA | System Analyst/ Analyst Programmer (ServiceNow) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/90714941 | Appcara Hong Kong Limited | Software Developer - AI and HPC Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91273953 | N2N-AFE (Hong Kong) Limited | Senior Programmer / Programmer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91267086 | SmartHire by SEEK | AI Senior Analyst Programmer / System Analyst Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91127664 | SmartHire by SEEK | Developer / Senior Developer (eCommerce, D365 Integration) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91070699 | reputed company | Senior Java Developer (CIB/ Global market experience) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91295879 | SmartHire by SEEK | System Analyst (Java) – Hong Kong Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91316247 | Vanderlande Logistics Limited | Application Support Engineer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91479672 | AI Chip Center for Emerging Smart Systems Limited | Summer Intern (Overseas) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91313087 | 2+ years of experience who is passionate about AI | Assistant System Analyst – AI & Automation flow Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91134322 | EY | FS Tax - Full-Stack Developer (Customer Tax Operations & Reporting)-Senior - HK Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91031092 | Promise (Hong Kong) Co., Limited | System Analyst (1 yr contract, renewable) [Multiple Openings] Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91482320 | our research scientists | Summer Internship - AI Agent & World Models Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91187964 | Geotechnics & Concrete Engineering (Hong Kong) Limited | Analyst Programmer (5-day work week) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91070218 | Vanderlande Logistics Limited | Application Support Engineer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91171242 | Liberty International Insurance Limited | Technical Lead, Technology-Engineering Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91398366 | KML Engineering Limited | Engineer/Associate Engineer – Electronic Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91098478 | the General Manager | Artificial Intelligence (AI) Specialist (Supply Chain Solutions) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91070490 | Geek Plus International Company Limited | Implementation Engineer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91122416 | SmartHire by SEEK | System Analyst Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91079336 | a strong interest in education! | Coding & AI Agent Instructor / Trainer / TA (Co-pilot, N8N, Vibe Coding) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91046486 | Emperor Investment (Management) Limited | IT Integration & Automation Specialist Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91059839 | Geotechnics & Concrete Engineering (Hong Kong) Limited | Analyst Programmer (5-day work week) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91197230 | Avnet Technology Hong Kong Limited | Infrastructure Automation Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91070280 | Geek Plus International Company Limited | Senior Solution Engineer (Warehouse Automation) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91092245 | real business impact | System Analyst (Marketing Technology) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91190267 | The Independent Schools Foundation Academy Ltd | AI Technologist (K-12 Chinese Education focus) (Ref: SY/AIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91481228 | TK Elevator Hong Kong Limited | Senior Project Engineer (New Installation) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91237783 | power smart marketing | Data Engineer / Machine Learning Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91098822 | New China Asset Management (Hong Kong) Limited | IT維護工程師/ IT Maintenance Engineer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91481843 | CL Technical Services Ltd. | System Engineer (IT Service Delivery) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90956250 | Customindz Limited | Senior Presales Engineer (AI/Computer Vision/Video Analytics) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91068664 | Tycoon Management Limited | System Analyst Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91060513 | The Independent Schools Foundation Academy Ltd | AI Technologist (K-12 Chinese Education focus) (Ref: SY/AIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91316147 | a maintenance mindset ! | Senior System Engineer / IT Specialist (Maintenance Project Focused) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91067882 | Hong Kong Applied Science and Technology Research Institute Company Limited | Associate Principal Engr./Senior Lead Engr./Lead Engr., Machine Learning Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91199362 | Nikoyo (HK) Ltd | Field Support Engineer (Enterprise Storage) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91166151 | SmartHire by SEEK | Senior System Engineer/ System Engineer Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91479328 | FinIQ Consulting Pte Ltd | Business Analyst Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91004472 | Risksis Technology Limited | AI Researcher (Phd in Computer Science Preferred) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91327049 | SmartHire by SEEK | Electrical & Electronic Engineer (Embedded Electronics) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91253788 | China Daily Hong Kong Limited | Printing System Operations Engineer Job in Aberdeen, Southern District
+- [ ] https://hk.jobsdb.com/job/91403635 | SmartHire by SEEK | Senior Electrical & Electronic Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91122499 | NDHK’s payment solutions | Solutions Consultant Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91186755 | United Asia Finance Limited | Cloud Network Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91190057 | The Independent Schools Foundation Academy Ltd | Chinese Industry Technologist (GBA Specialist) (Ref: SY/CIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91024557 | Morgan Stanley Asia Limited | Vice President, Algorithmic Trading C++ Software Engineer - IST Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91179610 | lets you do all three | Product Manager (FormX.ai) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91316225 | Vanderlande Logistics Limited | PLC Engineer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91359976 | Creative China Creations Limited | Product Development Engineer (Consumer Electronics) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90937285 | CYC MOTOR LTD | Test Bench Development Enginee Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91304247 | Roctec Technology Ltd | Field Support Engineer (Day Shift) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91061942 | good company | Production Management (Tech app-SWIFT, payment hub, bond/FX/IR trading) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91051290 | Hong Kong Aerospace Technology Academy Limited | STEM Course Teacher/ Instructor (Aerospace & AI) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91259047 | SmartHire by SEEK | HFT Team Leader Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91450570 | Hong Kong Applied Science and Technology Research Institute Company Limited | Chief Director, AI Platform & Solutions Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91440458 | NEC Platform Technologies Hong Kong Limited | Production Engineer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91031194 | Promise (Hong Kong) Co., Limited | Senior System Engineer- DevOps [Multiple Openings] Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91236047 | YZ Intelligence (Hong Kong) Co., Limited | 网络驻场运维 Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91112678 | Earth Products China Limited | Technical Sales Engineer (Fresh Graduates Welcome) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91159784 | Avnet Technology Hong Kong Limited | Manager - AI & Automation Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91060565 | The Independent Schools Foundation Academy Ltd | Chinese Industry Technologist (GBA Specialist) (Ref: SY/CIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91016792 | V V TECHNOLOGY (HONG KONG) LIMITED | AI Technical Director Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91125246 | Homison Solutions Limited | Data Center IT Technician Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91070270 | Vanderlande Logistics Limited | PLC Engineer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91385092 | Esri China (Hong Kong) Ltd | GIS Analyst Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91099171 | SUCCESS RED INTERNAIONTAL LIMITED | Corporate Solutions Consultant Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91036130 | ERP | Product Manager - Data & AI Solutions Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91275678 | growing tech firm | Senior Project Engineer / Project Manager (Hands-on Role) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91068225 | Johnson Electric Industrial Manufactory Limited | MIM Process Lead Engineer Job in Tai Po Industrial Estate, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91225422 | FUJIFILM BI | IT Infrastructure Architect Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91208973 | One Pacific Limited | NetSuite ERP Consultant / Senior Consultant Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91478267 | Premier Aegis Recruitment Company Limited | Product Consultant (Cybersecurity) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91475991 | Fresh Up Group Limited | Field Engineer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/88265712 | Automated Systems (HK) Ltd | Java Analyst Programmer / Senior Analyst Programmer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91138833 | LG H&H HK Limited | Business Intelligence Developer (6 months renewable contract) (Retail/ FMCG) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90968665 | JCK & Associates (HK): Manage IT infra | Information Analyst Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91410298 | Capgemini Hong Kong Limited | Automation Engineers for Mainframe (OPS/MVS, IBM SA) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91469363 | Zuellig Pharma Limited | Automation Technician Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91190290 | CL Technical Services Ltd. | Full Stack Developer (Java,over $40K, multiple vacancies) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91469276 | Canadian International School Of Hong Kong | Business Systems Specialist, Information Technology Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91473953 | China Merchants Energy Shipping (Hong Kong) Company Limited | 数字化管理部 人工智能及数据治理专员岗 Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91014590 | OneAsia Network Limited | Senior AI Cloud Engineer / AI Cloud Engineer (Location: Cyberport) Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/91265231 | Citibank (Hong Kong) Limited | Senior KDB+ Developer, Equities Electronic Trading Analytics (Vice President) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91316578 | Trading system exp | Trading System / Java Developer / 46K Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91201579 | AI Chip Center for Emerging Smart Systems Limited | Chief Engineer / Chief Architect (ASIC Design) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/88933655 | Automated Systems (HK) Ltd | .Net System Analyst Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91439024 | CL Technical Services Ltd. | System Analyst / Senior Analyst Programmer (Java / J2EE, Multiple vacancies) Job in Tai Wai, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91026762 | Morgan Stanley Asia Limited | Vice President, Algorithmic Trading C++ Software Engineer - IST Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91424286 | Accenture Company Limited | Engineering Lead - Accenture Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91390644 | Capgemini Hong Kong Limited | CICS Systems Programmers Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/89812493 | UIPath experience | RPA developer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91393123 | Furong Uptech Solution Co., Ltd | Senior SDET & Senior Performance Test Engineer# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91444042 | your knowledge of | Technology – Mobile Engineer/ Team Lead Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91026750 | Morgan Stanley Asia Limited | Vice President, Ultra Low Latency Exchange Connectivity, C++ Software Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91425800 | TEKsystems | Production Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91438839 | CL Technical Services Ltd. | Infrastructure Engineer (Linux, Apache) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91246804 | CL Technical Services Ltd. | Java Developer / Analyst Programmer (Linux, Over $40K) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91313705 | teams | Senior Programmer (Data Warehouse) / Banking Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91024546 | Morgan Stanley Asia Limited | Vice President, Ultra Low Latency Exchange Connectivity, C++ Software Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91440334 | IT Solutions Ltd. | Avaya Voice Engineer / System Admin - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91449152 | InfoTech Services ( HK ) Ltd. 資訊科技服務(香港)有限公司 | Contract Senior Systems Analyst (C38464 Bid Ref 58960-2) - Spring, microservices Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91473698 | China Merchants Energy Shipping (Hong Kong) Company Limited | 数字化管理部 人工智能及数据治理岗 Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91455280 | full speed | Platform Engineer - Officer - Cloud Platform Services - IT Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91472088 | The University of Hong Kong | AI Engineer Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91201547 | AI Chip Center for Emerging Smart Systems Limited | Principal Engineer / Principal Architect Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91456734 | Beehire Personnel Limited | MNC, System Engineer, 2 - 3 Months Bonus, in house Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91237052 | CL Technical Services Ltd. | Analyst Programmer / Software Engineer (Java, $30K - $48K) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91470648 | Oriental Human Resources Limited | IT Systems Engineer Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91463540 | Acton Consulting Limited | Oracle Cloud Engineer or EBS/Fusion Consultant ( 2 Openings ) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91443994 | Accenture Company Limited | Technology - Oracle Functional Analyst/Consultant/Manager Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91124670 | TEKsystems | Software Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91260939 | CL Technical Services Ltd. | Senior Application Developer (Java, Python) Job in Sai Wan Ho, Eastern District
+- [ ] https://hk.jobsdb.com/job/90521799 | Universe Action Limited | Golang Programmer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/88265106 | Automated Systems (HK) Ltd | Java System Analyst Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91391228 | banking industry experience | Analyst Programmer/Java Developer(banking) Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91441181 | IT Channel (Asia) Limited | Cloud Engineer (Security Patching & Vulnerability Remediation Focus) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91301281 | various business and technical teams | Contract Programmer (6 months) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91316429 | Success Base Engineering Ltd | Full-Stack Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91225917 | Visionaries 777 Limited | Full‑Stack Developer (Angular + Tailwind CSS + GCP) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91223286 | Qualicom Innovations Asia Ltd | Analyst Programmer (Full Stack) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91066347 | Midland Realty (Comm. & Ind.) Limited | System Analyst / Analyst Programmer (Full-Stack) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91035812 | Nicoll Curtin Technology (HK) Limited | VP, Full Stack Developer (Angular/React + Java) Investment Banking Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91115533 | Fangwei Technology Limited | (Senior) Full Stack Developer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91234666 | the development team | Senior Software Engineer Developer (Full Stack) - Toptier MNC Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91209439 | Python | Full Stack Developer (MNC, Python/ React/ Azure) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91280682 | Konew Fintech Corporation Limited | Full Stack Developer (Mobile/Web/Backend) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91235400 | PERSOL Hong Kong Limited | Full Stack Developer (In-house system revamp/ FS/Java) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91091200 | Spiakl Tech Limited | Full Stack Developer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90978045 | Qualicom Innovations Asia Ltd | Analyst Programmer (Full Stack) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91174410 | 現代教育研究社有限公司 | Full Stack React Developer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91006195 | passion on Quant | AI Fintech Developer (Full Stack) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91230781 | PERSOL | Analyst Programmer (Java, ReactJS, Node.js) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91146507 | Blockchain Solutions Limited | Software Engineer (Full Stack) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91070042 | directly support business operations | Full-stack Developer - Investment Bank (Front-office) - J12671 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/88619602 | SinoPac Securities (Asia) Limited | System Analyst /Analyst Programmer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91225504 | meet client requirements from analysis | Technology - Frontend Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/87321469 | Hong Kong Interbank Clearing Ltd | Permanent / Contract Specialist II (Application Development) – Web Application Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91043122 | Forex Trading System | Application Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91237688 | at least 4 years software development experience (min | Senior Backend Engineer – Golang Required Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91161930 | HTML5/React | Analyst Developer (Hybrid Mobile Development) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91173018 | Edvance International Holdings Limited | Programmer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91059706 | reliable | Senior Backend / Full-Stack Engineer (AI Transformation) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91290277 | Green Tomato Limited | Senior Web Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91132723 | the rank of IT Officer/IT Technician） | Senior Software Developer/Software Developer Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91166580 | AM730 Media Limited | Web & Web App Developer - am730 Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/90970035 | our Technovation Centre | Developer / Senior Developer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91019905 | ADECCO | Next JS Developer / Perm / Double Pay / $$$ / Growth Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90966853 | SolidJS | Software Engineer - Frontend Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91305742 | BUILT-IN PRO Limited | PHP Web Developer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91173142 | Onebox Creative Limited | Senior Web Programmer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91172427 | Stylevana | Senior eCommerce Developer (Magento) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91314477 | APJ Software (Hong Kong) Company Limited | Contract Programmer (Frontend/ Backend) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91316354 | CLPS Technology (Hong Kong) Co., Limited | Web3 Developer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91314564 | Hong Kong Exchanges & Clearing Ltd | (Senior)Systems Analysts - Associate - Listing Systems - IT - 12 months Contract Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91313661 | Allied Telesis (HK) Ltd | Power Platform Developer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91031533 | Varmeego Limited | Analyst Programmer (Multiple Openings) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91316053 | Alexis Services Limited | Senior Analyst Programmer React JS, Flutter- (Circa 40-45K, Health care sector) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91144376 | Manpower Services (Hong Kong) Limited | Senior Analyst Programmer/System Analyst (J2EE, React.js, up to 50K) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91300822 | Sa Sa Cosmetic Company Limited | SAP System Developer Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90661502 | Zung Fu Company Limited | Senior Programmer (1 Year Contract) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91160493 | them | Software Engineer, Platform Services, Node.js (Lead gaming company, up to 60K) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90990712 | align with business needs | Senior Applications Developer (Salesforce) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91449771 | business teams | Java Development and System Support (Cantonese speaking) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91315271 | Nexify Limited | System Analyst (Java/Web Frontend/.Net Core) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91396755 | Tenth Revolution Group | Senior Java Developer - Investment Bank Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91314552 | BOC International Holdings Ltd | AVP/VP, Application Developer, Financial Technology Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91035944 | CL Technical Services Ltd. | Web Developer (PHP/Node.JS/Nginx, over $40K) Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91382209 | Genesis Connect | ERP Software Developer (Dynamics 365 Business Central) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91236593 | React and java springboot | Junior System Analyst- React, Java Springboot (around HK32000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91140598 | CL Technical Services Ltd. | Analyst Programmer (Cognos, Java, over $40K) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91026763 | Morgan Stanley Asia Limited | Lead Java Developer, Vice President P4, PWM Tech Asia & Australia Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91258647 | Osmium Consulting Group Limited | Frontend Developer, React.js/Next.js / FinTech ( 25-35k ) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91393661 | Gammon Construction Ltd | Principal Systems Engineer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91057220 | Hong Kong Air Cargo Terminals Ltd | Team Lead (Application Development) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91274237 | a strong background in Java and API development | Senior Programmer (Java/ API)- Banking 30-40k Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91067487 | Nan Fung Development Limited | Solutions Engineer Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90961121 | Michael Page International (HK) Ltd | Senior Application Developer - Website 35-45K Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91284379 | Spiakl Tech Limited | Integration Developer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91305260 | Ambition | Java Developer, Insurance, 55k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90968056 | CL Technical Services Ltd. | Web Developer / Programmer (over $40K, PHP/Node.JS/Nignx) Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90996336 | IT Solutions Ltd. | Corporate Banking - Custody Services: Java SA / AP - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91309722 | Techforce Group Limited | NetApp & OpenShift Storage Engineer - FSI - HKD 50,000 per month Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91260536 | Osmium Consulting Group Limited | Frontend Developer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91262155 | TEKsystems | Backend Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91319729 | hongkong initial information Ltd | Senior Frontend Engineer (React / Next.js) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91325788 | CLPS Technology (Hong Kong) Co., Limited | Web3 solution architect Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90522770 | Universe Action Limited | Frontend Programmer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91319772 | hongkong initial information Ltd | Backend Engineer (Golang) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91279438 | Green Tomato Limited | Senior Developer (React Native) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91446049 | business goals and innovation | Solution Architect (AI & Web) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91260757 | CL Technical Services Ltd. | Senior Backend Developer (Java, Linux) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91426444 | power their APAC trade processing | Application Support Engineer – Financial Trading Technology (APAC) - J12728 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91173641 | Cloudstone Limited | Senior Backend Engineer - Operations & Release (1-Year Renewable Contract) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91134419 | Hong Kong Exchanges & Clearing Ltd | Principal Cloud Services Engineer - AVP - Cloud Platform Services - IT Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91124488 | Pinpoint Asia | Java Backend Developer (Microservices/Finance IT) - Wealth Management - J12700 Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91317741 | InfoTech Services ( HK ) Ltd. 資訊科技服務(香港)有限公司 | Contract Systems Specialist (C36254 Bid Ref 56710-3) - Lotus Notes, MS Exchange Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91259155 | CL Technical Services Ltd. | Analyst Programmer / System Analyst (J2EE, Kwun Tong, 5 days work) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91421168 | users and vendors in digital initiatives | System Developer - International School / ERP Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91149584 | PERSOL | Analyst Programmer (Web/ System programming) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91199738 | HKU School of Professional & Continuing Education | Senior Software Developer (in the grade of Assistant Computer Officer I) in ITSU Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91021894 | React and java springboot | Junior System Analyst- React, Java Springboot (around HK32000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90984981 | researchers and traders | Web GUI Developer – Real-Time Data (Global Quant Fund) - J12667 Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91148089 | Ignite Recruitment Hong Kong Limited | Senior Software Developer - Top Tier Hedge Fund (Python) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91136621 | CL Technical Services Ltd. | Analyst Programmer / System Developer (Blockchain/Kubernetes, over $40K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91319432 | Autotoll Limited | Analyst Programmer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91365163 | Pathsight Limited | System Analyst / Senior System Analyst up to 65k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91441335 | Crossings Executive Search | AI Platform Solution Developer, Financial Services Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91099030 | PERSOL | Analyst Programmer (JavaScript/ Web) Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91312466 | Hong Kong Interbank Clearing Ltd | Architect / Senior Specialist (Solution Development) – System Development Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91318571 | 3 years of development experience | Analyst Programmer (Java) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91413227 | Xplus Global Limited | DevOps Engineer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91289951 | IT Solutions Ltd. | E-Banking System: Java AP / Programmer - Major Bank Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91437862 | Elee Consulting Limited | [URGENT] System Analyst Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90994435 | CL Technical Services Ltd. | Software Engineer / Senior Programmer ($35K-48K, Java/.Net/Node.js) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91434646 | Hong Kong Baptist University | Senior Systems Analyst (Special Project) Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91120369 | TEKsystems | Senior Backend Engineer / System Analyst (Insurance/WFH) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/88265626 | Automated Systems (HK) Ltd | Analyst Programmer /Senior Analyst Programmer (.Net ) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91073911 | Gientech Technology (Hong Kong) Limited | 高級開發工程師 Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91221226 | GMTECH HK LIMITED | Java Development Engineer Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/91314791 | BOC International Holdings Ltd | AVP/VP, Application Developer, Financial Technology Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91223652 | PERSOL | Contract Analyst Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91108384 | Top Level Corporation Limited | Java System Analyst (Technical Lead) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91315372 | Manpower Services (Hong Kong) Limited | System Analyst / Analyst Programmer (J2EE, ACE, RESTful API, JSF) ($45K) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91265576 | PeopleLink Services Limited | Application Developer / System Analyst / Financial Institution Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91309892 | Manpower Services (Hong Kong) Limited | System Analyst / Senior Developer / Analyst Programmer (multiple opening) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91448181 | excellent project exposure and career path | System Analyst (Contract) - Insurance - 48k Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91221018 | immersive social scenarios | Frontend Developer Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/91122140 | Tengyue Network Technology Co., Limited | Frontend Developer / Engineer / Programmer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91474401 | ADECCO | UX Designer - (Fintech / ECommerce Projects) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90462845 | Lolli Media Limited | Web Designer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90655033 | GP Acoustics International Limited | Junior User Experience Designer Job in Pak Shek Kok, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91468894 | least 1 year’s experience in UX and UI design of mobile/web application | UX/UI Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91020152 | 香港瞻言科技有限公司 HK Deepinsight Tech Co., Limited | 初級軟體研發工程師（Web） Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91068871 | Beauty Home Group Limited | Analyst Programmer (Web & Marketing Platforms) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91018623 | Hong Kong Trade Development Council | Web Designer Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91079677 | Innocorn Technology Limited | Application Developer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91215507 | one thought in mind - | Analyst Programmer / Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91260879 | competitive package including insurances coverage | Financial Application Developer / Programmer (Fresh Graduate Welcome) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91479484 | Mountain Hill Company | Graphic Designer / Assistant Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91103206 | DigiSalad Solutions Limited | (Senior) UX & UI Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91237363 | design | AIGC Content Creator & Graphic Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90980082 | SmartHire by SEEK | Product Designer / Junior Product Designer (Fresh Graduates) Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91282641 | Gorilla Group Limited | UI/UX Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91464523 | Agora Advertising Limited | Graphic Designer (Digital Marketing) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91213437 | passion | Programmer / Senior Programmer up to 30k (FG welcome) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91073905 | Gientech Technology (Hong Kong) Limited | 高級前端開發工程師 Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91474958 | Cornerstone Technologies Holdings Limited | IT Officer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91256891 | Wafer Systems (Asia) Limited | Programmer Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91390566 | Capgemini Hong Kong Limited | DB2 Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91315167 | Flexsystem Ltd | Programmer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91190823 | OutSystems | Programmer / Developer (Outsystems, over $35K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91382965 | ADECCO | Analyst Programmer - FineBI ($$$, Bonus, Medical etc.) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91079759 | passion | Programmer / Senior Programmer up to 30k (FG welcome) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91315648 | Geotechnics & Concrete Engineering (Hong Kong) Limited | Analyst Programmer (5-day work week) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91042172 | hands-on leadership | Team Lead - Mobile Development Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/87811300 | Hong Kong Interbank Clearing Ltd | Perm/Contract Architect/Sr. Specialist/Specialist I(AD)-Web Application Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91158265 | CL Technical Services Ltd. | Web Developer (.Net, JavaScript, Blockchain, Over $40K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91284997 | excellent project exposure and career path | Tech Lead (Contract) - Insurance Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91145628 | Furong Uptech Solution Co., Ltd | IOS Developer-Fintech Innovation# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91311687 | The Career Works Limited | Senior UX Designer Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90991019 | Furong Uptech Solution Co., Ltd | IOS Developer-Fintech Innovation# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91213435 | Pathsight Limited | Analyst Programmer / Senior Analyst Programmer up to 45k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91285123 | Osmium Consulting Group Limited | Junior Software Engineer / Developer / Programmer ( Fresh Grad Welcome ) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91201841 | Manpower Services (Hong Kong) Limited | Tech Business Analyst / System Analyst (Web/Java) ($45K UP) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91393079 | Furong Uptech Solution Co., Ltd | 運維工程師 Operations Engineer Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91257524 | ADECCO | UX Designer - fintech company, mobile APP - 25k Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91098910 | CL Technical Services Ltd. | Application Developer / SQL Developer (C++/HTML, Database management) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91248742 | Storeberry Limited | UX/UI Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91281966 | one thought in mind - | System Analyst / Analyst Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91227903 | TEKsystems | Systems Analyst – Backend Integration & Systems Design Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91424141 | PERSOL | Analyst Programmer (Government Sector, JAVA/ Oracle RDBMS/ Web) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91047199 | PERSOL | Analyst Programmer (JavaScript/ .NET C#/ HTML5) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91163164 | support BIM features | Senior Programmer / Programmer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91419545 | CL Technical Services Ltd. | Analyst Programmer (Kowloon Bay, over $40K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91316837 | IT Solutions Ltd. | Personal Banking: Java SA / AP / Programmer - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91088269 | React and java springboot | Junior System Analyst- React, Java Springboot (around HK32000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91200293 | HGC Global Communications Limited | System Analyst Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91469820 | Imagine Lab Limited | 2D Designer Job in Yau Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91150276 | PERSOL | Junior Java Developer (Open to FG) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90993502 | Nexxtech Innovation Limited | Technician (Software & Innovation Application) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91175124 | chance | Application Manager Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91434368 | a proven track record of delivering successful IT projects | Systems Analyst Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91018495 | Allied Telesis (HK) Ltd | Power Platform Developer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91252220 | Protiviti Hong Kong Co. Limited | UXUI Designer - Top Tier Bank (12 months) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91038181 | CL Technical Services Ltd. | Software Engineer / Programmer (Java, over $40K) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91314399 | Hong Kong Exchanges & Clearing Ltd | Associate - Systems Analyst (Blockchain) - Emerging Systems - IT Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91098823 | a semi-government org | System Analyst (C#, TypeScript, JavaScript) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/90990985 | Furong Uptech Solution Co., Ltd | Java Backend Developer- Fintech Innovation# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91235748 | TEKsystems | Senior Backend Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91464590 | SmartHire by SEEK | Web3 Cross-border Payment Sales (web3跨境支付销售） Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91420195 | KOS International Limited | Platform Engineering Lead (DevOps / SRE) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91135155 | our banking client on their insurance sector | Python Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91461522 | Hong Kong Exchanges & Clearing Ltd | Senior System Analyst - Hong Kong Exchanges and Clearing Limited Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91262443 | Ikas International (Asia) Limited | Production Support Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91394693 | Linux | UNIX/Linux & Middleware Senior Engineer / Manager Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91147710 | The Career Works Limited | DevOps Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91151622 | Morgan Mckinley Limited | DevOps Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91251631 | NCSI (HK) Limited | Consultant (Application) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91236660 | opportunities | Multiple Java Roles with 20% increment Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91316171 | Sing Tao Management Services Limited | Senior DevOps & Site Reliability Engineer (SRE) / Engineering Lead Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91445508 | Michael Page International (HK) Ltd | Platform Engineer - AI & Data Platform 50-60k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91255312 | Linux | UNIX/Linux & Middleware Senior Engineer / Manager Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91092923 | Robert Half Hong Kong Limited | Java Developer (Perm, Digital Asset & Payment) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91396144 | Wafer Systems (Asia) Limited | DevOps Implementation & Support Engineer Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91086569 | Eclipse Options (HK) Limited | Front Office Python Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/89315863 | Guotai Junan International Holdings Limited | Java Developer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90958507 | Nexify Limited | Programmer / Developer (Welcome Fresh Graduates) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90062279 | ESD Services Limited (ESDlife) | Java Developer (Digital Solutions) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91079760 | Pathsight Limited | Analyst Programmer / Senior Analyst Programmer up to 45k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91300538 | us! | Applications Development Engineer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91315503 | Chow Sang Sang Holdings International Limited | Executive - System Design Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91145425 | Furong Uptech Solution Co., Ltd | Senior SDET & Senior Performance Test Engineer# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91375616 | AI Mall Technology Limited | Web3.0 Specitist Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91110778 | Morgan Mckinley Limited | Developer (Java) / Bank / HKD 30k - 40k / Contract Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91312877 | Modern Dental Group Limited | Senior Analyst Programmer/ System Analyst Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90943015 | team leading experience | Mobile App Developer (Team Leader, iOS & Android) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91284007 | SOCAM Development Limited 瑞安建業有限公司 | Analyst Programmer I Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91200242 | PERSOL | Programmer (P) (C#, MSSQL) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91237477 | Acton Consulting Limited | System Analyst or Senior Analyst Programmer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91026291 | one thought in mind - | Programmer / Analyst Programmer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90942877 | Pathsight Limited | Analyst Programmer / Senior Analyst Programmer up to 45k Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90990829 | Furong Uptech Solution Co., Ltd | Senior SDET & Senior Performance Test Engineer# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91062473 | JobsApp Limited | SA / Senior Developer, Mobile ( Native / Hybrid ) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91033713 | no/low-code experience | System Analyst (C#, Typescript) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91382865 | Seamatch Asia Limited | System Analyst/ Analyst Programmer / Business Analyst (Fresh welcome) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91202723 | ATAL Technologies Limited | Programmer (Ref: ATEC) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91062127 | TEKsystems | Systems Analyst / Analyst Programmer opportunities - FS project Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90721592 | Prizm | Analyst Programmer (Java) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91171720 | CL Technical Services Ltd. | Analyst Programmer (Java, Shek Kip Mei, over $40K) Job in Shek Kip Mei, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91412184 | PERSOL | System Analyst( Application Development) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91279809 | Seamatch Asia Limited | System Analyst/ Analyst Programmer / Business Analyst (Fresh welcome) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91042332 | Wafer Systems (Asia) Limited | Analyst Programmer (AP) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91202983 | Wafer Systems (Asia) Limited | Analyst Programmer (AP) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91221989 | CGS International Holdings Limited | .Net Developer Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91235897 | java a must | Junior Java Developer- multi industry(around HK18000/month) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91278205 | Hong Kong Baptist University | Senior Digital Experience Specialist, Office of Information Technology Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91015502 | CL Technical Services Ltd. | Analyst Programmer (Java, Multiple vacancies) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91038409 | CL Technical Services Ltd. | Senior Software Developer / System Analyst (Java, over $55K) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91171116 | banking industry experience | Java Developer/Programmer(payment project) Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91200471 | CMU OmniClear Limited | Senior Associate (Digital Asset Platform) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91251583 | global IT team | Technical Analyst - Java & AI Development Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91138667 | CMBC Capital Holdings Limited | 应用系统运维工程师 Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91112001 | java experience | Analyst Programmer- Java Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91061615 | Taylor Coulter | Analyst Programmer (Java / Public Sector) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91274956 | Recruit Logic Limited | Software Engineer, Developer Experience (Lead gaming company, up to 60K) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91099133 | CL Technical Services Ltd. | Senior Application Developer / System Analyst (Cryptography/Cloud, over $55K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91200420 | Chow Sang Sang Holdings International Limited | Executive - System Design Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91115849 | 2-4 years of experience in building applications | Consultant (AI Application) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91149901 | BDO Limited | Senior Analyst Programmer / Analyst Programmer Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91144362 | Genesis Connect | Senior Systems Analyst (Drupal CMS & Creative Strategy) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91007146 | Seamatch Asia Limited | System Analyst/ Analyst Programmer / Business Analyst (Fresh welcome) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91144883 | CL Technical Services Ltd. | Analyst Programmer (Data governance, Cheung Sha Wan, over $40K) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91110008 | Seamatch Asia Limited | System Analyst/ Analyst Programmer / Business Analyst (Fresh welcome) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91123877 | Hong Kong Biotechnology Organization | IT Specialist (web developer and IT support) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91070443 | Chow Sang Sang Holdings International Limited | Executive - System Design Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91043396 | Venturenix Limited | Analyst Programmer I Public Sector I C# Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91411278 | vendor management | (Senior) Analyst Programmer (Java, .Net, AWS, Docker, DevOps) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91284833 | CL Technical Services Ltd. | System Analyst (Kowloon Bay, 5 days work, over $60K) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91070617 | Trumptech Digital Education Services Limited | Analyst Programmer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91424024 | TEKsystems | Platform Engineer (70k+ FS) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91261993 | CL Technical Services Ltd. | Senior Application Developer / System Analyst (over $60K) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91393187 | Furong Uptech Solution Co., Ltd | System Architect 系統架構工程師 - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90983066 | electrical and mechanical insights | System Analyst (REF: ATEC) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91450918 | PCCW Media Group | Senior System Engineer (DevOps) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91426602 | cutting-edge tech | DevOps Engineer (AI platform) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91257355 | InfoTech Services ( HK ) Ltd. 資訊科技服務(香港)有限公司 | Contract Analyst Programmer (C36727 Bid Ref 57278-3) - Java, Mobile, JS, SSADM Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91261342 | enable agile teams | Platform Engineer - REQ12968 (Based in Macau/HK) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91261692 | Optimum Solutions (Hong Kong) Limited | IT Support Specialist ( AirTable platform ) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91201792 | Taylor Coulter | [ 2 vacancies] Analyst Programmer (Java+ python/ Java+ DevOps) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91145474 | Furong Uptech Solution Co., Ltd | System Architect 系統架構工程師 - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91064142 | growing tech company | ( Senior ) DevOps / SRE Engineer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90988395 | PURE International (Hong Kong) Ltd | Senior Analyst Programmer (SAP) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91122189 | Tengyue Network Technology Co., Limited | DevOps Engineer Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91196798 | the responsibility | Senior Systems Analyst – Full-stack Application Development Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90990863 | Furong Uptech Solution Co., Ltd | System Architect 系統架構工程師 - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91114551 | Protiviti Hong Kong Co. Limited | Python Developer - Leading Insurance (12 months) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91070243 | attractive offers | System Analyst/ Analyst Programmer (Java/Python) / Business Analyst (Fresh ok) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91148553 | teams in London and Singapore | Lead Python Developer (RegTech) - Elite Quant Fund - J12385 Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90967748 | Global Executive Consultants Ltd. | AI Developer: LLM, RAG & Python (0-3 years exp / Fresh Grad) (Ref. No.: 27650) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91258371 | TEKsystems | Python Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91480171 | Don Nelson Recruitment Limited | Portfolio Analyst / Junior Portfolio Manager (Multi-Asset) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90506487 | OP Investment Management Limited | Senior Developer / Developer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91020011 | 香港瞻言科技有限公司 HK Deepinsight Tech Co., Limited | 初級軟體研發工程師（Python） Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91480209 | Newrecs Consultancy Limited | Data Engineer/Data Analyst (Various Openings) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91011045 | Manpower Services (Hong Kong) Limited | Software Developer (AI/Automation,35K） Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91004665 | Risksis Technology Limited | Software Engineer (Computer Science)($30k-50k) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91413808 | CMES LNG Shipping Company Limited | 系统技术助理（实习岗） Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91041572 | Spire Investment Group Limited | Quant Trader focused on Nikkei Index Futures and Australian Index Futures Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91424062 | The Bank of East Asia, Limited | VP (Linked Deposits & Quantitative Analysis) - Investment Products & Advisory Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91227031 | Bank of China (Hong Kong) Limited | Senior / Credit Risk Manager (Credit Model Management) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91470468 | Hitachi Rail Hong Kong Limited | Data Engineering Intern Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91457746 | IT Solutions Ltd. | AI Projects: System Analyst / Analyst Programmer - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91445843 | KGI Hong Kong Limited | Vice President, Model Risk, Risk Management (Ref: 09871-RMMRVP-JDB) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91421559 | Recruit Logic Limited | Python Machine Learning Engineer (Tech Product Company, Up to $60k) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91439078 | The Independent Schools Foundation Academy Ltd | AI Technologist (K-12 Chinese Education focus) (Ref: SY/AIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91316182 | CLPS Technology (Hong Kong) Co., Limited | RPA Developer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91446324 | shape strategic decisions | Senior Advanced Analytics Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91123881 | 百仁思資產管理(香港)有限公司 | HFT Team Leader Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91236977 | Long Bridge Technology HK Limited | Solutions Specialist - Brokerage system Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90988514 | ConnectedGroup Limited | C++ or C# Developer - Investment Bank / 80k-120k per month Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91441787 | Oliver James Associates Limited | System Engineer / Data Platform, DataOps & RAG Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91425957 | Pinpoint Asia | QA Automation Engineer - AI / Gen-AI - J12731 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91146134 | Bank of China (Hong Kong) Limited | Assistant Credit Risk Manager / Deputy Credit Risk Manager / Credit Risk Manager Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91097167 | 4+ years of experience | Application Developer (VB.Net, Java, MQ, Bank) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91219745 | LUXOFT MALAYSIA SDN. BHD. | Senior Java Developer (SQL, kafka & banking is preferrable) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91171992 | ADECCO | Multiple Hiring - Trading System / Banking System Java, TSQL / 28K- 46K Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91398973 | Morgan Mckinley Limited | AI Developer (LLM Multi-Agent) / Contract Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91153157 | IBM China / Hong Kong Ltd | Campus Hiring 2026 - Client Engineering Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90333237 | KPMG | Data Engineer, Senior Consultant/Manager, Finance Consulting (MJ001226) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91449630 | Chow Sang Sang Holdings International Limited | Senior Data Scientist/Data Scientist Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91425397 | trading/risk systems | Junior Quant Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91073919 | Gientech Technology (Hong Kong) Limited | 高級數據開發工程師 Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91252563 | career growth | Audit Intermediate / Semi-Senior Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91026755 | Morgan Stanley Asia Limited | Java Developer, Associate P2, Institutional Securities Technology Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91421127 | CMB Wing Lung Bank Limited | AM/ Manager, Model Validation (Risk Management Dept) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91262990 | Autotoll Limited | System Analyst (FanRuan FineBI and Crystal Report) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91186568 | China CITIC Bank International Limited | Senior Manager, Interest Rate Risk & Liquidity Modeling Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91313129 | ADECCO | Machine Learning Engineer / Central / Up to 40K Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91248806 | will transform how we engage with guests | Ai Application Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91114023 | Mitrade | Machine Learning Engineer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91382285 | CMB Wing Lung Bank Limited | AM/ Manager, Model Validation (Risk Management Dept) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90990294 | ASMPT Technology Hong Kong Limited | Intern (Embedded Software / Software - Motion Control, 1-year programme) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90333128 | KPMG | Senior Consultant / Manager, Data Engineer, Transformation (MJ005881) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91306378 | Robert Walters (HK) Ltd | Senior Data Engineer/Analyst Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91404799 | our Big Data and Analytics Platforms | Trading Data Analysis Officer - Hong Kong Exchanges and Clearing Limited Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91285484 | one thought in mind - | Machine Learning (ML) Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91202654 | IT Solutions Ltd. | Enterprise Application Integration (EAI): SA / AP/ P - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91402594 | TEKsystems | System Analyst / Production Support Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91421159 | Michael Page International (HK) Ltd | Junior ETF /Quant Trader Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91070149 | global team | Senior Data Engineer - FS/Insurance Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91351788 | win deals | Senior Solutions Engineers Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91302013 | Wealth Management Cube Limited | Java Developer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91122163 | Tengyue Network Technology Co., Limited | Java Developer / Engineer / Programmer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91212905 | Morgan Half International (Hong Kong) Limited | Java System Analyst (In-house) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91009781 | JFE Consulting Limited | Java Developer (Programmer/Analyst Programmer/System Analyst) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91070881 | China Telecom Global Limited | Analyst Programmer (JAVA) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91042538 | EIDEALINK LIMITED | [Urgent] JAVA Analyst Programmer/ System Analyst (50K+) - 5 Openings Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91150746 | CKC Solutions Limited | System Analyst / Analyst Programmer (Java, Spring Boot) - Up to 55K X 13 months Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91033276 | CLPS Technology (Hong Kong) Co., Limited | Java Developer/Programmer(banking) Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90985769 | global teams | Front Office Java Developer - Top Tier Investment Bank Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91033453 | CLPS Technology (Hong Kong) Co., Limited | Java Developer/Programmer(banking) Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91421752 | Tung Wah Group of Hospitals | Senior Analyst Programmer (REF: A3/SAP/ITD/2/JOBS) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91298031 | Top Level Corporation Limited | Java System Analyst (Technical Lead) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91022036 | TEKsystems | Senior Java Developer / System Analyst Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91134328 | business teams | Java Trading App Development & Support (Cantonese required) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91425643 | Master Communications Limited | Senior Analyst Programmer / Analyst Programmer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91262207 | Gemini Personnel Limited | Analyst Programmer / Senior Programmer (Contract) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90942963 | Morgan Half International (Hong Kong) Limited | Java (Senior) Analyst Programmer / System Analyst (In-house) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91134937 | InfoTech Services ( HK ) Ltd. 資訊科技服務(香港)有限公司 | Contract Junior Programmer (C22198 Bid Ref 44532-8) - Java, JavaScript, AI Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91060028 | NEC Hong Kong Limited | Analyst Programmer - JAVA, .NET C# Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91422627 | The Hong Kong Jockey Club | Technical Manager, Platform Engineering (CIAM) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91124686 | rapid growth | Java Developers / Analyst Programmers ( Welcome Fresh Grads ) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91176919 | IT Solutions Ltd. | Treasury Systems: Java SA / AP - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91122420 | NEC Hong Kong Limited | System Analyst - JAVA Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91087749 | Oliver James Associates Limited | Technical Lead – Java & Spring Boot Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91088881 | Ambition | Java Technical Support Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91057156 | Elee Consulting Limited | SENIOR Analyst Programmer / Analyst Programmer ( 大埔 / 大學) Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/90994502 | business teams | AVP, Systems Support and Development (Java required) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91164341 | Techforce Group Limited | Senior System Analyst / Java Spring Boot / FinTech Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91286698 | World Vision Hong Kong | Analyst Programmer Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91480095 | Cathay Pacific Airways Ltd | Digital & IT Planning Analyst Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/91444005 | ConnectedGroup Limited | System Analyst / Senior Analyst Programmer - .NET (Banking) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91474317 | Kum Shing (KF) Construction Co Ltd | Technical IT Business Analyst Job in To Kwa Wan, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91285525 | Hong Kong Metropolitan University | System Analyst / Analyst Programmer (OPA) (Ref: 26000KW) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91175319 | Hospital Authority (Hong Kong Island Cluster) | Analyst Programmer - (REF. NO.: HKEC260347) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/90988758 | Po Leung Kuk | Senior Analyst Programmer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91203207 | N1 Solutions Limited | Analyst Programmer/ Programmer (Application & Systems) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91019822 | APJ Software (Hong Kong) Company Limited | Contract Analyst Programmer - Power Platform Development Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91135866 | VSTECS (HK) Limited | Programmer / Analyst Programmer Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91190436 | support | Analyst Programmer (Basic, VB.NET and ASP.NET) (Ref: JD-AP) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90968400 | The English Schools Foundation (ESF) | System Analyst/ Analyst Programmer - ESF Centre Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91451411 | SmartHire by SEEK | HFT Team Leader - up to $100k Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91438937 | Pacific Prime Insurance Brokers Ltd | Benefits Analyst, Employee Benefits Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91123599 | YesStyle.com Limited | Assistant Business Analyst (Web & App) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91038994 | SmartHire by SEEK | Security Analyst - Adaptive Security Operations Centre Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91163035 | CSA Global Logistics (Hong Kong) Limited | Supply Chain Analyst Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91422071 | Manulife (International) Limited | Business Analyst Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90983169 | Construction Industry Council | Manager – Information Technology, Application Development Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91061665 | YesStyle.com Limited | Assistant Analyst, Planning & Analytics Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91138317 | SmartHire by SEEK | IT Senior Officer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91480550 | CL Technical Services Ltd. | Business Analyst (Sha Tin, over $50K) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91289767 | competitive pay | Technical Representative (Broker) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91124246 | Emperor Investment (Management) Limited | Infrastructure Transformation Project Specialist Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91464647 | SmartHire by SEEK | IT Officer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91448350 | Nexify Limited | Data Platform Architect Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91480166 | AsiaWorld-Expo Management Limited | Assistant Business Technology Manager Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91225483 | FUJIFILM BI | IT Infrastructure Analyst (Post Sales Support) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91396226 | SmartHire by SEEK | Logistics Senior Officer/Logistics Analyst (Hybrid Mode, Flexible Working hours) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91223612 | DHR Consulting Limited | Assistant Data Analyst Job in Jordan, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91145347 | COI | Assistant IT Manager Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91123323 | move capital | Financial Market Analyst Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91093113 | Jervois Experience Agency Network | Business Analyst – Enterprise CRM (1-Year Contract) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91211783 | Risksis Technology Limited | Technical Writer/Business Analyst (Attractive Bonus) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91160181 | enable business systems across APAC | Manager, Business Solutions Control Tower Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91472788 | TEKsystems | Business System Analyst - Leading Luxury Firm - Power Platform Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91249475 | business teams | Assistant Manager (Information Technology) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91273826 | N2N-AFE (Hong Kong) Limited | Senior Technical Manager (AI Transformation & Infrastructure) Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91070019 | EY | FSO Assurance - Audit - iData Analytics - Senior/Staff Accountant - Hong Kong Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91481427 | Value Exchange Int'l (Hong Kong) Limited | Site IT Specialist Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91347727 | HSBC | Universal Banker MPF - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91018589 | Swire Coca-Cola Limited | Solution Architect Manager, SAP Finance Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91020638 | Topcast Aviation Supplies Co., Ltd. | IT Officer / Senior IT Officer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91347458 | HSBC | Universal Banker - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91170831 | Uni-China (Group) Co., Limited | IT Solution Manager (Leasing) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91004597 | Risksis Technology Limited | Tender Business Analyst (Attractive Bonus) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91316212 | SmartHire by SEEK | Manager, Deployment and Batch Support Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/89113406 | KPMG | Manager (Oracle Technical Lead) , Finance Systems, Finance Consulting (MJ003572) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91451864 | Bank of Communications (Hong Kong) Limited | Section Head, Securities System Development Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91481730 | Manpower Services (Hong Kong) Limited | (Insurance) Data Analyst (up to 55K) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91454016 | enhancing the competitiveness and | Assistant Vice President, Microstructure, Trading Development Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91449661 | Bank of China (Hong Kong) Limited | Senior/Application Development Manager(Cor Bank/Custody/Cash M/Payment Collect.) Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91455316 | Hong Kong Exchanges & Clearing Ltd | Associate/ Assistant Vice President - Post Trade Systems - IT Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/89113346 | KPMG | Manager (Oracle Workstream Lead) ,Finance Systems, Finance Consulting (MJ003571) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91096661 | CL Technical Services Ltd. | Analyst Programmer (.net, 5 days work, over $40K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/87322205 | Hong Kong Interbank Clearing Ltd | Senior Specialist (Systems Infrastructure) - SWIFT Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91455230 | Hong Kong Exchanges & Clearing Ltd | Systems Development Manager - AVP - Post-Trade Systems - IT - 12months Contract Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91454004 | Hong Kong Exchanges & Clearing Ltd | Vice President, Microstructure, Trading Development Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91444002 | Accenture Company Limited | Technology – Oracle Solution Architect/ Deployment Lead Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91071381 | FSE Engineering Group Limited | Analyst Programmer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471495 | Classy Wheeler Limited | Senior Specialist / Assistant Manager (Oracle Cloud / EBS / Fusion) (Logistics) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91445042 | TEKsystems | SAP Consultant - SuccessFactors - Large Scale Properties Company Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91319179 | Accenture Company Limited | Technology - HR Technology (HRIS) Analyst - Consultant Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91481754 | ASMPT Technology Hong Kong Limited | Mechanical Engineer (Fresh Graduate / IANG Holder Is Welcome) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91226478 | Peplink International Limited | Software Engineer (C/C++) (Senior/ fresh grad welcome) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91481906 | ASMPT Technology Hong Kong Limited | Process Engineer (Fresh Graduate / IANG Holder Is Welcome) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91123105 | ICO Limited | Programmer (Recent Computer Science Graduates are welcome!) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91164538 | VTECH Corporate Services Ltd | Software Engineer (GBA Youth Employment Program) (CMS275/J03) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91009635 | quality coding and teamwork | Programmer (Fresh Graduates are Welcome) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91065221 | Search & Select International Limited | (Analyst) Programmer – C# or ABAP (#Fresh Graduate Welcome!) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91201983 | Robert Walters (HK) Ltd | Multiple openings - Junior Developer (MNC, FG Welcome) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91315939 | Kinetix Systems Ltd | Graduate Trainee Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91474989 | Hong Kong Productivity Council | Postdoctoral Researcher, Emerging Applications Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/89610610 | stakeholders | Assistant Engineer (R&D) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91424840 | Meinhardt Consulting Engineers | Graduate Engineer (Ref: 88128) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90952556 | big brands across multiple industries | Production Engineering Graduate Programme - Hong Kong (Immediate Start) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90654255 | IT Channel (Asia) Limited | Workspace Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/90954315 | LLMs and cutting-edge tech in a collaborative | Software Engineer, AI Applications Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91186401 | Hong Kong Aero Engine Services Limited (HAESL) | Engineering Graduate Trainee 2026 Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91279644 | ESD Services Limited (ESDlife) | Management Trainee Program - IT Stream 2026 Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91139654 | your academic transcript(s) and certificate(s) | AECOM 2026 Hong Kong Graduate Program Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91248829 | SGS Hong Kong Limited | Assistant Engineer / Engineer Trainee (Electrical and Electronics) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91112639 | Earth Products China Limited | Service Engineer (Welcome Fresh Graduates) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91202663 | Meinhardt Consulting Engineers | Assistant Engineer / Graduate Engineer (Structural / Geotechnical) (Ref: 53820) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91138064 | Schindler Lifts (HK) Ltd | Project Engineer (Lift & Escalator, Fresh Graduate is welcome to apply) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91300603 | Bureau Veritas Hong Kong Limited | Lab Engineer Trainee/ Engineer - Perform mechanical / physical testing Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91383686 | Seedland Solutions Limited | Engineer / Assistant Engineer (5-day) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91196631 | Bureau Veritas Hong Kong Limited | Lab Engineer Trainee/ Engineer - Perform mechanical / physical testing Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91419424 | Modern Terminals Ltd | Engineering Summer Trainee (Building Services / Civil Engineering) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91060713 | Bureau Veritas Hong Kong Limited | Lab Engineer Trainee/ Engineer - Perform physical / mechanical testing Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91097051 | coordination | Business Analyst - WM Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91476623 | Roborn Technology Limited | Project Executive / Project Assistant / Project Engineer Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91201460 | AI Chip Center for Emerging Smart Systems Limited | Post-doctoral Fellow Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/74663049 | Chevalier Group - Lifts & Escalators | Engineer / Assistant Engineer - Maintenance Division Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90091424 | SGS Hong Kong Limited | Engineer/ Senior Engineer (Hardlines, Physics) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91441577 | the rank of Senior Technical Officer) (several posts) in Bioinformatics Core | Computational Biologist (at the rank of Senior Technical Officer) Job in Sai Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91450791 | Earth Products China Limited | Technical Sales Engineer (Fresh Graduates Welcome) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91424117 | Oliver James Associates Limited | Quality Assurance Engineer - Automation Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91450818 | Earth Products China Limited | Service Engineer (Welcome Fresh Graduates) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91201514 | AI Chip Center for Emerging Smart Systems Limited | Principal Researcher / Senior Researcher Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91438988 | The Independent Schools Foundation Academy Ltd | Chinese Industry Technologist (GBA Specialist) (Ref: SY/CIT/20260212_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91472441 | Introv | Associate ERP Consultant (Fresh Graduates are welcome) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91448240 | Michael Page International (HK) Ltd | QA Engineer - AI Platform & Governance 30-58K Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91213033 | Pathsight Limited | Account Servicing Executive (Fintech Software), X New Business Hunting Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91436743 | Citybus Limited | Engineering Graduate Trainee Programme 2026 (EGT) (Ref: JD/EGT/04/2026) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91356291 | Pathsight Limited | Account Servicing Executive (Fintech Software), Basic Salary up to 25K Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91393435 | a strong presence in Asia | Graduate Trainee/Internship Program 財富管理實習生計劃(歡迎留港海外準畢業生) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91427888 | HR Plus (Talent) Limited | Pre-sales Engineer (MNC, Junior Role, Network Infrastructure, Security) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91276164 | Equities trading desks | Production Engineer (L1/L2) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91414014 | HongKe Technology Co., Limited | Business Development Specialist Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91415489 | Kenfil Hong Kong Ltd | Cloud & AI Solutions Sales Representative Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91434011 | Macroview Telecom Limited | Solution Engineer - Network Infrastructure (Fresh graduate is welcome!) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/89368935 | Tritech Distribution Limited | Presales / Solution Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91146275 | PFCC Group Limited | Junior Java Developer / Business Analyst Trainee Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/90942879 | passion | Programmer / Senior Programmer up to 30k (FG welcome) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91480954 | TEKsystems | Junior Business Analyst / Project Analyst (Insurance MNC, WFH-hybrid) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91169871 | no bias | Junior Financial Consultant (Welcome Fresh Graduate) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91087557 | CCT & Partners CPA Limited | Junior Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91275560 | API Lab Testing Limited | Junior Accountant Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91088948 | SmartHire by SEEK | Junior Purchasing Officer Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91112719 | SmartHire by SEEK | Project Designer / Assistant Project Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91252667 | Good Wish | Investment Trainee (Fresh Grad / Candidates from Banking Industry are welcome) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91426031 | Hei Design Limited | Interior Designer 室內設計師 (Residential 有住宅項目經驗優先) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91087639 | Good Wish | Investment Trainee (Fresh Grad / Candidates from Banking Industry are welcome) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91069832 | SD Infinity (HK) Limited | Event Marketing & Sales Trainee (Welcome Fresh Graduates!) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91014178 | Poon & Co | AUDIT ASSOCIATES (17-20K), SEMI-SENIORS (19-26K) & SENIORS (25-36K) - 5-DAY WEEK Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91021328 | AIA International Limited | Business Consultant / Management Trainee (Welcome fre-grad) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91160617 | Private Advertiser | Advisory Associate/ Trainee (Banking & Financial Services) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90991622 | will have great opportunities | Project Designer / Assistant Project Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91220577 | Irene Cheng & Co. Limited | Audit Junior (5 days work) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91383035 | Pico International (HK) Ltd | Secretary / Admin. Assistant in Legal Team (Junior) Job in Tai Po Industrial Estate, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91167973 | 賽馬會Media 21媒體空間 | Youth Work Trainee 青年工作見習生 (活動及場地助理) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91110775 | Co provides a space | Full Time Float Guide Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91095250 | flexible work | ERP Programmer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91124205 | IT Solutions Ltd. | Internet & Mobile Banking: BA /Junior BA - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91158706 | Fran & Wen Profit | Business Analyst Trainee (5-day work, 15-20K) (IANG/Fresh Graduate Welcomed) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91047101 | Excel Technology International (Hong Kong) Limited | Programmer / Analyst Programmer – Banking Projects Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91118381 | multiple platforms and testing techniques | QA Engineer/ Senior QA Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91093172 | vendors in this project-based | Quality Assurance Tester – Enterprise CRM (Project-based) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91475177 | WIP Sourcing Asia Limited | Quality Assurance ( Garment ) (5 days) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91482451 | Morgan Half International (Hong Kong) Limited | QA/QC Officer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91022616 | Jervois Experience Agency Network | Quality Assurance Project Manager – Enterprise CRM (1-Year Contract) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91119857 | ESD Services Limited (ESDlife) | Senior Quality Assurance Engineer (Digital Solutions) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91423712 | data-related experience | Manual QA Tester - Insurance (12 months contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90983637 | Lenovo PCCW Solutions | Assistant Quality Assurance Manager Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91420867 | ADECCO | Quality Assurance Engineer (AI platforms and applications) / Up to 44K Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91094290 | DCH Auriga (Hong Kong) Limited | (Senior) Assistant - Quality Assurance Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91440825 | Crossings Executive Search | Quality Assurance Engineer - Financial Industry (Ref: QAE/HL) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91042147 | SmartHire by SEEK | Safety Management System (SMS) Officer (Mechanical Engineering / QA / ISO) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91089217 | Hip Hing Construction Co Ltd | Quality Assurance Engineer (Macau Based) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91319439 | IT | QA Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/89405910 | Hong Kong Interbank Clearing Ltd | Engineer (Quality Assurance) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91177238 | Zlashy Limited | Senior QA Engineer - Automation Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91451116 | Kader Industrial Co Ltd | Quality Manager Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91096806 | Arch Partnership Limited | QA Engineer / QA Tester Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91046923 | NEX Team (HK) Limited | QA Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91435496 | AI projects experience | QA Engineer – AI Innovation Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91464458 | Eternity Consultants (HK) Ltd | QA Officer - Home appliance / Lighting / Audio Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91081100 | Rebound Electronics (Hong Kong) Limited | Senior Quality Control Technician Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91323441 | Michael Kors (HK) Limited | Assistant Compliance Manager – RTW Testing Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91246943 | SGS Hong Kong Limited | Certification Officer (IT) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90998167 | more experience will be considered | ( Senior ) Application Tester OR Software QA Engineer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91098362 | Smith & Associates Far East Ltd | QC Specialist - CDL Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91472547 | Anko Sourcing! | Product Technologist (Toys) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91312276 | CCG Property Services Limited | Senior Officer - Quality Assurance Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91394936 | SmartHire by SEEK | Quality Control Senior Officer (R&D, Q/C & Q/A) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91464453 | Eternity Consultants (HK) Ltd | QA Specialist - Furniture / Household / Nursery / Toys Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/89348410 | iAdvantage Limited | Quality Assurance Specialist (E&M Systems Focus) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91482516 | ASMPT Technology Hong Kong Limited | (Senior) Product Safety Engineer Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91031536 | APJ Software (Hong Kong) Company Limited | Contract Quality Assurance Analyst Job in West Kowloon Cultural District, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91192465 | K-Bit Limited | Compliance Specialist - Apparel Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91042058 | SmartHire by SEEK | Engine Safety Systems Officer (ISO / Engineering / QA) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91480340 | BDM Company Limited | Q.A. Manager (All Garments) (Station in Offshore) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91258029 | RMS Far East (HK) Limited | Asst QA Engineer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91248786 | SGS Hong Kong Limited | Assistant Engineer/Engineer (Fashion & Textile) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91071004 | TEKsystems | Automation Tester Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91398245 | the regulations and standard set by the Bank and regulator | Assistant Manager, Quality and Operation Control Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91481647 | Sweet N Fun Limited | Project Engineer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91436620 | Dah Sing Financial Group | (Assistant) Manager, Quality and Operation Control (Loan and SME) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91470171 | Billion Express Engineering Limited | Project Engineer Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90962020 | Eastwise | Senior QA and Compliance Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91198420 | Manpower Services (Hong Kong) Limited | QA Engineer (juvenile appliance category) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91161057 | SGS Hong Kong Limited | Assistant Engineer/Engineer (Garment & Textile) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91090280 | Headsearch21 Consultancy Ltd | Quality Assurance Engineer / QA Technologist (Toys) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91278852 | a sharp eye | UAT Tester / Leading Insurance Firm Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/87328885 | Shanghai Commercial Bank Ltd | Manager / Assistant Manager - Quality Assurance and Branch Inspection Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91423822 | experience in ERP | Senior Test Manager (cross industry, about HK63000/m) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90966497 | Ambition | QA Analyst (Mobile Banking) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91304075 | our cross-functional teams in HK & various regions | Quality Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91398396 | Pinpoint Asia | Quality Assurance Manager – Leading Global Consultancy - J12675 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91474883 | the Batam manufacturing site | Senior Quality Manager (Batam, Indonesia Stationed) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91472154 | 第一太平戴維斯物業管理有限公司 | Quality Assurance and Procurement - Senior Officer / Officer Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/90041523 | Q P Group Holdings Limited | Senior / Quality Manager (Manufacturing) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91354451 | placements available in China | Quality Assurance Engineer (Work in Mainland China) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91259931 | 10+ years of testing experience and strong core banking knowledge | Test Lead / Senior QA Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91178073 | Eternity Consultants (HK) Ltd | QA Engineer - Furniture Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91315237 | CLPS Technology (Hong Kong) Co., Limited | Junior to Senior Tester (Welcome Fresh Grad) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91040887 | Wafer Systems (Asia) Limited | Senior Tester / Tester (IT background is preferred) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91121000 | Robert Walters (HK) Ltd | Release QA Analyst - Oracle cloud Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90954487 | tester | UAT Tester (1-year contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91284800 | Eternity Consultants (HK) Ltd | QA Engineer / Senior QA Engineer (Toys) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91055663 | Robert Half Hong Kong Limited | Top Tier Life Insurer - User Acceptance Tester Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91385546 | Pharmason Company Limited | QA Assistant/ QA Officer (5 days work) (Fresh graduates are welcome) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91315375 | assigned test | Test Lead (UP TO 50K) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91273560 | Linkers International Limited | Application Tester (Web & Mobile) - HK Listed Retail Group Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91299820 | Seamatch Asia Limited | Tester / Senior Tester (Banking) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91421876 | Ambition | Bank - QA Analyst (Investment/remittance) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91200520 | tester | UAT tester Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91470886 | Amoy Food Ltd | Food Laboratory Technician Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90979470 | AXA Hong Kong and Macau | UAT Tester (1-year Contract) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/90986518 | Linkers International Limited | Application Tester (Web & Mobile) - HK Listed Retail Group Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90979628 | Mekoprint Hong Kong Limited | Quality Engineer Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91413898 | Formia Limited | Quality Assurance Officer Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91276890 | Hong Kong Aero Engine Services Limited (HAESL) | Quality Surveyor / Manufacturing Process Audit / Regulatory Compliance Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91443669 | Manpower Services (Hong Kong) Limited | QC Specialist - Accessories (Up to 25K, Double Pay, MNC) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91098149 | Donnelley Financial Solutions Hong Kong Limited | Proofreader / Quality Assurance Specialist Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91267040 | SmartHire by SEEK | Food Safety Auditor Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91287120 | NTT Com Asia Limited | Senior Incident & Change Engineer (Ref: JDB - 589) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90984089 | Ling Nam Medicine Factory (H.K.) Limited | QC Technician Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91231206 | SGS Hong Kong Limited | Assistance Technical Services Manager (Hardlines - Toy - Physical ) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/90968919 | Dah Sing Financial Group | (Assistant) Manager, Quality and Operation Control (Loan and SME) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91099019 | Mitzi Hong Kong Limited | Project Engineer ( Kitchen / Electrical Appliances) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91140239 | a dynamic global team | VCSEL Process Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91248710 | SGS Hong Kong Limited | Assistant Operation Manager (Lab) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91089401 | Castco Testing Centre Ltd | Inspector Trainee (NDT) Job in North District
+- [ ] https://hk.jobsdb.com/job/91248568 | SGS Hong Kong Limited | Contract Technician (1 Year) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91226422 | contractual and statutory requirements | Site Inspector Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91089358 | GC/FID | Chemist Trainee/ Assistant Chemist (Organic/Food/Pharmaceutical) 實驗室化驗/ 技術員 Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91472905 | Simatelex Manufactory Co Ltd | Assistant Project Engineering Manager (Batam, Indonesia Stationed) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91224085 | Anlev Elex Elevator Limited | Registered Engineer / Assistant Testing Manager - Lifts and Escalators Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90955708 | Smith & Associates Far East Ltd | QC Specialist - CDL Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91351750 | project management skills and expertise in User Acceptance Testing ("UAT") | Assistant VP (Monitoring) - Hong Kong Exchanges and Clearing Limited Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91439559 | production operations across Asia and Europe | Quality Assurance Manager - Metal Trims Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91405729 | Hong Kong Exchanges & Clearing Ltd | Assistant Vice President - Depository Operations Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91384579 | VTECH Corporate Services Ltd | Assistant Quality Manager (VTE380/J10) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91410528 | PCCW Services Limited | Transmission Customer Engineer (Network) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91391342 | Cornerstone Global Partners | QA Auditor (Textile Product, Factory Audit Focus) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91392052 | Woolworths Group International | Quality Partner (Electrical) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/89872918 | Karrie International Holdings Limited | Project Engineer (Based in Dongguan) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91277652 | company certifications | Testing Engineer (Electrical) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91451863 | Bank of Communications (Hong Kong) Limited | Deputy Manager, Business Monitoring and Support (Insurance) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/82086165 | Q P Group Holdings Limited | Manager - Automation, Process Engineering, IE / ME Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91419787 | Resonac Electronic Materials (Hong Kong) Limited | Senior Technician / Engineer Job in Tai Po Industrial Estate, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91447998 | SYNCO (H.K.) Ltd | Assistant Production Officer Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90552916 | KPMG's Consulting practice | Manager/Associate Director, Cyber Security(Simulated Attack), Tech Consulting Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91452136 | Access Asia-Pacific Limited | Production & QA assistant Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91305333 | product development team | Senior Quality Engineering Manager Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91375695 | Rebound Electronics (Hong Kong) Limited | Quality Control Inspector Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91224965 | APT Pharma Ltd | QA Officer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91433510 | Intertek Testing Services Hong Kong Ltd | Assistant Manager (Electrical Lab) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91235135 | OCBC Bank (Hong Kong) Limited | Portfolio Quality & Assurance Manager - SME Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91422815 | for Agency Compensation initiatives in a life insurance environment | Business Analyst (Agency Compensation)- Insurance 50-60k Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91395834 | Win Paradise Limited | QA/Technician/ISO Officer/QA Manager/Production Manager (Garment/Fabric/Sundry) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91436647 | Meyer Pharmaceuticals Ltd | QA Officer Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91416906 | frequent travel | Quality Inspector/Auditor - Frequent travel Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91283390 | SGS Hong Kong Limited | Assistance Technical Services Manager (Hardlines - Toy - Physical ) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91289874 | PERSOL Hong Kong Limited | QC Inspectors (5days/Stable company/Electronic Components) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91470081 | K. Wah Construction Materials (Hong Kong) Limited | 品質控制及庫存助理 Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91236906 | Mitzi Hong Kong Limited | Quality Engineer (Kitchen / Electrical Appliances) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91432693 | Cathay Subsidiary Services | Quality Specialist (Cargo Terminal Services) Job in Lantau Island, Islands District
+- [ ] https://hk.jobsdb.com/job/91448451 | Recruit Logic Limited | Production Support (Investment bank, Up to $80k) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91399822 | Maxx Marketing Limited | Plush Toys Engineer (Soft toys/Girl Doll/Pet Product exp. welcome) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90552968 | KPMG's Consulting practice | Consultant/Senior Consultant, Cyber Security (Penetration Testing/Red Teaming) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91313362 | local regulatory requirements and J&J policies and standards | Quality Specialist North Asia (HK/TW/Korea) - Project Osprey Contractor Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91443255 | CL Technical Services Ltd. | Senior IT Systems and Security Engineer (Public Sector, over $60K) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91121597 | ISS Facility Services Limited | Quality Assurance Officer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91220397 | VTECH Corporate Services Ltd | Assistant Quality Manager (VTE380/J09) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90991804 | NEX Team (HK) Limited | QA Lead / Manager Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91400246 | Affinity Executive Search Limited | Quality Assurance, Footwear & Fashion Accessories (Apparel Brand) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91201603 | Q P Group Holdings Limited | Sernior / Director of Product Integrity, Quality Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91274851 | standards | Senior Factory Auditor (VTT349/J07) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90990810 | Eternity Consultants (HK) Ltd | QA Specialist - Home appliance / Lighting / Audio Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91186285 | Hong Kong Air Cargo Terminals Ltd | Senior Engineer (Cargo Handling System) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91141531 | Hendi HK Limited | Quality Assurance Officer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91190087 | Testers | Major Bank: UAT Testers Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91437014 | Industrial and Commercial Bank of China (Asia) Limited | Manager, New Product and General Admin, Global Transaction Banking Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91437086 | CLPS Technology (Hong Kong) Co., Limited | Testing Trainee (Internship) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91438587 | The Independent Schools Foundation Academy Ltd | Technical Officer (Ref: IT/IST/20260309_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91386726 | and process improvement | Insurance - Senior Business Analyst Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91229426 | Intertek Testing Services Hong Kong Ltd | Quality Assurance Officer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91250733 | Bank of China (Hong Kong) Limited | IT Quality and Security Manager (Quality Management) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/87443161 | Dah Chong Hong - Dragonair Airport GSE Service Ltd | Technical Officer (E&M) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91196095 | Build King Management Limited | DIGITAL COORDINATOR Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91008852 | Brand ID (HK) Ltd | Factory Quality Inspector (Field) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91310282 | Hygieia Health Co., Limited | 生产工程师 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91283275 | Premier Aegis Recruitment Company Limited | Product Consultant (Cybersecurity) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91268691 | local regulatory requirements and J&J policies and standards | Quality Specialist North Asia (HK/TW/Korea) - Project Osprey Contractor Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91159466 | Intertek Testing Services Hong Kong Ltd | Assistant Manager (Electrical Lab) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91425647 | K. Wah Construction Materials (Hong Kong) Limited | (Assistant) Technical Engineer Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91310940 | Valuetronics Asia Limited | Product Quality Manager (Vietnam Based, 45 minutes from Hanoi City) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91327583 | Private Advertiser | Senior/QA Manager Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91232323 | CMB Wing Lung Bank Limited | Finance Data Quality Manager Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91069018 | Tester | UAT Tester (Insurance) - Contract - 28k Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91434659 | ATR Manufacturing Ltd | Quality Manager (5 days station in PRC) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91195895 | China CITIC Bank International Limited | Senior Officer/ Officer, Quality Assurance (Contact Centre) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91024292 | Valuetronics Asia Limited | Quality Manager (Vietnam Based, 45 minutes from Hanoi City) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91114680 | Lidl & Kaufland Asia PTE. Limited | (Senior) Quality Assurance Specialist (Electrical) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91283907 | procurement specialists | QC Specialists for FTL Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91438042 | experience in plastic toys/premiums quality assurance | Assistant QA Manager Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91189315 | professionalism and meticulousness | Wooden Toy QC Supervisor (Senior QC) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91194875 | Win Paradise Limited | Project Engineer/QA Engineer/Engineering Manager/ISO Officer/QA Manager/Prdn Mgr Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91243296 | a global consumer products innovator | Senior Quality Engineer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91088740 | VTECH Corporate Services Ltd | Assistant Quality Manager (VTE380/J08) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90209166 | Wong To Yick Wood Lock Ointment Limited | Quality Assurance Officer Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91312609 | Smith & Associates Far East Ltd | Component Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91388575 | Fugro Technical Services Limited | Senior Engineer – Construction Product Testing Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91413612 | Arrow Asia Pac Ltd | Component Quality Inspector (零部件質量檢查員） Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90968662 | Classic Components Hong Kong Ltd | Quality Control Inspector (Electronic Components) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91148140 | Billabong Enterprises Co Ltd | Quality Controller / Quality Control Officer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91067840 | Eternity Consultants (HK) Ltd | R & D Engineer / Product development Engineer - Cosmetic / Bathroom Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91192328 | Chow Tai Fook Life Insurance Company Limited | Assistant Officer, Project Support, Underwriting System Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91163242 | Excel | UAT Tester Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91421774 | Arcon System Limited | Engineer Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91425444 | Angliss Hong Kong Food Service Ltd | Quality Assurance Officer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91146457 | Neochem Pharmaceutical Laboratories Ltd | Assistant / Validation Engineer Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91069884 | Wong To Yick Wood Lock Ointment Limited | Production Supervisor Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91019492 | Manpower Services (Hong Kong) Limited | Quality Assurance Specialist (12 months contract renewal) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91202899 | ATAL Technologies Limited | Assistant Engineer - ICT Project Coordination (Ref: ATEC) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91134513 | Manpower Services (Hong Kong) Limited | Technician(Testing)／技術員（測試） Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91131712 | Tester | UAT Tester (Finance Systems & AML) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91313405 | Ambition | Quality & Manufacturing Reliability Lead Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91148136 | Intex Syndicate Ltd | Development and QA Officer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91190883 | Future Power (HK) Limited | Technical Operations Engineer (MVNO) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91016101 | Windmill China Limited | Junior QA/QC Technician Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91289944 | Affinity Executive Search Limited | Quality Assurance, Apparel (Apparel Brand) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/88388263 | SGS Hong Kong Limited | Chemist/Senior Chemist (Reporting) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91146130 | Rand Technology (Hong Kong) Limited | QC Inspector Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91099325 | Solomon HR Solution Limited | Quality Manager / Product Authentication - Cosmetic & Skincare Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91221031 | Shun Cheong Electrical Engineering Co Ltd | Quality Assurance (QA) Officer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91036044 | TRI-Come Recruitment Search | QA/QC / Factory/ Production Manager (Sweater/Ctton Knit/ Sportswear) Job in Others
+- [ ] https://hk.jobsdb.com/job/91451095 | products meet internal and external standards of quality and compliance | QA Operator 品檢員 Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91285467 | The Hongkong Electric Co., Ltd | System Specialist (Smart Metering) (Ref: CS-M-SSSM-JD) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91069534 | K & K Clothing Accessories Co. Limited | Quality Assurance Executive - Garment / Trims Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91091378 | Pinpoint Asia | Site Reliability Engineer - Quantitative Trading Firm - J12559 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91200862 | Orient Overseas Container Line Ltd (OOCL) | DevOps Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91222265 | The Trader Funds Limited | DevOps Engineer (Web3 / Trading Platform) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91314445 | Magic Compass Securities Limited | DevOps Engineer / 运维工程师 Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91473382 | Eclipse Options (HK) Limited | Network Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91331310 | 3+ years in DevOps and microservices | Senior DevOps Engineer / Assistant Manager Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91023354 | Lane Crawford (Hong Kong) Limited | Devops Engineer Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91005481 | TeamNote Limited | DevOps Engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91173135 | other infrastructure & application teams | Assistant Vice President, Cloud Architect (Infrastructure & Network) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90944475 | exposure | ( Senior ) DevOps Engineer / Cloud Development Consultant – (Cloud Platform) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91191834 | Global Talent Services Limited | DevOps Engineer (Contract, Bank, HK$35-38K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91150572 | IT Solutions Ltd. | DevOps Engineer - Major Bank Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90941784 | Beehire Personnel Limited | FSI, DevOps Engineer, 2 Months Bonus Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91020216 | CLP Power Hong Kong Limited 中華電力有限公司 | DevOps Engineer Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91382903 | Automated Systems (HK) Ltd | Junior Cloud Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91334887 | Hong Kong Exchanges & Clearing Ltd | Associate, Cloud Services Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90967315 | Global Technology Integrator Ltd – GTI | Azure System Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91473739 | Triangle Recruitment | Microsoft Azure Professionals - 30-60K (Ref:026) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91424810 | IO Tech Solutions Limited | DevOps Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91220065 | KLN Logistics (Hong Kong) Limited | Deputy Lead Cloud & System Engineer, Global IT Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91469307 | ATAL Engineering Ltd | (Senior) Infrastructure Specialist (REF: IT/IS) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91444115 | EIRE Systems (Hong Kong) Limited | Technical Solution Engineer Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91019922 | Azure and microservices expertise | Contract Cloud Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90283342 | OneAsia Network Limited | Cloud System Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91287710 | UDomain Web Hosting Co Ltd | Assistant System Engineer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91438465 | Macroview Telecom Limited | System Consultant - Cloud & Data Centre Virtualization Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91021611 | IT Channel (Asia) Limited | Cloud Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91069942 | Recruit Logic Limited | Lead Infra Analyst, Servers, IT (Leading iBank, up to 80K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91138683 | Techforce Group Limited | OpenShift Infra Engineer / Data Protection / Banking Transformation Program Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90991039 | 3+ yrs' exp in designing | System Engineer (Cloud, Server) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91313233 | CL Technical Services Ltd. | System Engineer (Cloud, Linux, Over $60K) Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91186161 | Peoplebank Hong Kong Limited | Senior Cloud Engineer I Up to 52k Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90964212 | Nextlink (HK) Technology Co., Ltd. | Cloud Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90648307 | Pinpoint Asia | Senior System Analyst (Cloud & Enterprise Platforms) - Insurance Group - J12612 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91219957 | KLN Logistics (Hong Kong) Limited | Senior Cloud & System Engineer, Global IT Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91071371 | Kai Tak Sports Park Limited | Engineer – Infrastructure and Cloud Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91051023 | Robert Walters (HK) Ltd | Oracle Cloud Engineer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/87811649 | Hong Kong Interbank Clearing Ltd | Manager (DevOps Architect) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91199807 | Robert Walters (HK) Ltd | Senior Infrastructure Engineer Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90995842 | Besway Asia Limited | Cloud Engineer - Azure Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91120305 | Newrecs Consultancy Limited | (Huawei/Alibaba/Aliyun) Cloud Engineer/Senior/Manager (cloud, infrastructure) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91097365 | detection with DevOps | Cloud Security Engineer Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91262649 | Hong Kong Internet Registration Corporation Limited | System Engineer Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91482064 | SmarTone Telecommunications Limited | Senior Engineer (IT Network) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91151333 | Azeus Systems Ltd | Junior System Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91240056 | Morgan Stanley Asia Limited | Site Reliability Engineer (Infrastructure Applications) - Director P3 - ETS Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91472955 | Seamatch Asia Limited | Network Engineer / System Engineer / IT Officer (25K-50K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91474669 | Kum Shing (KF) Construction Co Ltd | IT Security Engineer Job in To Kwa Wan, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91140095 | Alexis Services Limited | Cloud System Engineer- Azure (IT solution, Circa, 30-40K) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91121552 | Azeus Systems Ltd | Junior System Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91450067 | 5 days work and allowance | Linux System Specialist Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91153316 | IT Channel (Asia) Limited | Senior M365 Engineer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91384733 | Ambition | Cloud Infrastructure Architect Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91124524 | GrammyTech Limited | Technical Manager (Enterprise Storage) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90983821 | Mango Technology Consultant Limited | Assistant I.T Operation Manager Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90977842 | SmartHire by SEEK | Security Architect/Senior Solution Consultant Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91233556 | Nikoyo (HK) Ltd | Technical Support Manager (Enterprise Storage) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91119901 | Emperor Investment (Management) Limited | Senior IT Officer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91022964 | Eastech Systems Limited | Senior Network Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91473335 | School of Continuing Education, HKBU | Assistant Information Technology Manager (Infrastructure and Network) Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90990648 | Pinpoint Asia | IT Infrastructure Manager (Electronic Trading) - Quant Fund - J12670 Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91314431 | Microsoft Security Implementation | Senior Cloud Security Engineer - MNC Retail Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91408839 | Peoplebank Hong Kong Limited | (Senior) Cloud Security Engineer I Global Retailer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91464485 | Robert Walters (HK) Ltd | Azure Cloud Security Engineer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91351730 | Hong Kong Exchanges & Clearing Ltd | Infrastructure Associate - Hong Kong Exchanges and Clearing Limited Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91450647 | HKBN JOS Limited (HKBNJOS) | Solution Consultant / Solution Architect – Enterprise Networking Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90332865 | KPMG | Contract Solution Architect, Manager, Technology (3 - 6 months) (MJ007283) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/90367510 | Hong Kong Interbank Clearing Ltd | Manager (Cloud Computing) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91409218 | CL Technical Services Ltd. | Network & Infrastructure Engineer (AIX, Security, Over $40K) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91125340 | proficiency in storage solutions | Solution Consultant/Manager - Huawei Storage & Storage Virtualization Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91301612 | Chong Hing Bank Limited | IT Architecture Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91469694 | China Unicom (Hong Kong) Operations Limited | Director of Cloud and Cross-border Network Product R&D Job in Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91446016 | CL Technical Services Ltd. | Cybersecurity Engineer (Kowloon Bay, over $40K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91421825 | Conners Consulting Limited | Manager - UNIX, Middleware & database Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91304254 | serves approximately 34 million customers across 10 markets | Senior Manager, Enterprise Architecture & Platforms, DevOps & Cloud Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91397254 | CL Technical Services Ltd. | Windows and AIX Engineer / System Engineer (over $40K) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91446584 | CL Technical Services Ltd. | Infrastructure Engineer / System Specialist (Windows/AIX/Network, over $40K) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90983909 | Techforce Group Limited | SAN Architect — OpenShift Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91272630 | ICO Technology Limited | Huawei Cloud Architecture Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91420093 | China Mobile International Limited | mCloud Platform Operation Manger Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91213758 | Pathsight Limited | Data Architect (Logistics) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91314197 | Dah Sing Financial Group | Manager, UNIX and middleware Administrator Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/90979937 | Alexis Services Limited | Senior Azure System Engineer (Circa 35-40K) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90749718 | eCloudvalley Technology (HK) Limited | Technical Account Manager (HK) (IT-Cloud) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90178941 | Tech Data Distribution (Hong Kong) Limited | Presales Consultant / Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91451005 | TEKsystems | Lead Network Engineer - Project Implementation/Architecture - Big FS Company Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90295296 | Hong Kong Interbank Clearing Ltd | Architect (Solution Development) – Application Infrastructure & Database Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91262078 | Conners Consulting Limited | Manager - UNIX, Middleware & database Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91374765 | Pathsight Limited | Solution Consultant (Server & Storage, Cloud, Security, Network) (up to 50K) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91301202 | CL Technical Services Ltd. | System Engineer (Linux & Windows, over $40K) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91134493 | Hong Kong Exchanges & Clearing Ltd | Sr. Cloud Services Engr. - Associate - Cloud Platform Services - 12month cont. Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91051039 | Robert Walters (HK) Ltd | Cybersecurity Engineer - Cloud native / Microservice Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91473264 | Function One Computer Services | Deskside Support Engineer (In-house) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91200238 | a strong background in infrastructure and system design | Infrastructure Engineer (Finance), 65K Up Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91413858 | CITC Telecom CPC! | Network Architect/ Senior Engineer, Development Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91263899 | Pathsight Limited | Solution Consultant (Server & Storage, Cloud, Security, Network) (up to 50K) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91395761 | CL Technical Services Ltd. | Infrastructure Specialist (Lotus, Notes, TST, over $60K) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91121531 | Vsceptre Limited | Technical / Solutions Consultant – Privileged Access Management (PAM) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91427743 | technical expertise | IT presales engineer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91314222 | Dah Sing Financial Group | Senior Manager, UNIX, middleware and Database Administrator Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91137859 | CL Technical Services Ltd. | Security Engineer (2-4 years experience, AWS) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91068794 | Pinpoint Asia | M365 Engineer- Leading Financial Company - J12676 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91423177 | InfoTech Services ( HK ) Ltd. 資訊科技服務(香港)有限公司 | Contract Systems Specialist (C38621 Bid Ref 59114-2) - Windows, AIX Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91399453 | strong career growth opportunities | System Engineer / Assistant System Engineer (Good Salary Package) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91439687 | TEKsystems | Senior Data Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91069167 | Pinpoint Asia | Senior Solution Architect (Agile/API) - Top Insurance Group - J12672 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91123265 | TEKsystems | Oracle Cloud Engineer/ Migration Engineer / Oracle Database migration Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91287709 | Hong Kong Optical Lens Company Limited | System Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91360930 | Pathsight Limited | Data Architect (Logistics) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91315920 | ACW Distribution (HK) Ltd | Systems consultant (Storage and Backup Solutions) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91439437 | Yusen Logistics Global Management (Hong Kong) Limited | Data Architect, Data Architecture and Platform Team Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/87811765 | Hong Kong Interbank Clearing Ltd | Senior Specialist (Cloud Platform) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91427953 | Google | Strategic Customer Engineer, FSI, Google Cloud Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91022415 | a new demand | Windows Engineer (40-50k) - investment bank Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91096915 | CL Technical Services Ltd. | Infrastructure Specialist (Cloud, 5 days work, over $60K) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91165490 | The Hong Kong Jockey Club | Technical Manager, Platforms Engineering Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91289213 | cross-functional teams | System Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91400624 | The Impossible Solutions Limited | IT SRE/Operation Specialist (SaaS Company) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91275367 | business objectives and technical req | Cloud Delivery Lead (Insurance, Cloud Telephony) - 80k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91419492 | The Career Works Limited | System Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91248943 | CL Technical Services Ltd. | Infrastructure Specialist (Cloud, 5 days work, over $60K) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90115642 | Hong Kong Interbank Clearing Ltd | Senior Architect (Cloud Architecture) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91081882 | Linux | UNIX/Linux & Middleware Senior Engineer / Manager Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91351746 | Hong Kong Exchanges & Clearing Ltd | Senior Infrastructure Engineer - Hong Kong Exchanges and Clearing Limited Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90988693 | ConnectedGroup Limited | SRE Support - Investment Bank / Global Markets / 50k to 80k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91312865 | Jardine Restaurant Group | Infrastructure and Cybersecurity Engineer Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91272677 | ICO Technology Limited | Infrastructure Engineer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91144366 | CL Technical Services Ltd. | Senior Cloud & Infrastructure Architect (JBoss, Linux, Over $60K) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91262636 | Michael Page International (HK) Ltd | (Assistant) Information Security Manager Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91275931 | Integrated Corporation | Infrastructure Engineer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91411362 | PrimePeak Group Limited | IT Solution Architect - IT SI - Government Focus/ App Modernization -1.2-1.4 Mil Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91263065 | Omni Group Asia Limited | Mainframe Engineer, Manager (Cobol) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91225437 | CL Technical Services Ltd. | System Engineer (SAN, Windows, Linux) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145335 | Furong Uptech Solution Co., Ltd | Operations Engineer-Fintech Innovation# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91444635 | a leading enterprise insurance institution | Sr Enterprise Architect Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91395745 | Michael Page International (HK) Ltd | Data Engineer (Azure/ Databrick)- Insurance 30-45k Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91034656 | United Asia Finance Limited | Cloud Network Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91063503 | Integrated Global Solutions Limited | AI Platform Engineer (1-year contract) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90942974 | Morgan Half International (Hong Kong) Limited | (Senior) System Engineer (Server team, M365, Azure, Wintel) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91469155 | HKT | Solutions Consultant (infrastructure solution) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91448379 | JobsDB HK | Manager, System Infrastructure Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91209540 | HR Plus (Talent) Limited | System Engineer (Infrastructure, Azure, Firewall) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91301963 | 海光訊息技術股份有限公司 | 生态合作经理 Ecosystem Partnership Manager Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/90945178 | SmartHire by SEEK | Solutions Engineer / Consultant, Cyber Security & Networking Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91224876 | NTT Com Asia Limited | Technical Specialist (Ref: JDB-606) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90977430 | SmartHire by SEEK | Senior Security Engineer/ Security Engineer Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90964618 | SmartHire by SEEK | Senior Security Engineer/ Security Engineer Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91330681 | Veolia Hong Kong Holding Limited | Engineer (Chief) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91174695 | Hong Kong Applied Science and Technology Research Institute Company Limited | Assistant Manager/ Senior Officer, IT Network and Security Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91396451 | China Mobile Hong Kong Company Limited | Assistant Computing Network Manager Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91473252 | detection platforms | Technical Manager, Security Operations Centre Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91470629 | Expert Systems Limited | Solutions Engineer / Consultant, Cyber Security & Networking Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91472875 | The Hong Kong Jockey Club | Senior Technical Manager, Security Operations Centre Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91118225 | 5+ years’ experience in ITSM/SIEM pre-sales | Solution Consultant (ITSM & SIEM) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91169425 | Spinnaker IT Limited | Manager, Deployment and Batch Support Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91374770 | Pathsight Limited | Solution Consultant (Telecom / SOC solution) (up to 40K) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91438011 | Deloitte Touche Tohmatsu | Senior Consultant/ Manager - System Modernization (FSI) - Engineering Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91175852 | Google | Strategic Customer Engineer, Web3, Google Cloud Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91468483 | Town Health Corporate Advisory and Investments Limited | Data Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90336973 | KPMG | Data Architect (Manager/Associate Director level), Finance Consulting (MJ001620) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91446180 | Charterhouse Limited | Oracle Fusion Cloud Consultant (40-48k) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90281331 | OneAsia Network Limited | Technical Product Manager (AI Infrastructure & Agents) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91011509 | DXC Technology Enterprise Services (Hong Kong) Limited | solution architect-IT infra Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91481932 | Herbs Generation International Limited | Senior Designer/ Designer – Skincare Team (5 Days Work) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90995362 | Hypthon Limited | Digital / UX-focused Creative Director / Associate Creative Director Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91318029 | Pengtai Greater China Company Limited | Digital Designer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91475482 | Baron's School Of Music Limited | Multimedia Designer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91470213 | Brand and Licensor in adapting | License Product Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91092396 | Henderson Land Development Company Limited | ASSISTANT GRAPHIC DESIGN MANAGER Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91477308 | growth and lifelong rewards | Senior Graphic Designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91478263 | PERSOL Hong Kong Limited | Marketing Officer (Digital Design / 5 days / Near MTR) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91171863 | Café de Coral Group Limited | Graphic Designer (Part-time) Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91108685 | the rank of IT Officer) | UX/UI Designer (at the rank of IT Officer) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91311127 | CKC Solutions Limited | UX Designer (Figma) - 13 months salary Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90965754 | Cornerstone Global Partners | UI/UX Designer - Commercial Bank Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91258769 | fit our culture | Designer, Design & UX (Contract) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91301335 | Buyandship Limited | Product Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91226285 | Designercity (HK) Limited | Senior UX/UI Designer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91018970 | Arctic (HK) Limited | Product Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91476081 | a Creative Event company that offers full benefits and opportunities | Designer / Senior Designer (Event & Exhibition) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145713 | Furong Uptech Solution Co., Ltd | UI/UX Designer / Senior UI/UX Designer - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91300773 | Ping An Digital Bank (International) Limited | User Experience Designer (Focus on Interaction) / UX Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90990620 | Osmium Consulting Group Limited | UI/UX Designer / IT / FinTech Industry Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90956273 | Hays Hong Kong Limited | UI/UX Designer - (Banking) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91096941 | Visionaries 777 | UI/UX Designer Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91018235 | Ambition | UIUX designer - Financial Services Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91136393 | Fabcom Limited | Art Director Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91327926 | Morgan Half International (Hong Kong) Limited | (Senior) UX Designer - Web / Mobile platform Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91288772 | Vyond | Vice President / Head of Product Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91173572 | PERSOL | UX Designer (Up to 27K, Virtual Bank renewable contract) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90991072 | Furong Uptech Solution Co., Ltd | UI/UX Designer / Senior UI/UX Designer - Fintech Innovation Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90952389 | Optimum Solutions (Hong Kong) Limited | UX UI (design-modification interface for banking system) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91198450 | the Product Owners and other Digital Designers across the HAECO entities | Group Digital Designer, UX Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/90964031 | Ambition | Bank - UI/UX Designer (4-months contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91471841 | resonate across multiple markets | Creative Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91034265 | Green Tomato Limited | Senior UI/UX Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91302424 | Ambition | UXUI Designer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91320218 | one thought in mind - | UX Designer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91124494 | Ark Group International (Hong Kong) Limited | UI/UX Team Leader Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91246686 | Captar Partners Limited | UIUX Team Leader Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91444017 | the | Accenture Song - Digital Product Design Manager (UXUI) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91238090 | a Fintech Unicorn | Multimedia Designer (Web3) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91220346 | benefits | Multimedia Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91071273 | Yu Fung Broker Limited | In-house Designer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91070562 | Global Executive Consultants Ltd. | Multimedia Designer (HK$25K - $30K) (Ref. No.: 27655) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91068492 | UX | Product Manager with UX Capability Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91314493 | Hong Kong Express Airways Limited | Specialist, Digital Product Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91034312 | Green Tomato Limited | Assistant UI/UX Manager/ UI/UX Manager Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91035424 | Pengtai Greater China Company Limited | Digital Designer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91277713 | SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司 | Designer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91191632 | Human Health (H.K) Limited | Multimedia Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91124773 | elevate our brand & enhance user experience | Senior Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91136418 | innovative tools | Multimedia Designer / Graphic Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91238434 | Ignition HK Limited | Creative Designer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91161112 | 505 United Limited | Designer (E-Commerce/Sports Marketing) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90963995 | Peoplebank Hong Kong Limited | Multimedia Designer ($29K/mth) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91325226 | the | Accenture Song - Digital Product Design Manager (UXUI) - Accenture Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91034181 | Great Wall Trading China Limited | Junior Graphic Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91200639 | Chow Sang Sang Holdings International Limited | Senior Product Designer Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91189103 | Bank of China (Hong Kong) Limited | (Sr.) Product Mgr, Digital Platform & Product Delivery(Southeast Asian Entities) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91311774 | marketing and operation teams | Graphic Designer, Exhibition Services Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91398224 | Sing Tao Management Services Limited | Designer/ Senior Designer (Art & Production) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91162048 | VTECH Corporate Services Ltd | Senior Product Designer II (VTE368/J37) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91017653 | Manpower Services (Hong Kong) Limited | 3D/Product Designer(Fashion industry;Double Pay;) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91283273 | talent and passion | Graphic Designer Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91312486 | Sing Tao Management Services Limited | Graphic Designer Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91285754 | cut latency | Product Manager Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91328931 | Korchina F&B Holdings Limited | GRAPHIC DESIGNER (F&B / FMCG) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91419920 | Inspire Integrated Design Production Limited | 3D DESIGNER / GRAPHIC DESIGNER Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91263132 | Tycoon Management Limited | Multimedia Designer Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91277404 | graphic design and video creation | Graphic Designer (Part-Time) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90987567 | Private Advertiser | Senior Multi-media Designer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91201323 | Biohealth Plus Limited | Senior Multimedia and Graphic Designer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91331125 | Kanpeki Concept Limited | Multi-Media & Graphic Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91286360 | CMB Wing Lung Bank Limited | Manager, User & Payment Product (Digital Banking Department) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91314390 | Ambition | Product Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91261009 | passion | Assistant Art Director Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91289104 | bots | Chinese UX Writer -12 months Contract Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91312574 | Eco Art Limited | Senior Graphic Designer (高級禮盒/利是封經驗) (IMMEDIATE AVAILABLE) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91260434 | Joyous Communications Limited | Graphic Designer / Multimedia Executive Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91305649 | China Duty Free International Limited | Visual Design Supervisor Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91178239 | AI | Graphic Designer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91240880 | Helios & Partners Limited | AI Graphic Design Intern Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91318618 | our Design lead on our prestigious hospitality projects | Senior Creative/Product Designer (Luxury/Hospitality Product, Fluent Eng.=MUST) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91068613 | Don Nelson Recruitment Limited | Senior Product Manager Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91262821 | Uni-China (Group) Co., Limited | Digital Product Officer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90996109 | different parties | Product Designer - Cosmetic Accessories / Cosmetic Tool Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91449155 | EMMAS Spectrum (Hong Kong) Limited | Senior Visual Merchandising/ 3D Designer (Mall & Event) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91264055 | 3+ yrs exp & tech degree | Product Manager Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91011324 | Global Talent Services Limited | Graphic Designer (signage/wayfinding, Marketing (big firm) (Ref:GTS_EW_SIGNAGE) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91145672 | Furong Uptech Solution Co., Ltd | Graphic Designer / Senior Graphic Designer (Multimedia / Brand) - Fintech Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90959400 | Oxford University Press (China) Ltd | Digital Product Manager Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91424808 | Peoplebank Hong Kong Limited | Digital Workspace Specialist I Up to 29k Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91033868 | Dept. 8 Merchandise Corporation Limited | Product Designer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91080700 | Eternity Consultants (HK) Ltd | Packaging Designer- Gift / Premium Trading Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91007204 | internal stakeholders | Graphic Designer, Marketing & Promotion Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91164107 | Sky Wise Hong Kong Limited | Graphic & Multimedia Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91311982 | Hong Kong Technology Venture Company Limited | Junior Video and Graphic Editor (Sharehub) Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91068489 | iMobo | Senior Product / Graphic Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91112032 | Aves Asia Limited | Motion Graphic Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91386452 | Hong Kong Biotechnology Organization | Design & Art Trainee Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91147980 | Max Lux Corporation Limited | 3D / Graphic / Packaging Designer Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91313530 | Momax Technology (Hong Kong) Limited | Brand Creator (Visual & Narrative) - Culture, Community & AI Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91111261 | PERSOL Hong Kong Limited | Graphic Designer (5 days / Japanese stable company) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91290485 | JPC Texson Limited | GRAPHIC DESIGNER – fashion brand marketing (garment brand owner US market) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91018413 | 2+ years' experience in 2d Pixel / Sprite Art | Graphic Designer (Specialised in 2d Pixel / Sprite Art) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91117823 | Prizm | Senior Project Executive, IT & Digital Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90963711 | Generative AI | Multimedia Designer (AI Innovation) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91247542 | Perfect Medical Health Management Limited | Mental Health Associate (Digital Product Development) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90064612 | Kingsmen Hong Kong Limited | Creative Designer – Multidisciplinary Design – Full time Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90956791 | ESD Services Limited (ESDlife) | Digital Solutions Trainee Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90257807 | creative art direction | Motion Graphics & AI Content Specialist Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91062276 | diverse clients | Assistant Project Manager / Project Manager (Creative Agency) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90991101 | Furong Uptech Solution Co., Ltd | Graphic Designer / Senior Graphic Designer (Multimedia / Brand) - Fintech Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91069380 | Hong Kong Interbank Clearing Ltd | Contract Architect / Senior Specialist (Solution Development) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91396606 | Vocational Training Council / VTC | Technician Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/89357626 | China Mobile Hong Kong Company Limited | Assistant Project Manager Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91225763 | marketing team in a fast-paced startup | Graphic Designer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91168920 | Reefan International Limited | Designer (AI Generalist / Prompting Expert) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91223134 | Hong Kong Science & Technology Parks Corporation | Assistant Design Manager Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91230495 | 旅龜學習 | Product Owner Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91283795 | Wing Yip International Limited | Digital Marketing & Multimedia Assistant Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91150063 | VTECH Corporate Services Ltd | Packaging Graphic Designer (Toys) (VTE303/J92) Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90496398 | Ping An Digital Bank (International) Limited | Bancassurance Product Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91307212 | Price.com.hk Limited | Project / Product Executive – E commerce Platform Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91257726 | The Hong Kong Polytechnic University | Library Assistant (User Experience) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90967170 | ISS-Vision Events Limited | Senior/ Graphic Designer (Exhibition & Events) Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91172393 | G2000 (Apparel) Ltd | Multimedia Designer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90992797 | Swire Resources Ltd | Temporary Visual Graphic & Display Designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91048875 | support brand building | Senior Art Designer(5-day work) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91413694 | Sunlight Jewelers Limited | Senior Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91316527 | designing engaging motion graphics | Video Production & Motion Graphics Specialist Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91109291 | JHC (International) Limited | Junior Designer (Packaging) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/89811007 | OBI Group Sourcing Hong Kong Limited | Specialist, Graphic Design Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91201224 | Sky Sun Investments Limited | Senior Watch Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91034305 | Alvanon HK, Ltd | Junior/ Graphic Designer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91045311 | Twinkle Baker Decor | Graphic Designer (AI) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91150767 | East Asia Professional Photofinishing Laboratory Ltd | Graphic Designer 設計師 Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91140522 | Fung Wing Education Co., Limited | 市場部行政人員 — 影片剪輯師 (全職) Marketing - Video Editor (FT) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91286482 | Pico International (HK) Ltd | (Senior) Project Designer, Exhibitions and Events (Job Ref. No: DES03) Job in Tai Po Industrial Estate, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91199496 | Allegiance Consulting Group Limited | Graphic Designer (Food & FMCG) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91069302 | support | Product Assistant (6 months contract) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91261873 | Caritas - Hong Kong | Designer (Digital & Social Media) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91173489 | Intelli Global Corporation Limited | Product Manager Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91066705 | BIBX Studio | Designer / Senior Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91250987 | Dr. Kudos Lab Limited | Technical Business Analyst (Healthcare AI Mobile App) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91162088 | Dah Chong Hong Holdings Limited | Assistant Project Manager - Product Owner (Digital) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91315487 | One Cool Workshop Limited | 2D Motion Graphic Editor (Online Editor) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91237012 | Petit Bazaar | Graphic Designer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90969057 | In.Decide Limited | Graphic Designer/ Art Director (Junior) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91317185 | Hong Kong Trade Development Council | Project Executive, Platform Development (Renewable Contract) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91316052 | stores | Visual Merchandiser / Graphic designer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91020006 | Caterbee HR Solutions Limited | Project Manager ( 90K - 120K丨Online Game Development ) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91064535 | Amazing Style Company Limited | designer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91210646 | Stonewood Designlab | Digital Graphic Designer / Art Director Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90847252 | Sinotrans Overseas Development Limited | Assistant System Analyst Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91070455 | Chow Sang Sang Holdings International Limited | Product Designer Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90990748 | Furong Uptech Solution Co., Ltd | Product Manager- Fintech Innovation# Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90977937 | Shun Hing Advertising Co Ltd | Multimedia Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91110865 | Hong Kong Aircraft Engineering Co Ltd | Group Digital Business Analyst (Customer Portal) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91261319 | Cruel Man Studio Limited | Senior VFX Artist Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91061716 | Dai Sang Group International Limited | Graphic Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91045986 | JobsDB HK | Senior Designer, Hong Kong Palace Museum (Ref: R6249) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91115806 | Osmium Consulting Group Limited | 2D Animator / Game Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91077099 | Sensis Innovation Limited | Graphic Designer Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91233009 | TAU Creative Limited | 3D Designer (Event & Exhibition) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91311026 | Atelier Pacific Ltd | Senior Designer (6 months contract) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91288186 | Fairwood Fast Food Ltd | Graphic Designer Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91254135 | 1–2 years of experience are welcome | Junior 3D Designer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91226516 | Lime Content Studios Limited | Ai Promnpt engineers/Ai Film makers Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91093475 | Chung Hwa Book Company (Hong Kong) Limited | Book Designer 圖書設計師 Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91231566 | Hornington Computers Company | 設計助理 Design Assistant Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91018060 | Sales and Marketing teams | Graphic Designer (Full Time/Part Time/Freelance) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91023123 | Caterbee HR Solutions Limited | Online Game Designer/Mathematican ( 2M-2.5M丨Slots & Casual Games ) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91093447 | Chung Hwa Book Company (Hong Kong) Limited | 社交媒體設計主任 Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/90995494 | Zeeva! | 3D Sculptor / Toy Designer (New Position) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91477893 | WORKTECHT Corporation (HK) Limited | Designer Assistant /Lighting Designer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91415012 | Sine Motion Limited | 3D Designer / Event Designer / Set Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91302678 | Time Management Services Limited | Senior Product Development Officer (Display & Packaging Materials) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91412988 | River Glory Limited | Fashion Graphics / 3D Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91419141 | Eye Fashion Co Ltd | Product Designer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91034336 | River Glory Limited | Fashion Graphics / 3D Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91257132 | Playgo Toys Enterprises Limited | Senior Product Designer/ Product Designer – Toys (5 days work) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91234421 | Storage Pro (H.K.) Ltd | Industrial/Product Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91264004 | Action—own the process from briefing | Senior Artwork Coordinator Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91471808 | are well-suited | Fashion Designer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91440596 | career growth | Brand and Product Manager Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91475762 | Atelier Pacific Ltd | CAD Designer (6 months contract) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91226120 | Eazy Trading International Limited | Jewellery Design Manager Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91259724 | fringe benefits will be offered | Product Designer – Home Décor storage/ Home Textile Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91448682 | Lui Design Limited | Project Designer (Luxury Retail Projects) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91479688 | CHOW TAI FOOK JEWELLERY CO LTD | Senior Manager, Group Store Visual Presentation Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91460542 | Formica (Asia) Ltd | Segment Product Solution Manager Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91122681 | Prince Jewellery and Watch Company Limited | Jewellery Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91301069 | 康賽妮集團有限公司 | Fashion Designer / Assistant Fashion Designer (Knitwear & Marketing Support) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91476592 | Swire Resources Ltd | Senior Visual Merchandiser (Retail Creative & Design) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91160103 | Charterhouse Limited | Product & Industrial Designer (Consumer Electronics / Gadgets) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/90945152 | SmartHire by SEEK | Mechanical Engineer - ODM for home appliances or devices Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91481079 | G2000 (Apparel) Ltd | Digital Content Executive Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91420277 | South Asia Knitting Factory Limited | (Senior) Virtual Sampling Technician Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/82904188 | South Asia Knitting Factory Limited | (Senior) Fashion Designer - Sweater (5 day work) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91409322 | South Asia Knitting Factory Limited | Fashion Design Manager (Sweater) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91421823 | Cloud Light Technology Limited | Head of Mechanical Design Job in Pak Shek Kok, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91455364 | cross-functional teams across product design and manufacturing | Senior Product Design Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91092029 | Puyi Optical Limited | Senior Product Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90996035 | Pegasus Recruitment Company Limited | Senior Fashion Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91199966 | cross-functional teams across product design and manufacturing | Senior Product Design Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91233041 | Lai Chi Kok | Watch Product Development Executive Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91095939 | Morgan Mckinley Limited | Product Designer (Bags & Accessories, CLO) 30k Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91086270 | J4G HR Limited | Product Artwork Designer (Japanese MNC/ Stable/ 5-day... Job in Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91473537 | JEB Furniture Solutions Limited | Draftsman (Office Furniture) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/90966647 | cross-functional teams in product design and manufacturing processes | Product Design Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91462420 | Easy Job Centre | Fashion Design / Senior Fashion Designer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91412906 | Makeitloud Marketing Limited | 3D Designer (Mall & Event Decoration) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/90657951 | Coming Technologies Limited | Assistant Product Development Manager / Product Development Manager (Watch) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91195356 | guns/blowers/LED lighting/USB charges products design | Product Design Manager (Stationed in China) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91071226 | cross-functional teams in product design and manufacturing processes | Product Design Engineer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91194812 | Win Paradise Limited | Asst/Fashion Designer/Fashion Graphic Designer/Graphic Dsgnr/Prod Dsgnr/Sr/Mgr Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91441422 | values collaboration | Jewellery Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90980837 | Appcara Hong Kong Limited | Product Architect (Development & Strategic Delivery) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90607326 | GP Acoustics International Limited | Product Executive Job in Pak Shek Kok, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91450802 | KickAss Products Pty Ltd | Product Development Project Lead (Based in Dongguan, China) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91111929 | GoAnimate Hong Kong Limited | Product Manager Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91265411 | suppliers | FF&E Assistant Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90980930 | SmartHire by SEEK | Senior Mechanical Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91360132 | Creative China Creations Limited | Sourcing Coordinator/ Merchandiser /Sr. Merchandiser /Product Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91042352 | Man Wah (International) Industrial Limited | 訂制傢俬設計師 (Furniture Designer) Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91020340 | Donnelley Financial Solutions Hong Kong Limited | Compositor / Typesetter Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91146187 | Ray Home Limited | Assistant Project Interior designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91038449 | Kaga (HK) Electronics Limited | Mechanical Project Engineer / Senior Mechanical Project Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91229593 | Swire Resources Ltd | Visual Merchandiser Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91062866 | Spatial Concept Limited | Interior Designer Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91443488 | Artisan Studio Limited | 室內設計師(18K - 40K+) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/90985502 | NTML Group Limited | Cosmetics Merchandising Assistant - Packaging Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91142496 | TBWA HONG KONG LTD | Specialist, Product (1 Year Contract Renewable) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91133031 | SmartHire by SEEK | Lighting Engineer / Technical Coordinator - Lighting Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91382628 | Egis Engineering & Consulting Hong Kong Limited | Lighting Designer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91235039 | Baseline Limited | Senior Lighting Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91383262 | us! | Senior Lighting Designer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91093262 | min | Assistant/ Fashion Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91434043 | ABB (Hong Kong) Limited | EL Technical & Design Promotion Specialist Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91448692 | PAD System International Limited | Technology Pattern Specialist Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91423840 | ConnectedGroup Limited | Senior Designer - Knitwear (Ladieswear) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91200452 | Chow Sang Sang Holdings International Limited | Senior Jewellery Designer / Assistant Manager Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91288869 | transforms everyday environments! | Lighting Designer / Assistant Lighting Designer (For HK Office) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91201064 | Moiselle (Hong Kong) Limited | Senior Fashion Designer (work from home policy) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91263413 | Hong Kong Disneyland | Assistant Show Lighting Designer (1-Year Contract) Job in Lantau Island, Islands District
+- [ ] https://hk.jobsdb.com/job/91401247 | Bape Hong Kong Limited | Fashion Designer - Menswear Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91450210 | Yee Tung Garment Co Ltd | Assistant Fashion Graphic Designer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90982555 | AVT Design Contracting Limited | Project Designer (Interior fitting out contractor) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91315388 | High Fashion Garments Co Ltd | Design & Product Developer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91445003 | German Pool (Hong Kong) Ltd | Graphic Designer/ Junior Graphic Designer (Fresh Graduates Welcome) Job in To Kwa Wan, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91274080 | Legend Swimwear Factory Ltd | Senior Fashion Designer - Lingerie/ Intimate Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91382300 | Egis Engineering & Consulting Hong Kong Limited | Assistant Lighting Designer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91395000 | Steve Leung Designers Ltd | Design Director (Management) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91397975 | PapaHome | Senior & Junior Interior Designer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91395716 | Steve Leung Designers Ltd | Design Coordinator Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471976 | SV International Design Limited | Merchandiser Job in Sai Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91189812 | 宁波冠艺国际贸易有限公司 | Product Design Director (Wooden Toys，Based in Hong Kong or Zhejiang) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91410985 | Levin Human Resources Development Limited | Project Manager, In Plant Printing (IPP) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/89861771 | the expansion of our business | Senior Mechanical Engineer (Equipment Design) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91312217 | Neonlite Distribution Limited | Product Engineer / Product Supervisor Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/88242494 | Nanyang Commercial Bank, Limited | Senior Product Management Manager [Ref no: SPMM-AL] Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90980409 | Sidefame Ltd | Fashion Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91422413 | Shiji Information Technology (Hong Kong) Limited | Product Specialist Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91388525 | ARTTA Concept Studio Limited | Interior Designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91038454 | G2000 (Apparel) Ltd | Senior Fashion Designer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91120238 | bread n butter Limited | Fashion Designer (Ladies Fashion Retail) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91114748 | Yellow Creative (HK) Limited | Typesetter / Production Artist Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91386729 | the heart of everything we do? | Specialist, Artwork Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91441285 | Lam Construction Company Limited | Senior Draftsman (Interior Design) (LCC-SD-2026) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/90963024 | Legend Swimwear Factory Ltd | Fashion Designer / Assistant Fashion Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91436192 | NexGen Packaging, Limited | Product Development & Sourcing Executive Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91171993 | Affinity Executive Search Limited | Footwear Engineer (Fashion Brand) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91200136 | Lidl & Kaufland Asia PTE. Limited | Assistant Product Developer (Power Tools) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91122124 | supporting the development and ongoing maintenance of products of various lines | Officer, Proposition and Product Development Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91071254 | Concept 4 Limited | Junior Designer / Designer Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91416200 | Oval Design Ltd | Spatial Designer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91270262 | Lever Style Limited | Technical Design Manager (Activewear Fitting) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91070743 | Top Form Brassiere Mfg Co Ltd | Designer Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91193332 | G. Aesthetics Sportsleish Limited | Fashion Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91467602 | RecruitPRO Consultancy Hong Kong Limited | Sr M/ Merchandiser - paper boxes / packaging for luxury cosmetics products Job in Sai Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91409216 | Maxim's Caterers Limited | (Temp/ Intern) Graphic Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91236067 | CMSS LIMITED | Fashion Designer Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/90848972 | G2000 (Apparel) Ltd | Fashion Designer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91439549 | Paliburg Group | Interior Designer Job in Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91441775 | Inbloom Concept Limited | Senior Interior Designer / Interior Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91302159 | a young | Fashion Graphic Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90997243 | Lever Style Limited | Fashion Designer (B2B Outdoor Activewear) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91071494 | Swire Resources Ltd | Fashion Designer/ Senior Fashion Designer (Menswear) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91249346 | Zeplinn | Senior Product & Engineering Manager Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91425092 | 2 years at | Assistant Mechanical Engineering Manager (PRC Based, 45 minutes from ShenZhen) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91067906 | Search & Select International Limited | Product Development Assistant - Lingerie Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/90778091 | Luk Fook Holdings Company Limited | Senior Interior Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91409993 | Sharp Star Holding(HK) Limited | Interior Designer (Retail / MTR Shop Projects) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91038861 | Pegasus Recruitment Company Limited | Fashion Design Manager Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91436923 | ARK Associates Limited | Interior Designer/ Assistant Interior Designer Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91212686 | Easy Job Centre | Fashion Design / Senior Fashion Designer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91034517 | Cosword (Hong Kong) Co Ltd | Fashion Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91327145 | ADECCO | Assistant Engineering Manager (Toys) 26K- 28K Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91188222 | [PTSS] Global Best Industrial Limited | Product Development Coordinator Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91063080 | Amer Sports Asia Services Limited | Product Development Specialist (Bags & Accessories) - ARC'TERYX Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91414516 | Zodiac Lighting Ltd | Junior Draftsman Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90991244 | G2000 (Apparel) Ltd | Assistant / Fashion Designer Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91423929 | designers and project teams | Project Designer (Fitting-out, 5 Days Work) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91256927 | Eternity Consultants (HK) Ltd | Fashion Designer (Sportswear & Casual Wear) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91098179 | Lai's Knitters Limited | FASHIION DESIGNER /KNITWEAR DESIGNER /PRODUCT DEVELOPER Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91438352 | HKT | Product Manager (HealthTech) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91421737 | Hong Kong DivaCode Limited | Assistant Visual Merchandising Manager Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91381920 | Mezco (H.K.) Limited | Action Figure Prototype Painter Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91045014 | Manpower Services (Hong Kong) Limited | Event & Exhibition Design (Full time - 3D Designer / Event Designer) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91123936 | experience in gold jewellery | Freelance Jewellery Designer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91409761 | Waison Design & Engineering Limited | Interior Designer/ Assistant Interior Designer Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91456944 | NTML Group Limited | Cosmetics Merchandising Assistant - Packaging Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91193519 | are of premium quality from all perspectives | Interior Designer/ Project Designer Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91063868 | values collaboration | Jewellery Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91063453 | PYE (Hong Kong) Limited | Assistant Fashion Designer / Fashion Designer Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90943320 | Easy Job Centre | Fashion Design / Senior Fashion Designer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91397174 | World Cat Limited | Developer Accessories Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91079255 | Easy Job Centre | Fashion Design / Senior Fashion Designer Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91198796 | Kindford Limited | Designer Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91252013 | Meiyume (Hong Kong) Limited | Intern - Design Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90996598 | Lever Style Limited | Senior Design Manager (B2B Apparel Design & Development) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91025750 | Eternity Consultants (HK) Ltd | Assistant Product development Engineer - Plastic Product- Factory Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91067929 | Yick Fung Leatherware Factory Ltd | Handbag Designer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91042995 | SPA Resources Company Limited | Designer (For Beauty Salon) (5 Days work) Medical Benefit & Bonus Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91250259 | PacificPlan Interiors Ltd | INTERIOR DESIGNER/ CAD OPERATOR Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90984072 | Lakewill Silk and Garment Limited | Senior Fashion Designer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91316542 | 10+ years in knitwear (US/EU markets) | Design Manager (Knitwear) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91362630 | Quadratik Studio Limited | Mechanical Design Engineer (SolidWorks Focus) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91093545 | Links International | Product Director (Web 3) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91479923 | The Education University of Hong Kong | Communications Officer Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91398720 | Louis Vuitton Hong Kong Limited | In-Store (Senior) Visual Merchandiser Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91396337 | Here We Seoul Limited | Multi-Media Producer / Video Content Creator / Videographer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90675931 | emphasis on recruiting the best talent | Graphic Designer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91222859 | AI-powered that shape our brand's digital future! | Digital Marketing Executive Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91425568 | redefine our brand and captivate the world | AI Content Creator / AI Video Producer / Digital Content Producer (AI-Driven) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91474924 | ADECCO | Multimedia Executive (Marketing & Communications) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91389241 | customers including company web site | Marketing Officer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91310655 | The Value.com Limited | Producer (Video and Photography) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91304203 | Wing Yip International Limited | Graphic Designer(5-days work) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91135967 | Capital Financial Press Ltd | Graphic Designer / Senior Graphic Designer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91113483 | Hong kong medical pain management association | Graphic Designer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91278835 | Hong Kong Doctor Healthcare Limited | Graphic Designer (Medical Beauty) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91389317 | Monkey Tree English Learning Center | Junior Multimedia Graphic Designer (HQ Ref No. P26011) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91324783 | creative design | Graphic Designer Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91197575 | least 3 years of experience | Graphic Designer / Senior Graphic Designer Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91037543 | Uni-China (Group) Co., Limited | Graphic Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91038439 | an excellent balance of creativity | Graphic & Print Production Designer Assistant Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91221776 | CoCoBerry Ice-Cream Limited | Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91122550 | Behold Hong Kong Limited | Digital and Graphic Designer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91475963 | Galaxy Telecom (Hong Kong) Limited | Global Brand Marketing Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91024951 | Cafune Limited | Graphic Design Assistant Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90184023 | Kingsmen Hong Kong Limited | Graphic Designer – Multidisciplinary Design (Contract) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91275076 | Scorpion Precision Industry (H.K.) Company Limited | Graphics Designer Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91070520 | Media Savvy Marketing Limited | Graphic Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91140287 | Swatch | Intern - Social Media Content Creator Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91110795 | AdBeyond (Group) Limited | (Senior) Social Media Executive Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91191468 | United Asia Finance Limited | Assistant, Digital Marketing Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91136357 | content starts with great ideas | Creative Copywriter (Bilingual / Chinese) / Social Media Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91087743 | motion graphics | Videographer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91357209 | SmartHire by SEEK | Light Operator (TV) Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91290110 | The Hong Kong Jockey Club | Part-time – Technician (Audio Visual) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91088264 | Spacebox Limited | Senior Marketing Executive Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91471922 | Dr | Digital Marketing Executive Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91433074 | Universe Action Limited | Digital Marketing Officer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91439950 | Zlashy Limited | Part-Time Content Producer & Creative Editor (3-Month Contract, renewable) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91397489 | Ambree WY Brand Management Company Limited | Visual Merchandiser Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91445704 | INSIGHTAXIS CONSULTANCY COMPANY | Marketing Assistant Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91381805 | Wai Tung Medical Limited | Content Creator & Marketing Assistant Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91436780 | YesStyle.com Limited | Digital Marketing Assistant Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91265388 | Medispa Group Limited | Marketing Executive Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91445922 | a passion | Beauty Editor Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91470463 | team culture await | Project Executive / Project Manager (Exhibition, Event & Booth Construction) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91389236 | Hypebeast Hong Kong Limited | Studio Assistant/Stylist Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91435685 | VICI DESIGN ENGINEERING LIMITED | 市場推廣專員（室內設計／裝修） Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91313685 | Formex Financial Press Limited | Typesetter / Senior Typesetter 排版員 / 資深排版員 Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91434005 | Ming Pao Magazines Limited | Reporters / Editors (Ming's) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91067992 | The Natural Tea Company (H.K.) Ltd. | Graphic Designer / Digital Content Creator Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91314226 | Charming Printing Limited | Trainee(Packaging/Printing/Trim) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91419511 | AAStocks.com Limited | Motion Graphics Editor Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91318100 | The Education University of Hong Kong | Communications Officer Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91424871 | BELLAURA (HK) LIMITED | Social Media Content Specialist Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90991456 | Konew Fintech Corporation Limited | (Senior) Marketing Officer - Graphic Design, Social Media & Content Creation Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91425792 | Imperial Gallery Limited | Digital Content Specialist Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91400685 | Target Global Sourcing Limited | Senior Color Developer / Color Developer (Part Time, 4-6-month Contract) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91438812 | The Independent Schools Foundation Academy Ltd | Digital and Content Specialist (Ref: C&C/DCS/20260202_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/90970741 | AVENUE (INTERNATIONAL) LIMITED | Retail VM officer (Visual Merchandiser / Designer) -Full time / Freelance Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91425689 | Michael Page International (HK) Ltd | Visual Merchandising Manager - Beauty & Cosmetic Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91297879 | Ydotx Services Limited | Marketing Officer (Illustrator / Content Creator) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91315550 | Hong Kong (International) Eye Care Group Limited | Marketing Executive[Ref:202602001-CM-MKTG-C+] Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91234096 | group medical insurance | Social Media & Content Marketing Executive (Xiaohongshu Focus) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91197201 | 雅仕圖室內設計及工程有限公司 S2 DESIGN & CONTRACTING COMPANY LIMITED | Designer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91200874 | Colourmix Cosmetics Company Limited | Marketing Assistant Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91110499 | collaborating cross-functionally | Digital Content Creator Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91420953 | the team | Executive - Digital Content Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91399363 | BBDO HK Advertising Limited | Junior Copywriter Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/91421243 | reimagining the industry with design and digital innovation | Creative and Design Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91388018 | SAMA CASA Limited | Project Coordinator / Visual Merchandiser Job in San Po Kong, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91091926 | at least one year of experience | Artwork Designer/Pre-press Operator/Typesetter Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90979233 | Vita Green Health Products Company Limited | Senior Visual Merchandizing Executive Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91099250 | inspire! | Graphic Designer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91187018 | our growing Business | Digital Marketing Executive Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91289686 | Sing Tao Management Services Limited | Video Producer (New Media Business) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91403984 | Academic Asia UK Limited | Content Creator/Writer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91476131 | Rider Levett Bucknall Limited | IT Support Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91189876 | Ultra High Point Limited | IT Support Officer Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91479266 | CL Technical Services Ltd. | Data Centre Operator / Computer Operator (5 days work, Kowloon Bay, $23K - $25K) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91012655 | VI Group Service Pty Limited | Part-Time IT Support & Administrative Assistant Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91023114 | Odoo HK Limited | IT Administrator Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91099683 | Lenovo PCCW Solutions | Assistant Manager, IT Support (Internal IT Team) Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91235801 | Just Med Limited | IT Support Technician Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91170040 | reputed company | Electronic Trading – Application Support Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145797 | Yau Lee Holdings Limited | I.T. Support Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/89045860 | Automated Systems (HK) Ltd | IT Helpdesk Support Engineer (Fresh grad is welcome) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91286407 | Cognizant Technology Solutions Hong Kong Limited | Deskside Support Engineer (12 months Contract) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91250779 | Gleneagles Hospital Hong Kong | IT Technician Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91236960 | Hays Hong Kong Limited | Senior IT Support (In-house), 40K Up Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91276803 | Gorilla Group Limited | IT Support (資訊科技支援技術員) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91262586 | Hays Hong Kong Limited | IT Support Engineer l MNC Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91303226 | The Law Society of Hong Kong | IT ASSISTANT (TECHNICAL SUPPORT) (Ref: IT/ASST) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91121825 | Cornerstone Global Partners | IT Support (Major Investment Bank) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91120558 | Computacenter Services (Malaysia) Sdn Bhd | IT Support Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91316430 | iPad or Mac products | 20K / IT Support, Mac Product / KL Tong Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91150835 | Oriental Partners Ltd | IT Support Officer Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91097649 | EIDEALINK LIMITED | URGENT! IT Support/ Helpdesk Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91097616 | Speedy Group Corp. Limited | IT Support (Fresh Gradaute position) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90960762 | Aden Financial Group Limited | IT Supporting Officer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91198480 | Shanghai Commercial Bank Ltd | Senior Officer / Officer, IT Support (Maintenance) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91124095 | ServiceOne Limited | IT Support Engineer Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91255052 | a dynamic IT firm in Kowloon Bay | IT Support Technician Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90660147 | RFID System & Supplies Limited | IT Technical Support Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91113278 | CHINA INDUSTRIAL SECURITIES INTERNATIONAL FINANCIAL GROUP LIMITED | IT Deskside Support (Contract) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90931259 | NV5 Limited | IT Officer/Specialist Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91230334 | Eternity Consultants (HK) Ltd | IT Support / Senior IT Support (7x24 Site Operation) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91047192 | Manpower Services (Hong Kong) Limited | IT Support/Helpdesk Support Engineer (Up to 28K, AL 20 days) Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91213315 | The Wharf Group | IT Support Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90985654 | UDomain Web Hosting Co Ltd | Office IT Support Specialist Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91300804 | Leigh & Orange Limited | IT Officer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91254072 | Speedy Group Corp. Limited | IT Helpdesk Support (multi-posts) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91199730 | PFCC Group Limited | IT Support Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90465701 | Kwoon Chung Bus Holdings Limited | Technician(System) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91273786 | iFAST Financial (HK) Limited | IT Support Officer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91079699 | The Wharf Group | IT Support Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91480958 | exposure | Project Coordinator – POS Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91237106 | CL Technical Services Ltd. | Deskside support engineer / IT Helpdesk ($18K - $22K) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91146816 | Manpower Services (Hong Kong) Limited | IT Support Engineer/IT Assistant (18K-20K, Central/Tsuen Wan, Multiple HC) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91086805 | Cosco Shipping Container Line Agencies Limited | IT Help Desk Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90008084 | SiS International Limited | Technician Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91123474 | Hays Hong Kong Limited | IT Support Engineer (Financial firm) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91472476 | Deep Blue Asia Limited | Service Technician/Engineer Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91134873 | Link Asset Management Limited | Administration Officer - Information Technology Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91315822 | SmartHire by SEEK | Senior Operator/ Operator, DC Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91480290 | Canadian Children's Technology Workshop (Asia) Limited | Full Time STEM Teacher Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91330702 | Veolia Hong Kong Holding Limited | 數據中心值班工程師 / 技術員 (Technician) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91259800 | Sony Corporation of Hong Kong Limited | Assistant IT Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91478313 | Premier Aegis Recruitment Company Limited | Solutions Consultant Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91018174 | NTT Com Asia Limited | Data Center Technician (TKO) / 數據中心電牌技術員 (將軍澳) Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91295708 | SmartHire by SEEK | Technical Service Manager (IT Managed Service) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91277393 | SmartHire by SEEK | Solution Consultant (Telecommunication) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91478632 | Newrecs Consultancy Limited | (Focus ITSM,ITIL,Change,Incident,CMDB) IT Service/IT Operation Professional Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91475586 | Sun Life Hong Kong Limited | eMPF Service Executives Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91482062 | SATS HK Limited | Flight Operations Officer (Part Time) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91258756 | SmartHire by SEEK | Technician (Lighting) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91277598 | SmartHire by SEEK | Solution Consultant (ITSM & SIEM) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91408715 | Chubb Hong Kong Limited | Services Supervisor (Electronic Security and Extra-low-voltage Systems) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91433492 | Hong Kong Applied Science and Technology Research Institute Company Limited | Manager, IT Operations Project Management Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91273271 | Shine Union Limited | Field Service Engineer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91448854 | Hong Kong-Shenzhen Innovation & Technology Park Limited | Manager, IT Applications Job in Lok Ma Chau, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90942768 | SmartHire by SEEK | Maintenance Technician (E&M) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91054330 | HiroSys Limited | In-house Service Centre Technician (A/V Industry) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91469907 | Global Up Limited | Assistant Engineer / Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91434641 | ServiceOne Limited | Account Manager – Managed Services & Solutions Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91136623 | OEMs | Technical Services Engineer - MRO Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91397621 | Roctec Technology Ltd | Account Executive Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91302818 | Roctec Technology Ltd | Assistant Project Engineer / Project Engineer Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91090585 | SmartHire by SEEK | Service Engineer (IVD, Diagnostics) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90977524 | SmartHire by SEEK | Technician Job in Happy Valley, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91468087 | TALENT RECRUIT COMPANY | Project Relationship Specialist ( 20 - 30K) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91390480 | competitive pay | Sales Engineer - Electronic Security Services Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91480523 | ELO FAR EAST LIMITED | Customer Service Officer / Merchandiser (Merchandising in Cookware) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91176348 | SmartHire by SEEK | Electrical Worker (Technician) Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91209916 | recording session at studio | Music Production Officer / Studio Assistant/ Studio Engineer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91468888 | Cypress Telecom Limited | Senior Product Manager / Product Manager Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91479785 | Toshiba Hong Kong Ltd | Call Centre Clerk Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91451609 | HKT Teleservices | CS Officer (Virtual Banking) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91115965 | SmartHire by SEEK | 維修師傅 Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91185207 | SmartHire by SEEK | Service Delivery Manager Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91422521 | HKT Consumer Business Group | 客戶服務主任 (電子錢包) - 上環 [歡迎應屆畢業生] Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91347771 | HSBC | Mobile Insurance Specialist - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91031626 | Ecoworld Company Limited | Sales Assistant Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91440815 | strong ties | (Two-year contract) Executive Director, IT Country Markets Project Lead Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90962313 | Care For You Company Limited | Field Services Assistant Engineer / Engineer - Healthcare Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91385143 | Cathay Securities (Hong Kong) Limited | Corporate Servicing Assistant /Officer Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91318078 | Metro Broadcast Corporation Limited | 高級廣播音響運作控制員 Senior Panel Operator (Audio) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91386394 | HKT Teleservices | Customer Service Executive - eMPF Hotline (荃灣區) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91070245 | Vanderlande Logistics Limited | Assistant Service Engineer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91276416 | ServiceOne Limited | Account Manager – Managed Services & Solutions Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91475888 | some of | Associate Recruitment Consultant (IT) I Leading Talent Solutions Provider Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90962244 | Hong Kong Examinations and Assessment Authority | Assistant Officer - Examination Systems (Ref: ES/03/299) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91263395 | Raymonds Supply Co Ltd | Sales Engineer (Shatin Area)-Data Center Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90998050 | Park Place Technologies | Sales Development Associate Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91397678 | Tiger Fintech Hong Kong Limited | Customer Service Officer Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90942896 | SmartHire by SEEK | Maintenance Technician (Kitchen) Job in Happy Valley, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90942744 | SmartHire by SEEK | Head of IT / Technical Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91451554 | TALENT RECRUIT COMPANY | Business Services officer ( 20K - 30K) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91447909 | Function One Computer Services | Service Desk Support (English + Korean Speaking) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91298828 | improves how people work through responsive | IT Service Desk Analyst - Employee Technology Support, Hong Kong Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91175669 | FUJIFILM Data Management Solutions Asia Limited | Service Delivery Manager Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91069443 | Function One Computer Services | Service Desk Support (English + Japanese / Korean Speaking) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91101322 | Dual Layer IT Solutions Limited | Help Desk Technician Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91393476 | Furong Uptech Solution Co., Ltd | Front Desk Receptionist - Fintech & Financial Services Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91020825 | Manpower Services (Hong Kong) Limited | (Multiple Openings) Service Delivery Executive/Service Delivery Manager (20-50K) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91165643 | KOS International Limited | IT Helpdesk Engineer (1-year Contract, Up to $27k) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91479722 | HKT | Service Officer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91125782 | TEKsystems | L2 Desktop Support - Leading Investment Bank Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90990276 | Function One Computer Services | Service Delivery Manager Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91237878 | Michael Page International (HK) Ltd | IT Support Specialist Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91042154 | Great Expect Development Limited | IT Helpdesk Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91133871 | RIPEN Limited | Service Delivery Manager Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90994755 | TOPPAN Information Solution (Hong Kong) Limited | IT Helpdesk Hotline Application Support (Fresh Graduates Welcome) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91202512 | ADECCO | Shift / IT Support / up to 23K Airport Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/90842398 | strong presence in GBA | Senior IT System Specialist – Leading Greater Bay Area (GBA) Law Firm Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91477006 | Search & Select International Limited | Administrative Officer/ Administrator – IT Division (Ref no: PH2330-JDB) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91191602 | TicTas Technologies Limited | Help Desk Support Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91121250 | OnTheList Limited | APAC IT Support Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91102515 | the IT Manager | Technical Support Specialist – Professional Firm Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91069556 | KLN Logistics (Hong Kong) Limited | Workplace Engineer, HK IT Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90991329 | Furong Uptech Solution Co., Ltd | Front Desk Receptionist - Fintech & Financial Services Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91036922 | CL Technical Services Ltd. | Helpdesk support / IT Support ($20K - $23K, Airport, 7x24) Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91088545 | Delken Group Limited | IT Support (Windows Server Support, 5 days) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91145784 | Furong Uptech Solution Co., Ltd | Front Desk Receptionist - Fintech & Financial Services Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91169441 | Bela Offices | Client Service / Receptionist/ Front Desk Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91123584 | Principle One Ltd | Senior IT Engineer (Contract) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91198126 | Robert Walters (HK) Ltd | IT Support Engineer (Contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91113507 | Pathos Consultancy Limited | IT Support Analyst (Financial sector, 5-month contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91257310 | Manpower Services (Hong Kong) Limited | System Engineer(1 yr renewable contract) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91087279 | Trinity Medical Imaging Centre Limited | Customer Services Associates (Front Desk) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90719144 | The Career Works Limited | IT Assistant Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91469275 | SmartHire by SEEK | Call Centre - Customer Service Officer (1 year renewable contract) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91449016 | Worldwide Flight Services Holding S.A. | Customer Service Officer - at Call Centre Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91115559 | other departments | Customer Care Officer - Day & Afternoon Shift _ 1 Year Contract (19K) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/90964418 | AsiaWorld-Expo Management Limited | Senior Customer Services Officer Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91364300 | Conrad Hong Kong | Front Desk Team Leader Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91451699 | APRIL Assistance (Thailand) Co., Ltd. | Senior Claims Administrator (LOG) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91449324 | LPM Group Limited | Customer Services Executive Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91463615 | Don Nelson Recruitment Limited | Assistant Customer Services Manager - Banking Industry (Credit Card Team) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91347310 | HSBC | Customer Service Officer (Premier Centre) - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91347265 | HSBC | Assistant Manager - Contact Centre and Remote Channel Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91394382 | Airstar Bank Limited | Manager / Senior Manager, Experience & Service Centre (Retail) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91220323 | Bolttech Insurance (Hong Kong) Company Limited | Customer Services Officer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91474127 | Eternals Consultancy | Customer Service Manager (20K-30K) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91364408 | Conrad Hong Kong | Front Desk Officer Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91125809 | Third Bridge (Hong Kong) Limited | Associate, Client Service Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91039000 | other departments | Customer Care Officer - Day & Afternoon Shift _ 1 Year Contract (19K) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91322197 | SmartHire by SEEK | Call Centre - Customer Service Officer (1 year renewable contract) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91150860 | offers a great vibe workplace | Pilates Studio, Admin and Receptionist (Front Desk), 5 Day Work, $16K - $18K, Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91237032 | Prudential Hong Kong Limited | Senior Officer / Officer, Customer Contact Centre (Hotline) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91260718 | Make The Right Call | Customer Service Representative Contract Term $22K (Mon-Fri - 1 Year Contract) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91451166 | Compass Group Hong Kong Ltd | Receptionist (New Headcount) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91097226 | our Customer Service Center in Tsim Sha Tsui | Senior Officer / Officer, Customer Service Center (Customer Facing) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91328802 | New Charm Management Limited | SENIOR CONCIERGE OFFICER / CONCIERGE OFFICER (AIRSIDE at Kai Tak) Job in Kai Tak, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91147758 | exciting career and enjoy our unique GUM culture! | Customer Services & Policy Administration (Senior Officer) (Employee Benefit) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471205 | HKT Teleservices | Wealth Management Representative (Client Appointment & Support Role) Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91474605 | Regent Heights | Guest Relations Officer 前台客戶服務員 (Welcome Fresh Graduates / 歡迎畢業生申請) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91472113 | Pacific Prime Insurance Brokers Ltd | Account Executive - Employee Benefits Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471650 | insurance partners | Senior Corporate Admin Officer, Employee Benefits Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91087626 | Make The Right Call | Customer Service Representative Contract Term $22K (Mon-Fri - 1 Year Contract) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91446417 | Manulife (International) Limited | MPF Client Service Officer (Fresh Graduates & IANG/TTPS Welcome) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91365756 | Sun Life Hong Kong Limited | eMPF Customer Care Officers / Manager Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91245443 | Boston Scientific Hong Kong Ltd | Administrative Assistant Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91474691 | leading nutrition brand | Customer Service Representative (Ref:CSR) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91237114 | Prudential Hong Kong Limited | Assistant Manager, Customer & Policy Services, Projects & Operation Excellence Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91237063 | Prudential Hong Kong Limited | Contract Officer, Customer Contact Centre (Hotline, 12 months contract) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91091767 | Sun Life Hong Kong Limited | eMPF Customer Care Officers Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91222543 | HKT Teleservices | Senior Customer Service Officer, Insurance (Employee Benefit) 高級客戶服務主任 Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91447879 | SmartHire by SEEK | Receptionist 公司前台 Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91316464 | Skuld (Far East) Ltd | Executive, Claims / Admin Operatons Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91098040 | company rules and regulations | eMPF Customer Care Officers Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91436674 | Dah Sing Financial Group | Officer, Customer Services (Contact Centre - General Banking) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91109319 | management capabilities | Security Operations Center (SOC) Manager Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91337859 | SmartHire by SEEK | Customer Service Executive - Education/Tuition Centre Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91314204 | Us | Assistant Service Manager - BMS Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91409852 | Bay Insurance Brokers Limited | 【內勤】保单行政支持 Sales Relationship Assistant Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91061347 | Dah Sing Financial Group | Officer, Customer Services (Contact Centre - SME) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91464455 | SmartHire by SEEK | Receptionist / Assistant Administration Officer Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91045540 | internal teams | Senior Customer Service Officer, Insurance (Employee Benefit) Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91481053 | Cantab Star Education Limited | Learning Centre & Administrative Officer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91305242 | Sun Life Hong Kong Limited | eMPF Client Officers Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91297412 | SmartHire by SEEK | 全職客戶服務專員 — 補習社 Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91000888 | Encode Education Limited | Customer Success Associate - Full time Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91257116 | Dr. Kong Footcare Ltd | Customer Services Officer Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91202719 | comprehensive On the job training | Customer Service Executive (主題公園/旅客服務) – 歡迎轉職人士加入 Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90996122 | Wells Japan Holdings Limited | Customer Service & Operations Associate Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91188271 | Dah Sing Financial Group | Officer, Customer Services (Contact Centre - General Banking) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91177282 | 91App HK Limited | Customer Service Officer (Ecommerce) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91097707 | TALENT RECRUIT COMPANY | Customer Services Executive ( 17K - 20K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145190 | FUJIFILM BI | Account Consultant Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91347309 | HSBC | Personal Banking Executive - Contact Centre and Remote Channel Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91470900 | HKT Teleservices | Wealth Management Manager (公司客戶｜Warm Call｜歡迎保險從業員) Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91388475 | Abacare | Assistant Account Manager / Sr AE - Client Servicing (Insurance Broker) Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91388405 | E-merchandising or ecommerce exp is a plus | Marketplace Operations Specialist Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90968965 | Dah Sing Financial Group | Officer, Customer Services (Contact Centre - Credit Card) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91310505 | Pacific Prime Insurance Brokers Ltd | Corporate Admin Manager, Employee Benefits Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91303029 | Octopus Holdings Limited | Senior Manager, Technical Implementation Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91021149 | FUJIFILM BI | Client Manager / Corporate Sales (Education Focus) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91246915 | SGS Hong Kong Limited | Contract Customer Service Executive, Schedule Planner (1 Year Contract) Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91248709 | PCCW Services Limited | Senior IAM Manager, Identity & Access Management Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91315577 | HKT Teleservices | Customer Services Officer 客戶服務主任 (上環區) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91315454 | HKT Teleservices | CS Officer (Virtual Banking) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91433503 | Joint Billion Holdings Limited | Lounge Officer (West Kowloon High Speed Railway) Job in West Kowloon Cultural District, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91472100 | Pacific Prime Insurance Brokers Ltd | Accounts Manager - Employee Benefits Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91045610 | internal teams | Customer Service Officer, Insurance Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91067921 | Geoswift Payment Technology Limited | Customer Operations Specialist Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91071348 | ESD Services Limited (ESDlife) | Tele-sales / CS Advisor (eCommerce) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90959343 | Manulife (International) Limited | Admin Assistant (15 - 25k) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91414975 | CBRE Limited | Critical Facilities Manager (Colocation Data Center, Sha Tin) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90993649 | business functions and the logistics/ warehouse team on order fulfilment | Customer Service (Logistics) Officer / Service Support Executive Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91191036 | HKT Teleservices | CS Officer (Virtual Banking) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145762 | Pacific Prime Insurance Brokers Ltd | Business Development Executive (Sales Support) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91347770 | HSBC | Outreach Insurance Specialist - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/90978664 | MHK Insurance Services Limited | Case Manager / Policy Admin 歡迎高才(TTPS)/ 優才/ IANG Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91347927 | HSBC | Vice President I/II - IRM Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91347599 | HSBC | Insurance Product Expert - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91091981 | JobsDB HK | RECEPTIONIST Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91063450 | Osmium Consulting Group Limited | Technical Support Engineer ( Roster-Based ) / 20K-29K Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91447871 | is passionate about the transportation industry | (Assistant) Technical Support Officer, Scheduling Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/89009915 | work | Project Coordinator / Technical Support Coordinator (Engineering Field) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91043335 | Microware Limited | System Support Engineer Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91473127 | the aid of computer software | Technical Assistant Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91300596 | at least 2 years of experience | System Support Engineer (Avaya, 18-25K) Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91422176 | Robert Walters (HK) Ltd | IT Trade Floor Support Analyst - Banking (Contract) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91422802 | YSF Corporation Limited | Sales Engineer / Technical Support Engineer Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91459927 | Osmium Consulting Group Limited | Technical Operations Specialist / 20K - 25K ( Roster-Based ) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90782820 | Raffles Medical Group (Hong Kong) Limited | System Support Specialist Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91426540 | Veolia Hong Kong Holding Limited | Business Support Engineer/ Project Officer Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91301133 | Abbott Laboratories Ltd. | (Senior) Technical Sales Representative - Cardiac Rhythm Management Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91393353 | 水滴金融服务（香港）有限公司 | Consultant Support Manager - Non-Sales Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91439614 | Long Yue - lead high-quality electrical and mechanical projects | (Assistant) Building Service Coordinator / BS Engineer / E&M Project Engineer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91113991 | leading Fire Services firm | Project Engineer / Assistant Project Engineer (Fire Services) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91231612 | Schindler Lifts (HK) Ltd | Executive Assistant / Executive Support Analyst Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91145264 | Pharmason Company Limited | Clinical Specialist Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91030860 | Apexel Recruitment Limited | Engineer (Lift/ MOD, 5-day, 25-35K) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91016750 | Pacific Sense Enterprises Limited | Services Engineer / Assistant Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91314231 | Siemens Ltd | Senior Service Engineer (BMS) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91239090 | German Swiss International School (GSIS) | MAINTENANCE OFFICER Job in The Peak, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91396800 | Hitachi Elevator Engineering Company (Hong Kong) Limited | Assistant Engineer / Engineer - Modernization Department (Lift & Escalator) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91226084 | Plan International Hong Kong | Assistant Supporter Services Officer (6-month Contract) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91471473 | Hong Kong Institute of Construction | Assistant Officer - Trade Testing Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91087740 | Samsung C&T Hongkong Limited | Business Support Associate [REF: BS] Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91098517 | the highest level | Officer, Operations (Policy Renewal Management) Job in Fortress Hill, Eastern District
+- [ ] https://hk.jobsdb.com/job/91120246 | Sinopec Chemical Commercial Holding (Hong Kong) Company Limited | Planning Management Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91322156 | SmartHire by SEEK | Tender Coordinator Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91175988 | SmartHire by SEEK | Project Engineer Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91323794 | 水滴金融服务（香港）有限公司 | Sales Support Manager / Assistant Manager (Insurance Broker Team) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91196261 | internal teams and handling general administrative tasks | Sales Operations Assistant Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91301543 | Pekko Engineers Limited | Engineer (Electrical) Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/91400934 | Ultra High Point Limited | Business Development Manager - Healthcare IT Solutions Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91284228 | Chit Tat Electrical Engineering Limited | Engineer (MVAC) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91140090 | Newtech Technology Company Limited | Project Engineer (Electrical/MVAC) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91147123 | TOPPAN Information Solution (Hong Kong) Limited | Administrative Coordinator (Yuen Long) Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90995893 | SmartHire by SEEK | Risk & Safety Management System Officer (Aviation/Industrial Management) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91121058 | Nicoll Curtin Technology (HK) Limited | Sales, Electronic Trading (Equities) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91145583 | Yue Po Engineering Co Ltd | Project Coordinator/Site Engineer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91401038 | resources on staff development | Senior Engineer (Building Service - E&M) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91400690 | resources on staff development | Engineer (Building Service - E&M) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91402241 | B.Base (HK) Ltd | Eyewear Library & Office Assistant Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91161632 | SGS Hong Kong Limited | Assistant Operation Manager (Softlines) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91114974 | 水滴金融服务（香港）有限公司 | Consultancy Business Administration Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91177173 | Lap Kei Engineering Company Ltd | MVAC - Sr Engineer / Engineer / Assistant Engineer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91234458 | Yuhu Group (Hong Kong) Investment Holdings Limited | Business Specialist / Trainee Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91462300 | M Ness Personnel | Customer Service Officer/Marketing Executive(17-28K,️️ ️️5️⃣⭐️ BENEFITS/️5 Days) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91472284 | Zhongke Health International (H.K.) Co., Limited | Customer Service Officer 客戶服務主任 Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91482553 | service | After-Sales Officer / Service Receptionist Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91383118 | K.Y. Resource Ltd | Sales Coordinator Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91479541 | clients and vendors | Sales Administrator Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91451649 | HKT Teleservices | 客戶服務主任 Customer Service Executive (Tsuen Wan) - empf hotline Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91447963 | CITIC Futures International Company Limited | Assistant Manager, Officer, Customer Service Department 助理客戶服務經理/客戶服務主任 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91480313 | training | Sales Support Officer – Part Time Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91356911 | SmartHire by SEEK | Membership Relations Officer Job in Happy Valley, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91425039 | Prince Jewellery and Watch Company Limited | Customer Relations Specialist 顧客關係專員 (Jewellery Sales 珠寶部銷售人員) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91096422 | Alexander Mann Solutions (HK) Limited | Customer Engagement Executive 尊尚客戶服務主任 Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91479816 | Canadian Children's Technology Workshop (Asia) Limited | Full Time/ Part Time Customer Service and Admin Officer Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91163606 | SGS Hong Kong Limited | Customer Service Executive Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91100951 | SmartHire by SEEK | Customer Service Officer - Fulfillment Logistics (Next to Lai King Station) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91480931 | customers | Miele Experience Centre - Sales Executive Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91480609 | Able Choice Personnel Consultancy | Sales Coordinator Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91482452 | CX Time Limited | Client & Logistics Coordinator Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91477805 | Ke Yao Micro-Electronic (Hong Kong) Limited | Sales Coordinator (Location : Fanling) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/89250722 | Shanghai Commercial Bank Ltd | Asst Mgr (2-yr Contract), Corporate Customer Onboarding Support (Account Review) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91079710 | Mix More Limited | E-commerce Customer Support Specialist Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91480592 | Don Nelson Recruitment Limited | Business Development Specialist Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/76578603 | high net worth customers | Customer Relationship Manager, Wealth Management (Branch) [Ref no: CRMWMB-EN] Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91447238 | other departments related | Senior Specialist, Customer Relationship Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91480860 | Konica Minolta Business Solutions (HK) Limited | Receptionist (Tai Koo) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91045143 | a dynamic abd innovative company offering competitive salary | Customer Support Specialist Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91477435 | UBS AG | Client Relationship Manager Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91472341 | values service excellence | Customer Service Ambassador Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91469201 | UL VS Hong Kong Limited | Customer Service Professional II (Welcome Fresh Graduate) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91475831 | Haystar Consultant Limited | Logistics & Operations Coordinator (知名日企/ 14個月糧 + FULL Benefits/ 良好企業文化及工作與生活平衡) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91475412 | Manpower Services (Hong Kong) Limited | Sales Admin Support Officer/Sales Admin Support Assistant(1 year contract renew) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/85479171 | Shanghai Commercial Bank Ltd | Associate, Corporate Customer Onboarding Support (Fresh Graduate Welcome) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91468601 | Headstart Group Limited | Sales & Customer Services Officer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91423996 | Private Advertiser | Channel Support Executive Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/74493926 | Chevalier Group - Lifts & Escalators | Assistant Customer Services Officer Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91478397 | warm-calling | Junior Portfolio Executive (Existing Client Base) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91479186 | Kerry Properties Limited | Supervisor, Club House (Wong Tai Sin) Job in Wong Tai Sin, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91233876 | Bindo Labs Limited | Customer Support Specialist Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91383773 | J4G HR Limited | Customer Support (Japanese MNC/ AL10-15 / Stable / 5-day) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90090276 | candidate’s background | Officer, Business Support (Corporate Banking) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91472373 | HKT Enterprise Solutions | [eMPF Centre] Customer Service Executive *Fresh Graduates are welcomed Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91470124 | Jointed-Heart Limited | Senior Customer Service Officer Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91472779 | Logos Packaging Holdings Limited | Sales Assistant / Sales (2 posts) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91464263 | focus on Asia markets | Channel Officer Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91420585 | BUPA Asia Limited | Customer Service Advisor (VIP Hotline) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91473189 | Young Living Hong Kong Limited | Customer Service Officer (Call Center) 客戶服務主任 (電話中心) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91437016 | Yuanta Futures (HK) Co., Limited | Customer Service Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91165466 | Sky Great (HK) Limited | Sales Coordinator / Order Processing Assistant Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/89188229 | work | Customer Service Coordinator (Consumer Products Testing) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91468753 | effectively contribute | Assistant Manager (Property Operations & Customer Relations) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91446743 | hands‑on operational exposure | Customer Service Executive (Oil & Gas) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91426025 | a Fintech Unicorn | Customer Service Specialist Job in Lok Ma Chau, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91475626 | PM Honor Company | Sales Coordinator (Part-Time/ Contract) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91418887 | clients | Client Service Coordinator (Overnight shift is required) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91172102 | CEVA Logistics (Hong Kong) Limited | Customer Operations Support Executive Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91388293 | theOrigo Limited | Client Support Manager / Senior Client Support Specialist Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91440633 | ICE Cobotics (H.K.) Company Limited | Sales Support Executive Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91070848 | Eastech Systems Limited | Customer Support Specialist (IT Specialist) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90941412 | Morgan Half International (Hong Kong) Limited | Customer Service Officer (Sales support / Welcome fresh grad) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91472056 | WilliamSELECT | Administrator - KYC / CDD / Client support Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91451331 | Collinson International (Hong Kong) Limited | Customer Service Advisor Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91473546 | Urban Property Management Limited (Urban Group) | Senior Officer, Operation Services (Focus on Co-working Centre operations) Job in Science Park, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91452008 | Bank of Communications (Hong Kong) Limited | Customer Relationship Manager Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91414419 | Make The Right Call | Customer Relations Officer (Customer Service Centre) - Contract Term Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91388023 | WallStone Partners & Company Limited | Customer Service Assistant (Non-sales Insurance service support) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91394956 | Hong Kong Life Insurance Limited | Assistant Customer Services Executive Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91277015 | Autotoll Limited | Customer Service Representative (CS Support) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90784243 | Yunfeng Financial Group Limited | Client Services Associate Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91422009 | Industrial Bank Co., Ltd. | Corporate Banking Sales Support, Corporate Banking (Contract) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91316801 | quality | Senior Customer Service Representative, Customer Engagement Team Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91440875 | CEVA Hong Kong Limited | Customer Services Officer (3P logistics) (Non-shift) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91200530 | and enquiries | Customer Service Coordinator / 客戶服務專員 Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91394186 | Adecco Personnel Limited | Sales Support Officer (Insurance)(Up to 20k per month) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91463710 | Industrial and Commercial Bank of China (Asia) Limited | Customer Service Manager, PBD Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91468347 | Kanhan Technologies Ltd | Sales clerk Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91200050 | Arrowana International Limited | Sales Coordinator ( Five Days Work ) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91451685 | Louis Vuitton Hong Kong Limited | In-Store (Senior) Client Development Specialist Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91482211 | Herbs Generation International Limited | Sales Supervisor – Promoter Department (5 days work) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91464676 | SmartHire by SEEK | Operation Specialist 運營專員 Job in Jordan, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91166097 | Christie's Hong Kong Ltd | Client Service Officer (Contract: until Dec2026) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91070393 | Geek Plus International Company Limited | Sales Operation Specialist Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91387942 | HKT Teleservices | Customer Service Executive- 旅客獎賞計劃 Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90966521 | Success International Company | Customer Relationship Manager (22-35K) Welcome Fresh Grad Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91451966 | HKT Consumer Business Group | csl./1O1O 門市營業主任 Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91047918 | VOX Partners Group Limited | Client Service Executive Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91231100 | SGS Hong Kong Limited | Customer Service Executive (Merchandiser is welcome!) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91069746 | Prince Jewellery and Watch Company Limited | Customer Relations Specialist 顧客關係專員 (Jewellery Sales 珠寶部銷售人員) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91435141 | PI CONSULTANCY & TRAINING COMPANY LIMITED | Admin Executive Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91463621 | Don Nelson Recruitment Limited | 香港銀行 貸款部客戶服務主任 Loan Service Officer / 行政部文員 Loan Supporting Officer... Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91440660 | Be One Family Office Limited | 客户经理（高净值客户方向） Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90913097 | Universe Action Limited | Sales Support/Administration (Fresh Grad are welcome) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91233758 | Logan Group Company Limited | Temporary Customer Services Assistant Job in Aberdeen, Southern District
+- [ ] https://hk.jobsdb.com/job/91302134 | Kintetsu World Express (HK) Limited | Customer Service Clerk (Forwarder) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91417962 | Kyocera Document Solutions Hong Kong Limited | Customer Service Clerk (5-day work) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91423730 | Jebsen Insurance Brokers Ltd | Senior Account Executive Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91446558 | Sportshouse Limited | E-commerce Executive Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91237656 | the standards of the Brand | Operations Associate Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91139890 | Fung Wing Education Co., Limited | 客戶服務部行政人員 (全職) Customer Service & Administrative (Full-time) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91200779 | Royal Learning Group Limited | Customer Service & Administrative Assistant Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90962144 | TALENT RECRUIT COMPANY | Customer Care Officers / Manager Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91315482 | HKT Teleservices | Customer Service Executive - eMPF hotline (Tsuen Wan) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91115286 | Zhongke Health International (H.K.) Co., Limited | Customer Service Officer 客戶服務主任 Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91121173 | Eloop International Limited | Customer Service Representative Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91079651 | M Ness Personnel | Customer Service Officer/Marketing Executive(17-28K,️ ️️️️5️⃣⭐️BENEFITS/️5 Days) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91481967 | SATS HK Limited | Flight Operations Officer 航務操作主任 Job in Airport Area, Islands District
+- [ ] https://hk.jobsdb.com/job/91436675 | CHANEL | Client Care Advisor Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91422422 | LAL Fiduciary Limited | 客戶服務主任 (Relations Executive) 及 實習學員 (IANG Intern) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91171954 | leading HK insurer with career growth opportunities and competitive benefits | 一般保險客戶聯絡/保險從業員（銷售） Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91437303 | Sa Sa Cosmetic Company Limited | (Assistant) Training Officer - Product / Soft Skills Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91424023 | Chapman Freeborn Handcarry Limited | Express Airfreight Specialist Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90965191 | Café de Coral Group Limited | Customer Service Officer/ Assistant Customer Service Officer Job in Fo Tan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91468688 | Instant Technology Supply Chain Hong Kong Limited | Logistics Officer / Supervisor (5 days work in Kwai Chung) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91256376 | SmartHire by SEEK | Senior Sales Coordinator (Manufacturing) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90993329 | Herbs Generation International Limited | Sales Supervisor – Call Centre (5 days work) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91347412 | HSBC | Premier Relationship Manager - Hong Kong Business Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91474131 | Apex Horizon Consultation | MPF Portfolio Manager/Officer 強積金策劃跟進經理 Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91440335 | DCH Auriga (Hong Kong) Limited | (Assistant) Officer - Operations Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91464681 | SmartHire by SEEK | Sales Executive Job in Jordan, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91096610 | Alexander Mann Solutions (HK) Limited | 銀行客戶經理 (歡迎保險、證劵相關人才申請) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91096566 | Alexander Mann Solutions (HK) Limited | 助理分行客戶經理 (Relationship Manager Assistant) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91480520 | PT Indonesia MOC Services (Marriott's Bali Nusa Dua Gardens) | International Sales Executive (Location: Bali, Indonesia) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91468604 | existing and new customers | Sales Executive (Food Service) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91463631 | Don Nelson Recruitment Limited | 大型上市銀行個人客戶服務主任 - 無須銀行經驗背景 CS (如有保險或金融行業相關經驗月薪高達30K /16-18天年假/五天工作/銀行福利) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91232025 | AT Global Services Limited | Customer Service Officer - Overnight Shift Only (Fresh Graduate Welcomed) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91481262 | THE IGNITE MARKETING GROUP LIMITED | Sales & Marketing Assistant (Fresh Grads Welcome) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91386557 | HMMP (DENTAL) LIMITED | Operation Assistant / Officer 營運助理 / 主任 Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91446482 | Sportshouse Limited | Training & Development Officer Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91055742 | Ping An Digital Bank (International) Limited | Assistant Manager / Analyst, Customer Service (SFC licenses required) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91200387 | Hong Kong School of Motoring | Customer Services Representatives 客戶服務代表(沙田區, 5天工作) Job in Siu Lek Yuen, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91303680 | HKT Consumer Business Group | 客戶服務主任 (電子錢包) - 上環 Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91166183 | HKT Consumer Business Group | 積金易 - 高級客戶服務主任 - 荃灣 Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91282102 | gym room | Membership & Operations Executive / Client Experience Specialist Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91228682 | TALENT RECRUIT COMPANY | Sales Officer ( 22K - 25K) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/90979104 | Hookei Plastics Limited | Sales Executive / Sales Coordinator Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91476045 | Baron's School Of Music Limited | Programme Officer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91474143 | clients and responding promptly and professionally | AVP/Manager, Trust Administration, CMB Wing Lung (Trustee) Limited Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91191372 | Frontier Workspace Group Limited | Logistics Coordinator / Officer Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91252698 | HKT Consumer Business Group | Senior/Relationship Account Executive - HKT Premier Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91475965 | Baron's School Of Music Limited | PR & Marketing Officer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91480643 | strong business mind | Asst Sales Manager/Sales Supervisor - Key Account (FMCG) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91275001 | SmartHire by SEEK | Supply Chain Project Coordinator (Hybrid Mode, Flexible Working hours) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91153355 | SmartHire by SEEK | Senior Client Officer Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91401050 | The Y.Elites Association Limited | 場地運營專員（全新互動空間） Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91148831 | is revolutionizing the on-demand storage industry | Inbounds Sales Executive/Sales Officer up to 35K (No cold call) Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91463321 | Strive Intelligence Company | 退休安穩策劃顧問 (Retirement Planning Consultant) Welcome Fresh Grads / Career Changers Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91126660 | The Achievers International Academy Limited | Administrative & Sales Assistant Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91288519 | Manulife (International) Limited | Team Manager Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91467880 | Majesty Holdings (Asia) Co., Ltd. | Office Staff Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91451416 | us in the second-hand electronics industry! | Sales Executive (Fresh Graduate – Account Manager Track) Job in Ngau Tau Kok, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91119687 | Topcast Aviation Supplies Co., Ltd. | Inside Sales Executive (B2B Sales - Aviation Supplies) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91469260 | TALENT RECRUIT COMPANY | Sales Manager ( 35K - 45K) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91149039 | Dah Sing Financial Group | OK Finance - Customer Services Representative Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91438703 | Branford Limited | Costing Specialist Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91187793 | eClass Limited | Assistant Business Administration Officer Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91468872 | Water Oasis Co Ltd | Marketing Officer - PR Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91034235 | Dodome HK Limited | Sales Assistant Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91413446 | Yunxi Art Asset Management Limited | Gallery Warehouse & Inventory Specialist (Founding Team) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91125820 | Third Bridge (Hong Kong) Limited | Associate, Client Service (Vietnamese, Bahasa, Thai, Japanese) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91124450 | Odoo HK Limited | Office Administrator Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91389425 | product expertise | Sales (Marketing Associate – Training Provided) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91253081 | Herbs Generation International Limited | Senior Retail Training Officer (5 Days Work) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91163562 | SGS Hong Kong Limited | Japanese speaking Customer Service Executive Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91226550 | cargo-partner Logistics Limited | Operations Air Cargo Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91464493 | SmartHire by SEEK | Store Manager Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91450603 | CreditEase Wealth Management (HK) Limited | Operations Manager/AM, Wealth Management Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91351250 | structured training and a clear career path from advisor | Wealth Management Executive/ (4-Day Work) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91087490 | Drinks99 International Trading Company | Shipping and Operations Coordinator Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91092414 | Henderson Land Development Company Limited | CUSTOMER SERVICES OFFICER (PROPERTY HANDOVER) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91480289 | ADECCO | English Teacher Training & Curriculum Support Specialist Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91476454 | JEI BrainKey Education Centre | 英文及數學老師 English and Math Tutor/Teacher (大角咀/奧運站) Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91476846 | a high-quality education | Teacher 中英數老師 (全職或兼職) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91039914 | Flora Academy Education Centre | Full-Time Tutors (IGCSE / IB / MYP / English) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91474386 | Britannia Study Link (Asia) Limited | [Part-time] Academic Tutor (GCSE / A-Level / IB) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90994237 | Wall Street English | Native English Teacher / IELTS/ DSE (Full Time only) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91189114 | EDC Languages Limited | English, Mandarin and/or Cantonese Teachers Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91313750 | Elite Education | Writing Coach / IB English Teacher Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90951065 | Language Tree International Education Limited | English Teacher (Full time & Part time) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91200313 | Bright English Education Centre (Kwai Fong) | Full-Time English & Phonics Teacher (Tsuen Wan) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91015226 | Arts Plus | English Early Childhood Educator Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90939573 | Bright English Education Centre (Shek Mun) | Full-Time English Tutor (Ma On Shan) Job in Ma On Shan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91117040 | Kidsworld International Limited | Native English Teacher (Classroom Teaching & Parent Tours) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91173933 | Headstart Group Limited | (URGENT) Primary Full-Time NET Tuen Mun District (Aprl-July 2026) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91078705 | Achievers Learning Limited | 全職中學英文導師 Full Time English Teacher (Secondary School) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91039100 | Bright English Education Centre (Kwun Tong) | Full-Time English & Phonics Teacher (Kwun Tong) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91039229 | Bright English Education Centre (Mei Foo) | Full-Time English & Phonics Teacher (Mei Foo) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91042133 | Bright English Education Centre (Tai Koo) | Full-Time English & Phonics Teacher (Tai Koo) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91069756 | Bright English Education Centre (Tai Kok Tsui) Limited | Full-Time English & Phonics Teacher (Tin Shui Wai 天水圍) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91303787 | FUNG WING EDUCATION SHA TIN | [沙田分校]全職專科班導師(Full Time Tutor) Job in Shek Mun, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91039584 | Bright English Education Centre (Sham Tseng) | Full-Time English & Phonics Teacher (Sham Tseng) Job in Sham Tseng, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91070585 | The Achievers International Academy Limited | Full-time Tutor (IGCSE / A-Level / IBDP / AP) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91092744 | Bright English Education Centre (Whampoa) | Full-Time English & Phonic Teacher (Whampoa) Job in Whampoa Garden, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90983076 | Bright International Education Limited | Full-Time English & Phonics Teacher (Head Office) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91287596 | Learning Habitat Kindergarten & Bilingual Nursery | Native-speaking English Teacher Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91481022 | Cantab Star Education Limited | STEAM Teacher (Science / Technology) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91296663 | SmartHire by SEEK | Academic Support Assistant - Tutoring Centre (教務助理 - 補習社) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91140379 | Fung Wing Education Co., Limited | 全職/兼職 英文專科老師［應屆畢業生優先］（$18,000 - $48,000）（12校址可選） Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91013258 | Frontier Elited Limited | 小學補習導師 Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91013220 | Frontier Elited Limited | 中學補習導師 Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91314666 | has been serving the local community | Assistant Teacher (Starting from August 2026) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91475229 | 學斯教育 | Full Time(Maths or Eng or Chinese) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91197932 | Singapore International School (Hong Kong) | Teacher Assistant (Primary Section) – Starting from August 2026 Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91481966 | YH Education | 全職中小學補習老師 Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91475539 | curricula such as IB/GCE/IGCSE/HKDSE | Full Time - Business Tutor (IB/GCE/IGCSE) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91212461 | Silvermine Bay School | Primary Class Teacher Job in Mui Wo, Islands District
+- [ ] https://hk.jobsdb.com/job/91478311 | Knight Recruitment Services Limited | Private Family Tutor & Administrative Assistant (6day, Kowloon) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91047585 | AT-Language Education Limited | Primary English Tutor Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91301430 | Manpower Services (Hong Kong) Limited | Assistant English Tutor (up to $20k, Welcome Fresh Graduate) Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91475346 | kids and love outdoors | Outdoor Coach / Program Mentor / Teaching Assistant Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91479935 | Canadian International School Of Hong Kong | Middle School Math & Science Teacher (2026/2027) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91472923 | School of Continuing Education, HKBU | Part-Time Lecturers For Full-Time Sub-degree Programmes Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91474175 | Anchors Academy Limited | Teacher Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90962025 | JobsDB HK | Assistant English Tutor (up to $20k, Welcome Fresh Graduate) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91475358 | 學斯教育 | Full Time(Biology or Chemistry or Economic) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91208211 | Premier Education Company Limited | Part time English Teacher 兼職英語老師 Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91274735 | EduSmart Company Limited | Trainer (English) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91298442 | Eye Level Alpha Education Center | Math / English / Chinese Tutor (Part time) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90954335 | curricula such as IB/GCE/IGCSE/HKDSE | Full Time - English Language & Literature Tutor (IB/GCE/IGCSE) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91208359 | QB Education | English Teacher Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91163474 | JEI BrainKey Education Centre | 英文及數學老師 English and Math Tutor/Teacher (大角咀/奧運站) Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91335051 | Phonics Plus Limited | Native English Teacher for Tseung Kwan O and/or Yuen Long Centre Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91299295 | attainment of the language proficiency | English Drama Teacher (Part-time) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91319038 | Bright International Education (Tai Po) Limited | 全職英文老師 (屯門) Full time English Teacher (Tuen Mun) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91160150 | i-Sophy Education Centre | 全職英文老師 Full-time English Teacher Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91210446 | Bliss Education | Experienced Subject Tutor (HKDSE & A-level) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91078130 | us! | English Teacher ( PART-TIME weekend TEACHERS SHEK MUN CAMPUS ONLY) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91256038 | Great Fun English Education Limited | English Playgroup Teacher (Full Time) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91232605 | Acme Learning Centre | Full Time / Part Time Tutors / Teachers ($20K - $38K+) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91205564 | Phonics Plus Limited | Native English Teacher for Tseung Kwan O and/or Yuen Long Centre Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91151536 | Learn Smart Education Centre Limited | 全職中英數補習導師(初中及小學, 良好兩文三語能力) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91144199 | Manpower Services (Hong Kong) Limited | English Teaching Assistant(20K, with bonus, fresh grad welcome） Job in Tin Hau, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90957985 | Juniorversity | Native English Teacher Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91188112 | ABC Pathways School | English Teachers (Full time and Part time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91012845 | Eye Level Synergy Education Limited | Part-time teacher (English/Math/Chinese) Job in Tiu Keng Leng, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91113130 | a strong passion | 全職/兼職導師 Full Time/ Part Time Tutor Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91313723 | Elite Education | IB Math / IB Science Teacher (Tutor) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90960340 | SmartHire by SEEK | Mathematics Tutor (Secondary School) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91225647 | 學斯教育 | Full Time(Biology or Chemistry or Economic) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90978320 | SmartHire by SEEK | 助理分校主管 Job in Tseung Kwan O Industrial Estate, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91038549 | St. Hilary's School Limited | Tai Kwong Hilary College - teachers Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/90959170 | SmartHire by SEEK | 中學生 中文老師 (補習) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90956828 | Learning Habitat Kindergarten & Bilingual Nursery | Freelance Choir Teacher (one year contract basis) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91140346 | Fung Wing Education Co., Limited | 全職/兼職 中文專科老師［應屆畢業生優先］（$18,000 - $48,000）（12校址可選） Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91140412 | Fung Wing Education Co., Limited | 全職/兼職 數學專科老師［應屆畢業生優先］（$18,000 - $48,000）（12校址可選） Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91109528 | Mathconcept Education Limited | [各區] 數學導師 Math Tutor/Partner Trainee Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91090877 | Hong Kong Examinations and Assessment Authority | Senior Officer - Education Assessment Services (Chinese Language) (EA/03/300) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90939559 | 曜莘中文教育有限公司 | 中文專科導師 (荃灣西分校) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/90939574 | 曜莘中文教育有限公司 | 中文專科導師 (屯門分校) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91046847 | 曜莘中文教育有限公司 | 中文專科導師 (何文田分校) Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91115913 | Red Academy Company Limited | Full Time Music Instructor Job in Tin Hau, Eastern District
+- [ ] https://hk.jobsdb.com/job/91089391 | Achievers Learning Limited | 課程顧問 (Education Consultant) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91168596 | Chaice Education Centre | （兼職／全職）高小／初中／高中中文科補習教師 Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91299286 | KWOK MAN SCHOOL 國民學校 | 常額教師 (英文、體育、數學) (2026-2027) Job in Cheung Chau, Islands District
+- [ ] https://hk.jobsdb.com/job/91375088 | Bao Lung Hong Kong | 不一樣的理財顧問(招攬有兒童教學經驗的人士) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91167946 | 荃景青年空間 | 兼職課餘托管導師 Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91164787 | Eureka Language Services Limited | English Drama or Debate Teacher (Part-time) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91273962 | EduSmart Company Limited | Subject Officer (English) Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91312252 | Dove Tales Theatre Company Limited | Resident Actor and Drama Teacher Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91164759 | an | Native English Teacher (Kindergarten) (Full-time and Part-time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91468585 | Headstart Group Limited | Part-time Project Assistant Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91113735 | 學斯教育 | Full Time(Maths or Eng or Chinese) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91164714 | Eureka Language Services Limited | ESL Teachers / Native-speaking English Teacher (Full-time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91225585 | 學斯教育 | Full Time(Maths or Eng or Chinese) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90809886 | Christian Alliance International School | Humanities Teacher (High School) (Maternity Leave Substitution) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91255767 | All Round Education Academy! | IBDP Biology Tutor (Full Time & Part Time) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90978918 | ADECCO | Native English Teacher (Up to 25k) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91226170 | other like minded professionals | Native English Speaking Class Teacher for Kindergarten & Pre-school Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91164825 | Eureka Language Services Limited | Freelance Bilingual English Teacher Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90961421 | EduSmart Company Limited | 全職中文/英文科導師Full Time Chinese / English Tutor – 葵芳廣場 Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91210966 | Academic Asia UK Limited | Experienced Part Time ISEB/CAT4/Ukiset/ GCSE Subject / GCE AL Subject Tutor Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91036138 | the skills | HKDSE English Instructor/ Teaching Assistant/ Student Helper Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91163314 | Tiny Brasenose Limited | Native English Teachers (FTPE01) Job in Prince Edward, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91286672 | The Association of Electrical and Mechanical Engineering (Hong Kong) Limited | 電工導師(Instructor/ Tutor) (Full-time/Part-time) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91008311 | Monkey Tree English Learning Center | Full Time English Teacher (Ref.P26009) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91171552 | Capstone Educational Group Limited | Critical Thinking & Writing Instructor (English Teacher)/20260326 Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91280488 | International Christian School | Homeroom Teacher (Elementary School)(Maternity Cover) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91112089 | EduSmart Company Limited | (全職/兼職) 中文/英文導師 (Full Time / Part Time) Chinese/English Tutor–油麻地彌敦行 Job in Jordan, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91071363 | Modern Bachelor Education Limited | Full Time Tutor 全職導師 ($18-25K+ 教學獎金) - [ 大埔/朗屏/李鄭屋 ] Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91263981 | Bao Lung Hong Kong | 不一樣的理財顧問(招攬有兒童教學經驗的人士) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91190903 | grade-level and subject-area teachers | English Language Learner Specialist (PS) (Maternity Leave Substitution) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91255963 | All Round Education Academy Limited | IBDP Business and Economics Tutor (Part Time Only) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91422534 | authors | Editor / Senior Editor / Managing Editor – Primary English Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91194448 | New Legend Education Limited | Full Time/Part Time Tutor 全職/兼職補習導師 Job in Sheung Shui, North District
+- [ ] https://hk.jobsdb.com/job/91452830 | All Round Education Academy! | IBDP Biology Tutor (Full Time & Part Time) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91164867 | English | Bilingual English Kindergarten Teacher (Part-time) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91193662 | HK status | Part Time A-Level/ IGCSE/ IB Tutor (Phy/ Chem/ Bio/ Eng/ Maths/ Econ) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91062569 | ABC Pathways School | English Teachers (Full time and Part time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90966615 | Teaching Plus Education Limited | Native English Teacher (Part time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91307904 | Modern Bachelor Education Limited | Full Time Tutor 全職導師 ($18-25K+ 教學獎金) - [ 大埔/朗屏/李鄭屋/廣源/啟德 ] Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91266389 | Enlighten Wisdom Education Limited | Full time/Part time Math Tutor Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91256094 | All Round Education Academy! | IBDP Math Tutor (Full Time & Part Time) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91113784 | 學斯教育 | Full Time(Biology or Chemistry or Economic) Tutors/Teachers... Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91140627 | Fung Wing Education Co., Limited | 線上課程導師助理（Online Tutor Assistant） Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91198778 | J Life Foundation Limited | Tutor Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91025029 | Bao Lung Hong Kong | 不一樣的理財顧問(招攬有兒童教學經驗的人士) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91207416 | Children Care Development Company Limited | After-School Tutorial Class Tutor Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91172023 | Happy Life Education Foundation Limited | Secondary School English Teacher Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91145599 | Braemar Hill Nursery School Limited | Native English-Speaking Kindergarten Teacher Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91124457 | Mastery Education Centre (Tsui Lai) | 全職/兼職 補習老師 / 教室導師 / Tutor / Teacher Job in Sheung Shui, North District
+- [ ] https://hk.jobsdb.com/job/91021153 | Tiny Talents Professional English Learning Centre | Native English Teacher (Full time/ Part time) Job in North District
+- [ ] https://hk.jobsdb.com/job/91262463 | The English Schools Foundation (ESF) | Secondary Teacher, Summer Camps (Part-time Hourly) - ESF Explore Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91274277 | EduSmart Company Limited | Subject Officer (Chinese) 中文科課程主任 Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91071378 | Modern Bachelor Education Limited | Full Time Tutor 全職導師 ($18-23K+ 教學獎金) - [ 沙田廣源 / 啟德 / 大埔 ] Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91177190 | Ocean Park Corporation | Part Time Programme Instructor Job in Aberdeen, Southern District
+- [ ] https://hk.jobsdb.com/job/91212452 | Silvermine Bay School | Teaching Assistant Job in Mui Wo, Islands District
+- [ ] https://hk.jobsdb.com/job/91262641 | The English Schools Foundation (ESF) | Early Years Teacher, Summer Camps (Part-time Hourly) - ESF Explore Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91219983 | Dalton School HK: Master's | Middle School Mathematics Teacher Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90809994 | Christian Alliance International School | Substitute Teachers (Subject Specialist Welcome) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90958271 | I. Study Learning Center Limited | IB/ IGCSE Tutor for Maths/ Science/ Economics (Full Time / Part Time) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91318147 | The English Schools Foundation (ESF) | Temporary Mainscale Class Teacher (August 2026 - June 2027) - Glenealy School Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91334947 | Fung Wing Education Co., Limited | [屯門栢麗] 全職中文科 - 主任導師 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91199706 | The Independent Schools Foundation Academy Ltd | Short-term Teacher of English (Maternity Cover) – Primary School Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/90954472 | curricula such as IB/GCE/IGCSE/HKDSE | Full Time - Business Tutor (IB/GCE/IGCSE) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91262587 | The English Schools Foundation (ESF) | Primary Teacher, Summer Camps (Part-time Hourly) - ESF Explore Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91391882 | School of Continuing Education, HKBU | Part-time Instructors for Diploma of College Foundation Studies (Full Time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91259829 | 香港道教聯合會圓玄學院陳呂重德紀念學校 | Native-Speaking English Teacher (2026-2027) Job in Yau Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91202320 | finance-related background | Service Provider: Course Trainer (on a Self-employed Service Provider basis) Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91285136 | EduSmart Company Limited | 全職中文科導師 Full Time Chinese Tutor – 元朗中心 Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90428751 | FinPod Limited | Class Teacher/Teaching Assistant - Financial Education Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91401840 | Oxford University Press (China) Ltd | Assistant Editor / Editor (Secondary ELT Editorial) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91238873 | SO-IN Soaring Education Centre | 全職小學數學導師 Full-time Primary Math Tutor Job in Ma On Shan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91050890 | The English Schools Foundation (ESF) | Temporary Mainscale Class Teacher (August 2026 - June 2027) - Glenealy School Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91078649 | Enlighten Wisdom Education Limited | Full time/Part time Math Tutor Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90986230 | Target Education Limited | Tutor Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91056496 | 爱读教育有限公司 | 教育諮詢顧問 Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91421308 | great attitude &amp | Part-Time Coding & STEM Tutor / 兼職 編程及STEM 導師 Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91197460 | HKU School of Professional & Continuing Education | College Lecturer (English) in the Community College Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91177095 | Hanlun Information Limited | 數學科課程開發主任 (Curriculum Development Officer - Mathematics ) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91431145 | United Prime Educational Publishing (HK) Limited | Editor / Project Editor / Managing Editor - Primary Science (Chinese / English) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90777836 | So-In Talent Education Centre Limited | Maths tutor 數學導師（全職 5天/兼職） Job in Tiu Keng Leng, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90989796 | Wall Street English | English Teaching Assistant / Study Advisor (Full time & Part time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91209944 | Triangles Learning Centre Limited | Science Teacher (Full Time) Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91064739 | 數研觀塘教育中心(中學部)有限公司 | 全職中學數學導師 (Full Time Secondary Mathematics Tutor) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90981553 | LinkedU Overseas Education Limited | US College Admissions Tutor (Full-time / Part-time) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91069932 | Vocational Training Council / VTC | Term Assistant Lecturer (English and Communication) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90810230 | Christian Alliance International School | Full-Time Substitute Teacher Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91284891 | Monkey Tree English Learning Center | Center Manager (Education Center/LKW/Ref No. J26003) Job in Sai Wan Ho, Eastern District
+- [ ] https://hk.jobsdb.com/job/90809928 | classroom teachers and administration in identification of learning needs | Learning Support Teacher (High School) (Maternity Leave Substitution) Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91433024 | Yew Chung Education Foundation Limited | Part-time instrumental instructors (Choral and Instrumental Programme) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91135429 | ADECCO | Prefer Immediately Available: History & Humanities Teacher (IB / IGCSE) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91280620 | International Christian School | Teacher Assistant (Part-time) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90115952 | The International Montessori Education Foundation Limited | Foundation Group (age 2-3) Teaching Assistant Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90212266 | the Stanley Campus | Middle School Chinese Teacher Job in Stanley, Southern District
+- [ ] https://hk.jobsdb.com/job/91120027 | The Education University of Hong Kong | Lecturer II Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91142037 | Diocesan Boys' School | Academic Tutor - Biology Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91224918 | School of Continuing Education, HKBU | Part-time Instructors for Diploma of College Foundation Studies (Full Time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90531285 | 6+ years of experience in ELT publishing | Senior Editorial Officer / Assistant Publishing Manager for ELT Publications Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90978928 | Oxbridge School | Interim Teacher (Summer Term only) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91185218 | Hong Kong Sheng Kung Hui Welfare Council Limited | 宿舍導師 Hostel Instructor(康復服務)(東涌區) (Ref: GGR/HI/20250718-26) Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/90115907 | The International Montessori Education Foundation Limited | SEN/EAL Teacher (Elementary 6-12) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91221769 | HKFEW Wong Cho Bau School | 常額校本言語治療師 Job in Tung Chung, Islands District
+- [ ] https://hk.jobsdb.com/job/90982120 | Hong Kong Metropolitan University | Senior Lecturer / Lecturer (English language education) (E&L) (Ref: 26000HI) Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91253508 | Headstart Group Limited | Sales & Customer Services Officer Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90944973 | Newix Company Limited | 教育中心中文老師(全職或兼職)/ English Full time/ Part time tutor Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91312454 | Undergraduate Level | Teaching Assistant for Business Related Courses at Undergraduate Level Job in Southern District
+- [ ] https://hk.jobsdb.com/job/90957942 | Acme Learning Centre | Full Time / Part Time Tutors / Teachers ($20K - $38K+) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90745929 | Justusthree Limited | 數學導師 Math Tutor (每週約24小時) Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/90741411 | Chocolate Education Limited | 全職專科導師 （BAFS ｜Maths） Job in Prince Edward, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90958038 | IGCSE and IB levels in an international school | Teacher of Mathematics Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91032442 | Scout Association of Hong Kong | Senior Instructor (JA/2026/C4/A4) Job in Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91248439 | Think International Kindergarten Nam Cheong | Chinese Kindergarten Teacher Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90868000 | curriculum objectives | Various Secondary Teacher Positions (Cambridge Curriculum) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90115826 | The International Montessori Education Foundation Limited | Montessori Teachers Job in Stanley, Southern District
+- [ ] https://hk.jobsdb.com/job/90940700 | Bao Lung Hong Kong | 不一樣的理財顧問(招攬有兒童教學經驗的人士) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91262738 | The English Schools Foundation (ESF) | Classroom Assistant, Summer Camps (Part-time Hourly) - ESF Explore Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91075591 | Po Leung Kuk Choi Kai Yau School | Teacher Assistant Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90955587 | CCC KEI CHUN PRIMARY SCHOOL 中華基督教會基真小學 | Full-time Teaching Assistant/ Learning Support Teacher Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91324766 | The Independent Schools Foundation Academy Ltd | 小學教學助理 Primary Teaching Assistant (Ref: PRI/TA/20240617_isf) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91229821 | Yew Chung Education Foundation Limited | Teaching Assistant (Secondary, International School) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/87185390 | The International Montessori Education Foundation Limited | Foundation Group (age 2-3) Chinese Teaching Assistant Job in Stanley, Southern District
+- [ ] https://hk.jobsdb.com/job/91296794 | Canadian International School Of Hong Kong | Educational Assistants (2026-2027) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91109154 | Steps Education Limited | Teaching and Administrative Assistant (Full-time) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90981372 | Cosmic Education Group Limited | Teaching Assistant Job in Kennedy Town, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91223829 | ASHK and be part of our vibrant community dedicated | Chinese Studies Educational Assistant Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91470951 | Hong Kong Baptist University | Course Assistant, Department of Mathematics Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91133221 | daily classroom routines in a friendly and respectful manner | Educational Assistant (Elementary Section) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91101207 | Blu Jungle Art Limited | Art Teacher/Teaching Assistant (Full-time/Part-time) Job in Sai Ying Pun, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91036387 | Eureka Language Services Limited | Teaching Assistant/Student Helper Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91098449 | a highly motivated and professional group of teachers and support staff | Educational Assistant (Starting Aug 2026) - ESF Language & Learning Centre Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91098388 | ESF Abacus International Kindergarten from August 2026 | Educational Assistant (Starting from Aug 2026) - ESF Abacus Intl. Kindergarten Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91472902 | Invictus International School (Hong Kong) Limited | Economic/Business Teacher - Invictus Secondary School Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/91233824 | The University of Hong Kong | Teaching Assistant Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91158784 | ASHK and be part of our vibrant community dedicated | Learning Support Educational Assistant - Secondary Job in Tai Po District
+- [ ] https://hk.jobsdb.com/job/91062402 | Malvern College Hong Kong Limited | Learning Coach/ Educational Assistant (1:1 Support) Job in Pak Shek Kok, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91068028 | The Chinese University of Hong Kong | Teaching Assistant Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91117080 | The Independent Schools Foundation Academy Ltd | 小學教學助理 (Ref: PRI/TA/20260319_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91060704 | The Independent Schools Foundation Academy Ltd | Inclusive Education Assistant (Ref: LIREN/IEA/20260223_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91065404 | The Independent Schools Foundation Academy Ltd | 幼稚園教學助理 (職位編號: PRE/TA/20260320_jdb) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91149043 | Learning Habitat Kindergarten & Bilingual Nursery | 全職中文老師/分組老師(2026/27學年) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91149093 | Learning Habitat Kindergarten & Bilingual Nursery | 全職普通話老師/分組老師(2026/27學年) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91333997 | Language Tree International Education Limited | Project Assistant Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91196765 | Faithful Edge Limited | 管家 Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91299300 | TSEUNG KWAN O PUI CHI SCHOOL 將軍澳培智學校 | 助理小學學位教師 (APSM) (常額及合約) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90953335 | Joy Plus Education Centre | 全職行政助理 Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91299291 | ALLIANCE PRIMARY SCHOOL (KOWLOON TONG) 九龍塘宣道小學 | 中文科老師及音樂科老師 (助理小學學位教師) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91449440 | So-In Tsuen Wan Education Centre (S.S.) Limited | 數研全職高級中學數學導師 Senior Math Tutor Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91236670 | Learning Habitat Kindergarten & Bilingual Nursery | 代產假中文老師 (2026年5月中至7月中) Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91188136 | ABC Pathways School | JRV 教育中心 中文科老師 (全職) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91299972 | Korean International School | Learning Support Teacher (Secondary) Job in Sai Wan Ho, Eastern District
+- [ ] https://hk.jobsdb.com/job/91423590 | Vocational Training Council / VTC | Technical Assistant Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90115784 | The International Montessori Education Foundation Limited | Elementary Chinese Teachers Job in Stanley, Southern District
+- [ ] https://hk.jobsdb.com/job/91189531 | The Independent Schools Foundation Academy Ltd | 小學教學助理 (Ref: PRI/TA/20260319_jdb) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91391840 | School of Continuing Education, HKBU | 兼職導師 (應用教育文憑課程) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91411442 | Monkey Tree English Learning Center | 全職/兼職普通話老師 (香港) FT/PT Mandarin Teacher (Hong Kong) (HQ Ref. P26012) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91189771 | The Independent Schools Foundation Academy Ltd | 幼稚園教學助理 (職位編號: PRE/TA/20260320_jdb) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91162885 | Hong Kong Metropolitan University | Teaching Assistant (S&T) (Ref: 26000IX) Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91285944 | The University of Hong Kong | Demonstrator/Teaching Assistant (several posts) in the Department of Psychology Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/91165066 | Hong Kong Metropolitan University | Part-time Teaching Assistant (Marker) (Spring 2026) (A&SS) (Ref: 26000I9) Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90604172 | teachers | Learning Support/Individual Learning Needs Teacher Job in Stanley, Southern District
+- [ ] https://hk.jobsdb.com/job/91175925 | great career growth! | 中文老师/Chinese Teachers (Mandarin or Cantonese) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91160186 | i-Sophy Education Centre | 全職幼兒老師 Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91450015 | Lingnan University | Assistant Administrative Officer (TPg Programme Team) (Post Ref.: 26/114) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/90868887 | Hailan Holdings Limited | 幼兒數學思維專職教師 Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91098607 | The English Schools Foundation (ESF) | Cleaner - ESF Language & Learning Centre / Sai Sha Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91305506 | Dalton School Hong Kong | 小學中文老師 Job in Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91314499 | Mathconcept Education Limited | 【全職招聘】數學科教材編輯 Job in Lai Chi Kok, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91062585 | ABC Pathways School | JRV 教育中心 中文科老師 (全職) Job in New Territories
+- [ ] https://hk.jobsdb.com/job/90979393 | you embrace in learning" | 中文科老師 (K3 - P2) Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91022334 | The English Schools Foundation (ESF) | Administrator - ESF West Kowloon International Kindergarten Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91247702 | School of Continuing Education, HKBU | 兼職導師 (應用教育文憑課程) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91261766 | 維多利亞教育機構 | 幼稚園普通話老師 (何文田校舍) - 2026/27學年 Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91071991 | Rice X Limited | 教育顧問（高才通／專才家庭・升學顧問背景） Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91098550 | The English Schools Foundation (ESF) | Assistant Administrator - ESF Language & Learning Centre / Sai Sha Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91150507 | 共學教育有限公司 | Science and STEM (Phy/ Chem/ Math) Tutor (FT/PT) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90930919 | ADECCO | 教研/課程設計專家 (小學數學) Mathematics Curriculum Specialist (Primary School) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91334963 | Fung Wing Education Co., Limited | [屯門栢麗] 全職中文科 - 高級主任導師 Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91197654 | 維多利亞教育機構 | 幼稚園普通話老師 (港島西-香港大學站) - 2026/27學年 Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91172767 | Edu-Connect Limited | Learning Centre Coordinator Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91476907 | Knight Mathematics Limited | 全職小學數學補習導師 Full Time/ Part Time Primary Mathematics Tutor Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91476904 | Knight Mathematics Limited | 全職中學數學數習老師 Full Time/ Part Time Secondary Mathematics Tutor Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91398988 | pastoral care | Secondary School Mathematics Teacher Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91446797 | NTK | Teacher of Mathematics / Sciences / Economics & Business Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91425744 | our dynamic team | Bilingual Math Teacher (Contractor/Hourly Rate) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91307260 | Magic Search Limited | Mathematics Teacher (Middle School Grade 6-8) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91236588 | Anglo Singapore International School | A Level & Further Mathematics Teacher – Bangkok (Cambridge/Edexcel) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91117959 | Singapore International School (Hong Kong) | Secondary Teacher – Mathematics (starting from August 2026) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91481611 | Private Advertiser | 中學補習社 - DSE課程專科導師 Job in Prince Edward, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91464630 | CV by post | . Mathematics Teacher (GM) (2026-2027) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91255899 | All Round Education Academy! | IBDP Physics Tutor (Full Time & Part Time) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91315188 | Bloom Academy Limited | Secondary Physics and Mathematics Teacher Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91455671 | PO LEUNG KUK CELINE HO YAM TONG COLLEGE 保良局何蔭棠中學 | Mathematics Teacher (Regular / Contract) Job in Wong Tai Sin, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/88985476 | Easy One Financial Group Limited | Family Tutor (Part-Time), Shatin (Mon-Fri. 2-3 hours per day) Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91007712 | less experience will be considered | Instructor I / Instructor II, Department of Mathematics Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91428749 | ST PAUL'S CO-EDUCATIONAL COLLEGE 聖保羅男女中學 | Teacher of Mathematics Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91422353 | authors | Editor / Senior Editor / Managing Editor - Primary Maths (Content Development) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91255798 | All Round Education Academy! | IBDP Chemistry Tutor (Full Time & Part Time) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91116229 | Educational Publishing House, Limited | Editor (Primary Math) 小學數學編輯 - 5 days work Job in Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91464633 | CARITAS TUEN MUN MARDEN FOUNDATION SECONDARY SCHOOL 明愛屯門馬登基金中學 | 學位教師 (數學科) (2026-27 年度) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91455656 | DIOCESAN GIRLS' SCHOOL 拔萃女書院 | Mathematics Teacher (DSE and/or A Level) (2026-2027 School Year) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91010503 | United Prime Educational Publishing (HK) Limited | Editor / Senior Editor – Sec Maths Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/90950357 | Target Education Limited | Tutor Job in Mei Foo, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91122254 | Vocational Training Council / VTC | Part-time (Day Time) Assistant Lecturer (Engineering and Mathematics) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91007492 | less experience will be considered | Lecturer I / Lecturer II, Department of Mathematics Job in Kowloon Tong, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/90942099 | All Round Education Academy! | IBDP Biology and IGCSE Biology / Chemistry / Physics Tutor (Full Time) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91074318 | Hong Kong Christian Shuen Tao Church Limited | 功課輔導導師 ( 上水) Job in Sheung Shui, North District
+- [ ] https://hk.jobsdb.com/job/90361297 | Kumon Hong Kong Co Limited | Centre Manager Job in Lam Tin, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91199643 | Po Leung Kuk Choi Kai Yau School | Primary and Secondary Subject Teachers Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/90954997 | Una Technologies Limited | STEM/AI Instructor/Trainers/Project Coordinators – Freelance Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91363716 | Make Kids Fun Education Group Limited | 功課班導師 (急聘!) Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91453587 | GloStudy Corporation Limited | Part-time English / Math / Chinese Tutor Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91404617 | Star Education Services Limited | DSE 數學科老師 (Mathematics Teacher) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91332815 | Star Education Services Limited | Full time Math tutor(廣東話母語)(需要DSE數學5或以上或同等資歷) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90995737 | you are able | Mathematics Tutor (Full Time) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91389569 | COGNITIO COLLEGE KOWLOON 文理書院(九龍) | Mathematics Teacher (Regular / Contract) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91019284 | BartyED | Physics & Maths Tutors Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91207095 | LAM TAI FAI COLLEGE 林大輝中學 | Teacher - Mathematics Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91232162 | The English Schools Foundation (ESF) | Teacher of Mathematics (Starting Aug 2026) – South Island School Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91240412 | ESF | Teacher of Mathematics (Starting Aug 2026) – South Island School Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91214624 | Star Education Services Limited | 數學老師 Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91047375 | Supreme Learning Centre Limited | 半職 - 數學課程導師 Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91182139 | a CV | Mathematics Teacher Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91059036 | THE CHINESE FOUNDATION SECONDARY SCHOOL 中華基金中學 | Mathematics Teacher (GM) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91012038 | Destination Mastery International Limited | DSE/IB, AL中小學導師, Part-Time/Freelance Tutors（Math/English/Interview ） Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91429835 | Mastery Academy | History Tutor (Home and remote tutoring) Part Time Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/90963806 | Hong Kong Education Consultancy Limited | DSE 數學/英語/中文/化學Tutor(Part Time) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91207537 | ST. FRANCIS OF ASSISI'S ENGLISH PRIMARY SCHOOL 聖方濟各英文小學 | Mathematics Teacher (Permanent Post) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91404534 | Winstars Enterprise HK Limited | STEM 課程導師 ( Full time / Part time ) Job in Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91428107 | TIN SHUI WAI METHODIST COLLEGE 天水圍循道衞理中學 | 常額 / 合約教師 - 中文、英文、數學、公民、視藝、ICT (2026-27 學年) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/90972057 | Star Education Services Limited | 中/英/數學科 主力導師 (Subject Specialist Teacher) Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/90955082 | HEEP YUNN SCHOOL 協恩中學 | Mathematics & Physics Teacher (GM) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91404098 | Camel Limited | 兼職 STEAM 導師 (Part-time STEAM Instructor) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/90945329 | Mastery Academy | Economics Tutor Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91299369 | YAN OI TONG TIN KA PING PRIMARY SCHOOL 仁愛堂田家炳小學 | 教學助理 (英文 / 數學) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91143448 | Skyreach Education & Tech | A-Level / IA-Level 學術導師 Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91263011 | Excellent Education Company Limited | 到校 週三 中學中文/英文/數學強化班 $250-300/堂 (沙田） Job in Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91138295 | Bridge Elite Education Limited | Freelance Physics Tutor (IGCSE/GCE/IB-DP) Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91336082 | Dr I-Kids Education Centre | (筲箕灣分校) 教育中心全職/兼職導師 Full-time Tutor/Part-time Teacher (Shau Kei Wan Centre) Job in Shau Kei Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90957299 | tutor wanted | UCAT Tutor Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91336085 | Dr I-Kids Education Centre | (青衣分校)教育中心全職/兼職導師 Full-time/Part-time Tutor (Tsing Yi Centre) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91025686 | KO LUI SECONDARY SCHOOL 高雷中學 | 中文 / 數學非華語導師 (兼職) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91245028 | SAM SHUI NATIVES ASSOCIATION LAU PUN CHEUNG SCHOOL 三水同鄉會劉本章學校 | 五星期代課教師 Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91377198 | S.K.H. ST. ANDREW'S PRIMARY SCHOOL 聖公會聖安德烈小學 | 中文、數學老師 (助理小學學位教師) (2026-2027) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91336060 | Dr I-Kids Education Centre | (元朗分校) 教育中心全職導師 Education Centre Full-time Tutor/Teacher (Yuen Long Centre) Job in Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91336075 | patience and care | (炮台山分校) 兼職導師 Part-time Tutor (Fortress Hill Centre) (歡迎大專生申請) Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91207115 | LA SALLE PRIMARY SCHOOL 喇沙小學 | Qualified Teacher(s) of Maths (taught in English) / English (2026-2027) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91336059 | patience and care | (小西灣分校)星期六兼職導師 Saturday Part-time Tutor (歡迎大專生申請) Job in Chai Wan, Eastern District
+- [ ] https://hk.jobsdb.com/job/90935499 | Star Education Services Limited | Full time/Part Time IELTS tutor Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91263769 | lease one of the following science subjects | 中學Geography/地理 Parttime tutor （太子返工） Job in Prince Edward, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91336083 | Dr I-Kids Education Centre | (慈雲山分校)教育中心全職/兼職導師 Full-time or Part-time Tutor/Teacher (Tsz Wan Shan Centre) Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91336064 | patience and care | (土瓜灣站何文田分校)兼職教育中心導師 Part-time Tutor (歡迎大專生申請) Job in To Kwa Wan, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91336072 | patience and care | (將軍澳坑口分校)兼職教育中心導師 Part-time Tutor (歡迎大專生申請) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91207308 | S.K.H.CHU OI PRIMARY SCHOOL 聖公會主愛小學 | 中文 / 英文 / 數學教師 - 常額 / 合約 (2026/27 年度) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91256424 | SO-IN Inspire Education Centre Limited | 導師 Job in New Territories
+- [ ] https://hk.jobsdb.com/job/91447515 | the classes | Teacher assistant 教學助理 (中學英文) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91336088 | patience and care | (九龍灣分校)兼職教育中心導師 Part-time Tutor(Kowloon Bay Centre) (歡迎大專生申請) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/90970162 | Aether (HK) Company Limited | Full-time Teacher Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91332792 | Star Education Services Limited | Full time Chinese tutor(廣東話母語)(需要DSE中文5或以上或同等資歷) Job in Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91362358 | HOLY ANGELS CANOSSIAN SCHOOL 天神嘉諾撒學校 | 中文科 (普教中) 及數學科教師 (合約 / 常額) (26/27 年度) Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91272493 | THE CHURCH OF CHRIST IN CHINA CHUEN YUEN SECOND PRIMARY SCHOOL 中華基督教會全完第二小學 | 中 / 英 / 數 / 體育 / 科學科 / 人文科教師 (常額 / 合約) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91209853 | EC Learning Education Limited | 兼職小學小組功課輔導班補習導師/助教(九龍城) Job in Kowloon City, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91075604 | KAI SING EDUCATION LIMITED | 兼職功課輔導老師（Part-time） Job in Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91272482 | HOH FUK TONG COLLEGE 中華基督教會何福堂書院 | 兼職功課輔導班導師 (2026-2027 年度) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91139909 | St. James' Settlement | 兼職課託導師 (合約) (編號：HWIT/234726) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/90966448 | C&J Education Co. Ltd | 兼職功課輔導班導師 Job in Tai Kok Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91013333 | Excellent Education Company Limited | 到校 週一至五 小學功課輔導班 $160-$170/堂(深水埗) Job in Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91013022 | Excellent Education Company Limited | 到校 週一至五 小學功課輔導班 $160-$170/堂(東區) Job in Eastern District
+- [ ] https://hk.jobsdb.com/job/91060560 | Hong Kong Tutor Association Curriculum Support Limited | 中學功輔班 Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/90961116 | Sai Kung and Tseung Kwan O Women's Association Limited | 小學託管及功課輔導班導師 Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/90956166 | Excellent Education Company Limited | 到校 週一至五 小學功課輔導班行政導師 $160-170/堂(大圍) Job in Tai Wai, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91013657 | Excellent Education Company Limited | 到校 週一至五 小學功課輔導班 $160-$170/堂(屯門) Job in Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91013454 | Excellent Education Company Limited | 到校 週一至五 小學功課輔導班 $160-$170/堂(觀塘) Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91482520 | Dialog Education | Freelance / Part-Time IB-DP Subject Tutor (Biology & Chinese) Job in Diamond Hill, Wong Tai Sin District
+- [ ] https://hk.jobsdb.com/job/91428784 | TUNG WAH GROUP OF HOSPITALS WONG FUNG LING COLLEGE 東華三院黃鳳翎中學 | 數學科學位教師 (合約) Job in Ma On Shan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91362439 | WONG SHIU CHI SECONDARY SCHOOL (TAI PO) 王肇枝中學 (大埔) | Regular / Contract Mathematics GM Teacher Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91403925 | ST. ANTONIUS GIRLS' COLLEGE 聖安當女書院 | 數學科 / 電腦科學位教師 (編號：02) (2026-27 學年) Job in Kwun Tong, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91448087 | EdLab Limited | Part Time Tutor (Science/Physics/Chemistry/Biology) 兼職補習導師 (綜合科學/物理/化學/生物) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91455653 | LOCK TAO SECONDARY SCHOOL 樂道中學 | 數學科教師 (常額 / 合約) (2026-2027 年度) Job in Tai Wai, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91458006 | Kiddy Tree Multifaceted Education Limited | 合約導師 Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91299346 | TSANG PIK SHAN ( SUNG LAN) SECONDARY SCHOOL 曾璧山(崇蘭)中學 | 課後輔學導師 (數學) Job in Ma On Shan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91455716 | JobsDB HK | Full time Teachers Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91455649 | both junior secondary and DSE curriculum levels | Economics & CES / CS Teacher (Regular / Contract post) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91389634 | TRUE LIGHT GIRLS' COLLEGE 真光女書院 | ICT / Computer Literacy / Mathematics Teacher Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91104303 | excellent collaborative | Mathematics +Junior Science Teacher Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91128659 | YAN CHAI HOSPITAL LAW CHAN CHOR SI COLLEGE 仁濟醫院羅陳楚思中學 | 數學科學位教師 (合約) (2026-2027 學年) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91207084 | S.K.H. LI PING SECONDARY SCHOOL 聖公會李炳中學 | 合約數學科學位教師 (2026/27 學年) Job in Ma Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91104295 | ST. ROSE OF LIMA'S COLLEGE 聖羅撒書院 | Teacher for Mathematics and M1/M2 Job in Sha Tin, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/91464628 | JU CHING CHU SECONDARY SCHOOL (TUEN MUN) 裘錦秋中學(屯門) | 中文、英文、數學科學位教師 (2026-2027 學年) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91455730 | HONG KONG PRIVATE EDUCATION ASSOCIATION CO., LIMITED 香港私立教育協會有限公司 | 英語 / 物理 / 化學 / 經濟學科中學老師 Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91464609 | LOK SIN TONG YU KAN HING SECONDARY SCHOOL 樂善堂余近卿中學 | 數學科代課教師 Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91403859 | C C C TAM LEE LAI FUN MEMORIAL SECONDARY SCHOOL 中華基督教會譚李麗芬紀念中學 | 合約學位教師 (英文科、英文科兼教視覺藝術科、數學科) (2026-2027 年度) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91455698 | JobsDB HK | 數學科及電腦科 (初中) 常額 / 合約學位教師 (能兼教初中科學科優先考慮) (26-27 年度) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91207143 | HONG KONG PRIVATE EDUCATION ASSOCIATION CO., LIMITED 香港私立教育協會有限公司 | 數學 / 物理 / 化學科老師各 2 名 Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91418091 | EDULAB SG PTE. LTD. | Experienced IBDP Chemistry teacher Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91025630 | GERTRUDE SIMON LUTHERAN COLLEGE 路德會西門英才中學 | 2026-2027 年度數學老師 (合約 / 常額) Job in Yuen Long, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91464621 | SKH YAN LAAP MEMORIAL PRIMARY SCHOOL 聖公會仁立紀念小學 | 中文 / 數學 / 常識 / STEAM 合約或常額教師 Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91207513 | SHUN TAK FRATERNAL ASSOCIATION YUNG YAU COLLEGE 順德聯誼會翁祐中學 | 化學科 / 數學科教師一名 (2026 年 9 月到職) Job in Tin Shui Wai, Yuen Long District
+- [ ] https://hk.jobsdb.com/job/91272394 | THE CHURCH OF CHRIST IN CHINA KWEI WAH SHAN COLLEGE 中華基督教會桂華山中學 | 數學科教師 (合約 GM) (2026-2027 學年) Job in North Point, Eastern District
+- [ ] https://hk.jobsdb.com/job/91201379 | Excellent Education Company Limited | 到校 小學 珠心算班導師 $180-200/堂 (中西區) Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91464624 | COTTON SPINNERS ASSOCIATION SECONDARY SCHOOL 棉紡會中學 | 基本商業及企業、會計及財務概論科合約學位教師 1 名 (2026/2027 學年) Job in Kwai Chung, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91241022 | 國民學校 Kwok Man School | 2026-2027 常額教師 (英文、體育、數學) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91428794 | CMA CHOI CHEUNG KOK SECONDARY SCHOOL 廠商會蔡章閣中學 | 各科教師 (常額 / 合約) (26-27 年度) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91447865 | EdLab Limited | 兼職/全職補習導師 (中國語文) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91025699 | FUNG KAI NO.1 SECONDARY SCHOOL 鳳溪第一中學 | 數學科及初中科學代課老師 Job in Sheung Shui, North District
+- [ ] https://hk.jobsdb.com/job/91299321 | CHUEN YUEN FIRST PRIMARY SCHOOL 中華基督教會全完第一小學 | 常額 / 合約中文 / 英文 / 數學科教師 (2026-2027 年度) Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91455702 | DELIA MEMORIAL SCHOOL ( HIP WO NO.2 COLLEGE) 地利亞修女紀念學校(協和二中) | STEM + STEAM + Computer Literacy + ICT Teacher (2026-27 School Year) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91012858 | Excellent Education Company Limited | 到校 週三 中三級數學延伸部份單元二導師（九龍城）$200-250/堂 Job in Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91207343 | MA ON SHAN TSUNG TSIN SECONDARY SCHOOL 馬鞍山崇真中學 | 合約 / 常額教師 - 企業、會計與財務概論科 (2026-27 學年) Job in Ma On Shan, Sha Tin District
+- [ ] https://hk.jobsdb.com/job/90971693 | CARITAS CHONG YUET MING SECONDARY SCHOOL 明愛莊月明中學 | 數學、物理、倫宗、「資訊及通訊科技」、「公民、經濟與社會」科教師 (2026 年 9 月到任) Job in Pok Fu Lam, Southern District
+- [ ] https://hk.jobsdb.com/job/90971687 | CHI LIN BUDDHIST SECONDARY SCHOOL 佛教志蓮中學 | 2026/27 年度合約學位教師 (科學科 / 數學科 / 英文科 / 公經社 / 公民) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91403878 | ST. MARY'S CANOSSIAN COLLEGE 嘉諾撒聖瑪利書院 | Teacher of Economics (25/26_T009) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91207081 | you can | Physics Panel Head / Teacher (GM) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91455692 | JobsDB HK | 企業、會計與財務概論科合約老師 (2026-2027) Job in Tsing Yi, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91455694 | S.K.H. ST. CLEMENT'S PRIMARY SCHOOL 聖公會聖紀文小學 | 體育科老師 (能任教中文 / 英文 / 數學科更佳) (常額 / 合約) (2026-2027 年度) Job in Cheung Sha Wan, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91455650 | LINGNAN HANG YEE MEMORIAL SECONDARY SCHOOL 嶺南衡怡紀念中學 | 初中 / 高中英文科代課老師 (13/5/2026 - 29/5/2026) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91415899 | Hong Kong Education Consultancy Limited | 副學士商科輔導老師(全職） Job in Hung Hom, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91403892 | PUN U ASSOCIATION WAH YAN PRIMARY SCHOOL 番禺會所華仁小學 | 科學科教師 (常額 / 臨時 APSM) (2026/27 學年) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91425765 | A G E Limited | Bilingual English Teacher (Contractor/Hourly Rate) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91462936 | HARROW HONG KONG CHILDREN SCHOOL SHENZHEN QIANHAI 深圳前海哈羅港人子弟學校 | Secondary School IB & DSE Economics Teacher (Aug 2026) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91299389 | YING WA PRIMARY SCHOOL 英華小學 | 科學科教師 (2026 年 9 月到職) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91074462 | ST. TERESA SECONDARY SCHOOL 德蘭中學 | 2026/2027 年度常額 / 合約學位教師 Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91299309 | CONFUCIAN TAI SHING HO KWOK PUI CHUN COLLEGE 孔教學院大成何郭佩珍中學 | 英文科學位教師 (常額 / 合約) (2026-2027 年度) Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91235851 | 香港復臨學校 | 社會科學老師 香港復臨學校 Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91059145 | PUI LING SCHOOL OF THE PRECIOUS BLOOD 寶血會培靈學校 | 日薪 SEN 代課老師 (中文 / 數學) (2026 年 4 月 14 日至 2026 年 6 月 30 日) Job in Fanling, North District
+- [ ] https://hk.jobsdb.com/job/91207339 | A.D. & F.D. OF POK OI HOSPITAL MRS CHENG YAM ON MILLENNIUM SCHOOL 博愛醫院歷屆總理聯誼會鄭任安夫人千禧小學 | 常額 / 合約教師 APSM - 中 / 普 / 英 / 數 / 音 (2026/27 年度) Job in Tuen Mun, Tuen Mun District
+- [ ] https://hk.jobsdb.com/job/91207468 | PENTECOSTAL SCHOOL 五旬節中學 | 代課初中科學科教師 (兼教高中化學科) Job in Ho Man Tin, Kowloon City District
+- [ ] https://hk.jobsdb.com/job/91299363 | TWGHS LUI YUN CHOY MEMORIAL COLLEGE 東華三院呂潤財紀念中學 | 電腦科學位教師 (合約) (2026/2027 學年) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91272511 | SAN WUI COMMERCIAL SOCIETY CHAN PAK SHA SCHOOL 新會商會陳白沙紀念中學 | 英文科學位教師 / 副教師 / 教師助理 (常額 / 合約) Job in Wong Chuk Hang, Southern District
+- [ ] https://hk.jobsdb.com/job/91254338 | Hong Kong Tutor Association Curriculum Support Limited | 小四至小六STEM課程 Job in Causeway Bay, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91074463 | MA KAM MING CHARITABLE FOUNDATION MA CHAN DUEN HEY MEMORIAL COLLEGE 馬錦明慈善基金馬陳端喜紀念中學 | 合約物理科教師 (2026/27 學年) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91025696 | S.K.H. HO CHAK WAN PRIMARY SCHOOL 聖公會何澤芸小學 | 常額助理小學學位教師 (APSM) Job in Tsing Yi, Kwai Tsing District
+
+
+
+
+- [ ] https://jobs.ctgoodjobs.hk/job/10066096/%e9%80%81%e9%a3%af%e5%93%a1%e5%85%bc%e8%81%b7-ss3-mdw-idsp | Christian Family Service Centre基督教家庭服務中心 / | 送飯員(兼職) SS3-MDW-IDSP - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10062789/accountant-credit-ar | Eaton, Hong Kong 香港逸東酒店 / | Accountant (Credit & AR) - Eaton, Hong Kong 香港逸東酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10065289/assistant-officer-%e2%80%93-retail-leasing | Chinachem Group / | Assistant Officer – Retail Leasing - Chinachem Group
+- [ ] https://jobs.ctgoodjobs.hk/job/10068735/performing-arts-internship-programme-2026-2027-special-projects | (Special Projects) | Performing Arts Internship Programme 2026-2027 - (Special Projects) - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10068733/assistant-project-manager | TAI HING WORLDWIDE DEVELOPMENT LIMITED / | Assistant Project Manager - TAI HING WORLDWIDE DEVELOPMENT LIMITED
+- [ ] https://jobs.ctgoodjobs.hk/job/10068725/security-officer-5-day-work-week | Hong Kong Gold Coast Hotel / | Security Officer (5-day Work Week) - Hong Kong Gold Coast Hotel
+- [ ] https://jobs.ctgoodjobs.hk/job/10068732/assistant-procurement-managersenior-procurement-officer-fb | F&B | Assistant Procurement Manager/Senior Procurement Officer - F&B - Hotel ICON
+- [ ] https://jobs.ctgoodjobs.hk/job/10068709/performing-arts-internship-programme-2026-2027-dance | (Dance) | Performing Arts Internship Programme 2026-2027 - (Dance) - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10068707/%e8%b3%87%e6%b7%b1%e4%be%8d%e6%87%89%e4%be%8d%e6%87%89 | Tai O Heritage Hotel / | 資深侍應 / 侍應 - Tai O Heritage Hotel
+- [ ] https://jobs.ctgoodjobs.hk/job/10068724/performing-arts-internship-programme-2026-2027-office-of-deputy-director-operations-performing-arts | (Office of Deputy Director, Operations (Performing Arts)) | Performing Arts Internship Programme 2026-2027 - (Office of Deputy Director, Operations (Performing Arts)) - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10068706/accountant-financial-reporting-cost-control | Financial Reporting & Cost Control | Accountant - Financial Reporting & Cost Control - Nina Hotel Tsuen Wan West
+- [ ] https://jobs.ctgoodjobs.hk/job/10068723/portfolio-advisor | Focus Asset Management Company / | Portfolio Advisor - Focus Asset Management Company
+- [ ] https://jobs.ctgoodjobs.hk/job/10068722/accounting-officer | Tai Hing Worldwide Development Limited / | Accounting Officer - Tai Hing Worldwide Development Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068705/performing-arts-internship-programme-2026-2027-office-of-executive-director-performing-arts | (Office of Executive Director, Performing Arts) | Performing Arts Internship Programme 2026-2027 - (Office of Executive Director, Performing Arts) - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10068721/it-project-executive | STA Pacific Limited / | IT Project Executive - STA Pacific Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068720/%e3%80%90%e5%85%bc%e8%81%b7%e3%80%91anteprima%e6%9d%b1%e6%b6%8c%e5%88%86%e5%ba%97-part-time-sales-associate%e5%85%bc%e8%81%b7%e9%8a%b7%e5%94%ae%e9%a1%a7%e5%95%8f%e3%80%90%e7%84%a1%e9%9c%80%e7%9b%b8%e9%97%9c%e7%b6%93%e9%a9%97--%e5%8b%a4%e5%b7%a5%e7%8d%8e%e9%87%91600%e3%80%91 | Sidefame Ltd / | 【兼職】ANTEPRIMA (東涌分店) Part-time Sales Associate 兼職銷售顧問【無需相關經驗 + 勤工獎金$600】 - Sidefame Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10068719/captain-ozone-bar-restaurant | Ozone Bar & Restaurant | Captain - Ozone Bar & Restaurant - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068718/bartender-ozone-bar-restaurant | The Ritz-Carlton, Hong Kong / | Bartender (Ozone Bar & Restaurant) - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068717/assistant-loss-prevention-manager | The Ritz-Carlton, Hong Kong / | Assistant Loss Prevention Manager - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068716/guest-relations-officer | The Ritz-Carlton, Hong Kong / | Guest Relations Officer - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068715/front-office-agent | The Ritz-Carlton, Hong Kong / | Front Office Agent - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068714/host-hostess-tin-lung-heen-cafe-103-tosca-di-angelo-ozone | The Ritz-Carlton, Hong Kong / | Host / Hostess (Tin Lung Heen / Cafe 103/ Tosca di Angelo/ Ozone) - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068713/duty-manager | The Ritz-Carlton, Hong Kong / | Duty Manager - The Ritz-Carlton, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068711/%e3%80%90%e5%85%a8%e8%81%b7%e3%80%9145r%e6%98%9f%e8%a1%97%e5%88%86%e5%ba%97-sales-representative%e9%8a%b7%e5%94%ae%e4%bb%a3%e8%a1%a8%e3%80%90%e6%b0%b8%e4%b9%85%e4%bf%9d%e8%ad%89%e4%bd%a3%e9%87%91-%e6%96%b0%e4%ba%ba%e7%8d%8e%e9%87%913000%e3%80%91 | Sidefame Ltd / | 【全職】45R (星街分店) Sales Representative 銷售代表【永久保證佣金+新人獎金$3,000】 - Sidefame Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10068710/senior-officer-senior-manager-underwriting-life-operations | Senior Manager, Underwriting, Life Operations | Senior Officer - Senior Manager, Underwriting, Life Operations - FWD Life Insurance Company (Bermuda) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068689/%e3%80%90%e5%85%a8%e8%81%b7%e3%80%91the-little-shop%e5%88%a9%e5%9c%92%e5%88%86%e5%ba%97-sales-representative%e9%8a%b7%e5%94%ae%e4%bb%a3%e8%a1%a8%e3%80%90%e6%b0%b8%e4%b9%85%e4%bf%9d%e8%ad%89%e4%bd%a3%e9%87%91-%e6%96%b0%e4%ba%ba%e7%8d%8e%e9%87%913000%e3%80%91 | Sidefame Ltd / | 【全職】THE LITTLE SHOP (利園分店) Sales Representative 銷售代表【永久保證佣金+新人獎金$3,000】 - Sidefame Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10068703/receptionist-chinese-restaurant | Chinese Restaurant | Receptionist - Chinese Restaurant - The Peninsula Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068701/hnw-principal-underwriter-life-operations | FWD Life Insurance Company (Bermuda) Limited / | HNW Principal Underwriter, Life Operations - FWD Life Insurance Company (Bermuda) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068700/project-manager-event-team | Ocean Park Corporation / | Project Manager (Event Team) - Ocean Park Corporation
+- [ ] https://jobs.ctgoodjobs.hk/job/10068694/kai-tak-sports-park-number-1-chopper-chinese-cuisine-%e9%a0%ad%e7%a0%a7 | Chinese Cuisine (頭砧) | [Kai Tak Sports Park] Number 1 Chopper - Chinese Cuisine (頭砧) - Legends Global
+- [ ] https://jobs.ctgoodjobs.hk/job/10068680/technician-food-production | VOCATIONAL TRAINING COUNCIL / | Technician (Food Production) - VOCATIONAL TRAINING COUNCIL
+- [ ] https://jobs.ctgoodjobs.hk/job/10068679/senior-secretary | Henderson Land Development Company Limited 恒基兆業地產有限公司 / | SENIOR SECRETARY - Henderson Land Development Company Limited 恒基兆業地產有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068678/%e5%8f%b8%e6%a9%9f-driver | Henderson Land Development Company Limited 恒基兆業地產有限公司 / | 司機 (DRIVER) - Henderson Land Development Company Limited 恒基兆業地產有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10063934/cloud-application-support-engineer-operation-support-fresh-graduate-welcome | Operation & Support (Fresh Graduate welcome) | Cloud Application Support Engineer - Operation & Support (Fresh Graduate welcome) - Shiji Information Technology (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063908/programmers-analyst-programmer-java-fresh-graduate-welcome | Fresh Graduate Welcome | Programmers / Analyst Programmer (Java) - Fresh Graduate Welcome - Shiji Information Technology (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063907/product-specialist | Shiji Information Technology (Hong Kong) Limited / | Product Specialist - Shiji Information Technology (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10053750/agentic-engineer-ii-enterprise | Enterprise | Agentic Engineer II - Enterprise - Wati
+- [ ] https://jobs.ctgoodjobs.hk/job/10066139/project-coordinator-%e2%80%93-architectural-building | Sun Hung Kai Properties Ltd / | PROJECT COORDINATOR – ARCHITECTURAL / BUILDING - Sun Hung Kai Properties Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10057983/project-engineer | Vibro (H.K.) Limited / | Project Engineer - Vibro (H.K.) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10054837/binance-accelerator-program-frontend-engineer-com | Frontend Engineer (.COM) | Binance Accelerator Program - Frontend Engineer (.COM) - Binance
+- [ ] https://jobs.ctgoodjobs.hk/job/10057350/engineer-%e2%80%93-technical-project-mgt-tpm-station-in-huizhou | Station in Huizhou | Engineer – Technical Project Mgt (TPM) - Station in Huizhou - Biel Crystal (HK) Manufactory Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066053/manager-system-infrastructure | West Kowloon Cultural District Authority / | Manager, System Infrastructure - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10062684/manager-land-and-property | West Kowloon Cultural District Authority / | Manager, Land and Property - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10062694/assistant-manager-exhibition-design-hong-kong-palace-museum | West Kowloon Cultural District Authority / | Assistant Manager, Exhibition Design, Hong Kong Palace Museum - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10062677/assistant-manager-museum-retail-hong-kong-palace-museum | West Kowloon Cultural District Authority / | Assistant Manager, Museum Retail, Hong Kong Palace Museum - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10062664/secretary-hong-kong-palace-museum | West Kowloon Cultural District Authority / | Secretary, Hong Kong Palace Museum - West Kowloon Cultural District Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10056013/assistant-officer-course-administration | Course Administration | Assistant Officer - Course Administration - Christian Action
+- [ ] https://jobs.ctgoodjobs.hk/job/10052816/senior-administrative-officer-post-ref-26108 | Lingnan University / | Senior Administrative Officer (Post Ref.: 26/108) - Lingnan University
+- [ ] https://jobs.ctgoodjobs.hk/job/10065427/project-assistant-ii-college-office | The Chinese University of Hong Kong 香港中文大學 / | Project Assistant II (College Office) - The Chinese University of Hong Kong 香港中文大學
+- [ ] https://jobs.ctgoodjobs.hk/job/10066194/assistant-administrative-officer-tpg-programme-team-post-ref-26114 | Lingnan University / | Assistant Administrative Officer (TPg Programme Team) (Post Ref.: 26/114) - Lingnan University
+- [ ] https://jobs.ctgoodjobs.hk/job/10057189/project-administration-officer | Cube Spatial Design Limited / | Project Administration Officer - Cube Spatial Design Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065173/course-co-ordinator-ii-carrying-the-job-title-of-%e2%80%98programme-administrator-scs%e2%80%99 | The Chinese University of Hong Kong 香港中文大學 / | Course Co-ordinator II (carrying the job title of ‘Programme Administrator, SCS’) - The Chinese University of Hong Kong 香港中文大學
+- [ ] https://jobs.ctgoodjobs.hk/job/10066083/student-affair-officer-student-service-officer | ABC Pathways School / | Student Affair Officer / Student Service Officer - ABC Pathways School
+- [ ] https://jobs.ctgoodjobs.hk/job/10061573/administrative-assistant-various-departments | Mandatory Provident Fund Schemes Authority / | Administrative Assistant (various departments) - Mandatory Provident Fund Schemes Authority
+- [ ] https://jobs.ctgoodjobs.hk/job/10066100/senior-nurse-practitioner-p1-snp-ks | Christian Family Service Centre基督教家庭服務中心 / | Senior Nurse Practitioner P1-SNP-KS - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10065315/assistant-officer-human-resources | Human Resources | Assistant Officer - Human Resources - Chinachem Group
+- [ ] https://jobs.ctgoodjobs.hk/job/10068532/assistant-manager-front-office | Front Office | Assistant Manager - Front Office - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10062633/spa-therapist-%e6%b0%b4%e7%99%82%e4%b8%ad%e5%bf%83%e6%8c%89%e6%91%a9%e5%b8%ab | Hyatt Regency Hong Kong, Sha Tin / | Spa Therapist 水療中心按摩師 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10060303/host-front-office-regency-club-%e5%ae%a2%e5%8b%99%e6%ac%be%e6%8e%a5%e4%b8%bb%e4%bb%bb%e6%ac%be%e6%8e%a5%e9%83%a8%e5%98%89%e8%b3%93%e8%bb%92 | Front Office / Regency Club 客務款接主任 | Host - Front Office / Regency Club 客務款接主任 - 款接部 / 嘉賓軒 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10055388/host-regency-club-%e5%ae%a2%e5%8b%99%e6%ac%be%e6%8e%a5%e4%b8%bb%e4%bb%bb%e5%98%89%e8%b3%93%e8%bb%92 | Regency Club 客務款接主任 | Host - Regency Club 客務款接主任 - 嘉賓軒 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10055387/guest-services-officer-concierge-%e5%ae%a2%e5%8b%99%e6%ac%be%e6%8e%a5%e4%b8%bb%e4%bb%bb%e7%a6%ae%e8%b3%93%e9%83%a8-bell-attendant%e8%a1%8c%e6%9d%8e%e5%93%a1 | Concierge 客務款接主任 | Guest Services Officer - Concierge 客務款接主任 - 禮賓部 / Bell Attendant 行李員 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10048780/housekeeping-coordinator-%e6%88%bf%e5%8b%99%e9%83%a8%e8%81%af%e7%b5%a1%e5%93%a1 | Hyatt Regency Hong Kong, Sha Tin / | Housekeeping Coordinator 房務部聯絡員 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10044096/technician-%e5%b7%a5%e7%a8%8b%e9%83%a8%e6%8a%80%e8%a1%93%e5%93%a1 | Hyatt Regency Hong Kong, Sha Tin / | Technician 工程部技術員 - Hyatt Regency Hong Kong, Sha Tin
+- [ ] https://jobs.ctgoodjobs.hk/job/10061549/night-manager | Empire Hotels / | Night Manager - Empire Hotels
+- [ ] https://jobs.ctgoodjobs.hk/job/10067314/senior-event-host-event-host-banquet-senior-captain-captain-5-day-work | The Mira Hong Kong / | Senior Event Host / Event Host (Banquet Senior Captain / Captain) (5-day work) - The Mira Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10063190/upper-house-hong-kong-guest-liaison-manager-restaurant-bar | Guest Liaison Manager (Restaurant & Bar) | Upper House Hong Kong - Guest Liaison Manager (Restaurant & Bar) - Swire Hotels
+- [ ] https://jobs.ctgoodjobs.hk/job/10063004/night-manager-5-day-work-week | Hotel Alexandra Resources Limited / | Night Manager (5-Day Work Week) - Hotel Alexandra Resources Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10057800/guest-services-manager | The Kowloon Hotel / | Guest Services Manager - The Kowloon Hotel
+- [ ] https://jobs.ctgoodjobs.hk/job/10054459/guest-services-manager | Dorsett Kai Tak, Hong Kong / | Guest Services Manager - Dorsett Kai Tak, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10065555/restaurant-manager-fb-services-italian-restaurant-french-bistro | Italian Restaurant / French Bistro) | Restaurant Manager (F&B Services - Italian Restaurant / French Bistro) - Rosewood Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10061037/senior-executive-wholesale | Eu Yan Sang (Hong Kong) Limited / | Senior Executive, Wholesale - Eu Yan Sang (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10064313/%e5%b8%82%e5%a0%b4%e5%8f%8a%e7%ad%96%e5%8a%83%e5%8a%a9%e7%90%86-marketing-assistant | Zhongke Health International (HK) Company Limited / | 市場及策劃助理 (Marketing Assistant) - Zhongke Health International (HK) Company Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066048/%e5%a4%a7%e5%bb%88%e4%b8%bb%e7%ae%a1-ss1-buildsup-mo | Christian Family Service Centre基督教家庭服務中心 / | 大廈主管 SS1-BUILDSUP-MO - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10065290/officer-leasing-industrial-carpark | Leasing (Industrial & Carpark) | Officer - Leasing (Industrial & Carpark) - Chinachem Group
+- [ ] https://jobs.ctgoodjobs.hk/job/10061017/manager-product-marketing | Eu Yan Sang (Hong Kong) Limited / | Manager, Product Marketing - Eu Yan Sang (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10061016/assistant-manager-sales-business-development-macau | Eu Yan Sang (Hong Kong) Limited / | Assistant Manager, Sales & Business Development (Macau) - Eu Yan Sang (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10061015/crm-executive | Eu Yan Sang (Hong Kong) Limited / | CRM Executive - Eu Yan Sang (Hong Kong) Limited
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Technology_-_Mobile_Software_Engineer_IOSAndroidReact_Native.id24116186 | Technology | Technology - Mobile Software Engineer (IOS/Android/React Native)
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Director_Investment__Research.id24116147 | Olive Asset Management | Director, Investment & Research
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-KYC_Officer.id24112397 | Hays | KYC Officer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Senior_Analyst_Assistant_Manager_Investment_Portfolio_Management__Construction.id24115979 | FWD Group Management Holdings Limited | Senior Analyst/ Assistant Manager, Investment Portfolio Management & Construction
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Frontend_Business_Lead.id24118084 | eFinancialCareers | Frontend Business Lead
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Senior_Frontend_Engineer_React.id24001447 | eFinancialCareers | Senior Frontend Engineer (React)
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Hamburg-Senior_Frontend-Entwickler_mwd.id24118202 | eFinancialCareers | Senior Frontend-Entwickler (m/w/d)
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Nuremberg-Web-Frontend-Developerinnen_wmd.id24118321 | eFinancialCareers | Web-Frontend-Developer:innen (w/m/d)
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-New_York-Member_of_Technical_Staff_Reporting__Statements_Backend_Engineer.id24118089 | eFinancialCareers | Member of Technical Staff, Reporting & Statements (Backend Engineer)
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-San_Francisco-Staff_Software_Engineer_Payments_Backend.id24118929 | eFinancialCareers | Staff Software Engineer, Payments (Backend)
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Karlsruhe-Backend_TypeScript_Developer_mwd.id24118285 | eFinancialCareers | Backend TypeScript Developer m/w/d
+- [ ] https://www.efinancialcareers.hk/jobs-Germany-Stuttgart-Backend__Algorithmic_Engineer_mwd.id24118265 | eFinancialCareers | Backend / Algorithmic Engineer (m/w/d)
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-London-Full_Stack_Developer-_Tech-Driven_Algorithmic_Fund.id24094473 | eFinancialCareers | Full Stack Developer- Tech-Driven Algorithmic Fund
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-Knutsford-Full_Stack_Engineer.id24118448 | eFinancialCareers | Sorry, we are currently offline
+- [ ] https://www.efinancialcareers.hk/jobs-Singapore-Singapore-Full_Stack_Developer_-_Private_Banking.id23640748 | Full Stack Developer | Full Stack Developer - Private Banking
+- [ ] https://www.efinancialcareers.hk/jobs-United_States-McLean-Lead_Software_Engineer_Full_Stack_Cloud_Operations_Resilience_Engineering.id24118617 | eFinancialCareers | Lead Software Engineer, Full Stack (Cloud Operations Resilience Engineering)
+- [ ] https://www.efinancialcareers.hk/jobs-United_Kingdom-Belfast_City-Sr_Full_Stack_Developer.id24116519 | eFinancialCareers | Sr Full Stack Developer
+- [ ] https://hk.jobsdb.com/job/91485549 | RD Holdings (Hong Kong) Limited | Customer Experience (CX) Design Product Manager Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91482729 | backend and data teams | Senior Frontend Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91483832 | TEKsystems | Senior Frontend Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91483242 | Qookia Limited | Gaming Content & Video Editor (Part-time / Full-time) Job in Kwai Fong, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/88983833 | Guotai Junan International Holdings Limited | Product Manager (Mobile APP and Digital Channel) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91485581 | the skills | HKDSE English Instructor/ Teaching Assistant/ Student Helper Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91485405 | Eureka Language Services Limited | Freelance Bilingual English Teacher Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91485357 | an | Native English Teacher (Kindergarten) (Full-time and Part-time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91485280 | Eureka Language Services Limited | ESL Teachers / Native-speaking English Teacher (Full-time) Job in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91485241 | English | Bilingual English Kindergarten Teacher (Part-time) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91485494 | Eureka Language Services Limited | Teaching Assistant/Student Helper Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91485381 | Eureka Language Services Limited | English Drama or Debate Teacher (Part-time) Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91485577 | Yew Chung College of Early Childhood Education Limited | Senior Lecturer / Lecturer in English Language Teaching Job in Aberdeen, Southern District
+- [ ] https://hk.jobsdb.com/job/91482549 | My Gym Children's Fitness Center | Playgroup Teacher (6-month contract for MAT Leave Cover) Job in Southern District
+- [ ] https://hk.jobsdb.com/job/91483219 | LinkedU Overseas Education Limited | Full-Time STEM Tutor Job in Central, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91485277 | China Mobile Hong Kong Company Limited | System Engineer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91485638 | COSCO Shipping (Hong Kong) Insurance Brokers Limited | 資訊科技主任 (IT Officer) Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91484443 | Cornerstone Global Partners | IT Operations & Maintenance Engineer, a Top PRC Investment Bank Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91484121 | CLPS Technology (Hong Kong) Co., Limited | Infrastructure Engineer/Network Engineer Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91485895 | China Telecom Global Limited | System Engineer (SI Focus) Job in Cyberport, Southern District
+- [ ] https://hk.jobsdb.com/job/91485904 | HKT | Service Delivery Manager (infrastructure & Network) Job in Kowloon
+- [ ] https://hk.linkedin.com/jobs/view/part-time-ux-ui-designer-at-time-auction-4399148835 | Time Auction | Time Auction hiring Part Time: UX/UI Designer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/frontend-business-lead-at-okx-4399144679 | OKX | OKX hiring Frontend Business Lead in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/software-engineer-at-marlin-selection-recruitment-4401055054 | Marlin Selection Recruitment | Marlin Selection Recruitment hiring Software Engineer in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/trading-systems-developer-hk-at-susquehanna-international-group-4206411787 | HK in Hong Kong, Hong Kong SAR / | Susquehanna International Group hiring Trading Systems Developer - HK in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/web-developer-marketing-at-salt-4399168056 | Salt | Salt hiring Web Developer (Marketing) in Hong Kong, Hong Kong SAR
+
+- [ ] https://hk.linkedin.com/jobs/view/senior-backend-developer-java-at-aster-4340546267 | Aster | Aster hiring Senior Backend Developer (Java) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/data-analyst-enterprise-data-platform-at-fubon-bank-hong-kong-4398685607 | Fubon Bank (Hong Kong) | Fubon Bank (Hong Kong) hiring Data Analyst, Enterprise Data Platform in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/native-english-teacher-at-eureka-language-services-4253262133 | Eureka Language Services | Eureka Language Services hiring Native English Teacher in Aberdeen, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/primary-school-homeroom-co-teacher-from-aug-2026-at-hong-kong-academy-4385940993 | Hong Kong Academy | Hong Kong Academy hiring Primary School Homeroom Co-Teacher (from Aug 2026) in Hong Kong SAR
+- [ ] https://hk.jobsdb.com/job/91483777 | Modbus | Firmware Software Engineer Job in Tsuen Wan, Tsuen Wan District
+- [ ] https://hk.jobsdb.com/job/91486571 | JobsDB HK | Senior Java Developer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/87942755 | JobsDB HK | Senior Software Engineer (Financial Systems) Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91483572 | experience in full stack development | Full Stack AI Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91486349 | JobsDB HK | C# .Net Developer Opportunities - Financial Service Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91482772 | JobsDB HK | .Net Developer / Senior Programmer (over $35K - $45K) Job in Yau Ma Tei, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91485204 | JobsDB HK | Java Developer (Programmer/Analyst Programmer/System Analyst) Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91482780 | JobsDB HK | Senior System Analyst (Technical Architect & Design Lead) Job in Kowloon Bay, Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91486672 | JobsDB HK | C++ Developer, Market Access - Global Investment Bank - J12725 Job in Admiralty, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91485900 | JobsDB HK | AI Engineer (B2B Agentic Solutions) Job in Sham Shui Po, Sham Shui Po District
+- [ ] https://hk.jobsdb.com/job/91486307 | JobsDB HK | SYSTEM ANALYST / SENIOR SYSTEM ANALYST Job in Mong Kok, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91485874 | JobsDB HK | Analyst Programmer (Government Sector, Infrastructure/ IT Security/ Network) Job in Tseung Kwan O, Sai Kung District
+- [ ] https://hk.jobsdb.com/job/91483820 | JobsDB HK | DevOps Engineer（banking） Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91485914 | system support | Analyst Programmer (Government Sector, Network/ PC LAN Support) Job in Wan Chai, Wan Chai District
+- [ ] https://hk.jobsdb.com/job/91484940 | JobsDB HK | Senior Hardware Design Engineer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91485677 | one thought in mind - | AI & Data Lakehouse Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91484408 | JobsDB HK | Machine Learning Engineer Job in Hong Kong Island
+- [ ] https://hk.jobsdb.com/job/91484636 | JobsDB HK | Senior System Analyst Job in Quarry Bay, Eastern District
+- [ ] https://hk.jobsdb.com/job/91485262 | JobsDB HK | Project Manager (Websites & App Development / Digital) Job in Tai Koo, Eastern District
+- [ ] https://hk.jobsdb.com/job/91482576 | JobsDB HK | Digital Designer & CRO specialist Job in Sheung Wan, Central and Western District
+- [ ] https://hk.jobsdb.com/job/91486317 | JobsDB HK | Field Services Assistant Engineer / Engineer - Healthcare Job in Tsim Sha Tsui, Yau Tsim Mong District
+- [ ] https://hk.jobsdb.com/job/91486315 | JobsDB HK | Assistant Infrastructure Manager Job in Central and Western District
+- [ ] https://hk.jobsdb.com/job/91486442 | JobsDB HK | Network Engineer Job in Kowloon
+- [ ] https://hk.jobsdb.com/job/91483486 | JobsDB HK | Cloud Engineer Job in Kwai Hing, Kwai Tsing District
+- [ ] https://hk.jobsdb.com/job/91486674 | Jolly Kingdom English Learning Center | Native English Teacher (Part time) Job in Hong Kong SAR
+- [ ] https://jobs.ctgoodjobs.hk/job/10067333/accounts-supervisor | Royal Pacific Hotel 皇家太平洋酒店 / | Accounts Supervisor - Royal Pacific Hotel 皇家太平洋酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10068833/%e5%85%a8%e8%81%b7%e5%85%bc%e8%81%b7%e6%8c%81%e7%89%8c%e7%87%9f%e6%a5%ad%e5%93%a1%e6%8c%81%e7%89%8c%e5%9c%b0%e7%94%a2%e4%bb%a3%e7%90%86%e9%91%bd%e7%9f%b3%e5%b1%b1%e9%bb%83%e5%9f%94%e5%b0%96%e6%b2%99%e5%92%80 | Centaline Property Agency Limited / | 全職/兼職持牌營業員 / 持牌地產代理 (鑽石山/黃埔/尖沙咀) - Centaline Property Agency Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068832/%e5%85%a8%e8%81%b7%e5%85%bc%e8%81%b7%e6%a5%ad%e5%8b%99%e6%8b%93%e5%b1%95%e5%8a%a9%e7%90%86%e9%a6%ac%e9%9e%8d%e5%b1%b1%e8%8d%83%e7%81%a3%e9%9d%92%e8%a1%a3 | Centaline Property Agency Limited / | 全職/兼職業務拓展助理(馬鞍山/荃灣/青衣) - Centaline Property Agency Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068850/receptionist | The Dynasty Club Limited / | Receptionist - The Dynasty Club Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068829/innovation-solution-manager | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Innovation & Solution Manager - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068828/accounts-assistant-i | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Accounts Assistant I - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068827/project-marketing-manager | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Project Marketing Manager - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068826/human-resources-officer | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Human Resources Officer - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068825/senior-land-administration-officer | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Senior Land Administration Officer - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068824/senior-client-officer | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Senior Client Officer - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068831/assistant-client-officer | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Assistant Client Officer - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068830/assistant-property-development-manager | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Assistant Property Development Manager - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068823/%e9%ab%98%e7%b4%9a%e7%a7%81%e4%ba%ba%e4%bd%8f%e5%ae%85%e4%bf%9d%e5%ae%89%e4%b8%bb%e4%bb%bb%e5%85%83%e6%9c%97%e9%8c%a6%e4%b8%8a%e8%b7%af-85%e5%b0%8f%e6%99%82%e6%97%a9%e6%9b%b4-20000 | 元朗錦上路 (8.5小時早更 $20000) | 高級私人住宅保安主任 - 元朗錦上路 (8.5小時早更 $20000) - City Security Company Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068809/community-engagement-manager | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Community Engagement Manager - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068808/assistant-project-marketing-manager | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Assistant Project Marketing Manager - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068807/senior-client-officer-customer-services | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Senior Client Officer (Customer Services) - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068822/operation-management-officer-ko-shan-theatre | Epro Telecom Services Limited / | Operation Management Officer (Ko Shan Theatre) - Epro Telecom Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068806/assistant-manager-human-resources-dept | Evergreen Products Factory Limited / | Assistant Manager (Human Resources Dept) - Evergreen Products Factory Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068821/secretarial-officer | Wheelock Corporate Services Limited / | Secretarial Officer - Wheelock Corporate Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068820/investment-analyst | Wheelock Corporate Services Limited / | Investment Analyst - Wheelock Corporate Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068819/investment-analytics-manager | Wheelock Corporate Services Limited / | Investment Analytics Manager - Wheelock Corporate Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068818/investment-analytics-manager | Wheelock Corporate Services Limited / | Investment Analytics Manager - Wheelock Corporate Services Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068805/secretary-25-26k | KOS International Limited / | Secretary (25-26k) - KOS International Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068817/area-manager | Harriman Property Management Limited 夏利文物業管理有限公司 / | Area Manager - Harriman Property Management Limited 夏利文物業管理有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068816/accountant-tenancy-admin | Harriman Property Management Limited 夏利文物業管理有限公司 / | Accountant (Tenancy Admin) - Harriman Property Management Limited 夏利文物業管理有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068815/technical-services-manager | Harriman Property Management Limited 夏利文物業管理有限公司 / | Technical Services Manager - Harriman Property Management Limited 夏利文物業管理有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068804/concierge-officer | AKI HONG KONG – MGALLERY / | Concierge Officer - AKI HONG KONG – MGALLERY
+- [ ] https://jobs.ctgoodjobs.hk/job/10068814/outlet-manager-assistant-outlet-manager | Park Hotel International Limited / | Outlet Manager / Assistant Outlet Manager - Park Hotel International Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068803/receiving-officer | Auberge Discovery Bay Hong Kong / | Receiving Officer - Auberge Discovery Bay Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068812/lounge-services-officer | AsiaWorld-Expo Management Limited / | Lounge Services Officer - AsiaWorld-Expo Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10063373/senior-hardware-engineer | Peplink International Limited / | Senior Hardware Engineer - Peplink International Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/09520465/account-manager-advertising-branding | (Career Times Online Limited) / | Account Manager (Advertising & Branding)
+- [ ] https://jobs.ctgoodjobs.hk/job/10065269/assistant-property-officer-commercial-central | Central) | Assistant Property Officer (Commercial - Central) - Sources Fame Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10063905 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10056853/sales-account-manager | NewPower Worldwide / | Sales Account Manager - NewPower Worldwide
+- [ ] https://jobs.ctgoodjobs.hk/job/10060733/assistant-sales-manager | AP Rentals Limited / | Assistant Sales Manager - AP Rentals Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066399/account-manager | Senco-Masslink Technology / | Account Manager - Senco-Masslink Technology
+- [ ] https://jobs.ctgoodjobs.hk/job/10060491/account-manager | Orange Business Services Hong Kong Limited / | Account Manager - Orange Business Services Hong Kong Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10061717/account-manager | Skill Mind Tech Bridge / | Account Manager - Skill Mind Tech Bridge
+- [ ] https://jobs.ctgoodjobs.hk/job/10058320/assistant-sales-manager | K11 ARTUS Limited / | Assistant Sales Manager - K11 ARTUS Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/09291053/senior-sales-executive | (Career Times Online Limited) / | Senior Sales Executive
+- [ ] https://jobs.ctgoodjobs.hk/job/10063888/%e6%9c%83%e8%a8%88%e6%96%87%e5%93%a1accounts-clerk%e8%81%b7%e4%bd%8d%e7%b7%a8%e8%99%9f%ef%bc%9aac-ho-fin | 基督教香港信義會社會服務部 / | 會計文員Accounts Clerk (職位編號：AC-HO-FIN) - 基督教香港信義會社會服務部
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/09291053 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10065568/sales-coordinator-sales-admin-5-days-work | (Career Times Online Limited) / | Sales Coordinator / Sales Admin (5 days work)
+- [ ] https://jobs.ctgoodjobs.hk/job/09941270/part-time-clerk-part-time-customer-services-representative | (Career Times Online Limited) / | Part-time Clerk / Part-time Customer Services Representative
+- [ ] https://jobs.ctgoodjobs.hk/job/09763704/assistant-sales-manager | (Career Times Online Limited) / | Assistant Sales Manager
+- [ ] https://jobs.ctgoodjobs.hk/job/10066052/%e5%8f%b8%e6%a9%9f%e5%85%bc%e8%81%b7-ss2-driver-de | Christian Family Service Centre基督教家庭服務中心 / | 司機(兼職) SS2-DRIVER-DE - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10063195/%e9%ab%98%e7%b4%9a%e4%be%8d%e6%87%89%e7%94%9f-senior-waiter-waitress | The Jockey Club Kau Sai Chau Public Golf Course Ltd / | (高級) 侍應生 (Senior) Waiter / Waitress - The Jockey Club Kau Sai Chau Public Golf Course Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10065477/property-officer-mall-tsuen-wan | Tsuen Wan) | Property Officer (Mall - Tsuen Wan) - Sources Fame Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10063906 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-Onsite_Support_Engineer_9_months.id24112446 | eFinancialCareers | Onsite Support Engineer (9 months)
+- [ ] https://www.efinancialcareers.hk/jobs-Romania-Bucharest-Senior_Frontend_Engineer.id23961631 | eFinancialCareers | Senior Frontend Engineer
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-ARM_HKTW_Market_-_International_Private_Bank.id24112396 | ARM (HK/TW Market) | ARM (HK/TW Market) - International Private Bank
+- [ ] https://hk.jobsdb.com/job/91486853 | JobsDB HK | IT Support Specialist – Professional Firm Job in Hong Kong Island
+- [ ] https://hk.linkedin.com/jobs/view/english-teacher-english-excel-hong-kong-at-tefl-com-4397778628 | English Excel, Hong Kong in Hong Kong, Hong Kong SAR / | TEFL.com hiring English Teacher - English Excel, Hong Kong in Hong Kong, Hong Kong SAR
+
+
+- [ ] https://hk.linkedin.com/jobs/view/class-teacher-english-at-teach-abroad-experior-asia-4399600726 | Experior Asia hiring Class Teacher (English) in Hong Kong, Hong Kong SAR / | Teach Abroad - Experior Asia hiring Class Teacher (English) in Hong Kong, Hong Kong SAR
+- [ ] https://hk.linkedin.com/jobs/view/kindergarten-teacher-mornings-at-teach-abroad-experior-asia-4399191742 | Experior Asia hiring Kindergarten Teacher (Mornings) in Hong Kong, Hong Kong SAR / | Teach Abroad - Experior Asia hiring Kindergarten Teacher (Mornings) in Hong Kong, Hong Kong SAR
+- [ ] https://jobs.ctgoodjobs.hk/job/10065291/senior-officer-office-leasing | Office Leasing | Senior Officer - Office Leasing - Chinachem Group
+- [ ] https://jobs.ctgoodjobs.hk/job/10068836/%e9%ab%98%e7%b4%9a%e7%b6%ad%e4%bf%ae%e6%8a%80%e5%b8%ab%e7%b6%ad%e4%bf%ae%e6%8a%80%e5%b8%ab%e8%b7%91%e9%a6%ac%e5%9c%b0%e5%8d%97%e5%8d%80 | 跑馬地/ 南區 | 高級維修技師/ 維修技師 - 跑馬地/ 南區 - Kai Shing Management Services Ltd
+- [ ] https://jobs.ctgoodjobs.hk/job/10068853/teppanyaki-chef | Island Shangri-La, Hong Kong / | Teppanyaki Chef - Island Shangri-La, Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068852/senior-financial-analyst-property | Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司 / | Senior Financial Analyst (Property) - Wheelock Properties (Hong Kong) Limited 會德豐地產 (香港) 有限公司
+- [ ] https://jobs.ctgoodjobs.hk/job/10068851/assistant-accountant | YMCA of Hong Kong / | Assistant Accountant - YMCA of Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068835/customer-service-officer-senior-officer-customer-engagement | FWD Life Insurance Company (Bermuda) Limited / | Customer Service Officer/ Senior Officer, Customer Engagement - FWD Life Insurance Company (Bermuda) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10068834/erp-solutions-engineer-d365-bc-inhouseperm-up-to-40k | KOS International Limited / | ERP Solutions Engineer (D365 BC)~ Inhouse/Perm, Up to 40K - KOS International Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10063118 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10068543/sales-engineer-sales-manager-metal-scaffolding | Horizon Construction Overseas (Hong Kong) Limited / | Sales Engineer / Sales Manager (metal scaffolding) - Horizon Construction Overseas (Hong Kong) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10066098/assistant-superintendent-p1-asupin-yc | Christian Family Service Centre基督教家庭服務中心 / | Assistant Superintendent P1-ASUPIN-YC - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10065476/property-officer-mall-central | Central) | Property Officer (Mall - Central) - Sources Fame Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10066098 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10066069/%e5%88%9d%e7%b4%9a%e4%bf%9d%e5%81%a5%e5%93%a1-ss2-jhw-yc | Christian Family Service Centre基督教家庭服務中心 / | 初級保健員 SS2-JHW-YC - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/10051168/%e7%92%b0%e4%bf%9d%e9%81%8b%e4%bd%9c%e5%8a%a9%e7%90%86-ss3-eoa-scgs | Christian Family Service Centre基督教家庭服務中心 / | 環保運作助理 SS3-EOA-SCGS - Christian Family Service Centre基督教家庭服務中心
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10066048 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10058372/%e4%b8%bb%e4%bb%bb%e7%89%a9%e6%a5%ad%e5%8f%8a%e8%a8%ad%e6%96%bd%e7%ae%a1%e7%90%86-officer-property-facilities-management%e8%81%b7%e4%bd%8d%e7%b7%a8%e8%99%9f%ef%bc%9aofficerpfm-ho-adm | 基督教香港信義會社會服務部 / | 主任(物業及設施管理) Officer (Property & Facilities Management) (職位編號：Officer(PFM)-HO-ADM) - 基督教香港信義會社會服務部
+- [ ] https://jobs.ctgoodjobs.hk/job/10046491/%e6%97%a9%e4%b8%ad%e7%8f%ad%e7%ae%a1%e6%a5%ad%e5%8a%a9%e7%90%86-ref-ba | Hutchison Logistics Centre Management Limited / | 早中班管業助理 [Ref. BA] - Hutchison Logistics Centre Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10050967/%e5%a4%a7%e5%bb%88%e4%b8%bb%e7%ae%a1%e5%8a%a9%e7%90%86%e5%a4%a7%e5%bb%88%e4%b8%bb%e7%ae%a1%e4%b8%ad%e6%b8%af%e5%9f%8e | SINO PROPERTY SERVICES / | 大廈主管/助理大廈主管 (中港城) - SINO PROPERTY SERVICES
+- [ ] https://jobs.ctgoodjobs.hk/job/10062751/%e7%89%a9%e6%a5%ad%e7%ae%a1%e7%90%86%e4%b8%bb%e4%bb%bb%e2%80%93%e6%9d%b1%e8%96%88%e5%9f%8e-property-supervisor-citygate | Citygate | 物業管理主任 – 東薈城 Property Supervisor - Citygate - SWIRE PROPERTIES LIMITED
+- [ ] https://jobs.ctgoodjobs.hk/job/10062929/%e6%97%a9%e4%b8%ad%e7%8f%ad%e7%ae%a1%e6%a5%ad%e5%8a%a9%e7%90%86-ref-ba | Hutchison Logistics Centre Management Limited / | 早中班管業助理 [Ref. BA] - Hutchison Logistics Centre Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10064292/acting-patrol-supervisor-%e7%bd%b2%e7%90%86%e5%b7%a1%e9%82%8f%e8%ad%a6%e8%a1%9e%e9%95%b7-shatin%e6%b2%99%e7%94%b0 | General Security (HK) Limited / | Acting Patrol Supervisor (署理巡邏警衞長) Shatin沙田 - General Security (HK) Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10065293/senior-property-officer-commercial-central | Central) | Senior Property Officer (Commercial - Central) - Sources Fame Management Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/mock-interview/10062789 | CTgoodjobs | Jobs Search, employment and career site in Hong Kong
+- [ ] https://jobs.ctgoodjobs.hk/job/10062790/team-leader-senior-server-yat-tung-heen-michelin-one-star-%e4%b8%bb%e7%ae%a1%e8%b3%87%e6%b7%b1%e4%be%8d%e6%87%89%e9%80%b8%e6%9d%b1%e8%bb%92%e7%b1%b3%e8%8a%9d%e8%93%ae%e4%b8%80%e6%98%9f%e4%b8%ad%e8%8f%9c%e5%bb%b3 | Yat Tung Heen (Michelin One Star) 主管 / 資深侍應 | Team Leader / Senior Server - Yat Tung Heen (Michelin One Star) 主管 / 資深侍應 - 逸東軒 (米芝蓮一星中菜廳) - Eaton, Hong Kong 香港逸東酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10062791/restaurant-receptionist-yat-tung-heen-michelin-one-star-%e6%8e%a5%e5%be%85%e5%93%a1%e9%80%b8%e6%9d%b1%e8%bb%92%e7%b1%b3%e8%8a%9d%e8%93%ae%e4%b8%80%e6%98%9f%e4%b8%ad%e8%8f%9c%e5%bb%b3 | Yat Tung Heen (Michelin One Star) 接待員 | Restaurant Receptionist - Yat Tung Heen (Michelin One Star) 接待員 - 逸東軒 (米芝蓮一星中菜廳) - Eaton, Hong Kong - Eaton, Hong Kong 香港逸東酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10037630/staff-canteen-chef-%e5%93%a1%e5%b7%a5%e9%a4%90%e5%bb%b3%e5%bb%9a%e5%b8%ab | Eaton, Hong Kong 香港逸東酒店 / | Staff Canteen Chef 員工餐廳廚師 - Eaton, Hong Kong 香港逸東酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10036012/public-area-supervisor-%e5%85%ac%e7%9c%be%e5%9c%b0%e6%96%b9%e6%b8%85%e6%bd%94%e7%9d%a3%e5%b0%8e | Eaton, Hong Kong 香港逸東酒店 / | Public Area Supervisor 公眾地方清潔督導 - Eaton, Hong Kong 香港逸東酒店
+- [ ] https://jobs.ctgoodjobs.hk/job/10056087/accountant-senior-accountant-ref-r-fsa | NEW WORLD FACILITIES MANAGEMENT COMPANY LIMITED / | Accountant / Senior Accountant (ref: R-FSA) - NEW WORLD FACILITIES MANAGEMENT COMPANY LIMITED
+- [ ] https://jobs.ctgoodjobs.hk/job/10066867/accountant-ref-a-ar | Hutchison Property Group Limited / | ACCOUNTANT [Ref: A-AR] - Hutchison Property Group Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10067947/accountant-accounting-officer | Virtus Medical Group Limited / | Accountant / Accounting Officer - Virtus Medical Group Limited
+- [ ] https://jobs.ctgoodjobs.hk/job/10052987/accountant-finance-accounts | Hong Kong Trade Development Council / | Accountant, Finance & Accounts - Hong Kong Trade Development Council
+- [ ] https://jobs.ctgoodjobs.hk/job/10054429/accountant-senior-accountant-ref-jd-fsa | NEW WORLD FACILITIES MANAGEMENT COMPANY LIMITED / | Accountant/ Senior Accountant (ref: JD-FSA) - NEW WORLD FACILITIES MANAGEMENT COMPANY LIMITED
+- [ ] https://jobs.ctgoodjobs.hk/job/10053702/accountant-acct-admin | Acct & Admin | Accountant - Acct & Admin - Michael Page
+- [ ] https://jobs.ctgoodjobs.hk/job/10058629/accountant-financial-accounting-and-reporting | Financial Accounting and Reporting | Accountant - Financial Accounting and Reporting - Chinachem Group
+- [ ] https://www.efinancialcareers.hk/jobs-Hong_Kong-Hong_Kong-VP_Business_Development_%E2%80%93_ESG__Governance_Data_Solutions.id24116082 | eFinancialCareers | VP, Business Development – ESG & Governance Data Solutions
+- [ ] https://www.efinancialcareers.hk/jobs-India-Hyderabad-Principal_Software_Engineer_-_Full_Stack_-_Java_AVP.id24120165 | Full Stack | Principal Software Engineer - Full Stack - Java, AVP
+- [ ] https://hk.jobsdb.com/job/91487376 | JobsDB HK | Senior Manager, Digital Business & Operation Job in Kwun Tong District
+- [ ] https://hk.jobsdb.com/job/91487377 | JobsDB HK | Full Time Tutor 全職導師 ($18-25K+ 教學獎金) - [ 大埔/朗屏/李鄭屋/廣源/啟德 ] Job in Tai Po, Tai Po District
+- [ ] https://hk.jobsdb.com/job/91487085 | JobsDB HK | IT Engineer - Intune Migration (6 months contract) Job in Central and Western District
+- [ ] https://hk.linkedin.com/jobs/view/english-teacher-at-teach-abroad-experior-asia-4399604637 | Experior Asia hiring English Teacher in Hong Kong, Hong Kong SAR / | Teach Abroad - Experior Asia hiring English Teacher in Hong Kong, Hong Kong SAR
+
+
