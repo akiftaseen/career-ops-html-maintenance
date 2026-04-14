@@ -29,22 +29,27 @@ const KEYWORD_QUERIES = [
   'software engineer',
   'junior software engineer',
   'graduate engineer',
+  'software developer',
+  'junior developer',
   'frontend developer',
   'full stack developer',
+  'backend developer',
+  'qa engineer',
+  'automation test engineer',
+  'embedded engineer',
   'ui ux designer',
+  'ui designer',
+  'ux designer',
+  'product designer',
   'graphic designer',
   'web designer',
   'it support',
   'helpdesk',
   'technical support',
-  'customer support',
-  'physics teacher',
-  'english teacher',
-  'teaching assistant',
-  'tutor',
+  'service desk',
 ];
 
-const ROLE_RELEVANCE_RE = /(software|developer|engineer|programmer|frontend|front[ -]?end|backend|back[ -]?end|full[ -]?stack|web|react|typescript|python|c\+\+|embedded|ui\/?ux|product designer|graphic designer|it support|helpdesk|technical support|customer support|service desk|operations assistant|tutor|teaching assistant|teacher|physics|english)/i;
+const ROLE_RELEVANCE_RE = /(software|developer|engineer|programmer|frontend|front[ -]?end|backend|back[ -]?end|full[ -]?stack|web|react|typescript|javascript|node|python|java|c\+\+|embedded|firmware|qa|quality assurance|test automation|sre|devops|cloud|data engineer|ui\/?ux|ux\/?ui|ux designer|ui designer|product designer|graphic designer|web designer|it support|helpdesk|technical support|service desk|cybersecurity|information security)/i;
 const ENTRY_FRIENDLY_RE = /(graduate|junior|entry|associate|assistant|trainee|fresh grad|new grad|0-2 years|1-2 years|early career)/i;
 const SENIORITY_EXCLUDE_RE = /(senior|lead|principal|staff|director|head of|vp|vice president|manager)(?!\s*assistant)/i;
 const MANDARIN_CANTONESE_RE = /(mandarin|cantonese|spoken chinese|written chinese|native chinese|chinese speaking|fluent chinese|putonghua)/i;
@@ -54,6 +59,7 @@ const NON_HK_LOCATION_RE = /(berlin|munich|france|paris|new\s*york|san\s*francis
 const INTERNSHIP_VOLUNTEER_RE = /(intern|internship|working student|volunteer)/i;
 const RESTRICTIVE_REMOTE_RE = /(us\s*only|u\.s\.\s*only|canada\s*only|europe\s*only|uk\s*only|eu\s*only|remote\s*\(us\)|remote\s*-\s*us)/i;
 const NON_ENGLISH_HINT_RE = /(m\/w\/d|\boder\b|\bund\b|steuer|entwickler|ingenieur|werkstudent|vollzeit|teilzeit|french speaking|german speaking|spanish speaking|arabic speaking|italian speaking)/i;
+const FULL_TIME_TEACHING_RE = /(teacher|tutor|teaching assistant|teaching associate|instructor|lecturer|education consultant|subject tutor|private tutor)/i;
 
 const CURATED_GREENHOUSE_BOARDS = [
   'airtable',
@@ -115,6 +121,15 @@ function decodeHtmlEntities(text) {
 
 function stripTags(text) {
   return decodeHtmlEntities(String(text || '').replace(/<[^>]*>/g, ' '));
+}
+
+function extractReadableTextFromHtml(html) {
+  return stripTags(
+    String(html || '')
+      .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<noscript\b[^>]*>[\s\S]*?<\/noscript>/gi, ' '),
+  );
 }
 
 function toTitleCaseFromSlug(slug) {
@@ -199,9 +214,54 @@ function isRelevantRole(title, description) {
   return ROLE_RELEVANCE_RE.test(`${title || ''}`);
 }
 
+function isFullTimeTeachingRole(title, description) {
+  const top = `${title || ''}`;
+  const hay = `${title || ''} ${description || ''}`;
+  if (!FULL_TIME_TEACHING_RE.test(hay)) return false;
+
+  // If the title itself is teaching/tutoring, exclude it directly.
+  if (FULL_TIME_TEACHING_RE.test(top)) return true;
+
+  // Catch listing text that frames a role as school/classroom teaching.
+  return /(full[ -]?time|permanent|school|academy|classroom|curriculum|lesson plan|secondary|primary)/i.test(hay);
+}
+
 function isEnglishFriendly(title, description, location) {
   const hay = `${title || ''} ${description || ''} ${location || ''}`;
   return !MANDARIN_CANTONESE_RE.test(hay);
+}
+
+function hasExplicitCantoneseRequirement(text) {
+  const hay = String(text || '').toLowerCase().replace(/\s+/g, ' ').trim();
+  if (!/\bcantonese\b/.test(hay)) return false;
+
+  // Allow explicit opt-out phrasing such as "Cantonese not required".
+  if (/\bcantonese\s+(?:not\s+required|optional|not\s+necessary)\b/.test(hay)) return false;
+  if (/\b(?:no|not|without)\b[^.]{0,40}\bcantonese\b[^.]{0,20}\b(?:required|necessary|needed)\b/.test(hay)) return false;
+
+  const strongRequirementPatterns = [
+    /\bcantonese\s+(?:is\s+)?(?:a\s+)?(?:must|required|requirement|mandatory|essential)\b/,
+    /\b(?:must|required|requires?|need|needed)\b[^.]{0,100}\bcantonese\b/,
+    /\b(?:fluent|proficien(?:t|cy)|good\s+command|excellent\s+command)\b[^.]{0,100}\bcantonese\b/,
+    /\b(?:spoken|written|speak|write)\b[^.]{0,100}\bcantonese\b/,
+    /\bcantonese\s+(?:speaking|speaker)\b/,
+    /\benglish\s+and\s+cantonese\b/,
+  ];
+
+  if (strongRequirementPatterns.some((re) => re.test(hay))) {
+    return true;
+  }
+
+  // Fallback: if Cantonese appears in the same clause with requirement wording.
+  const clauses = hay.split(/[.;\n]/);
+  for (const clause of clauses) {
+    if (!clause.includes('cantonese')) continue;
+    if (/\b(require|must|need|preferred|advantage|proficien|fluent|spoken|written|command)\b/.test(clause)) {
+      return true;
+    }
+  }
+
+  return false;
 }
 
 function shouldKeepJob(job) {
@@ -214,6 +274,7 @@ function shouldKeepJob(job) {
   if (!job.url || !job.company || !title) return false;
   if (NON_ENGLISH_HINT_RE.test(`${title} ${description}`)) return false;
   if (INTERNSHIP_VOLUNTEER_RE.test(`${title} ${description}`)) return false;
+  if (isFullTimeTeachingRole(title, description)) return false;
   if (!isRelevantRole(title, description)) return false;
   if (!hasHongKongOrRemote(location, title, description, job.url)) return false;
   if (!HK_LOCATION_RE.test(geoHay) && NON_HK_LOCATION_RE.test(geoHay)) return false;
@@ -223,6 +284,76 @@ function shouldKeepJob(job) {
   if (salaryMin !== null && salaryMin < 20000) return false;
 
   return true;
+}
+
+async function screenJobsByDetailLanguage(jobs) {
+  const stats = {
+    listingCantoneseRejected: 0,
+    detailPagesAttempted: 0,
+    detailPagesFetched: 0,
+    detailPagesFailed: 0,
+    detailCantoneseRejected: 0,
+    unverifiedLanguageRejected: 0,
+  };
+
+  const screened = await mapLimit(jobs, 6, async (job) => {
+    const listingText = `${job.title || ''} ${job.location || ''} ${job.description || ''}`;
+    if (hasExplicitCantoneseRequirement(listingText)) {
+      stats.listingCantoneseRejected += 1;
+      return {
+        ...job,
+        languageScreen: {
+          cantoneseRequired: true,
+          source: 'listing',
+        },
+      };
+    }
+
+    stats.detailPagesAttempted += 1;
+
+    try {
+      const html = await fetchText(job.url, {}, 1);
+      stats.detailPagesFetched += 1;
+
+      const pageText = extractReadableTextFromHtml(html);
+      const combinedText = `${listingText} ${pageText}`;
+      const cantoneseRequired = hasExplicitCantoneseRequirement(combinedText);
+
+      if (cantoneseRequired) {
+        stats.detailCantoneseRejected += 1;
+      }
+
+      return {
+        ...job,
+        languageScreen: {
+          cantoneseRequired,
+          source: cantoneseRequired ? 'detail' : 'none',
+        },
+      };
+    } catch {
+      stats.detailPagesFailed += 1;
+
+      const hasRichListingText = String(job.description || '').trim().length >= 140;
+      const unverifiedLanguageCheck = !hasRichListingText;
+      if (unverifiedLanguageCheck) {
+        stats.unverifiedLanguageRejected += 1;
+      }
+
+      return {
+        ...job,
+        languageScreen: {
+          cantoneseRequired: false,
+          source: 'none',
+          unverifiedLanguageCheck,
+        },
+      };
+    }
+  });
+
+  return {
+    jobs: screened,
+    stats,
+  };
 }
 
 async function fetchWithRetry(url, options = {}, retry = 2) {
@@ -584,13 +715,14 @@ function toPipelineShape(job) {
   };
 }
 
-function buildReport({ totalRaw, totalAfterFilter, totalFinal, seeds }) {
+function buildReport({ totalRaw, totalPreFilter, totalAfterLanguageScreen, totalFinal, seeds, detailStats }) {
   const lines = [
     '# HK Job Scrape Report',
     '',
     `- Generated at: ${new Date().toISOString()}`,
     `- Raw collected jobs: ${totalRaw}`,
-    `- After profile filtering: ${totalAfterFilter}`,
+    `- After profile filtering: ${totalPreFilter}`,
+    `- After Cantonese requirement screen: ${totalAfterLanguageScreen}`,
     `- After de-duplication: ${totalFinal}`,
     '',
     '## Source Intake',
@@ -608,12 +740,22 @@ function buildReport({ totalRaw, totalAfterFilter, totalFinal, seeds }) {
     `- Lever companies crawled: ${seeds.leverCompanies.length}`,
     `- Ashby orgs crawled: ${seeds.ashbyOrgs.length}`,
     '',
+    '## Detail Page Language Screening',
+    '',
+    `- Listing-level Cantonese rejections: ${detailStats.listingCantoneseRejected}`,
+    `- Detail pages attempted: ${detailStats.detailPagesAttempted}`,
+    `- Detail pages fetched: ${detailStats.detailPagesFetched}`,
+    `- Detail page fetch failures: ${detailStats.detailPagesFailed}`,
+    `- Detail-level Cantonese rejections: ${detailStats.detailCantoneseRejected}`,
+    `- Unverified language-screening rejections: ${detailStats.unverifiedLanguageRejected}`,
+    '',
     '## Filters Applied',
     '',
-    '- Role relevance: software, design, support, teaching/tutoring',
+    '- Role relevance: software/UI/UX/engineering support (tech-first)',
+    '- Excludes full-time teaching/tutoring tracks',
     '- Geography: Hong Kong or remote',
     '- Experience: entry-level friendly preferred',
-    '- Language: excludes explicit Mandarin/Cantonese-required roles',
+    '- Language: excludes explicit Cantonese-required roles from listing and detail pages',
     '- Compensation: excludes explicit sub-20k HKD monthly salary signal',
     '',
   ];
@@ -643,8 +785,13 @@ async function main() {
     ...arbeitnow,
   ];
 
-  const filtered = raw.filter(shouldKeepJob);
-  const unique = dedupeJobs(filtered).map(toPipelineShape);
+  const preFiltered = raw.filter(shouldKeepJob);
+  const preFilteredUnique = dedupeJobs(preFiltered);
+  const languageScreened = await screenJobsByDetailLanguage(preFilteredUnique);
+  const languageFiltered = languageScreened.jobs.filter(
+    (job) => !job.languageScreen?.cantoneseRequired && !job.languageScreen?.unverifiedLanguageCheck,
+  );
+  const unique = dedupeJobs(languageFiltered).map(toPipelineShape);
 
   unique.sort((a, b) => `${a.company} ${a.title}`.localeCompare(`${b.company} ${b.title}`));
 
@@ -653,9 +800,11 @@ async function main() {
     OUT_REPORT_PATH,
     buildReport({
       totalRaw: raw.length,
-      totalAfterFilter: filtered.length,
+      totalPreFilter: preFiltered.length,
+      totalAfterLanguageScreen: languageFiltered.length,
       totalFinal: unique.length,
       seeds,
+      detailStats: languageScreened.stats,
     }),
     'utf-8',
   );

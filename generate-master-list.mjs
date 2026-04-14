@@ -276,18 +276,38 @@ function buildSemanticKey(job) {
   return `${c}::${t}`;
 }
 
+function isTeachingOrTutoringRole(hay) {
+  return /(tutor|teaching assistant|teacher|instructor|lecturer|learning support|subject tutor)/.test(hay);
+}
+
+function isFullTimeTeachingRole(hay) {
+  return isTeachingOrTutoringRole(hay)
+    && /(full[ -]?time|permanent|school|academy|classroom|curriculum|lesson plan|secondary|primary)/.test(hay);
+}
+
+function isTechRelevantRole(hay) {
+  return /(software engineer|software developer|developer|full[ -]?stack|frontend|front[ -]?end|backend|back[ -]?end|analyst programmer|ui\/ux|ux designer|ui designer|product designer|graphic designer|web designer|it support|helpdesk|service desk|technical support|qa|quality assurance|test automation|embedded|firmware|cybersecurity|information security|devops|sre|cloud)/.test(hay);
+}
+
 function scoreJob(job) {
   const hay = `${job.company} ${job.title} ${job.url}`.toLowerCase();
   let score = 0;
 
-  // Fast-hire tracks for immediate income.
-  if (/(tutor|teaching assistant|teacher|instructor|learning support)/.test(hay)) score += 38;
-  if (/(it support|helpdesk|service desk|technical support|operations assistant|admin assistant|customer support)/.test(hay)) score += 32;
-  if (/(ui\/ux|ux designer|user experience|ui designer|product designer|graphic designer|web designer)/.test(hay)) score += 26;
-  if (/(software engineer|developer|full[ -]?stack|frontend|front[ -]?end|backend|back[ -]?end|analyst programmer)/.test(hay)) score += 22;
+  // Tech-first weighting for a computer-engineering profile.
+  if (/(software engineer|software developer|full[ -]?stack|frontend|front[ -]?end|backend|back[ -]?end|analyst programmer|embedded|firmware|devops|sre|cloud|cybersecurity|information security)/.test(hay)) score += 46;
+  if (/(ui\/ux|ux designer|user experience|ui designer|product designer|graphic designer|web designer)/.test(hay)) score += 40;
+  if (/(it support|helpdesk|service desk|technical support|operations assistant)/.test(hay)) score += 30;
+  if (/(qa|quality assurance|test automation)/.test(hay)) score += 28;
+
+  // Strongly deprioritize classroom teaching paths.
+  if (isFullTimeTeachingRole(hay)) score -= 120;
+  else if (isTeachingOrTutoringRole(hay)) score -= 70;
+
+  // Penalize non-tech roles to keep list focused.
+  if (!isTechRelevantRole(hay)) score -= 24;
 
   // CV stack signal.
-  if (/(react|typescript|node|python|c\+\+|embedded)/.test(hay)) score += 16;
+  if (/(react|typescript|node|python|c\+\+|java|go|rust|embedded)/.test(hay)) score += 18;
 
   // Highly prefer realistic junior/fresh grad roles.
   if (/(graduate|junior|entry level|associate|trainee|fresh|0-2 years|1-2 years)/.test(hay)) score += 35;
@@ -303,7 +323,7 @@ function scoreJob(job) {
   if (/(german|french|spanish|italian|arabic|mandarin|cantonese|japanese|korean|chinese speaking|native chinese)/.test(hay)) score -= 100;
 
   // Heavy penalty for senior roles (very low chance for a fresh grad)
-  if (/(senior|lead|principal|staff|director|manager|vp|vice president|head of)/.test(hay)) score -= 70;
+  if (/(senior|lead|principal|staff|director|manager|vp|vice president|head of)/.test(hay)) score -= 75;
 
   // Hard-to-land specialist roles are deprioritized for immediate employment.
   if (/(quant|hpc|principal engineer|architect|phd|postdoc|research scientist|10\+ years)/.test(hay)) score -= 25;
@@ -398,6 +418,10 @@ function bucketJob(job) {
     return 'ineligible';
   }
 
+  if (isFullTimeTeachingRole(hay)) {
+    return 'ineligible';
+  }
+
   const hk = hasHongKongSignal(hay, job.url);
   const remote = hasRemoteSignal(hay);
   const explicitNonHk = hasStrongNonHkSignal(hay, job.url);
@@ -420,8 +444,9 @@ function bucketJob(job) {
 function inferTrack(job) {
   const hay = `${job.company} ${job.title} ${job.url}`.toLowerCase();
 
-  if (/(tutor|teaching assistant|teacher|instructor|learning support)/.test(hay)) return 'Teaching/Tutoring';
+  if (isTeachingOrTutoringRole(hay)) return 'Teaching/Tutoring';
   if (/(it support|helpdesk|service desk|technical support|operations assistant|admin assistant|customer support)/.test(hay)) return 'IT Support/Operations';
+  if (/(qa|quality assurance|test automation|embedded|firmware|cybersecurity|information security|devops|sre|cloud)/.test(hay)) return 'Engineering Platforms';
   if (/(ui\/ux|ux designer|ui designer|product designer|graphic designer|web designer)/.test(hay)) return 'UI/UX Design';
   if (/(software engineer|developer|full[ -]?stack|frontend|back[ -]?end|backend|analyst programmer)/.test(hay)) return 'Software Engineering';
   return 'General';
@@ -513,7 +538,7 @@ function main() {
     '',
     `**Total Eligible Jobs:** ${eligible.length}`,
     '',
-    '*This list strictly contains Hong Kong and Remote roles, heavily weighted towards Junior/Graduate positions and your tech stack (React/TS/Node/Python/C++).*',
+    '*This list strictly contains Hong Kong and Remote roles, weighted toward Junior/Graduate software, UI/UX, and technical engineering tracks while deprioritizing full-time teaching posts.*',
     '',
     '---',
     '',
