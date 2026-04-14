@@ -59,47 +59,47 @@
       --elev-3: 0 6px 14px rgba(16, 24, 40, 0.14), 0 18px 36px rgba(16, 24, 40, 0.12);
     }
     body[data-theme="dark"] {
-      --md-bg: #02040a;
-      --md-on-bg: #e5e9f1;
-      --md-surface: #091224;
-      --md-surface-bright: #18243b;
-      --md-surface-container-low: #0d172a;
-      --md-surface-container: #111e34;
-      --md-surface-container-high: #16263f;
-      --md-surface-container-highest: #1d2f4a;
-      --md-on-surface: #e5e9f1;
-      --md-on-surface-variant: #b5c0d2;
-      --md-outline: #7f8ca1;
-      --md-outline-variant: #2a3a56;
-      --md-surface-tint: #8ecbff;
+      --md-bg: #000000;
+      --md-on-bg: #ffffff;
+      --md-surface: #0a0a0a;
+      --md-surface-bright: #1c1c1c;
+      --md-surface-container-low: #0f0f0f;
+      --md-surface-container: #141414;
+      --md-surface-container-high: #1a1a1a;
+      --md-surface-container-highest: #242424;
+      --md-on-surface: #ffffff;
+      --md-on-surface-variant: #c4c7c5;
+      --md-outline: #8e918f;
+      --md-outline-variant: #444746;
+      --md-surface-tint: #ffb4a8;
 
-      --md-primary: #8ecbff;
-      --md-on-primary: #003257;
-      --md-primary-container: #0a4675;
-      --md-on-primary-container: #d0e5ff;
+      --md-primary: #ff5449;
+      --md-on-primary: #3f0000;
+      --md-primary-container: #5f140e;
+      --md-on-primary-container: #ffdcd7;
 
-      --md-secondary: #b9c8ff;
-      --md-on-secondary: #1f3155;
-      --md-secondary-container: #2f4061;
-      --md-on-secondary-container: #dbe3ff;
+      --md-secondary: #ffb3b8;
+      --md-on-secondary: #561821;
+      --md-secondary-container: #742e37;
+      --md-on-secondary-container: #ffd9dd;
 
-      --md-tertiary: #d9b8ff;
-      --md-on-tertiary: #391c69;
-      --md-tertiary-container: #523985;
-      --md-on-tertiary-container: #f0dcff;
+      --md-tertiary: #52d7e0;
+      --md-on-tertiary: #00373b;
+      --md-tertiary-container: #004f55;
+      --md-on-tertiary-container: #6ff4fd;
 
-      --md-rank-container: #6cc3ff;
-      --md-on-rank-container: #001b30;
+      --md-rank-container: #543b17;
+      --md-on-rank-container: #ffddb3;
 
-      --md-success: #43d699;
-      --md-success-container: #08241a;
-      --md-on-success-container: #b8f4d8;
+      --md-success: #6dd58c;
+      --md-success-container: #00522f;
+      --md-on-success-container: #8bf2a6;
 
-      --md-focus-ring: #84caff;
+      --md-focus-ring: #ff5449;
 
-      --elev-1: 0 1px 2px rgba(0, 0, 0, 0.42), 0 6px 14px rgba(0, 0, 0, 0.38);
-      --elev-2: 0 4px 10px rgba(0, 0, 0, 0.5), 0 16px 30px rgba(0, 0, 0, 0.44);
-      --elev-3: 0 8px 18px rgba(0, 0, 0, 0.56), 0 28px 48px rgba(0, 0, 0, 0.48);
+      --elev-1: 0 1px 2px rgba(0, 0, 0, 0.7), 0 4px 10px rgba(0, 0, 0, 0.5);
+      --elev-2: 0 2px 8px rgba(0, 0, 0, 0.8), 0 10px 24px rgba(0, 0, 0, 0.6);
+      --elev-3: 0 6px 14px rgba(0, 0, 0, 0.9), 0 18px 36px rgba(0, 0, 0, 0.7);
     }
     * {
       box-sizing: border-box;
@@ -114,17 +114,11 @@
       color: var(--md-on-bg);
       min-height: 100vh;
       padding: 24px 16px 48px;
-      background:
-        radial-gradient(1100px 540px at 10% -8%, rgba(0, 95, 163, 0.14), transparent 56%),
-        radial-gradient(900px 430px at 98% -10%, rgba(109, 74, 162, 0.1), transparent 52%),
-        var(--md-bg);
+      background: var(--md-bg);
       transition: background-color 0.25s ease, color 0.25s ease;
     }
     body[data-theme="dark"] {
-      background:
-        radial-gradient(1200px 560px at 8% -10%, rgba(142, 203, 255, 0.18), transparent 58%),
-        radial-gradient(900px 460px at 98% -12%, rgba(217, 184, 255, 0.15), transparent 52%),
-        var(--md-bg);
+      background: var(--md-bg);
     }
     .container {
       width: min(1220px, 100%);
@@ -133,7 +127,7 @@
     .hero {
       border: 1px solid var(--md-outline-variant);
       border-radius: var(--radius-xl);
-      background: linear-gradient(164deg, var(--md-surface-bright), var(--md-surface-container-low));
+      background: var(--md-surface);
       padding: 32px clamp(20px, 3vw, 40px);
       margin-bottom: 24px;
       box-shadow: var(--elev-2);
@@ -149,16 +143,16 @@
       right: -120px;
       top: -170px;
       border-radius: 50%;
-      background: radial-gradient(circle at center, rgba(0, 95, 163, 0.2), transparent 68%);
+      background: var(--md-surface-tint);
       pointer-events: none;
     }
     body[data-theme="dark"] .hero {
       border-color: var(--md-outline-variant);
-      background: linear-gradient(160deg, var(--md-surface-container-high), var(--md-surface-container));
+      background: var(--md-surface-container-highest);
       box-shadow: var(--elev-2);
     }
     body[data-theme="dark"] .hero::after {
-      background: radial-gradient(circle at center, rgba(142, 203, 255, 0.24), transparent 70%);
+      background: var(--md-surface-tint);
     }
     h1 {
       margin: 0 0 8px 0;
@@ -407,7 +401,7 @@
       position: relative;
       border-radius: var(--radius-m);
       border: 1px solid var(--md-outline-variant);
-      background: linear-gradient(180deg, var(--md-surface-bright), var(--md-surface));
+      background: var(--md-surface-container-highest);
       padding: 18px;
       display: flex;
       flex-direction: column;
@@ -418,25 +412,25 @@
     }
     .job-card:hover {
       transform: translateY(-2px);
-      background: linear-gradient(180deg, var(--md-surface), var(--md-surface-container-low));
+      background: var(--md-surface-container-highest);
       box-shadow: var(--elev-2);
       border-color: var(--md-primary);
     }
     body[data-theme="dark"] .job-card {
-      background: linear-gradient(180deg, var(--md-surface-container-high), var(--md-surface-container));
+      background: var(--md-surface-container-highest);
       border-color: var(--md-outline-variant);
     }
     body[data-theme="dark"] .job-card:hover {
-      background: linear-gradient(180deg, var(--md-surface-container-highest), var(--md-surface-container-high));
+      background: var(--md-surface-container-highest);
       border-color: var(--md-primary);
       box-shadow: var(--elev-3);
     }
     .job-card.applied {
       border-color: var(--md-success);
-      background: linear-gradient(180deg, var(--md-success-container), var(--md-surface));
+      background: var(--md-surface-container-highest);
     }
     body[data-theme="dark"] .job-card.applied {
-      background: linear-gradient(180deg, var(--md-success-container), var(--md-surface-container));
+      background: var(--md-surface-container-highest);
       border-color: var(--md-success);
     }
     .job-card.applied::after {
